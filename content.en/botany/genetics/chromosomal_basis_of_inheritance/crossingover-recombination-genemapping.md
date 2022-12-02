@@ -4,13 +4,11 @@ date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 3
 ---
-
-
-### Crossing Over**
+### Crossing Over\*\*
 
 Crossing over is a biological process that produces new combination of genes by inter- changing the corresponding segments between non-sister chromatids of homologous pair of chromosomes. The term 'crossing over' was coined by **Morgan (1912)**. It takes place during pachytene stage of prophase I of meiosis. Usually crossing over occurs in germinal cells during gametogenesis. It is called meiotic or germinal crossing over. It has universal occurrence and has great significance. Rarely, crossing over occurs in somatic cells during mitosis. It is called somatic or mitotic crossing over.
 
-#### Mechanism of Crossing Over**
+#### Mechanism of Crossing Over\*\*
 
 Crossing over is a precise process that includes stages like synapsis, tetrad formation, cross over and terminalization.
 
@@ -28,12 +26,9 @@ Intimate pairing between two homologous chromosomes is initiated during zygotene
 
 **(iii) Cross Over** After tetrad formation, crossing over occurs in pachytene stage. The non-sister chromatids of homologous pair make a contact at one or more points. These points of contact between non- sister chromatids of homologous chromosomes are called **Chiasmata** (singular-Chiasma). At chiasma, cross-shaped or X-shaped structures are formed, where breaking and rejoining of two chromatids occur. This results in reciprocal exchange of equal and corresponding segments
 
-
-
 **(iv) Terminalisation**
 
 After crossing over, chiasma starts to move towards the terminal end of chromatids. This is known as **terminalisation.** As a result, complete separation of homologous chromosomes occurs. (Figure 3.10)
-
 
 {{< hint info >}}
 
@@ -49,19 +44,20 @@ Consider two hypothetical recessive autosomal genes a and b, where a heterozygot
 
 {{< /hint >}}
 
-#### Importance of Crossing Over**
+#### Importance of Crossing Over\*\*
 
 Crossing over occurs in all organisms like bacteria, yeast, fungi, higher plants and animals. Its importance is
 
-- Exchange of segments leads to new gene combinations which plays an important role in evolution.
-
-- Studies of crossing over reveal that genes are arranged linearly on the chromosomes.
-
-- Genetic maps are made based on the frequency of crossing over.
-
-- Crossing over helps to understand the nature and mechanism of gene action.
-
-- If a useful new combination is formed it can be used in plant breeding.
+*   Exchange of segments leads to new gene combinations which plays an important role in evolution.
+    
+*   Studies of crossing over reveal that genes are arranged linearly on the chromosomes.
+    
+*   Genetic maps are made based on the frequency of crossing over.
+    
+*   Crossing over helps to understand the nature and mechanism of gene action.
+    
+*   If a useful new combination is formed it can be used in plant breeding.
+    
 
 #### Recombination
 
@@ -79,13 +75,10 @@ Genes are present in a linear order along the chromosome. They are present in a 
 
 The unit of distance in a genetic map is called a **map unit** (m.u). One map unit is equivalent to one percent of crossing over (Figure 4. ). One map unit is also called a centimorgan (cM) in honour of **T.H. Morgan**. 100 centimorgan is equal to one Morgan (M). For example: A distance between A and B genes is estimated to be 3.5 map units. It is equal to 3.5 centimorgans or 3.5 % or 0.035 recombination frequency between the genes.
 
-
-
-
 **Uses of genetic mapping**
 
-- It is used to determine gene order, identify the locus of a gene and calculate the distances between genes.
-
-- They are useful in predicting results of dihybrid and trihybrid crosses.
-
-- It allows the geneticists to understand the overall genetic complexity of particular organism.
+*   It is used to determine gene order, identify the locus of a gene and calculate the distances between genes.
+    
+*   They are useful in predicting results of dihybrid and trihybrid crosses.
+    
+*   It allows the geneticists to understand the overall genetic complexity of particular organism.

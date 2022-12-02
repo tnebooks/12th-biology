@@ -4,12 +4,9 @@ date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 2
 ---
-
-
 The function of ecosystem include creation of energy creation, sharing of energy and cycling of materials between the living and nonliving components of an ecosystem.
 
 Before studying the productivity in any ecosystem, we should understand the essential role of sunlight used by producers of the first trophic level. The quantity of sunlight is directly proportional to the production of energy by plants.
-
 
 #### Photosynthetically Radiation (PAR) Active
 
@@ -21,27 +18,19 @@ PAR is generally expressed in millimoles / square meter / second by using silico
 
 At night PAR is zero and during midday in the summer, PAR often reaches 2000 – 3000 millimoles /square meter/second.
 
-
 {{< hint info >}}
 
 **Types of Carbon**
 
-**Green carbon** – carbon stored
-in the biosphere (by the process
-of photosynthesis).
+**Green carbon** – carbon stored in the biosphere (by the process of photosynthesis).
 
-**Grey carbon** – carbon stored in fossil fuel (coal,
-oil and biogas deposits in the lithosphere).
+**Grey carbon** – carbon stored in fossil fuel (coal, oil and biogas deposits in the lithosphere).
 
-**Blue carbon** – carbon stored in the atmosphere
-and oceans.
+**Blue carbon** – carbon stored in the atmosphere and oceans.
 
-**Brown carbon** – carbon stored in industrialized
-forests (wood used in making commercial
-articles)
+**Brown carbon** – carbon stored in industrialized forests (wood used in making commercial articles)
 
-**Black carbon** – carbon emitted from gas, diesel
-engine and coal fired power plants.
+**Black carbon** – carbon emitted from gas, diesel engine and coal fired power plants.
 
 {{< /hint >}}
 
@@ -49,11 +38,12 @@ engine and coal fired power plants.
 
 The rate of biomass production per unit area in a unit time is called productivity. It can be expressed in terms of gm /m 2 /year or Kcal/m 2 / year. It is classified as given bellow.
 
-1. Primary productivity
-
-2. Secondary productivity
-
-3. Community productivity
+1.  Primary productivity
+    
+2.  Secondary productivity
+    
+3.  Community productivity
+    
 
 **Primary productivity**:
 
@@ -70,6 +60,7 @@ NPP = GPP – Respiration
 NPP of whole biosphere is estimated to be about 170 billion tons (dry weight) per year. Out of which NPP of oceanic producers is only 55 billion tons per year in unit time.
 
 #### Secondary productivity
+
 The amount of energy stored in the tissues of heterotrophs or consumers is called **secondary** **productivity**.
 
 **a. Gross secondary productivity**
@@ -80,10 +71,9 @@ It is equivalent to the total amount of plant material is ingested by the herbiv
 
 Storage of energy or biomass by consumers per unit area per unit time, after respiratory loss is called **net secondary productivity**.
 
-#### 3. Community productivity
+#### 3\. Community productivity
 
 The rate of net synthesis of organic matter (biomass) by a group of plants per unit area per unit time is known as **community** **productivity**.
-
 
 **Factors affecting primary productivity**
 
@@ -93,23 +83,19 @@ Primary productivity depends upon the plant species of an area, their photosynth
 
 (Greek word ‘ trophic’ = to food or feeding)
 
- A trophic level refers to the position of an organism in the food chain. The number of trophic levels is equal to the number of steps in the food chain. The green plants (producers) occupying the first trophic level (T<sub>1</sub>) are called **producers**. The energy produced by the producers is utilized by the plant eaters (herbivores) they are called primary consumers and occupy the second trophic level (T<sub>2</sub>)
+A trophic level refers to the position of an organism in the food chain. The number of trophic levels is equal to the number of steps in the food chain. The green plants (producers) occupying the first trophic level (T1) are called **producers**. The energy produced by the producers is utilized by the plant eaters (herbivores) they are called primary consumers and occupy the second trophic level (T2)
 
 {{< figure "7.2-diagrammatic-representation-of-trophic-levels.png" "w-25 float-start">}}
 
- Figure 7.2:  Diagrammatic representation of trophic levels
+Figure 7.2: Diagrammatic representation of trophic levels
 
 {{< /figure >}}
 
-
-
-Herbivores are eaten by carnivores, which occupy the third trophic level (T<sub>3</sub>). They are also called **secondary consumers or primary carnivores**. Carnivores are eaten by the other carnivores, which occupy the fourth trophic level (T<sub>4</sub>). They are called the **tertiary consumers or secondary** **carnivores**. Some organisms which eat both plants and animals are called as **omnivores** (Crow). Such organisms may occupy more than one trophic level in the food chain.
+Herbivores are eaten by carnivores, which occupy the third trophic level (T3). They are also called **secondary consumers or primary carnivores**. Carnivores are eaten by the other carnivores, which occupy the fourth trophic level (T4). They are called the **tertiary consumers or secondary** **carnivores**. Some organisms which eat both plants and animals are called as **omnivores** (Crow). Such organisms may occupy more than one trophic level in the food chain.
 
 #### Energy flow
 
 The transfer of energy in an ecosystem between trophic levels can be termed as energy flow. It is the key function in an ecosystem. Part of the energy obtained from the sun by producers is transferred to consumers and decomposers through each trophic level, while some amount of energy is dissipated in the form of heat. Energy flow is always unidirectional in an ecosystem.
-
-
 
 {{< figure "7.3diagrammatic-representation-of-energy-flow.png" "w-25 float-start">}}
 
@@ -129,9 +115,9 @@ It states that energy can be transmitted from one system to another in various f
 
 In photosynthesis, the product of starch (chemical energy) is formed by the combination of reactants (chlorophyll, H 2 O, CO 2). The energy stored in starch is acquired from the external sources (light energy) and so there is no gain or loss in total energy. Here light energy is converted into chemical energy.
 
-6 CO<sub>2</sub> + 6H<sub>2</sub>O ------------------->C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>
+6 CO2 + 6H2O ------------------->C6H12O6 + 6O2
 
-Light Energy  -------------------> Chemical Energy
+Light Energy -------------------> Chemical Energy
 
 **ii. Second law of thermodynamics**
 
@@ -153,8 +139,7 @@ Figure 7.4 : Ten Percent Law
 
 The movement of energy from producers upto top carnivores is known as **food chain**, i.e., in any food chain, energy flows from producers to primary consumers, then from primary consumers to secondary consumers, and finally secondary consumers to tertiary consumers. Hence, it shows linear network links. Generally, there are two types of food chain, (1) Grazing food chain and (2) Detritus food chain.
 
-**1. Grazing food chain**
-Main source of energy for the grazing food chain is the **Sun**. It begins with the first link, producers (plants). The second link in the food chain is primary consumers (mouse) which get their food from producers. The third link in the food chain is secondary consumers (snake) which get their food from primary consumers. Fourth link in the food chain is tertiary consumers (eagle) which get their food from secondary consumers.
+**1\. Grazing food chain** Main source of energy for the grazing food chain is the **Sun**. It begins with the first link, producers (plants). The second link in the food chain is primary consumers (mouse) which get their food from producers. The third link in the food chain is secondary consumers (snake) which get their food from primary consumers. Fourth link in the food chain is tertiary consumers (eagle) which get their food from secondary consumers.
 
 {{< figure "7.5-diagrammatic-representation-of-grazing-food-chain.png" "w-25 float-start">}}
 
@@ -162,7 +147,7 @@ Figure 7.5 : Diagrammatic representation of Grazing food chain.
 
 {{< /figure >}}
 
-**2. Detritus food chain:**
+**2\. Detritus food chain:**
 
 This type of food chain begins with **dead organic** **matter** which is an important source of energy. A large amount of organic matter is derived from the dead plants, animals and their excreta. This type of food chain is present in all ecosystems.
 
@@ -189,11 +174,11 @@ Example: In a grazing food chain of a grass land, in the absence of a rabbit, a 
 Hence, this interlocking pattern of food chains is the food web and the species of an ecosystem may remain balanced to each other by some sort of natural check.
 
 **Significance of food web**
-- Food web is constructed to describe species interaction called direct interaction
-- It can be used to illustrate indirect interactions among different species
-- It can be used to study bottom-up or top- down control of community structure.
-- It can be used to reveal different patterns of energy transfer in terrestrial and aquatic ecosystems.
 
+*   Food web is constructed to describe species interaction called direct interaction
+*   It can be used to illustrate indirect interactions among different species
+*   It can be used to study bottom-up or top- down control of community structure.
+*   It can be used to reveal different patterns of energy transfer in terrestrial and aquatic ecosystems.
 
 #### Ecological pyramids
 
@@ -201,23 +186,19 @@ Graphic representation of the trophic structure and function at successive troph
 
 There are three types:
 
-(1) pyramid of number
-(2) pyramid of biomass (3) pyramid of energy.
+(1) pyramid of number (2) pyramid of biomass (3) pyramid of energy.
 
-**1. Pyramid of number**
+**1\. Pyramid of number**
 
 A graphical representation of the number of organisms present at each successive trophic level in an ecosystem is called **pyramids of number**. There are three different shapes of pyramids upright, spindle and inverted.
 
 There is a gradual decrease in the number of organisms in each trophic level from producers to primary consumers and then to secondary consumers, and finally to tertiary consumers. Therefore, pyramids of number in **grassland** and **pond** **ecosystem** are always **upright**.
 
-In a **forest** **ecosystem** the pyramid of number is somewhat different in shape, it is because the base (T<sub>1</sub>) of the pyramid occupies large sized trees (Producer) which are lesser in number. Herbivores (T<sub>2</sub>) (Fruit eating birds, elephant, deer) occupying second trophic level, are more in number than the producers. In final trophic level (T<sub>4</sub>), tertiary consumers (lion) are lesser in number than the secondary consumer (T<sub>3</sub>) (fox and snake). Therefore, the pyramid of number in forest ecosystem looks **spindle** **shaped**.
+In a **forest** **ecosystem** the pyramid of number is somewhat different in shape, it is because the base (T1) of the pyramid occupies large sized trees (Producer) which are lesser in number. Herbivores (T2) (Fruit eating birds, elephant, deer) occupying second trophic level, are more in number than the producers. In final trophic level (T4), tertiary consumers (lion) are lesser in number than the secondary consumer (T3) (fox and snake). Therefore, the pyramid of number in forest ecosystem looks **spindle** **shaped**.
 
 The pyramid of number in a **parasite** **ecosystem** is always **inverted**, because it starts with a single tree. Therefore there is gradual increase in the number of organisms in successive tropic levels from producer to tertiary consumers.
 
-
-
-**2 Pyramid of biomass**
-A graphical representation of the amount of organic material (biomass) present at each successive trophic level in an ecosystem is called **pyramid of biomass.**
+**2 Pyramid of biomass** A graphical representation of the amount of organic material (biomass) present at each successive trophic level in an ecosystem is called **pyramid of biomass.**
 
 In **grassland** and **forest ecosystems**, there is a gradual decrease in biomass of organisms at successive trophic levels from producers to top carnivores (Tertiary consumer). Therefore, these two ecosystems show pyramids as **upright** pyramids of biomass.
 
@@ -229,10 +210,7 @@ Figure 7.9 : Pyramids of Biomass ( dry weight per unit area) in different types 
 
 {{< /figure >}}
 
-**3. Pyramid of energy**
-A graphical representation of energy flow at each successive trophic level in an ecosystem is called **pyramid of energy**. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
-
-
+**3\. Pyramid of energy** A graphical representation of energy flow at each successive trophic level in an ecosystem is called **pyramid of energy**. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
 
 #### Decomposition:
 
@@ -246,14 +224,11 @@ The process of decomposition varies based on the nature of the organic compounds
 
 Decomposition is a step wise process of degradation mediated by enzymatic reactions. Detritus acts as a raw material for decomposition. It occurs in the following steps.
 
-
-
 **a. Fragmentation** -
 
 The breaking down of detritus into smaller particles by detritivores like bacteria, fungi and earth worm is known as **fragmentation**. These detritivores secrete certain substances to enhance the fragmentation process and increase the surface area of detritus particles.
 
-**b. Catabolism** - The decomposers produce
-some extracellular enzymes in their surroundings to break down complex organic and inorganic compounds in to simpler ones. This is called **catabolism**
+**b. Catabolism** - The decomposers produce some extracellular enzymes in their surroundings to break down complex organic and inorganic compounds in to simpler ones. This is called **catabolism**
 
 **c. Leaching or Eluviation** - The movement of decomposed, water soluble organic and inorganic compounds from the surface to the lower layer of soil or the carrying away of the same by water is called **leaching** or **eluviation**.
 
@@ -271,10 +246,10 @@ cycles)
 
 Exchange of nutrients between organisms and their environment is one of the essential aspects of an ecosystem. All organisms require nutrients for their growth, development, maintenance and reproduction. Circulation of nutrients within the ecosystem or biosphere is known as **biogeochemical** **cycles** and also called as ‘cycling of materials.’ There are two basic types,
 
-1. **Gaseous cycle** – It includes atmospheric
-   Oxygen, Carbon and Nitrogen cycles.
-
-2. **Sedimentary cycle** – It includes the cycles of Phosphorus, Sulphur and Calcium - Which are present as sediments of earth.Many of the cycles mentioned above are studied by you in previous classes. Therefore, in this chapter, only the carbon and phosphorous cycles are explained.
+1.  **Gaseous cycle** – It includes atmospheric Oxygen, Carbon and Nitrogen cycles.
+    
+2.  **Sedimentary cycle** – It includes the cycles of Phosphorus, Sulphur and Calcium - Which are present as sediments of earth.Many of the cycles mentioned above are studied by you in previous classes. Therefore, in this chapter, only the carbon and phosphorous cycles are explained.
+    
 
 #### Carbon cycle
 
@@ -313,7 +288,6 @@ Though there are many types of ecosystems as charted above. Only the pond ecosys
 #### Structure of Pond ecosystem
 
 It is a classical example for natural, aquatic, freshwater, lentic type of ecosystem. It helps us to understand the structure and function of an ecosystem. When rain water gathers in a shallow area, gradually over a period of time, different kinds of organisms (microbes, plants, animals) become part of this ecosystem. This pond ecosystem is a self sustaining and self regulatory fresh water ecosystem, which shows a complex interaction between the abiotic and biotic components in it.
-
 
 {{< figure "7.15-diagram-shows-structure-of-pond-ecosystem-with-abiotic-.png" "w-25 float-start">}}
 
@@ -355,10 +329,9 @@ The cycling of nutrients between abiotic and biotic components is evident in the
 
 {{< hint info >}}
 
-**Limnology** 
+**Limnology**
 
-It is the study of biological, chemical, physical and geological components of inland fresh water aquatic ecosystems (ponds, lakes, etc.). 
-**Oceanography** – It is the study of biological, chemical, physical and geological components of ocean.
+It is the study of biological, chemical, physical and geological components of inland fresh water aquatic ecosystems (ponds, lakes, etc.). **Oceanography** – It is the study of biological, chemical, physical and geological components of ocean.
 
 {{< /hint >}}
 
@@ -371,7 +344,6 @@ Figure 7.16: Diagrammatic sketch shows stratification of Pond ecosystem
 {{< /figure >}}
 
 Based on the factors like distance from the shore, penetration of light, depth of water, types of plants and animals, there may be three zones, littoral, limnetic and profundal. The littoral zone, which is closest to the shore with shallow water region, allows easy penetration of light. It is warm and occupied by rooted plant species. The limnetic zone refers the open water of the pond with an effective penetration of light and domination of planktons. The deeper region of a pond below the limnetic zone is called profundal zone with no effective light penetration and predominance of heterotrophs. The bottom zone of a pond is termed benthic and is occupied by a community of organisms called benthos (usually decomposers).The primary productivity through photosynthesis of littoral and limnetic zone is more due to greater penetration of light than the profundal zone
-
 
 #### Ecosystem services ( Benefits)
 
@@ -395,8 +367,6 @@ Mangrove Ecosystem Services
 
 Now, we all exploit the ecosystem more than that of our needs. The **Millennium** **Ecosystem** **Assessment** (**2005**) found that “over the past 50 years, humans have changed the ecosystem more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, medicine, timber, fiber and fuel.”
 
-
-
 The varieties of benefits obtained from the ecosystem are generally categorized into the following four types
 
 {{< figure "7.17-types-of-ecosystem-services.png" "w-25 float-start">}}
@@ -405,8 +375,7 @@ Figure 7.17: Types of Ecosystem services
 
 {{< /figure >}}
 
-Generally the following human activities
-disturb or re-engineer an ecosystem every day.
+Generally the following human activities disturb or re-engineer an ecosystem every day.
 
 • Habitat destruction
 
@@ -420,17 +389,15 @@ disturb or re-engineer an ecosystem every day.
 
 • Pollution of land, water and air
 
-• Run off pesticides, fertilizers and animal
-wastes
+• Run off pesticides, fertilizers and animal wastes
 
 {{< hint info >}}
 
-**Ecosystem resilience** 
+**Ecosystem resilience**
 
 Ecosystem is damaged by disturbances from fire, flood, predation, infection, drought, etc., removing a great amount of biomasss. However, ecosystem is endowed with the ability to resist the damage and recover quickly. This ability of ecosystem is called ecosystem resilience or ecosystem robustness.
 
 {{< /hint >}}
-
 
 #### How to protect the ecosystem?
 
@@ -438,24 +405,17 @@ It is a practice of protecting ecosystem at individual, organisational and gover
 
 **“If we fail to protect environment, we will fail to save posterity”**.
 
-Therefore, we have to practice the following
-in our day today life:
-- Buy and use only ecofriendly products and
-recycle them.
-- Grow more trees
-- Choose sustained farm products (vegetables, fruits, greens, etc.)
-- Reduce the use of natural resources.
-- Recycle the waste and reduce the amount
-of waste you produce.
-- Reduce consumption of water and
-electricity.
-- Reduce or eliminate the use of house-hold
-chemicals and pesticides.
-- Maintain your cars and vehicles properly.
-(In order to reduce carbon emission)
-- Create awareness and educate about
-ecosystem protection among your friends
-and family members.
+Therefore, we have to practice the following in our day today life:
+
+*   Buy and use only ecofriendly products and recycle them.
+*   Grow more trees
+*   Choose sustained farm products (vegetables, fruits, greens, etc.)
+*   Reduce the use of natural resources.
+*   Recycle the waste and reduce the amount of waste you produce.
+*   Reduce consumption of water and electricity.
+*   Reduce or eliminate the use of house-hold chemicals and pesticides.
+*   Maintain your cars and vehicles properly. (In order to reduce carbon emission)
+*   Create awareness and educate about ecosystem protection among your friends and family members.
 
 {{< figure "go-green.png" "w-25 float-start">}}
 
@@ -476,25 +436,23 @@ Ecosystem management emphasis on human role in judicious use of ecosystem and fo
 {{< /hint >}}
 
 **Strategy of ecosystem management**
-- It is used to maintain biodiversity of ecosystems.
--  It helps in indicating the damaged ecosystem (Some species indicate the health of the ecosystem: such species are called a flagship species).
-- It is used to recognize the inevitability of ecosystem change and plan accordingly.
-- It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
-- It is also helpful in identifying ecosystems which are in need of rehabilitation.
-- It involves collaborative management with government agencies, local population, communities and NGO’s.
-- It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
 
+*   It is used to maintain biodiversity of ecosystems.
+*   It helps in indicating the damaged ecosystem (Some species indicate the health of the ecosystem: such species are called a flagship species).
+*   It is used to recognize the inevitability of ecosystem change and plan accordingly.
+*   It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
+*   It is also helpful in identifying ecosystems which are in need of rehabilitation.
+*   It involves collaborative management with government agencies, local population, communities and NGO’s.
+*   It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
 
 **Urban ecosystem restoration model**
-- Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously. 
-- Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem. 
-- Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
 
+*   Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously.
+*   Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem.
+*   Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
 
 {{< figure "adayar-poonga.png" "w-25 float-start">}}
 
 **Adayar Poonga**
 
 {{< /figure >}}
-
-

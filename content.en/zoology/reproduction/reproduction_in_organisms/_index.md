@@ -4,9 +4,6 @@ date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 1
 ---
-
-
-
 {{< hint info >}}
 
 ➢ Learns the modes of asexual reproduction in organisms.
@@ -19,14 +16,4 @@ weight: 1
 
 {{< /hint >}}
 
-
-Living organisms show a life cycleinvolving birth, growth, development,
-maturation, reproduction and death. Reproduction is the fundamental feature of
-all living organisms. It is a biological process by which organisms produce their young
-ones. The young ones grow and mature to repeat the process. Thus reproduction results in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.
-
-
-
-
-
-
+Living organisms show a life cycleinvolving birth, growth, development, maturation, reproduction and death. Reproduction is the fundamental feature of all living organisms. It is a biological process by which organisms produce their young ones. The young ones grow and mature to repeat the process. Thus reproduction results in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.

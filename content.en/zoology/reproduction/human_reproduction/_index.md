@@ -4,9 +4,6 @@ date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 2
 ---
-
-
-
 {{< hint info >}}
 
     ➢ Creates an awareness towards a
@@ -32,22 +29,13 @@ weight: 2
     
     ➢ Understands the events in pregnancy
     and foetal development.
+    
+
 {{< /hint >}}
 
+Every organ system in the human body works continuously to maintain homeostasis for the survival of the individual. The human reproductive system is essential for the survival of the species. An individual may live a long healthy life without producing an offspring, but reproduction is inevitable for the existence of a species. The reproductive system has four main functions namely,
 
-Every organ system in the human
-body works continuously to maintain
-homeostasis for the survival of the individual.
-The human reproductive system is essential for
-the survival of the species. An individual may
-live a long healthy life without producing an
-offspring, but reproduction is inevitable for the
-existence of a species.
-The reproductive system has four
-main functions namely,
-
-• to produce the gametes namely
-sperms and ova
+• to produce the gametes namely sperms and ova
 
 • to transport and sustain these gametes
 
@@ -55,65 +43,24 @@ sperms and ova
 
 • to produce hormones
 
-The major reproductive events in human
-beings are as follows:
+The major reproductive events in human beings are as follows:
 
-• **Gametogenesis:** Formation of gametes by
-spermatogenesis and oogenesis.
+• **Gametogenesis:** Formation of gametes by spermatogenesis and oogenesis.
 
-• **Insemination:** Transfer of sperms by the
-male into the female genital tract.
+• **Insemination:** Transfer of sperms by the male into the female genital tract.
 
-• **Fertilization:** Fusion of male and
-female gametes to form zygote, called
-Fertilization.
+• **Fertilization:** Fusion of male and female gametes to form zygote, called Fertilization.
 
-• **Cleavage:** Rapid mitotic divisions of
-the zygote which convert the single celled  zygote into a multicellular structure
-called blastocyst.
+• **Cleavage:** Rapid mitotic divisions of the zygote which convert the single celled zygote into a multicellular structure called blastocyst.
 
-• **Implantation:** Attachment of blastocyst
-to the uterine wall.
+• **Implantation:** Attachment of blastocyst to the uterine wall.
 
-• **Placentation:** Formation of placenta
-which is the intimate connection between
-foetus and uterine wall of the mother for
-exchange of nutrients.
+• **Placentation:** Formation of placenta which is the intimate connection between foetus and uterine wall of the mother for exchange of nutrients.
 
-• **Gastrulation:** Process by which
-blastocyst is changed into a gastrula with
-three primary germ layers.
+• **Gastrulation:** Process by which blastocyst is changed into a gastrula with three primary germ layers.
 
-• **Organogenesis:** Formation of specific
-tissues, organs and organ systems from
-three germ layers.
+• **Organogenesis:** Formation of specific tissues, organs and organ systems from three germ layers.
 
-• **Parturition:** Expulsion of the foetus from
-the mother’s womb.
+• **Parturition:** Expulsion of the foetus from the mother’s womb.
 
-These functions are carried out by the
-primary and accessory reproductive organs.
-The primary reproductive organs namely
-the ovary and testis are responsible for
-producing the ova and sperms respectively.
-Hormones secreted by the pituitary gland and
-the gonads help in the development of the
-secondary sexual characteristics, maturation
-of the reproductive system and regulation
-of normal functioning of the reproductive
-system. The accessory organs help in
-transport and to sustain the gametes and to
-nurture the developing offspring.
-
-
-
-
-
-
-
-
-
-
-
-
-
+These functions are carried out by the primary and accessory reproductive organs. The primary reproductive organs namely the ovary and testis are responsible for producing the ova and sperms respectively. Hormones secreted by the pituitary gland and the gonads help in the development of the secondary sexual characteristics, maturation of the reproductive system and regulation of normal functioning of the reproductive system. The accessory organs help in transport and to sustain the gametes and to nurture the developing offspring.

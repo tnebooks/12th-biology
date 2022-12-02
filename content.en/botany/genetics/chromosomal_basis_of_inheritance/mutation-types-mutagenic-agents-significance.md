@@ -4,29 +4,16 @@ date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 5
 ---
-
-
 ### Mutation
 
 Genetic variation among individuals provides the raw material for the ultimate source of evolutionary changes. Mutation and recombination are the two major processes responsible for genetic variation. A sudden change in the genetic material of an organisms is called mutation. The term mutation was introduced by Hugo de Vries (1901) while he has studying on the plant, evening primrose (Oenothera lamarkiana) and proposed ‘Mutation theory’. There are two broad types of changes in genetic material. They are point mutation and chromosomal mutations. Mutational events that take place within individual genes are called gene mutations or point mutation, whereas the changes occur in structure and number of chromosomes is called chromosomal mutation. Agents which are responsible for mutation are called mutagens, that increase the rate of mutation. Mutations can occur either spontaneously or induced. The production of mutants through exposure of mutagens is called mutagenesis, and the organism is said to be mutagenized.
 
-
-
 #### Types of mutation
 
 Let us see the two general classes of gene mutation:
-- Mutations affecting single base or base pair of DNA are called point mutation
-- Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
 
-
-
-
-
-
-
-
-
-
+*   Mutations affecting single base or base pair of DNA are called point mutation
+*   Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
 
 **Point mutation**
 
@@ -50,8 +37,7 @@ Sharbati Sonora is a mutant variety of wheat, which is developed from Mexican va
 
 **Castor Aruna**
 
-Castor Aruna is mutant variety of castor which is developed by treatment of seeds with thermal neutrons in order to induce very early maturity (120 days instead of 270 days as original variety).
-**Chemical mutagens:**
+Castor Aruna is mutant variety of castor which is developed by treatment of seeds with thermal neutrons in order to induce very early maturity (120 days instead of 270 days as original variety). **Chemical mutagens:**
 
 Chemicals which induce mutation are called chemical mutagens. Some chemical mutagens are mustard gas, nitrous acid, ethyl and methyl methane sulphonate (EMS and MMS), ethyl urethane, magnous salt, formaldehyde, eosin and enthrosine. Example: Nitrous oxide alters the nitrogen bases of DNA and disturb the replication and transcription that leads to the formation of incomplete and defective polypeptide during translation.
 
@@ -71,15 +57,13 @@ The genome can also be modified on a larger scale by altering the chromosome str
 
 Each cell of living organisms possesses fixed number of chromosomes. It varies in different species. Even though some species of plants and animals are having identical number of chromosomes, they will not be similar in character. Hence the number of chromosomes will not differentiate the character of species from one another but the nature of hereditary material (gene) in chromosome that determines the character of species. Sometimes the chromosome number of somatic cells are changed due to addition or elimination of individual chromosome or basic set of chromosomes. This condition in known as numerical chromosomal aberration or ploidy. There are two types of ploidy.
 
-(i).	Ploidy involving individual chromosomes within a diploid set (Aneuploidy)
+(i). Ploidy involving individual chromosomes within a diploid set (Aneuploidy)
 
-(ii).	Ploidy involving entire sets of chromosomes (Euploidy) (Figure 3.20)
+(ii). Ploidy involving entire sets of chromosomes (Euploidy) (Figure 3.20)
 
 (i)Aneuploidy
 
 It is a condition in which diploid number is altered either by addition or deletion of one or more chromosomes. Organisms showing aneuploidy are known as aneuploids or heteroploids. They are of two types, Hyperploidy and Hypoploidy (Figure 3.21).
-
-
 
 **1.Hyperploidy**
 
@@ -99,18 +83,13 @@ Addition of three individual chromosome from different chromosomal pairs to norm
 
 **2.Hypoploidy**
 
-Loss of one or more chromosome from the
-diploid set in the cell is called **hypoploidy.** It
-can be divided into two types. They are
+Loss of one or more chromosome from the diploid set in the cell is called **hypoploidy.** It can be divided into two types. They are
 
 **(a) Monosomy**
 
 Loss of a single chromosome from the diploid set are called **monosomy(2n-1)**. However loss of two individual or three individual chromosomes are called **double monosomy** (2n-1-1) and **triple monosomy** (2n-1-1-1) respectively. Double monosomics are observed in maize.
 
-**(b) Nullisomy**
-Loss of a pair of homologous chromosomes or two pairs of homologous chromosomes from the diploid set are called **Nullisomy (2n-2)** and **double Nullisomy** (2n-2-2) respectively. Selfing of monosomic plants produce nullisomics. They are usually lethal.
-
-
+**(b) Nullisomy** Loss of a pair of homologous chromosomes or two pairs of homologous chromosomes from the diploid set are called **Nullisomy (2n-2)** and **double Nullisomy** (2n-2-2) respectively. Selfing of monosomic plants produce nullisomics. They are usually lethal.
 
 **(ii) Euploidy**
 
@@ -132,8 +111,6 @@ The organism which possesses more than two haploid sets of chromosomes derived f
 
 An organism which possesses two or more basic sets of chromosomes derived from two different species is called allopolyploidy. It can be developed by interspecific crosses and fertility is restored by chromosome doubling with colchicine treatment. Allopolyploids are formed between closely related species only. (Figure 3.22)
 
-
-
 **Example:1**
 
 **Raphanobrassica,G.D.Karpechenko (1927)** a Russian geneticist, crossed the radish (**Raphanus sativus**, 2n=18) and cabbage (**Brassica oleracea**, 2n=18) to produce F1 hybrid which was sterile. When he doubled the chromosome of F1 hybrid he got it fertile. He expected this plant to exhibit the root of radish and the leaves like cabbage, which would make the entire plant edible, but the case was vice versa, so he was greatly disappointed.
@@ -142,15 +119,9 @@ Example: 2 **Triticale**, the successful first man made cereal. Depending on the
 
 (i).wheat and rye.
 
-(ii).	Hexaploidy: Crosses between tetraploid wheat Triticum durum (macaroni wheat) and rye
+(ii). Hexaploidy: Crosses between tetraploid wheat Triticum durum (macaroni wheat) and rye
 
 (iii). Octoploidy: Crosses between hexaploid wheat T. aestivum (bread wheat) and rye Hexaploidy Triticale hybrid plants demonstrate characteristics of both macaroni wheat and rye. For example, they combine the high-protein content of wheat with rye’s high content of the amino acid lysine, which is low in wheat. It can be explained by chart below (Figure: 3.23).
-
-
-
-
-
-
 
 {{< hint info >}}
 
@@ -170,22 +141,23 @@ Solve this When two plants (A and B) belonging to the same genus but different s
 
 • Many angiosperms are allopolyploids and they play a role in the evolution of plants.
 
-**II	Structural changes in chromosome (Structural chromosomal aberration)**
+**II Structural changes in chromosome (Structural chromosomal aberration)**
 
 Structural variations caused by addition or deletion of a part of chromosome leading to rearrangement of genes is called **structural chromosomal aberration.** It occurs due to ionizing radiation or chemical compounds. On the basis of breaks and reunion in chromosomes, there are four types of aberrations. They are classified under two groups.
 
 **A. Changes in the number of the gene loci**
 
-1. Deletion or Deficiency
-
-2. Duplication or Repeat
+1.  Deletion or Deficiency
+    
+2.  Duplication or Repeat
+    
 
 **B. Changes in the arrangement of gene loci**
 
-3. Inversion
-
-4. Translocation
-
+3.  Inversion
+    
+4.  Translocation
+    
 
 **1.Deletion or Deficiency**
 
@@ -204,8 +176,6 @@ i. Simple translocation
 ii. Shift translocation
 
 iii. Reciprocal translocation
-
-
 
 **Summary**
 
