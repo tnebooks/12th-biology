@@ -14,19 +14,15 @@ Forests provide us many benefits including
 goods such as timber, paper, medicine and
 industrial products. The causes are
 
-
-* The conversion of forests into agricultural
+- The conversion of forests into agricultural
 plantation and livestock ranching is a major cause of deforestation.
+- Logging for timber
 
-* Logging for timber
-
-
-* Developmental activities like road
+- Developmental activities like road
 construction, electric tower lines and dams.
 
 
-
-* Over population, Industrialisation,
+- Over population, Industrialisation,
 urbanisation and increased global needs.
 
 
@@ -34,42 +30,34 @@ urbanisation and increased global needs.
 **Effects of deforestation**
 
 
-
-* Burning of forest wood release stored
+- Burning of forest wood release stored
 carbon, a negative impact just opposite of
 carbon sequestration.
 
-
-* Trees and plants bind the soil particles. The
+- Trees and plants bind the soil particles. The
 removal of forest cover increases soil erosion
 and decreases soil fertility. Deforestation in
 dry areas leads to the formation of deserts.
 
 
-
-* The amount of runoff water increases soil
+- The amount of runoff water increases soil
 erosion and also creates flash flooding, thus
 reducing moisture and humidity.
 
-
-* vThe alteration of local precipitation patterns
+- vThe alteration of local precipitation patterns
 leading to drought conditions in many
 regions. It triggers adverse climatic conditions
 and alters water cycle in ecosystem.
 
-
-* It decreases the bio-diversity significantly as
+- It decreases the bio-diversity significantly as
 their habitats are disturbed and disruption
 of natural cycles.
 
-
-*  Loss of livelihood for forest dwellers and
+-  Loss of livelihood for forest dwellers and
 rural people.
 
-
-* Increased global warming and account for
+- Increased global warming and account for
 one-third of total \\( (CO_2) \\)  emission.
 
-
-* Loss of life support resources, fuel, medicinal
+- Loss of life support resources, fuel, medicinal
 herbs and wild edible fruits.

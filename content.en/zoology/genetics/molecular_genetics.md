@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 5: Molecular Genetics'
+title: 'Molecular Genetics'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 2
@@ -46,29 +46,21 @@ weight: 2
 {{< hint info >}}
 
 
+- Identifies DNA as the genetic material.
 
-* Identifies DNA as the genetic material.
+- Understands the organization of prokaryotic and eukaryotic genome.
 
+- Learns to differentiate the nucleotides of DNA and RNA.
 
-* Understands the organization of prokaryotic and eukaryotic genome.
+- Understands gene expression - Replication, Transcription and Translation.
 
+- Learns about codons and the salient features of genetic code.
 
-* Learns to differentiate the nucleotides of DNA and RNA.
+- Understands the gene regulation through Lac operon model.
 
+- Realizes the importance of Human Genome Project.
 
-* Understands gene expression - Replication, Transcription and Translation.
-
-
-* Learns about codons and the salient features of genetic code.
-
-
-* Understands the gene regulation through Lac operon model.
-
-
-* Realizes the importance of Human Genome Project.
-
-
-* Illustrates the applications of DNA finger printing technique.
+- Illustrates the applications of DNA finger printing technique.
 
 {{< /hint >}}
 
@@ -129,28 +121,22 @@ occupy a definite locus in the chromosome
 and are responsible for the expression of
 specific phenotypic character. They show the
 following properties:
-
-* Number of genes in each organism is
+- Number of genes in each organism is
 more than the number of chromosomes;
 hence several genes are located on the
 same chromosome.
 
-
-* The genes are arranged in a single linear
+- The genes are arranged in a single linear
 order like beads on a string.
-
-* Each gene occupies a specific position
+- Each gene occupies a specific position
 called locus.
 
-
-* Genes may exist in several alternate forms
+- Genes may exist in several alternate forms
 called alleles.
-
-* Genes may undergo sudden change
+- Genes may undergo sudden change
 in positions and composition called
 mutations.
-
-* Genes are capable of self-duplication
+- Genes are capable of self-duplication
 producing their own copies.
 
 {{< hint info >}}
@@ -466,15 +452,13 @@ viruses like Tobacco mosaic virus (TMV),
 bacteriophage θB, RNA acts as the genetic
 material. A molecule that can act as a genetic
 material should have the following properties:
-
-*  Self Replication: It should be able to
+-  Self Replication: It should be able to
 replicate. According to the rule of base
 pairing and complementarity, both nucleic
 acids (DNA and RNA) have the ability to
 direct duplications. Proteins fail to fulfill
 this criteria
-
-* Stability: It should be stable structurally and
+- Stability: It should be stable structurally and
 chemically. The genetic material should be
 stable enough not to change with different
 stages of life cycle, age or with change in
@@ -499,8 +483,7 @@ of thymine instead of uracil in
 DNA confers additional stability
 to DNA.
 
-
-*  **Information storage:** It should be
+-  **Information storage:** It should be
 able to express itself in the form
 of **‘Mendelian characters’.** RNA
 can directly code for protein
@@ -513,8 +496,7 @@ DNA being more stable stores
 the genetic information and RNA
 transfers the genetic information.
 
-
-* **Variation through mutation:**
+- **Variation through mutation:**
 
  It should be able to mutate. Both
 DNA and RNA are able to mutate.
@@ -1077,14 +1059,12 @@ for genetic code was prepared **(table 5.1)**.
 
 The salient features of genetic code are as
 follows:
-
-* The genetic codon is a triplet code and
+- The genetic codon is a triplet code and
 61 codons code for amino acids and
 3 codons do not code for any amino acid
 and function as stop codon (Termination).
 
-
-* The genetic code is universal. It means
+- The genetic code is universal. It means
 that all known living systems use nucleic
 acids and the same three base codons
 (triplet codon) direct the synthesis of protein
@@ -1094,39 +1074,32 @@ cells of all organisms. Some exceptions are
 reported in prokaryotic, mitochondrial and
 chloroplast genomes. However similarities
 are more common than differences.
-
-* A non-overlapping codon means that the
+- A non-overlapping codon means that the
 same letter is not used for two different
 codons. For instance, the nucleotide
 sequence GUU GUC represents only two
 codons.
 
-
-*  It is comma less, which means that the
+-  It is comma less, which means that the
 message would be read directly from one
 end to the other i.e., no punctuation are
 needed between two codes.
 
-
-* A degenerate code means that more than
+- A degenerate code means that more than
 one triplet codon could code for a specific
 amino acid. For example, codons GUU,
 GUC, GUA and GUG code for valine.
 
-
-*  Non-ambiguous code means that one
+-  Non-ambiguous code means that one
 codon will code for one amino acid.
 
-
-*  The code is always read in a fixed direction
+-  The code is always read in a fixed direction
 i.e. from 5'→3' direction called polarity.
 
-
-*  AUG has dual functions. It acts as a
+-  AUG has dual functions. It acts as a
 initiator codon and also codes for the
 amino acid methionine.
-
-* UAA, UAG and UGA) codons are
+- UAA, UAG and UGA) codons are
 designated as termination (stop) codons
 and also are known as “non-sense” codons.
 
@@ -1609,22 +1582,16 @@ called bioinformatics.
 #### Goals and methodologies of Human Genome Project  
 The main goals of Human Genome Project
 are as follows
-
-* Identify all the genes (approximately 30000)
+- Identify all the genes (approximately 30000)
 in human DNA.
-
-* Determine the sequence of the three billion
+- Determine the sequence of the three billion
 chemical base pairs that makeup the human
 DNA.
-
-* To store this information in databases.
-
-* Improve tools for data analysis. 
-
-*  Transfer related technologies to other
+- To store this information in databases.
+- Improve tools for data analysis. 
+-  Transfer related technologies to other
 sectors, such as industries.
-
-* Address the ethical, legal and social issues
+- Address the ethical, legal and social issues
 (ELSI) that may arise from the project.
 
 The methodologies of the Human Genome
@@ -1663,43 +1630,33 @@ super computers, which has replaced the
 traditional sequencing methods.
 
 #### Salient features of Human Genome Project:
-
-* The human genome contains 3 billion
+- The human genome contains 3 billion
 nucleotide bases.
-
-* An average gene consists of 3000 bases,
+- An average gene consists of 3000 bases,
 the largest known human gene being
 dystrophin with 2.4 million bases.
-
-* Genes are distributed over
+- Genes are distributed over
 24 chromosomes. Chromosome 19 has the
 highest gene density. Chromosome 13 and
 Y chromosome have lowest gene densities.
-
-* The chromosomal organization of human
+- The chromosomal organization of human
 genes shows diversity.
-
-* There may be 35000-40000 genes in the
+- There may be 35000-40000 genes in the
 genome and almost 99.9 nucleotide bases
 are exactly the same in all people.
-
-* Functions for over 50 percent of the
+- Functions for over 50 percent of the
 discovered genes are unknown.
-
-* Less than 2 percent of the genome codes
+- Less than 2 percent of the genome codes
 for proteins.
-
-* Repeated sequences make up very large
+- Repeated sequences make up very large
 portion of the human genome. Repetitive
 sequences have no direct coding functions
 but they shed light on chromosome
 structure, dynamics and evolution
 (genetic diversity).
-
-* Chromosome 1 has 2968 genes whereas
+- Chromosome 1 has 2968 genes whereas
 chromosome ’Y’ has 231 genes.
-
-* Scientists have identified about
+- Scientists have identified about
 1.4 million locations where single
 base DNA differences **(SNPs – Single**
 **nucleotidepolymorphism – pronounce as**
@@ -1727,18 +1684,15 @@ remediation. A new era of molecular medicine,
 characterized by looking into the most
 fundamental causes of disease than treating the
 symptoms will be an important advantage.
-
-* Once genetic sequence becomes easier
+- Once genetic sequence becomes easier
 to determine, some people may attempt
 to use this information for profit or for
 political power.
-
-* Insurance companies may refuse to insure
+- Insurance companies may refuse to insure
 people at ‘genetic risk’ and this would save
 the companies the expense of future medical
 bills incurred by ‘less than perfect’ people.
-
-* Another fear is that attempts are being
+- Another fear is that attempts are being
 made to “breed out” certain genes of
 people from the human population in
 order to create a ‘perfect race’.
@@ -1897,17 +1851,14 @@ identification of a person involved in
 criminal activities, for settling paternity
 or maternity disputes, and in determining
 relationships for immigration purposes.
-
-* **Pedigree analysis –** inheritance pattern of
+- **Pedigree analysis –** inheritance pattern of
 genes through generations and for detecting
 inherited diseases.
-
-* **Conservation of wild life –** protection of
+- **Conservation of wild life –** protection of
 endangered species. By maintaining DNA
 records for identification of tissues of the
 dead endangered organisms.
-
-* **Anthropological studies–**  It is useful in
+- **Anthropological studies–**  It is useful in
 determining the origin and migration of
 human populations and genetic diversities.
 

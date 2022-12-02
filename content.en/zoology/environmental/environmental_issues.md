@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 12: Environmental Issues'
+title: 'Environmental Issues'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 3
@@ -38,24 +38,18 @@ weight: 3
 {{< hint info >}}
 
 
-
-* Gain knowledge about our environment and its
+- Gain knowledge about our environment and its
 importance.
-
-* Get to know about the effects and after effects of
+- Get to know about the effects and after effects of
 human activities on climate and ecosystem.
-
-* Know about eco-friendly practices for pollution
+- Know about eco-friendly practices for pollution
 mitigation.
-
-* Acquire insights into solutions to
+- Acquire insights into solutions to
 environmental problems.
-
-*  Understand the need for peoples’
+-  Understand the need for peoples’
 participation in environmental
 protection.
-
-* Understand the importance of
+- Understand the importance of
 clean environment.
 
 
@@ -153,10 +147,8 @@ and time, its effects can be far reaching and
 catastrophic.
 
 Air pollutants can be
-
-* discharge of dusts or particulate matter
-(PM: 2.5-10 μm)
-* discharge of gases (SO<sup>2</sup>, NO<sup>2</sup>, CO, CO<sup>2</sup>)
+- discharge of dusts or particulate matter
+(PM: 2.5-10 μm)- discharge of gases (SO<sup>2</sup>, NO<sup>2</sup>, CO, CO<sup>2</sup>)
 
 Carbon monoxide (CO) is produced mainly
 due to incomplete combustion of fossil fuels.
@@ -188,54 +180,43 @@ sources of particulate matter pollution.
 
 #### Sources 
 
-The main sources of air pollution are:
-* **• Transport sources (Fig12.1)** – cars, buses,
+The main sources of air pollution are:- **• Transport sources (Fig12.1)** – cars, buses,
 airplanes, trucks, trains
-
-* **Stationary sources** – power plants,
+- **Stationary sources** – power plants,
 incinerators, oil refineries, industrial
 facilities, and factories
-
-* **Area sources**– agricultural - wood /
+- **Area sources**– agricultural - wood /
 stubble burning, fireplaces
-
-* **Natural sources** – wind-blown dust,
+- **Natural sources** – wind-blown dust,
 wildfires, volcanoes.
 
 
 #### Effects of Air Pollution 
-
-* Affects all organisms as they depend on the
+- Affects all organisms as they depend on the
 atmosphere for respiration.
-
-* Causes irritation in the throat, nose, lungs
+- Causes irritation in the throat, nose, lungs
 and eyes. It causes breathing problems and
 aggravates existing health conditions such
 as emphysema and asthma.
-
-*  Contaminated air reduces the body’s
+-  Contaminated air reduces the body’s
 defense mechanism and decreases the
 body’s capacity to fight other infections
 in the respiratory system.
-
-* Frequent exposure to polluted air increases
+- Frequent exposure to polluted air increases
 the risk of cardiovascular diseases.
 Breathing air that is filled with fine
 particulate matter can induce hardening of
 the arteries, triggering cardiac arrhythmia
 or even a heart attack.
-
-* People who exercise outdoors can
+- People who exercise outdoors can
 sometimes be susceptible to adverse effects
 of air pollution because it involves deeper
 and faster breathing. Hence it is advisable to
 walk or jog in the mornings in places with
 ample tree cover.
-
-* Gas leaks can be lethal or affect the quality
+- Gas leaks can be lethal or affect the quality
 of air in the affected area.
-
-* CO in the atmosphere interferes with O2
+- CO in the atmosphere interferes with O2
 transport since haemoglopin has greater
 affinity for carbon monoxide. At low
 concentration it causes headache and
@@ -303,23 +284,17 @@ and induces corrosion.
 
 Certain measures help to remove pollutants,
 reduce their presence or prevent their entry into
-the atmosphere.
-* Trees are the best remedy for urban
+the atmosphere.- Trees are the best remedy for urban
 particulate and gaseous pollution
-
-* Forests act as carbon sinks and lungs of
+- Forests act as carbon sinks and lungs of
 the planet
-
-* Catalytic converters in vehicles help to
+- Catalytic converters in vehicles help to
 reduce polluting gases drastically
-
-* Diesel exhaust filters in automobiles cuts
+- Diesel exhaust filters in automobiles cuts
 particulates
-
-* Electrostatic precipitators reduce release
+- Electrostatic precipitators reduce release
 of industrial pollutants
-
-* Cost effective air pollution treatment
+- Cost effective air pollution treatment
 systems like indoor plants and high
 performance biofilters can improve
 indoor air quality
@@ -335,36 +310,28 @@ marble has decolorized to yellow.
 {{< /hint >}}
 
 #### Legal Protection
-
-* The Air (Prevention and Control of
+- The Air (Prevention and Control of
 Pollution) Act was enacted in 1981 and
 amended in 1987 for the prevention,
 control and abatement of Air pollution in
 India.
-
-* Traffic Emissions Standards: The
+- Traffic Emissions Standards: The
 Government has decided to enforce Bharat
 Stage VI norms from 2020.
-
-*  The Green Bench and the National Green
+-  The Green Bench and the National Green
 Tribunal (NGT) give judicial safeguard to
 environmental protection.
 
 Steps taken by the Central and the State
 governments in India:
-
-* Road traffic rationing, encourage public
+- Road traffic rationing, encourage public
 transport, carpooling
-
-* Increase green cover alongside roads
+- Increase green cover alongside roads
 (planting avenue trees)
-
-* Promoting Swachh Bharat Abhiyan
-
-* Enactment and Enforcement of stricter
+- Promoting Swachh Bharat Abhiyan
+- Enactment and Enforcement of stricter
 environmental laws
-
-* Maintenance of air standards by proper
+- Maintenance of air standards by proper
 enforcement and monitoring
 
 {{< hint info >}}
@@ -388,14 +355,10 @@ tree /year = ₹ 23,72,50,000
 
 {{< /hint >}}
 
-
-* Reducing carbon emissions
-
-* Encourage use of renewable energy
-
-* Limiting the sale of firecrackers and
-developing eco-friendly crackers
-* Make Environmental Impact Assessment
+- Reducing carbon emissions
+- Encourage use of renewable energy
+- Limiting the sale of firecrackers and
+developing eco-friendly crackers- Make Environmental Impact Assessment
 mandatory
 
 Air Quality Index (AQI) is a number used
@@ -598,21 +561,16 @@ treating the diverted sewage.
 Construction of low cost sanitation toilets
 to prevent open defecation on river banks.
 Prevention
-
-*  Regulate or control of pollutant(s)
+-  Regulate or control of pollutant(s)
 discharge at the point of generation.
-
-*  Wastewater can be pretreated by scientific
+-  Wastewater can be pretreated by scientific
 methods before discharge to municipal
 treatment sources.
-
-*  Setting up of Sewage Treatment Plants
+-  Setting up of Sewage Treatment Plants
 (STP) and Effluent Treatment Plants (ETP).
-
-*  Regulate or restrict the use of synthetic
+-  Regulate or restrict the use of synthetic
 fertilisers and pesticides.
-
-*  Public awareness and peoples’ involvement
+-  Public awareness and peoples’ involvement
 is essential.
 
 {{< hint warn >}}
@@ -664,48 +622,38 @@ human well-being. This is applicable for all
 living organisms.
 
 #### <u>12.4.2 Effect of Noise Pollution  
-
-* According to the USEPA (United States
+- According to the USEPA (United States
 Environmental Protection Agency) there
 are direct links between noise and health.
 Heart disease, high blood pressure, stress
 related illness, sleep disruption, hearing
 loss (deafness), and productivity loss are
 the problems related to noise pollution.
-
-* Increased stress and tension, nervousness,
+- Increased stress and tension, nervousness,
 irritability, anxiety, depression and panic
 attacks.
-
-* Peptic ulcer, severe head ache,
+- Peptic ulcer, severe head ache,
 memory loss.
-
-* Marine animals are affected by noise
+- Marine animals are affected by noise
 pollution from offshore activities and port
 activities.
-
-* Fire crackers frighten animals. Birds are
+- Fire crackers frighten animals. Birds are
 often affected by increased air traffic.
 
 #### Control 
-
-* Planting trees in and around noise sources
+- Planting trees in and around noise sources
 is an effective solution for noise pollution
 as plants are known to absorb noise and
 bring down sound levels.
-
-* Regular servicing and tuning of
+- Regular servicing and tuning of
 automobile engines can effectively reduce
 noise pollution by vehicles and machinery.
-
-* Workers should be provided with ear plugs
+- Workers should be provided with ear plugs
 and earmuffs at work sites that generate
 high noise levels.
-
-* Lubrication of machinery and regular
+- Lubrication of machinery and regular
 servicing minimizes noise levels.
-
-* Regulations should be imposed to restrict
+- Regulations should be imposed to restrict
 the usage of loudspeakers in crowded
 areas and public places.
 
@@ -732,38 +680,27 @@ agrochemicals or agrichemicals.
 
 Overuse of agrochemicals have been observed
 to generate residues that cause nutrient
-imbalance. In addition,
-* May kill beneficial bacteria and soil
+imbalance. In addition,- May kill beneficial bacteria and soil
 organisms.
-
-* Can cause eutrophication in water bodies.
-
-* Affect aquatic animals and their productivity.
-
-* Pesticide containing water, even in trace
+- Can cause eutrophication in water bodies.
+- Affect aquatic animals and their productivity.
+- Pesticide containing water, even in trace
 quantities is unfit for human consumption.
-
-* Particles (aerosols) and residues of these
+- Particles (aerosols) and residues of these
 chemicals cause air pollution.
-
-* Inhalation of contaminated air can cause
+- Inhalation of contaminated air can cause
 respiratory problems.
 
 
-
-* Consumption can lead to poisoning, side
+- Consumption can lead to poisoning, side
 effects and after effects.
-
-* Chemicals can cause skin rashes and
+- Chemicals can cause skin rashes and
 irritation of eyes.
-
-* Many of these chemicals are reported to be
+- Many of these chemicals are reported to be
 carcinogenic.
-
-* They can trigger hormonal disorders and
+- They can trigger hormonal disorders and
 neurotoxicity.
-
-* Beneficial insects and animals can be
+- Beneficial insects and animals can be
 affected.
 
 ### <u>12.6 Biomagnification  
@@ -1148,12 +1085,10 @@ companies are major contributors to plastic
 waste generation. Plastic waste constitutes a
 major part of municipal solid waste.
 
-
-* Remedies: ‘4R’- Refuse, Reduce, Reuse
+- Remedies: ‘4R’- Refuse, Reduce, Reuse
 and Recycle mantra is the best available
 remedy for plastic waste pollution.
-
-* Tamil Nadu State government successfully
+- Tamil Nadu State government successfully
 implemented the ban on single use
 plastics from 1st January 2019.
 

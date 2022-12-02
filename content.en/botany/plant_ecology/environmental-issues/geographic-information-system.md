@@ -23,38 +23,28 @@ Agricultural and Marine ecosystem.
 
 **Importance of GIS**
 
-
-* Environmental impact
+- Environmental impact
 assessment
 
 
-
-* Disaster management
-
-*  Zoning of landslide
+- Disaster management
+-  Zoning of landslide
 hazards.
 
+- Determination of land cover and land use
 
-* Determination of land cover and land use
+- Estimation of flood damage
 
+- Management of natural resources
 
-* Estimation of flood damage
+- Soil mapping
 
+- Wetland mapping
 
-* Management of natural resources
-
-
-* Soil mapping
-
-
-* Wetland mapping
-
-
-* Irrigation management and identification of
+- Irrigation management and identification of
 volcanic hazard
 
-
-* Vegetation studies and mapping of
+- Vegetation studies and mapping of
 threatened and endemic species.
 
 
@@ -73,20 +63,16 @@ medicinal plants and threatened plants.
 
 **Specific uses**
 
-
-* Helps predicting favourable climate, for the
+- Helps predicting favourable climate, for the
 study of spreading of disease and controlling it.
 
-
-* Mapping of forest fire and species
+- Mapping of forest fire and species
 distribution.
-
-* Tracking the patterns of urban area
+- Tracking the patterns of urban area
 development and the changes in Farmland
 or forests over several years
 
-
-* Mapping ocean bottom and its resources
+- Mapping ocean bottom and its resources
 
 
 

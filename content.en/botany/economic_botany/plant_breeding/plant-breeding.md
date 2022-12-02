@@ -24,22 +24,17 @@ crop varieties.
 
 
 #### Objectives of Plant Breeding
-
-*  To increase yield, vigour and fertility of the crop.
-
-* To increase tolerance to environmental
+-  To increase yield, vigour and fertility of the crop.
+- To increase tolerance to environmental
 condition, salinity, temperature
 and drought.
-
-* To prevent the premature falling of buds,
+- To prevent the premature falling of buds,
 fruits etc.
 
 To improve synchronous maturity.
-
-* To develop resistance to
+- To develop resistance to
 pathogens and pests.
-
-* To develop
+- To develop
 photosensitive and
 thermos-sensitive
 varieties.

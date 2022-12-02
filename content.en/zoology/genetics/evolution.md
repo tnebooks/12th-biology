@@ -1,58 +1,23 @@
 ---
-title: 'Chapter 6: Evolution'
+title: 'Evolution'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 3
----                               {{< hint info >}}
-                                   {{< /hint >}}
-
-
-
-
-{{< hint warn >}}
-
-##  Chapter Outline  
-
-6.1 Origin of life - Evolution of life forms
-
-6.2 Geological time scale
-
-6.3 Biological evolution
-
-6.4 Evidences for biological evolution
-
-6.5 Theories of biological evolution
-
-6.6 Mechanism of evolution
-
-6.7 Hardy Weinberg principle
-
-6.8 Origin and evolution of man
-
-
-{{< /hint >}}
-
+---
 
 {{< hint info >}}
 
-
-
-*  Understands the evolution of life on earth.
-
-* Gains knowledge on theories of evolution.
-
-*  Interprets evidences (anatomical,
+-  Understands the evolution of life on earth.
+- Gains knowledge on theories of evolution.
+-  Interprets evidences (anatomical,
 embryological and
 geological) of evolution.
-
-*  Learns the principles of
+-  Learns the principles of
 biological evolution.
-
-* Understands the
+- Understands the
 importance of gene frequencies in a
 population.
-
-* Studies the geological time scale.
+- Studies the geological time scale.
 
 {{< /hint >}}
 
@@ -675,16 +640,11 @@ adapted to the changed environment.
 ## Objections to Darwinism
 
 Some objections raised against Darwinism
-were –
-*  Darwin failed to explain the mechanism
-of variation.
-*  Darwinism explains the survival of the
-fittest but not the arrival of the fittest.
-*  He focused on small fluctuating variations
-that are mostly non-heritable.
-*  He did not distinguish between somatic
-and germinal variations.
-* He could not explain the occurrence of
+were –-  Darwin failed to explain the mechanism
+of variation.-  Darwinism explains the survival of the
+fittest but not the arrival of the fittest.-  He focused on small fluctuating variations
+that are mostly non-heritable.-  He did not distinguish between somatic
+and germinal variations.- He could not explain the occurrence of
 vestigial organs, over specialization of
 some organs like large tusks in extinct
 mammoths, oversized antlers in the
@@ -730,14 +690,10 @@ are due to Mutation and called saltation
 
 {{< /hint >}}
 
-## Salient features of Mutation Theory
-* Mutations or discontinuous variation are
-transmitted to other generations.
-* In naturally breeding populations, mutations
-occur from time to time.
-* There are no intermediate forms, as they are
-fully fledged.
-* They are strictly subjected to natural
+## Salient features of Mutation Theory- Mutations or discontinuous variation are
+transmitted to other generations.- In naturally breeding populations, mutations
+occur from time to time.- There are no intermediate forms, as they are
+fully fledged.- They are strictly subjected to natural
 selection.
 
 #### Modern synthetic theory

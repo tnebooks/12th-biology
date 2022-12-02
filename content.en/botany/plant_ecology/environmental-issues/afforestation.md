@@ -12,20 +12,7 @@ Afforestation is planting of trees where there was no previous tree coverage and
 
 #### Afforestation Objective
 
-
-* To increase forest cover, planting more trees, increases\\( (O_2) \\) production and air quality.
-* Rehabilitation of degraded forests to increase carbon fixation and reducing \\( (CO_2) \\) from atmosphere.
-* Raising bamboo plantations.
-* Mixed plantations of minor forest produce and medicinal plants.
-* Regeneration of indigenous herbs / shrubs.
-* Awareness creation, monitoring and evaluation.
-* To increase the level and availability of water table or ground water and also to reduce nitrogen leaching in soil and nitrogen contamination of drinking water, thus making it pure not polluted with nitrogen.
-* Nature aided artificial regeneration.
+- To increase forest cover, planting more trees, increases\\( (O_2) \\) production and air quality.- Rehabilitation of degraded forests to increase carbon fixation and reducing \\( (CO_2) \\) from atmosphere.- Raising bamboo plantations.- Mixed plantations of minor forest produce and medicinal plants.- Regeneration of indigenous herbs / shrubs.- Awareness creation, monitoring and evaluation.- To increase the level and availability of water table or ground water and also to reduce nitrogen leaching in soil and nitrogen contamination of drinking water, thus making it pure not polluted with nitrogen.- Nature aided artificial regeneration.
 
 
-#### Achievements
-* Degraded forests were restored
-* Community assets like overhead tanks bore-wells, hand pumps, community halls, libraries, etc were 
-* Environmental and ecological stability was maintained.
-* Conserved bio-diversity, wildlife and genetic resources.
-* Involvement of community especially women in forest management.
+#### Achievements- Degraded forests were restored- Community assets like overhead tanks bore-wells, hand pumps, community halls, libraries, etc were - Environmental and ecological stability was maintained.- Conserved bio-diversity, wildlife and genetic resources.- Involvement of community especially women in forest management.

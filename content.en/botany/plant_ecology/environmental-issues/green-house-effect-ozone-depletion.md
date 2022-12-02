@@ -138,20 +138,16 @@ and burning of organic matter.
 
 #### Strategies to deal with Global Warming
 
-
-*  Increasing the vegetation cover, grow more
+-  Increasing the vegetation cover, grow more
 trees
 
-
-*  Reducing the use of fossil fuels and green
+-  Reducing the use of fossil fuels and green
 house gases
-
-*  Developing alternate renewable sources of
+-  Developing alternate renewable sources of
 energy
 
 
-
-* Minimising uses of nitrogeneous fertilizers,
+- Minimising uses of nitrogeneous fertilizers,
 and aerosols
 
 
@@ -262,25 +258,20 @@ be counted towards meeting Kyoto targets.
 
 The main ozone depletion effects are:
 
-
-* Increases the incidence of cataract, throat
+- Increases the incidence of cataract, throat
 and lung irritation and aggravation of
 asthma or emphysema, skin cancer and
 diminishing the functioning of immune
 system in human beings.
-
-* Juvenile mortality of animals.
-
-* Increased incidence of mutations.
-
-* In plants, photosynthetic chemicals will be
+- Juvenile mortality of animals.
+- Increased incidence of mutations.
+- In plants, photosynthetic chemicals will be
 affected and therefore photosynthesis will
 be inhibited. Decreased photosynthesis will
 result in increased atmospheric \\( (CO_2) \\)  resulting
 in global warming and also shortage of food
 leading to food crisis.
-
-* Increase in temperature changes the climate
+- Increase in temperature changes the climate
 and rainfall pattern which may result in
 flood / drought, sea water rise, imbalance in
 ecosystems affecting flora and fauna.

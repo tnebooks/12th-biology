@@ -15,10 +15,8 @@ Genetic variation among individuals provides the raw material for the ultimate s
 #### Types of mutation
 
 Let us see the two general classes of gene mutation:
-
-* Mutations affecting single base or base pair of DNA are called point mutation
-
-* Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
+- Mutations affecting single base or base pair of DNA are called point mutation
+- Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
 
 
 

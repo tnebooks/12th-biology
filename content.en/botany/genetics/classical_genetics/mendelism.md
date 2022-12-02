@@ -39,42 +39,34 @@ Mendel was the first systematic researcher in
 the field of genetics.
 
 **Mendel was successful because:**
-
-* He applied mathematics and statistical
+- He applied mathematics and statistical
 methods to biology and laws of probability
 to his breeding experiments.
-
-* He followed scientific methods and kept
+- He followed scientific methods and kept
 accurate and detailed records that include
 quantitative data of the outcome of his
 crosses.
-
-* His experiments were carefully planned
+- His experiments were carefully planned
 and he used large samples.
-
-* The pairs of contrasting characters which
+- The pairs of contrasting characters which
 were controlled by factor (genes)were
 present on separate chromosomes. (Figure
 2.4)
-
-* The parents selected by Mendel were pure
+- The parents selected by Mendel were pure
 breed lines and the purity was tested by self
 crossing the progeny for many generations.
 
 **Mendel’s Experimental System – TheGarden pea.**
 
 He chose pea plant because,
-
-* It is an annual plant and has clear
+- It is an annual plant and has clear
 contrasting characters that are controlled
 by a single gene separately.
-
-* Self-fertilization occurred under normal
+- Self-fertilization occurred under normal
 conditions in garden pea plants. Mendel
 used both self-fertilization and cross-
 fertilization.
-
-* The flowers are large hence emasculation
+- The flowers are large hence emasculation
 and pollination are very easy for
 hybridization.
 

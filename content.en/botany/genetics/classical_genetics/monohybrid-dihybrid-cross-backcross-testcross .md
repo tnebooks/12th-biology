@@ -113,26 +113,21 @@ dominant character.
 
 
 #### Back cross
-
-* Back cross is a cross of F<sub>1</sub> hybrid with any
+- Back cross is a cross of F<sub>1</sub> hybrid with any
 one of the parental genotypes. The back
 cross is of two types; they are dominant
 back cross and recessive back cross.
-
-* It involves the cross between the F<sub>1</sub> offspring
+- It involves the cross between the F<sub>1</sub> offspring
 with either of the two parents.
-
-* When the F<sub>1</sub> offsprings are crossed with
+- When the F<sub>1</sub> offsprings are crossed with
 the dominant parents all the F<sub>2</sub> develop
 dominant character and no recessive
 individuals are obtained in the progeny.
-
-* If the F<sub>1</sub> hybrid is crossed with the recessive
+- If the F<sub>1</sub> hybrid is crossed with the recessive
 parent individuals of both the phenotypes
 appear in equal proportion and this cross is
 specified as test cross.
-
-* The recessive back cross helps to identify
+- The recessive back cross helps to identify
 the heterozygosity of the hybrid.
 
 #### Dihybrid cross
@@ -330,9 +325,7 @@ is otherwise known as Factor hypothesis or
 Bateson’s factor hypothesis. According to
 Bateson’s factor hypothesis, the gene interactions
 can be classified as
-
-* Intragenic gene interactions or Intra allelic
+- Intragenic gene interactions or Intra allelic
 or allelic interactions
 Intergenic gene interactions or inter allelic
-
-*  or non-allelic interactions
+-  or non-allelic interactions

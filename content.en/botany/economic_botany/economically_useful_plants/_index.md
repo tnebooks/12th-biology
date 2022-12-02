@@ -11,22 +11,17 @@ weight: 2
 
 
 
-
-*  Acquire knowledge about origin, area
+-  Acquire knowledge about origin, area
 of cultivation and uses of various food
 yielding plants.
-
-* Describe the different spices and
+- Describe the different spices and
 condiments and their uses.
-
-* Elicit the uses of fibre, timbers, paper and
+- Elicit the uses of fibre, timbers, paper and
 dye yielding plants.
-
-*  Acquire knowledge about the active
+-  Acquire knowledge about the active
 principles, chemical composition and
 medicinal uses of plants.
-
-* Gains knowledge of organic farming- bio
+- Gains knowledge of organic farming- bio
 fertilisers and bio pest repellants.
 
 {{< /hint >}}

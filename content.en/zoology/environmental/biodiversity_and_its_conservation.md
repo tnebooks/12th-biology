@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 11: Biodiversity and its Conservation'
+title: 'Biodiversity and its Conservation'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 2
@@ -71,9 +71,7 @@ The distribution of plants and animals is not uniform around the world. Organism
 **Latitudinal and altitudinal gradients:**
 
 Temperature, precipitation, distance from the equator (latitudinal gradient), altitude from sea level (altitudinal gradient) are some of the factors that determine biodiversity distribution patterns. The most important pattern of biodiversity is latitudinal gradient in diversity. This means that there is an increasing diversity from the poles to equator. Diversity increases as one moves towards the temperate zones and reaches the maximum at the tropics. Thus, tropics harbour more biodiversity than temperate or polar regions, especially between the latitudes of 23.50N and 23.50S (Tropic of Cancer to the Tropic of Capricorn). Harsh conditions exist in temperate areas during the cold seasons while very harsh conditions prevail for most of the year in polar regions. Columbia located near the equator (00) has nearly 1400 species of birds while New York at 410N has 105 species and Greenland at 710N has 56 species. India, with much of its land area in the tropical latitudes, is home for more than 1200 species of birds. Thus it is evident that the latitude increases the species diversity. Decrease in species diversity occurs as one ascends a high mountain due to drop in temperature (temperature decreases @ 6.50C per Km above mean sea level) The reasons for the richness of biodiversity in the Tropics are:
-
-* Warm tropical regions between the tropic of Cancer and Capricorn on either side of equator possess congenial habitats for living organisms.
-* Environmental conditions of the tropics are favourable not only for speciation
+- Warm tropical regions between the tropic of Cancer and Capricorn on either side of equator possess congenial habitats for living organisms.- Environmental conditions of the tropics are favourable not only for speciation
 
 {{< hint info >}}
 
@@ -86,14 +84,10 @@ As we travel by train we notice names of stations on big yellow signboards on wh
 {{< /hint >}}
 
 but also for supporting both variety and number of organisms.
-
-*  The temperatures vary between 250C to 350C, a range in which most metabolic activities of living organisms occur with ease and efficiency.
-
-*  The average rainfall is often more than 200 mm per year.
-
-*  Climate, seasons, temperature, humidity, photoperiods are more or less stable and encourage both variety and numbers.
-
-* Rich resource and nutrient availability. Species - Area relationships German Naturalist and Geographer Alexander von Humboldt explored the wilderness of south American jungles and found that within a region the species richness increased with increasing area but upto a certain limit. The relationship between species richness and area for a wide variety of taxa (angiosperm plants, birds, bats, freshwater fishes) turned out to be the rectangular hyperbola. On a logarithmic scale, the relationship is a straight line described by the equation.
+-  The temperatures vary between 250C to 350C, a range in which most metabolic activities of living organisms occur with ease and efficiency.
+-  The average rainfall is often more than 200 mm per year.
+-  Climate, seasons, temperature, humidity, photoperiods are more or less stable and encourage both variety and numbers.
+- Rich resource and nutrient availability. Species - Area relationships German Naturalist and Geographer Alexander von Humboldt explored the wilderness of south American jungles and found that within a region the species richness increased with increasing area but upto a certain limit. The relationship between species richness and area for a wide variety of taxa (angiosperm plants, birds, bats, freshwater fishes) turned out to be the rectangular hyperbola. On a logarithmic scale, the relationship is a straight line described by the equation.
 
 log S = log C + Z log A
 

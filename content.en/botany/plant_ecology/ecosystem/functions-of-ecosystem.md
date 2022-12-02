@@ -189,14 +189,10 @@ Example: In a grazing food chain of a grass land, in the absence of a rabbit, a 
 Hence, this interlocking pattern of food chains is the food web and the species of an ecosystem may remain balanced to each other by some sort of natural check.
 
 **Significance of food web**
-
-* Food web is constructed to describe species interaction called direct interaction
-
-* It can be used to illustrate indirect interactions among different species
-
-* It can be used to study bottom-up or top- down control of community structure.
-
-* It can be used to reveal different patterns of energy transfer in terrestrial and aquatic ecosystems.
+- Food web is constructed to describe species interaction called direct interaction
+- It can be used to illustrate indirect interactions among different species
+- It can be used to study bottom-up or top- down control of community structure.
+- It can be used to reveal different patterns of energy transfer in terrestrial and aquatic ecosystems.
 
 
 #### Ecological pyramids
@@ -444,29 +440,20 @@ It is a practice of protecting ecosystem at individual, organisational and gover
 
 Therefore, we have to practice the following
 in our day today life:
-
-* Buy and use only ecofriendly products and
+- Buy and use only ecofriendly products and
 recycle them.
-
-* Grow more trees
-
-* Choose sustained farm products (vegetables, fruits, greens, etc.)
-
-* Reduce the use of natural resources.
-
-* Recycle the waste and reduce the amount
+- Grow more trees
+- Choose sustained farm products (vegetables, fruits, greens, etc.)
+- Reduce the use of natural resources.
+- Recycle the waste and reduce the amount
 of waste you produce.
-
-* Reduce consumption of water and
+- Reduce consumption of water and
 electricity.
-
-* Reduce or eliminate the use of house-hold
+- Reduce or eliminate the use of house-hold
 chemicals and pesticides.
-
-* Maintain your cars and vehicles properly.
+- Maintain your cars and vehicles properly.
 (In order to reduce carbon emission)
-
-* Create awareness and educate about
+- Create awareness and educate about
 ecosystem protection among your friends
 and family members.
 
@@ -489,29 +476,19 @@ Ecosystem management emphasis on human role in judicious use of ecosystem and fo
 {{< /hint >}}
 
 **Strategy of ecosystem management**
-
-* It is used to maintain biodiversity of ecosystems.
-
-*  It helps in indicating the damaged ecosystem (Some species indicate the health of the ecosystem: such species are called a flagship species).
-
-* It is used to recognize the inevitability of ecosystem change and plan accordingly.
-
-* It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
-
-* It is also helpful in identifying ecosystems which are in need of rehabilitation.
-
-* It involves collaborative management with government agencies, local population, communities and NGO’s.
-
-* It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
+- It is used to maintain biodiversity of ecosystems.
+-  It helps in indicating the damaged ecosystem (Some species indicate the health of the ecosystem: such species are called a flagship species).
+- It is used to recognize the inevitability of ecosystem change and plan accordingly.
+- It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
+- It is also helpful in identifying ecosystems which are in need of rehabilitation.
+- It involves collaborative management with government agencies, local population, communities and NGO’s.
+- It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
 
 
 **Urban ecosystem restoration model**
-
-* Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously. 
-
-* Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem. 
-
-* Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
+- Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously. 
+- Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem. 
+- Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
 
 
 {{< figure "adayar-poonga.png" "w-25 float-start">}}

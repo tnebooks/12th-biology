@@ -184,24 +184,16 @@ Gases let out to atmosphere causes climatic change. Emission of dust and aerosol
 {{< /hint >}}
 
 **Effects of wind**
+-  Wind is an important factor for the formation of rain
+-  Causes wave formation in lakes and ocean, promotes aeration of water
+-  Strong wind causes soil erosion and reduces soil fertility
+-  Increases the rate of transpiration
+- Helps in pollination in anemophilous plants
+- It also helps in dispersal of many fruits, seeds, spores, etc.
 
-*  Wind is an important factor for the formation of rain
+- Strong wind may cause up-rooting of big trees
 
-*  Causes wave formation in lakes and ocean, promotes aeration of water
-
-*  Strong wind causes soil erosion and reduces soil fertility
-
-*  Increases the rate of transpiration
-
-* Helps in pollination in anemophilous plants
-
-* It also helps in dispersal of many fruits, seeds, spores, etc.
-
-
-* Strong wind may cause up-rooting of big trees
-
-
-*  Unidirectional wind stimulates the development of flag forms in trees.
+-  Unidirectional wind stimulates the development of flag forms in trees.
 
 {{< figure "6.6-flag-form-in-trees.png" "w-20 float-right" >}}
 
@@ -221,14 +213,10 @@ Fire is an exothermic factor caused due to the chemical process of combustion, r
 
 
 **Effects of fire**
-
-* Fire has a dir ect lethal effect on plants
-
-*  Burning scars are the suitable places for the entry of parasitic fungi and insects
-
-*  It brings out the alteration of light, rainfall, nutrient cycle, fertility of soil, pH, soil flora and fauna
-
-*  Some fungi which grow in soil of burnt areas called pyrophilous. *Example: Pyronema confluens*
+- Fire has a dir ect lethal effect on plants
+-  Burning scars are the suitable places for the entry of parasitic fungi and insects
+-  It brings out the alteration of light, rainfall, nutrient cycle, fertility of soil, pH, soil flora and fauna
+-  Some fungi which grow in soil of burnt areas called pyrophilous. *Example: Pyronema confluens*
 
 > Indicators of fire** – *Pteris* ( fern ) and *Pyronema*(fungus) indicates the burnt up and fire disturbed areas. So they are called indicators of fire.
 
@@ -385,18 +373,12 @@ When one or both the participating species are benefited, it is positive interac
 
 **Other examples:**
 
-
-* Water fern (Azolla) and Nitrogen fixing Cyanobacterium (Anabaena ).
-
-* Anab a e n a present in c o r a l l o i d roots of Cycas. (Gymnosperm)
-
-* Cyanobacterium (Nostoc) found in the thalloid body of Anthoceros.(Bryophytes)
-
-* Wasps present in fruits of fig.
-
-* Lichen is a mutual association of an alga and a fungus.
-
-* Roots of terrestrial plants and fungal hyphae- Mycorrhiza
+- Water fern (Azolla) and Nitrogen fixing Cyanobacterium (Anabaena ).
+- Anab a e n a present in c o r a l l o i d roots of Cycas. (Gymnosperm)
+- Cyanobacterium (Nostoc) found in the thalloid body of Anthoceros.(Bryophytes)
+- Wasps present in fruits of fig.
+- Lichen is a mutual association of an alga and a fungus.
+- Roots of terrestrial plants and fungal hyphae- Mycorrhiza
 
 **b. Commensalism:**It is an interaction between two organisms in which one is benefitted and the other is neither benefitted nor harmed. The species that derives benefit is called the **commensal**, while the other species is called the host. The common examples of commensalism are listed below:
 
@@ -420,10 +402,8 @@ Figure 6.11: An epiphytic plant-Vanda
 
 The epiphytic higher plant **(Orchid)** gets its nutrients and water from the atmosphere with the help of the hygroscopic roots which contain special type of spongy tissue called **Velamen.** It prepares its own food and does not depend on the host. Using the host plant only they support and does not harm it in any way.
 
-
-* Many orchids, ferns, lianas, hanging mosses, Peperomia, money plant and Usnea (Lichen) are some of the examples of epiphytes.
-
-*  Spanish Moss –Tillandsia grows on the bark of Oak and Pine trees.
+- Many orchids, ferns, lianas, hanging mosses, Peperomia, money plant and Usnea (Lichen) are some of the examples of epiphytes.
+-  Spanish Moss –Tillandsia grows on the bark of Oak and Pine trees.
 
 {{< hint info >}}
 
@@ -442,24 +422,21 @@ When one of the interacting species is benefitted and the other is harmed, it is
 **a. Predation:** It is an interaction between two species, one of which captures, kills and eats up the other. The species which kills is called a **predator** and the species which is killed is called a **prey.** The predator is benefitted while the prey is harmed.
 
 **Examples:**
-
-*  A number of plants like Drosera (Sun dew Plant), Nepenthes (Pitcher Plant), Dionaea (Venus fly trap), Utricularia (Bladder wort) and Sarracenia are predators which consume insects and other small animals for their food as a source of nitrogen. They are also called as **insectivorous plants.**
+-  A number of plants like Drosera (Sun dew Plant), Nepenthes (Pitcher Plant), Dionaea (Venus fly trap), Utricularia (Bladder wort) and Sarracenia are predators which consume insects and other small animals for their food as a source of nitrogen. They are also called as **insectivorous plants.**
 
 {{< figure "6.12-pitcher-plant-with-insect.png" "w-25 float-right" >}}
 
 Figure 6.12: Pitcher plant – with insect
 
 {{< /figure >}}
-
-*  Many herbivores are predators. Cattles, Camels, Goats etc., frequently browse on the tender shoots of herbs, shrubs and trees. Generally annuals suffer more than the perennials. Grazing and browsing may cause remarkable changes in vegetation. Nearly 25 percent of all insects are known as phytophagous(feeds on plant sap and other parts of plant)
+-  Many herbivores are predators. Cattles, Camels, Goats etc., frequently browse on the tender shoots of herbs, shrubs and trees. Generally annuals suffer more than the perennials. Grazing and browsing may cause remarkable changes in vegetation. Nearly 25 percent of all insects are known as phytophagous(feeds on plant sap and other parts of plant)
 
 {{< figure "6.13-insectivorous-plant-utricularia.png" "w-25 float-right" >}}
 
 Figure 6.13: Insectivorous plant Utricularia
 
 {{< /figure >}}
-
-*  Many defense mechanisms are evolved to avoid their predations by plants. Examples: Calotropis produces highly poisonous cardiac glycosides, Tobacco produces nicotine, coffee plants produce caffeine, Cinchona plant produces quinine. Thorns of Bougainvillea, spines of Opuntia, and latex of cacti also protect them from predators.
+-  Many defense mechanisms are evolved to avoid their predations by plants. Examples: Calotropis produces highly poisonous cardiac glycosides, Tobacco produces nicotine, coffee plants produce caffeine, Cinchona plant produces quinine. Thorns of Bougainvillea, spines of Opuntia, and latex of cacti also protect them from predators.
 
 **b. Parasitism:** It is an interaction between two different species in which the smaller partner (parasite) obtains food from the larger partner (host or plant). So the parasitic species is benefited while the host species is harmed. Based on the host-parasite relationship, parasitism is classified into two types they are holoparasite and hemiparasite.
 
@@ -470,20 +447,16 @@ The organisms which are dependent upon the host plants for their entire nutritio
 
 
 Examples:
-
-* Cuscuta is a total stem parasite of the host plant Acacia, Duranta and many other plants. Cuscuta even gets flower inducing hormone from its host plant.
-
-* Balanophora, Orobanche and Rafflesia are the total root parasites found on higher plants.
+- Cuscuta is a total stem parasite of the host plant Acacia, Duranta and many other plants. Cuscuta even gets flower inducing hormone from its host plant.
+- Balanophora, Orobanche and Rafflesia are the total root parasites found on higher plants.
 
 **Hemiparasites**
 
 The organisms which derive only water and minerals from their host plant while synthesizing their own food by photosynthesis are called **Hemiparasites** They are also called **partial parasites**.
 
 **Examples:**
-
-* *Viscum* and *Loranthus* are partial stem parasites.
-
-* *Santalum* (Sandal Wood) is a partial root parasite.
+- *Viscum* and *Loranthus* are partial stem parasites.
+- *Santalum* (Sandal Wood) is a partial root parasite.
 
 The parasitic plants produce the **haustorial roots** inside the host plant to absorb nutrients from the vascular tissues of host plants.
 
@@ -497,13 +470,10 @@ The parasitic plants produce the **haustorial roots** inside the host plant to a
 **d. Amensalism:** It is an interspecific interaction in which one species is inhibited while the other species is neither benefitted nor harmed. The inhibition is achieved by the secretion of certain chemicals called **allelopathic** substances.
 
 Amensalism is also called **antibiosis.**
-
-* Penicillium notatum produces penicillin to inhibit the growth of a variety of bacteria especially Staphylococcus.
-
-* Trichoderma inhibits the growth of fungus
+- Penicillium notatum produces penicillin to inhibit the growth of a variety of bacteria especially Staphylococcus.
+- Trichoderma inhibits the growth of fungus
 Aspergillus.
-
-*  Roots and hulls of Black Walnut Juglans nigra secretes an alkaloid Juglone which inhibits the growth of seedlings of Apple, Tomato and Alfalfa around it.
+-  Roots and hulls of Black Walnut Juglans nigra secretes an alkaloid Juglone which inhibits the growth of seedlings of Apple, Tomato and Alfalfa around it.
 
 **Interspecific interactions/ Co-evolutionary dynamics**
 
@@ -517,11 +487,9 @@ Figure 6.15: Mimicry
 {{< /figure >}}
 
 Example:
+- The plant, Ophrys an orchid, the flower looks like a female insect to attract the male insect to get pollinated by the male insect and it is otherwise called ‘floral mimicry ‘.
 
-* The plant, Ophrys an orchid, the flower looks like a female insect to attract the male insect to get pollinated by the male insect and it is otherwise called ‘floral mimicry ‘.
-
-
-* Carausium morosus – stick insect or walking stick. It is a protective mimicry • Phyllium frondosum – leaf insect, another example of protective mimicry.
+- Carausium morosus – stick insect or walking stick. It is a protective mimicry • Phyllium frondosum – leaf insect, another example of protective mimicry.
 
 **ii. Myrmecophily:** Sometimes, ants take their shelter on some trees such as Mango, Litchi, Jamun, Acacia etc. These ants act as body guards of the plants against any disturbing agent and the plants in turn provide food and shelter to these ants. This phenomenon is known as Myrmecophily. Example: Acacia and acacia ants.
 
@@ -539,12 +507,9 @@ Figure 6.17: Co-evolution
 
 {{< /figure >}}
 
-	
-* Corolla length and proboscis length of butterflies and moths ( Habenaria and Moth ).
-
-* Bird’s beak shape and flower shape and size.
-
-*  More examples: Horn bills and birds of Scrub jungles ,Slit size of pollinia of Apocynaceae members and leg size of insects.
+	- Corolla length and proboscis length of butterflies and moths ( Habenaria and Moth ).
+- Bird’s beak shape and flower shape and size.
+-  More examples: Horn bills and birds of Scrub jungles ,Slit size of pollinia of Apocynaceae members and leg size of insects.
 
 ### Dispersal of Fruits and Seeds
 

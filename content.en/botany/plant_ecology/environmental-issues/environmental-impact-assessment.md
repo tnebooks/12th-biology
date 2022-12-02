@@ -23,8 +23,7 @@ wastes to avoid environmental degradation.
 
 
 **The benefits of EIA to society**
-
-* A healthier environment
+- A healthier environment
 
 • Maintenance of biodiversity
 

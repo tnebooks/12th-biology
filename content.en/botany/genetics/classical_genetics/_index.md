@@ -8,19 +8,14 @@ weight: 1
 ## Learning Objectives
 
 
-
-* Differentiate
+- Differentiate
 classical and modern genetics.
-	
-* Understand the concepts
+	- Understand the concepts
 of principles of inheritance.
-	
-* Describe the extensions of Mendelism.
-	
-* Explain polygenic inheritance and
+	- Describe the extensions of Mendelism.
+	- Explain polygenic inheritance and
 Pleiotropy.
-
-* Analyze extra chromosomal inheritance in cytoplasmic organelles.
+- Analyze extra chromosomal inheritance in cytoplasmic organelles.
 
 {{< hint info >}}
 

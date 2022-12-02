@@ -19,11 +19,9 @@ Seeds require agents for dispersal which are crucial in plant community dynamics
 #### Dispersal by Wind (Anemochory)
 
 The individual seeds or the whole fruit may be modified to help for the dispersal by wind. Wind dispersal of fruits and seeds is quite common in tall trees. The adaptation of the wind dispersed plants are
+- Minute seeds: Seeds are minute, very small, light and with inflated covering. Example: Orchids.
 
-* Minute seeds: Seeds are minute, very small, light and with inflated covering. Example: Orchids.
-
-
-* Wings: Seeds or whole fruits are flattened to form a wing. Examples: Maple, Gyrocarpus, Dipterocarpus and Terminalia
+- Wings: Seeds or whole fruits are flattened to form a wing. Examples: Maple, Gyrocarpus, Dipterocarpus and Terminalia
 
 
 {{< figure "6.28-asclepias.png" "w-25 float-start">}}
@@ -38,11 +36,9 @@ Figure 6.29: Gyrocarpus
 
 {{< /figure >}}
 
+- Feathery Appendages: Seeds or fruits may have feathery appendages which greatly increase their buoyancy to disperse to high altitudes. Examples: Vernonia and Asclepias.
 
-* Feathery Appendages: Seeds or fruits may have feathery appendages which greatly increase their buoyancy to disperse to high altitudes. Examples: Vernonia and Asclepias.
-
-
-* Censor mechanisms: The fruits of many plants open in such a way that the seeds can escape only when the fruit is violently shaken by a strong wind. Examples: Aristolochia and Poppy.
+- Censor mechanisms: The fruits of many plants open in such a way that the seeds can escape only when the fruit is violently shaken by a strong wind. Examples: Aristolochia and Poppy.
 
 
 Guess!! Who am I…….? I am dispersed by ant and I have caruncle.
@@ -52,16 +48,11 @@ Guess!! Who am I…….? I am dispersed by ant and I have caruncle.
 
 Dispersal of seeds and fruits by water usually occurs in those plants which grow in or near water bodies . Adaptation of hydrochory are
 
-
-*  Obconical receptacle with prominent air spaces. Example: Nelumbo.
-
-* Presence of fibrous mesocarp and light pericarp. Example: Coconut.
-
-* Seeds are light, small, provided with aril which encloses air.Example: Nymphaea.
-
-* The fruit may be inflated. Examples: Heritiera littoralis.
-
-* Seeds by themselves would not float may be carried by water current. Example: Coconut.
+-  Obconical receptacle with prominent air spaces. Example: Nelumbo.
+- Presence of fibrous mesocarp and light pericarp. Example: Coconut.
+- Seeds are light, small, provided with aril which encloses air.Example: Nymphaea.
+- The fruit may be inflated. Examples: Heritiera littoralis.
+- Seeds by themselves would not float may be carried by water current. Example: Coconut.
 
 
 {{< figure "6.30-nelumbo.png" "w-25 float-start">}}
@@ -110,14 +101,10 @@ Figure 6.33: Papaya
 
 Some fruits burst suddenly with a force enabling to throw seeds to a little distance away from the plant. Autochory shows the following adaptations.
 
-
-* 	Mere touch of some plants causes the ripened fruit to explode suddenly and seeds are thrown out with great force. Example: Impatiens (Balsam), Hura.
-
-* Some fruits when they come in contact with water particularly after a shower of rain, burst suddenly with a noise and scatter the seeds.Examples: Ruellia and Crossandra.
-
-* Certain long pods explode with a loud noise like cracker, scattering the seeds in all directions. Example: Bauhinia vahlii (Camel’s foot climber)
-
-* As the fruit matures, tissues around seeds are converted into a mucilaginous fluid, due to which a high turgor pressure develops inside the fruit which leads to the dispersal of seeds.
+- 	Mere touch of some plants causes the ripened fruit to explode suddenly and seeds are thrown out with great force. Example: Impatiens (Balsam), Hura.
+- Some fruits when they come in contact with water particularly after a shower of rain, burst suddenly with a noise and scatter the seeds.Examples: Ruellia and Crossandra.
+- Certain long pods explode with a loud noise like cracker, scattering the seeds in all directions. Example: Bauhinia vahlii (Camel’s foot climber)
+- As the fruit matures, tissues around seeds are converted into a mucilaginous fluid, due to which a high turgor pressure develops inside the fruit which leads to the dispersal of seeds.
 
 Example: *Ecballium elatrium* (Squirting cucumber) Gyrocarpus and Dipterocarpus.
 
@@ -159,14 +146,10 @@ September 16 - International Ozone day
 
 **Advantages of seed dispersal:**
 Seeds escape from mortality near the * parent plants due to predation by animals or getting diseases and also avoiding competition.
-
-* Dispersal also gives a chance to occupy favourable sites for growth.
-
-* It is an important process in the movement of plant genes particularly this is the only method available for self-fertilized flowers and maternally transmitted genes in outcrossing plants.
-
-* Seed dispersal by animals help in conservation of many species even in human altered ecosystems.
-
-* Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems.
+- Dispersal also gives a chance to occupy favourable sites for growth.
+- It is an important process in the movement of plant genes particularly this is the only method available for self-fertilized flowers and maternally transmitted genes in outcrossing plants.
+- Seed dispersal by animals help in conservation of many species even in human altered ecosystems.
+- Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems.
 
 **Summary**
 

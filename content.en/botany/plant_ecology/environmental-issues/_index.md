@@ -9,29 +9,23 @@ weight: 3
 {{< hint info >}}
 
 
-
-* Understand the importance of
+- Understand the importance of
 growing more plants to mitigate the
 environmental problems.
 
-
-* Distinguish between the importance
+- Distinguish between the importance
 and conservation of endemic and
 endangered species.
-
-* Appreciate the use of technologies for
+- Appreciate the use of technologies for
 agriculture and forestry.
 
-
-* Participate in community activities to
+- Participate in community activities to
 improve environmental conditions.
 
-
-* Develop methods in conservation
+- Develop methods in conservation
 of water and plants for sustainable
 development.
-
-* Get acquainted with satellite
+- Get acquainted with satellite
 technology and utilising it in our daily
 life need.
 

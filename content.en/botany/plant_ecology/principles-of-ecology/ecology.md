@@ -150,8 +150,6 @@ Application of the Science of ecology is otherwise called as **Applied ecology**
 Taxonomically different species occupying similar habitats (Niches) in different geographical regions are called **Ecological equivalents.**
 
 **Examples:**
-
-* Certain species of epiphytic orchids of Western Ghats of India differ from the epiphytic orchids of South America. But they are epiphytes.
-
-* Species of the grass lands of Western Ghats of India differ from the grass species of temperate grass lands of Steppe in North America. But they are all ecologically primary producers and fulfilling similar roles in their respective communities.
+- Certain species of epiphytic orchids of Western Ghats of India differ from the epiphytic orchids of South America. But they are epiphytes.
+- Species of the grass lands of Western Ghats of India differ from the grass species of temperate grass lands of Steppe in North America. But they are all ecologically primary producers and fulfilling similar roles in their respective communities.
 

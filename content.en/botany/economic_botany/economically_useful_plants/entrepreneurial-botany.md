@@ -79,20 +79,16 @@ Botanical pest repellent and insecticide made
 with the dried leaves of *Azadirachta indica*
 
 **Preparation of Bio-pest repellent**
-
-* 	Pluck leaves from the neem tree and chop
+- 	Pluck leaves from the neem tree and chop
 the leaves finely.
-
-*   e chopped up leaves were put in a 50-liter
+-   e chopped up leaves were put in a 50-liter
 container and fill to half with water; put the
 lid on and leave it for 3 days to brew.
-
-*  sing another container, strain the mixture
+-  sing another container, strain the mixture
 which has brewed for 3 days to remove the
 leaves, through fine mesh sieve. The filtrate
 can be sprayed on the plants to repel pests.
-
-* To make sure that the pest repellent sticks to
+- To make sure that the pest repellent sticks to
 the plants, add 100 ml of
 cooking oil and the same
 amount of soap water.
@@ -100,8 +96,7 @@ amount of soap water.
 is to break down the oil,
 and the role of the oil is to
 make it stick to the leaves).
-
-* The stewed leaves from the mixture can be
+- The stewed leaves from the mixture can be
 used in the compost heap or around the base
 of the plants.
 

@@ -8,22 +8,15 @@ weight: 2
 
 
 {{< hint info >}}
+- Describe the Structure, functions and types of ecosystems
 
-* Describe the Structure, functions and types of ecosystems
-
+	- Draw ecological pyramids by means of number, biomass and energy
+	- Interpret carbon and phosphorus cycle
 	
-* Draw ecological pyramids by means of number, biomass and energy
-	
-* Interpret carbon and phosphorus cycle
-	
-
-* Recognise pond ecosystem as a self- sufficient and self-regulating system
-	
-* Analyse ecosystem services and its management
-
-* Discuss about the importance and conservation of ecosystem
-
-* Explain the types of plant succession
+- Recognise pond ecosystem as a self- sufficient and self-regulating system
+	- Analyse ecosystem services and its management
+- Discuss about the importance and conservation of ecosystem
+- Explain the types of plant succession
 
 
 {{< /hint >}}
@@ -34,13 +27,7 @@ Have you seen lakes, ponds and pools in your surroundings? They are all called w
 
 
 **Parallel terms for ecosystem coined by various ecologists**
-
-* Biocoenosis – Karl Mobius
-* Microcosm – S.A. Forbes
-* Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov
-* Holocoen - Friederichs
-* Biosystem – Thienemann
-* Bioenert body – Vernadsky
+- Biocoenosis – Karl Mobius- Microcosm – S.A. Forbes- Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov- Holocoen - Friederichs- Biosystem – Thienemann- Bioenert body – Vernadsky
 
 
 

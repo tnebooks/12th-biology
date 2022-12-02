@@ -50,40 +50,29 @@ aquatic and terrestrial modes of life. They grow in shallow water. Examples: Ran
 ### Morphological adaptations of Hydrophytes:
 
 **In root**
-
-* Roots are totally absent in Wolffia and Salvinia or poorly developed in Hydrilla or well developed in *Ranunculus.*
-
-* The root caps are replaced by root pockets.
+- Roots are totally absent in Wolffia and Salvinia or poorly developed in Hydrilla or well developed in *Ranunculus.*
+- The root caps are replaced by root pockets.
 *Example: Eichhornia*
 
 **In stem**
 
-
-* The stem is long, slender, spongy and flexible
+- The stem is long, slender, spongy and flexible
 in submerged forms.
-
-*  In free floating forms the stem is thick, short stoloniferous and spongy; and in rooted floating forms, it is a rhizome .
-
-* Vegetative propagation is through runners, stolon, stem and root cuttings , tubers, dormant apices and offsets.
+-  In free floating forms the stem is thick, short stoloniferous and spongy; and in rooted floating forms, it is a rhizome .
+- Vegetative propagation is through runners, stolon, stem and root cuttings , tubers, dormant apices and offsets.
 
 **In leaves**
-
-* The leaves are thin, long and ribbon shaped in *Vallisneria* or long and linear in Potamogeton or finely dissected in *Ceratophyllum*
-
-* The floating leaves are large and flat as in Nymphaea and Nelumbo. In Eichhornia and Trapa petioles become swollen and spongy.
-
-* In emergent forms, the leaves show heterophylly (Submerged leaves are dissected and aerial leaves are entire).
+- The leaves are thin, long and ribbon shaped in *Vallisneria* or long and linear in Potamogeton or finely dissected in *Ceratophyllum*
+- The floating leaves are large and flat as in Nymphaea and Nelumbo. In Eichhornia and Trapa petioles become swollen and spongy.
+- In emergent forms, the leaves show heterophylly (Submerged leaves are dissected and aerial leaves are entire).
 
 **Example:**
 *Ranunculus,Limnophila , heterophylla and Sagittaria*
 
 **Anatomical adaptations**
-
-* Cuticle is either completely absent or if present it is thin and poorly developed
-
-* Single layer of epidermis is present
-
-* Cortex is well developed with aerenchyma
+- Cuticle is either completely absent or if present it is thin and poorly developed
+- Single layer of epidermis is present
+- Cortex is well developed with aerenchyma
 
 *	Vascular tissues are poorly developed. In
 emergent forms vascular elements are well
@@ -100,10 +89,8 @@ are sclerenchymatous.
 {{< /figure >}}
 
  **Physiological adaptations of Hydrophytes:**
-
-* Hydrophytes have the ability to withstand
-anaerobic conditions .
-* They possess special aerating organs.
+- Hydrophytes have the ability to withstand
+anaerobic conditions .- They possess special aerating organs.
 
 **Xerophytes**
 
@@ -179,11 +166,9 @@ conditions. *Examples: Casuarina, Nerium,*
 **Morphological Adaptations**
 
 **In root**
-
-* Root system is well developed and is greater
+- Root system is well developed and is greater
 than that of shoot system.
-
-* Root hairs and root caps are also well developed.
+- Root hairs and root caps are also well developed.
 
 In xerophytic plants with the leaves and
 stem are covered with hairs are called
@@ -191,18 +176,14 @@ stem are covered with hairs are called
 (Melothria and Mukia )
 
 **In stem**
-
-* Stems are mostly hard and woody. They may
+- Stems are mostly hard and woody. They may
 be aerial or underground
-
-* The stems and leaves are covered with wax
+- The stems and leaves are covered with wax
 coating or covered with dense hairs.
-
-* In some xerophytes all the internodes in the
+- In some xerophytes all the internodes in the
 stem are modified into a fleshy leaf structure
 called **phylloclades (Opuntia)** .
-
-* In some of the others single or occasionally
+- In some of the others single or occasionally
 two internodes modified into fleshy green
 structure called **cladode** (Asparagus).
 In some the petiole is modified into a fleshy
@@ -225,42 +206,32 @@ c) Cladode of Asparagus
 d) Phyllode – Acacia
 
 In leaves
-
-* Leaves are generally leathery and shiny to
+- Leaves are generally leathery and shiny to
 reflect light and heat.
-
-* In some plants like Euphorbia, Acacia,
+- In some plants like Euphorbia, Acacia,
 Ziziphus and Capparis, the stipules are
 modified into spines.
-
-* The entire leaves are modified into spines
+- The entire leaves are modified into spines
 (Opuntia ) or reduced to scales (Asparagus).
 
 
 **Anatomical adaptations**
 
-
-* Presence of multilayered epidermis with
+- Presence of multilayered epidermis with
 heavy cuticle to prevent water loss due to
 transpiration.
-
-* Hypodermis is well developed with
+- Hypodermis is well developed with
 sclerenchymatous tissues.
-
-* Sunken stomata are present only in the lower
+- Sunken stomata are present only in the lower
 epidermis with hairs in the sunken pits.
 
-
-* Scotoactive type of stomata found in
+- Scotoactive type of stomata found in
 succulent plants .
-
-* Vascular bundles are well developed with
+- Vascular bundles are well developed with
 several layered bundle sheath.
-
-* Mesophyll is well differentiated into
+- Mesophyll is well differentiated into
 palisade and spongy parenchyma.
-
-* In succulents the stem possesses a water
+- In succulents the stem possesses a water
 storage region.
 
 {{< figure "6.23-t.s.-of-nerium-leaf.png" "w-25 float-start">}}
@@ -279,11 +250,9 @@ Figure 6.24: A Succulent leaf of Peperomia (T.S.)  (lateral wing portion only)
 
 
 **Physiological adaptations**
-
-* Most of the physiological processes are
+- Most of the physiological processes are
 designed to reduce transpiration.
-
-* Life cycle is completed within a short
+- Life cycle is completed within a short
 period (Ephemerals).
 
 
@@ -295,37 +264,28 @@ known as **mesophytes**. These are common land
 plants. Example: Maize and Hibiscus.
 
 **Morphological adaptations**
-
-* Root system is well developed with root
+- Root system is well developed with root
 caps and root hairs
-
-* Stems are generally aerial, stout and highly
+- Stems are generally aerial, stout and highly
 branched.
-
-* Leaves are generally large, broad, thin with
+- Leaves are generally large, broad, thin with
 different shapes.
 
 
 ### Anatomical adaptations
-
-* Cuticle in aerial parts are moderately
+- Cuticle in aerial parts are moderately
 developed.
-
-* Epidermis is well developed and stomata are
+- Epidermis is well developed and stomata are
 generally present on both the epidermis.
-
-* Mesophyll is well differentiated into palisade
+- Mesophyll is well differentiated into palisade
 and spongy parenchyma.
-
-* Vascular and mechanical tissues are fairly
+- Vascular and mechanical tissues are fairly
 developed and well differentiated.
 
 
 **Physiological adaptations**
-
-* All physiological processes are normal.
-
-* Temporary wilting takes place at room
+- All physiological processes are normal.
+- Temporary wilting takes place at room
 temperature when there is water scarcity.
 
 **Tropophytes** are plants which behave
@@ -344,42 +304,33 @@ Examples: Orchids, Lianas, Hanging Mosses
 and Money plant.
 
 **Morphological adaptations**
-
-* Root system is extensively developed. These
+- Root system is extensively developed. These
 roots may be of two types. They are Clinging
 roots and Aerial roots.
-
-* **Clinging roots** fix the epiphytes firmly on
+- **Clinging roots** fix the epiphytes firmly on
 the surface of the supporting objects.
 
 **Aerial roots** are green coloured roots which
 may hang downwardly and absorb moisture
 from the atmosphere with the help of a
 spongy tissue called **velamen**
-
-* Stem of some epiphytes are succulent and
+- Stem of some epiphytes are succulent and
 develop pseudobulb or tuber.
-
-* Generally the leaves are lesser in number
+- Generally the leaves are lesser in number
 and may be fleshy and leathery
-
-* Myrmecophily is a common occurrence
+- Myrmecophily is a common occurrence
 in the epiphytic vegetation to prevent the
 predators.
-
-* The fruits and seeds are very small and
+- The fruits and seeds are very small and
 usually dispersed by wind, insects and birds.
 
 ### Anatomical adaptations
-
-* Multilayered epidermis is present. Inner to
+- Multilayered epidermis is present. Inner to
 the velamen tissue, the peculiar exodermis
 layer is present.
-
-* Presence of thick cuticle and sunken stomata
+- Presence of thick cuticle and sunken stomata
 greatly reduces transpiration.
-
-* Succulent epiphytes contain well developed
+- Succulent epiphytes contain well developed
 parenchymatous cells to store water.
 
 {{< figure "6.25-t.s.-of-an-aerial-root-of-orchid-showing-velamen-tissue.png" "w-25 float-start">}}
@@ -410,14 +361,11 @@ also known as **mangrove forest** and the plants
 are called **mangroves.**
 
 **Morphological adaptations**
-
-* The temperate halophytes are herbaceous
+- The temperate halophytes are herbaceous
 but the tropical halophytes are mostly bushy
-
-* In addition to the normal roots, many stilt
+- In addition to the normal roots, many stilt
 roots are developed
-
-* A special type of negatively geotropic
+- A special type of negatively geotropic
 roots called **pneumatophores** with
 pneumathodes to get sufficient aeration
 are also present. They are called breathing
@@ -435,8 +383,7 @@ Figure 6.26a: Pneumatophores of mangrove plant
 Figure 6.26b:Succulent halophyte - Salicornia
 
 {{< /figure >}}
-
-* Viviparous mode of seed germination is found in halophytes
+- Viviparous mode of seed germination is found in halophytes
 
 {{< figure "6.27-viviparous-type-of-seed-germination.png" "w-25 float-start">}}
 
@@ -445,26 +392,21 @@ Figure 6.27: Viviparous type of seed germination
 {{< /figure >}}
 
 ### Anatomical adaptations
-
-* Epidermal cells of stem is heavy cutinized,
+- Epidermal cells of stem is heavy cutinized,
 almost squarish and are filled with oil and
 tannins.
-
-* **‘Star’ shaped sclereids and ‘H’ shaped** heavy
+- **‘Star’ shaped sclereids and ‘H’ shaped** heavy
 thickened spicules that provide mechanical
 strength to cortex are present in the stem.
-
-* The leaves may be dorsiventral or isobilateral
+- The leaves may be dorsiventral or isobilateral
 with **salt secreting glands.**
 
 
 ### Physiological adaptations
 
-
-* High osmotic pressure exists in some
+- High osmotic pressure exists in some
 plants .
-
-* Seeds germinate in the fruits while on the
+- Seeds germinate in the fruits while on the
 mother plant (Vivipary).
 
 {{< hint info >}}

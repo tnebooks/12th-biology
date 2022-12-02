@@ -49,19 +49,14 @@ quantitative inheritance. Example: Human
 height and skin color.
 
 **Importance of variations**
-
-* Variations make some individuals better
+- Variations make some individuals better
 fitted in the struggle for existence.
-
-* They help the individuals to adapt
+- They help the individuals to adapt
 themselves to the changing environment.
-
-* It provides the genetic material for natural
+- It provides the genetic material for natural
 selection
-
-* Variations allow breeders to improve better
+- Variations allow breeders to improve better
 yield, quicker growth, increased resistance
 and lesser input.
-
-* They constitute the raw materials for
+- They constitute the raw materials for
 evolution.

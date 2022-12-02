@@ -26,23 +26,19 @@ specific locations within the plants to produce
 new traits in crop plants. The various methods
 of achieving these changes in traits include the
 following.
-
-* Cutting and modifying the genome
+- Cutting and modifying the genome
 during the repair process by tools like CRISPR
 /Cas.
 
-
-*  Genome editing to introduce changes in
+-  Genome editing to introduce changes in
 few base pairs using a technique called
 Oligonucleotide-directed
 mutagenesis
 (ODM).
-
-*  Transferring a gene from an identical or
+-  Transferring a gene from an identical or
 closely related species (cisgenesis)
 
-
-* Organising processes that alter gene
+- Organising processes that alter gene
 activity without altering the DNA itself
 (epigenetic methods).
 

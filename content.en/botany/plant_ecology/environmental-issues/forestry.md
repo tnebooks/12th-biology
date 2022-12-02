@@ -29,31 +29,25 @@ great importance to wood-based industries.
 
 
 ##### Benefits of agroforestry
-
-*  It is an answer to the problem of soil and
+-  It is an answer to the problem of soil and
 water conservation and also to stabilise
 the soil (salinity and water table) reduce
 landslide and water run-off problem.
 
-
-* Nutrient cycling between species improves
+- Nutrient cycling between species improves
 and organic matter is maintained.
 
-
-* Trees provide micro climate for crops and
+- Trees provide micro climate for crops and
 maintain \\( (O_2) \\)   –   \\( (CO_2) \\)   balanced, atmospheric
 temperature and relative humidity.
-
-* Suitable for dry land where rainfall is
+- Suitable for dry land where rainfall is
 minimum and hence it is a good system for
 alternate land use pattern.
-
-* Multipurpose tree varieties like Acacia are
+- Multipurpose tree varieties like Acacia are
 used for wood pulp, tanning, paper and
 firewood industries.
 
-
-* Agro-forestry is recommended for the
+- Agro-forestry is recommended for the
 following purposes. It can be used as
 Farm Forestry for the extension of forests,
 mixed forestry, shelter belts and linear strip
@@ -137,20 +131,15 @@ training / camps.
 #####  Major activities of forestry extension centres
 
 
-
-* Training on tree growing methods
-
+- Training on tree growing methods
 
 
-* Publicity and propaganda regarding tree
+- Publicity and propaganda regarding tree
 growing
+- Formation of demonstration plots
 
-* Formation of demonstration plots
-
-
-* Raising and supply of seedlings on subsidy
-
-* Awareness creation among school children
+- Raising and supply of seedlings on subsidy
+- Awareness creation among school children
 and youth about the importance of forests
 through training and camps.
 

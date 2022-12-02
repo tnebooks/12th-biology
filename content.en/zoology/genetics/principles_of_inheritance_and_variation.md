@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 4: Principles of Inheritance and Variation'
+title: 'Principles of Inheritance and Variation'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 1
@@ -34,23 +34,19 @@ weight: 1
 {{< hint info >}}
 
 
-
-* Learns the inheritance of multiple alleles
+- Learns the inheritance of multiple alleles
 with reference to human blood groups.
 
-
-*  Understands the mechanism of sex
+-  Understands the mechanism of sex
 determination in human beings, insects
 and birds.
 
-
-*  Learns about sex linked
+-  Learns about sex linked
 (X and Y) inherited
 diseases in human
 beings.
 
-
-* Understands the
+- Understands the
 Mendelian disorders and diseases
 associated with chromosomal
 abnormalities.
@@ -173,18 +169,15 @@ of other organisms.
 A-type antigens have been found in
 chimpanzees and in gibbons, A, B and
 AB antigen in orangutans.
-
-*  New world monkeys (Platyrrhina) and
+-  New world monkeys (Platyrrhina) and
 lemurs have a substance similar but not
 identical with B antigen in humans.
 
-
-* Three blood groups have been
+- Three blood groups have been
 distinguished in cats with a genetic
 system similar to those in humans.
 
-
-*  The secretors (antigens found in the
+-  The secretors (antigens found in the
 body fluids) can be detected in tears,
 saliva, urine, semen, gastric juice and
 in the milk of animals.
@@ -406,11 +399,9 @@ testes determining factor (TDF) present in the
 adult male testis.
 
 {{< hint warn >}}
+- **X-Chromosome was discovered by Henking (1891)** 
 
-* **X-Chromosome was discovered by Henking (1891)** 
-
-
-* **Y-Chromosome was discovered by Stevens (1902)**
+- **Y-Chromosome was discovered by Stevens (1902)**
 
 {{< /hint >}}
 
@@ -444,8 +435,7 @@ one Barr body.
 
 
 {{< hint warn >}}
-
-* **The number of Barr bodies follows N-1 rule (N minus one rule), where N is the total number of X chromosomes present.**
+- **The number of Barr bodies follows N-1 rule (N minus one rule), where N is the total number of X chromosomes present.**
 
 {{< /hint >}}
 
@@ -620,21 +610,16 @@ permits structural definitions and differentiation
 of chromosomes.
 
 ###  Applications of Karyotyping:  
-
-* It helps in gender identification.
-
-* It is used to detect the chromosomal
+- It helps in gender identification.
+- It is used to detect the chromosomal
 aberrations like deletion, duplication,
 translocation, nondisjunction of
 chromosomes.
-
-* It helps to identify the abnormalities of
+- It helps to identify the abnormalities of
 chromosomes like aneuploidy.
-
-* It is also used in predicting the evolutionary
+- It is also used in predicting the evolutionary
 relationships between species.
-
-* Genetic diseases in human beings can be
+- Genetic diseases in human beings can be
 detected by this technique.
 
 

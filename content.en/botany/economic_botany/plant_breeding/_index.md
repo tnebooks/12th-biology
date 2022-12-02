@@ -10,16 +10,12 @@ weight: 1
 
 
 
-	
-* Appreciate the relationship between
+	- Appreciate the relationship between
 humans and plants.
-
-*  Recognise the origin of agriculture.
-
-*  Perceive the importance of organic
+-  Recognise the origin of agriculture.
+-  Perceive the importance of organic
 agriculture.
-
-*  Understand the different conventional
+-  Understand the different conventional
 methods of plant breeding.
 
 {{< /hint >}}

@@ -10,17 +10,12 @@ G. J. Mendel (1865) studied the inheritance of well-defined characters of pea pl
 #### Historical development of chromosome theory
 
 The important cytological findings related to the chromosome theory of inheritance are given below.
+- **Wilhelm Roux (1883)** postulated that the chromosomes of a cell are responsible for transferring heredity.
+- **Montgomery(1901)** was first to suggest occurrence of distinct pairs of chromosomes and he also concluded that maternal chromosomes pair with paternal chromosomes only during meiosis.
+- **T.Boveri (1902)** supported the idea that the chromosomes contain genetic determiners, and he was largely responsible for developing the chromosomal theory of inheritance.
 
-* **Wilhelm Roux (1883)** postulated that the chromosomes of a cell are responsible for transferring heredity.
-
-* **Montgomery(1901)** was first to suggest occurrence of distinct pairs of chromosomes and he also concluded that maternal chromosomes pair with paternal chromosomes only during meiosis.
-
-* **T.Boveri (1902)** supported the idea that the chromosomes contain genetic determiners, and he was largely responsible for developing the chromosomal theory of inheritance.
-
-
-* **W.S. Sutton (1902)**, a young American student independently recognized a parallelism (similarity) between the behaviour of chromosomes and Mendelian factors during gamete formation.
-
-* **Sutton and Boveri (1903)** independently
+- **W.S. Sutton (1902)**, a young American student independently recognized a parallelism (similarity) between the behaviour of chromosomes and Mendelian factors during gamete formation.
+- **Sutton and Boveri (1903)** independently
 proposed the chromosome theory of
 inheritance. Sutton united the knowledge of
 chromosomal segregation with Mendelian
@@ -28,8 +23,7 @@ principles and called it chromosomal theory
 of inheritance.
 
 #### Salient features of the Chromosomal theory of inheritance**
-
-* Somatic cells of organisms are derived
+- Somatic cells of organisms are derived
 from the zygote by repeated cell division
 (mitosis). These consist of two identical
 sets of chromosomes. One set is received
@@ -37,16 +31,13 @@ from female parent (maternal) and
 the other from male parent (paternal).
 These two chromosomes constitute the
 homologous pair.
-
-* Chromosomes retain their structural
+- Chromosomes retain their structural
 uniqueness and individuality throughout
 the life cycle of an organism.
-
-* Each chromosome carries specific
+- Each chromosome carries specific
 determiners or Mendelian factors which
 are now termed as genes.
-
-* The behaviour of chromosomes during
+- The behaviour of chromosomes during
 the gamete formation (meiosis) provides
 evidence to the fact that genes or factors
 are located on chromosomes.

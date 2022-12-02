@@ -6,142 +6,46 @@ weight: 2
 ---
 
 {{< hint info >}}
-
-* Perceive the concepts of tissue culture.
- Cognize the steps of tissue culture
-techniques and its types.
-
-* Understand the protoplast culture in
-detail.
-* Elicit the list of secondary metabolites obtained through cell suspension culture.
-* Learn plant regeneration pathway.
-* Appreciate the uses of micro propagation, somatic hybridization, shoot meristem culture and germplasm conservation.
-* Acquire the knowledge of patenting Biosafety and Bioethics.
+- Perceive the concepts of tissue culture. Cognize the steps of tissue culture techniques and its types.
+- Understand the protoplast culture in detail.- Elicit the list of secondary metabolites obtained through cell suspension culture.- Learn plant regeneration pathway.- Appreciate the uses of micro propagation, somatic hybridization, shoot meristem culture and germplasm conservation.- Acquire the knowledge of patenting Biosafety and Bioethics.
 
 {{< /hint >}}
 
 
-{{< hint info >}}
+Growing plant protoplasts, cells, tissues or organs away from their natural or normal environment, under artificial condition, is known as Tissue Culture. It is also known as in vitro (In vitro is a Latin word, it means that - in glass or in test-tube) growth of plant protoplasts, cells, tissues and organs. A single explant can be multiplied into several thousand plants in a short duration and space under controlled conditions.
 
-5.1 Basic concepts in
-tissue culture
+Tissue culture techniques are often used for commercial production of plants as well as for plant research. Plant tissue culture serves as an indispensable tool for regeneration of transgenic plants. Apart from this some of the main applications of Plant tissue culture are clonal propagation of elite varieties, conservation of endangered plants, production of virus-free plants, germplasm preservation, industrial production of secondary metabolites. etc., In this chapter let us discuss the history , techniques, types , applications of plant tissue culture and get awareness on ethical issues.
 
-5.2 Plant tissue culture
-techniques and types
-
-5.3 Plant regeneration
-pathway
-
-5.4 Applications of plant tissue culture
-
-5.5 Conservation of plant genetic resources
-
-5.6 Intellectual Property Right (IPR),
-    Biosafety and Bioethics
-
-5.7 Future of Biotechnology
-
-
-{{< /hint >}}
-
-Growing plant
-protoplasts, cells, tissues
-or organs away from
-their natural or normal
-environment, under
-artificial condition, is
-known as Tissue Culture.
-It is also known as in vitro
-(In vitro is a Latin word,
-it means that - in glass
-or in test-tube) growth of plant protoplasts,
-cells, tissues and organs. A single explant can
-be multiplied into several thousand plants in
-a short duration and space under controlled 
-conditions.
-
-
-
-Tissue culture techniques are often used
-for commercial production of plants as well as
-for plant research. Plant tissue culture serves
-as an indispensable tool for regeneration of
-transgenic plants. Apart from this some of
-the main applications of Plant tissue culture
-are clonal propagation of elite varieties,
-conservation of endangered plants, production
-of virus-free plants, germplasm preservation,
-industrial production of secondary metabolites.
-etc., In this chapter let us discuss the history ,
-techniques, types , applications of plant tissue
-culture and get awareness on ethical issues.
-
-Gottlieb Haberlandt (1902) the German
-Botanist proposed the concept **Totipotency**
-and he was also the first person to culture plant
-cells in artificial conditions using the mesophyll
-cells of Lamium purpureum in culture medium
-and obtained cell proliferation. He is regarded
-as the father of tissue culture.
+Gottlieb Haberlandt (1902) the German Botanist proposed the concept **Totipotency** and he was also the first person to culture plant cells in artificial conditions using the mesophyll cells of Lamium purpureum in culture medium and obtained cell proliferation. He is regarded as the father of tissue culture.
 
 ### Basic concepts of Tissue Culture
 
-Basic concepts of plant tissue culture are
-totipotency, differentiation, dedifferentiation
-and redifferentiation.
+Basic concepts of plant tissue culture are totipotency, differentiation, dedifferentiation and redifferentiation.
 
 #### Totipotency
 
-The property of live plant cells that they
-have the genetic potential when cultured in
-nutrient medium to give rise to a complete
-individual plant.
+The property of live plant cells that they have the genetic potential when cultured in nutrient medium to give rise to a complete individual plant.
 
 #### Differentiation
 
-The process of biochemical and structural
-changes by which cells become specialized in
-form and function.
-
-
+The process of biochemical and structural changes by which cells become specialized in form and function.
 
 
 #### Redifferentiation
 
-The further differentiation of already
-differentiated cell into another type of cell.
-For example, when the component cells of
-callus have the ability to form a whole plant in
-a nutrient medium, the phenomenon is called
-redifferentiation.
+The further differentiation of already differentiated cell into another type of cell. For example, when the component cells of callus have the ability to form a whole plant in a nutrient medium, the phenomenon is called redifferentiation.
 
 #### Dedifferentiation
 
-The phenomenon of the reversion of mature
-cells to the meristematic state leading to the
-formation of callus is called dedifferentiation.
-These two phenomena of redifferentiation and
-dedifferentiation are the inherent capacities of
-living plant cells or tissue. This is described as
-totipotency. 
+The phenomenon of the reversion of mature cells to the meristematic state leading to the formation of callus is called dedifferentiation. These two phenomena of redifferentiation and dedifferentiation are the inherent capacities of living plant cells or tissue. This is described as totipotency. 
 
 ### Plant Tissue Culture (PTC)
 
-Plant tissue culture is used to describe the in
-*vitro* and aseptic growth of any plant part on a
-tissue culture medium. This technology is based
-on three fundamental principles:
+Plant tissue culture is used to describe the in *vitro* and aseptic growth of any plant part on a tissue culture medium. This technology is based on three fundamental principles:
+- The plant part or explant must be selected and isolated from the rest of plant body.
+- The explant must be maintained in controlled physically (environmental) and chemically defined (nutrient medium) conditions.
 
-*	 The plant part or explant must be selected
-and isolated from the rest of plant body.
-
-*	 The explant must be maintained in controlled
-physically (environmental) and chemically
-defined (nutrient medium) conditions.
-
- Aseptic condition must be maintained,
-which requires high degree of cleanliness in
-the laboratory.
+Aseptic condition must be maintained, which requires high degree of cleanliness in the laboratory.
 
 **Explant:**  The tissue taken from a selected
 plant transferred to a culture medium often
@@ -154,20 +58,16 @@ facilities:
 
 
 
-
-* Washing facility for glassware and ovens for
+- Washing facility for glassware and ovens for
 drying glassware.
-
-* Medium preparation room with autoclave,
+- Medium preparation room with autoclave,
 electronic balance and pH meter.
-
-* Transfer area sterile room with laminar
+- Transfer area sterile room with laminar
 air-flow bench and a positive pressure
 ventilation unit called High Efficiency
 Particulate Air (HEPA) filter to maintain
 aseptic condition.
-
-* Culture facility: Growing the explant
+- Culture facility: Growing the explant
 inoculated into culture tubes at 22-28° C
 with illumination of light 2400 lux, with a
 photoperiod of 8-16 hours and a relative
@@ -460,15 +360,12 @@ cells which differentiate into embryoids.
 
 **Applications**
 
-
-*  Somatic embryogenesis provides potential
+-  Somatic embryogenesis provides potential
 plantlets which after hardening period can
 establish into plants.
-
-*  Somatic embryoids can be be used for the
+-  Somatic embryoids can be be used for the
 production of synthetic seeds.
-
-*  Somatic embryogenesis is now reported
+-  Somatic embryogenesis is now reported
 in many plants such as Allium sativum,
 Hordeum vulgare, Oryza sativa, Zea mays
 and this possible in any plant.
@@ -482,11 +379,9 @@ of embryoids in agarose gel or calcium alginate.
 The morphological changes occur in the callus
 leading to the formation of shoot and roots is
 called organogenesis.
-
-* Organogenesis can be induced in vitro by
+- Organogenesis can be induced in vitro by
 introducing plant growth regulators in the MS
-medium.
-* Auxin and cytokinins induce shoot and root
+medium.- Auxin and cytokinins induce shoot and root
 formation.
 
 ### Applications of Plant Tissue Culture
@@ -561,19 +456,15 @@ embryoids like agrose and sodium alginate.
 
 Artificial seeds have many advantages over the
 true seeds
-
-* Millions of artificial seeds can be produced
+- Millions of artificial seeds can be produced
 at any time at low cost.
-
-* They provide an easy method to produce
+- They provide an easy method to produce
 genetically engineered plants with desirable
 traits.
-
-* It is easy to test the genotype of plants.
+- It is easy to test the genotype of plants.
 They can potentially stored for long time
 under cryopreservation method.
-
-* Artificial seeds produce identical plants
+- Artificial seeds produce identical plants
 The period of dormancy of artificial seeds is
 greatly reduced, hence growth is faster with
 a shortened life cycle.
@@ -660,36 +551,29 @@ secrets, publicity rights, moral rights, and rights
 against unfair competition.
 
 
-
-* In biotechnology, the
+- In biotechnology, the
 transformed microorganisms and plants and technologies
 for the production of commercial products
 are exclusively the property of the discoverer.
-
-* The discoverer has the full rights on his
+- The discoverer has the full rights on his
 property. It should not be neglected by the
 others without legal permission.
-
-* The right of discoverer must be protected
+- The right of discoverer must be protected
 and it does by certain laws framed by a
 country.
-
-* The IPR is protected by different ways
+- The IPR is protected by different ways
 like patents, copyrights, trade secrets and
 trademarks, designs and geographical
 indications.
 
 #### Patents
-
-* It is a special right to the discoverer/inventor
+- It is a special right to the discoverer/inventor
 that has been granted by the government
 through legislation for trading new articles.
-
-* A patent is a personal property which
+- A patent is a personal property which
 can be licensed or sold by the person or
 organisation just like any other property.
-
-* Patent terms give the inventor the rights to
+- Patent terms give the inventor the rights to
 exclude others from making, using or selling
 his invention.
 
