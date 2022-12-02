@@ -57,7 +57,7 @@ Figure 1.1 a-k: Natural methods of vegetative reproduction in plants.
 
 Apart from the above mentioned natural methods of vegetative reproduction, a number of methods are used in agriculture and horticulture to propagate plants from their parts. Such methods are said to be artificial propagation. Some of the artificial propagation methods have been used by man for a long time and are called **conventional** **methods**. Now-a-days, technology is being used for propagation to produce large number of plants in a short period of time. Such methods are said to be **modern methods**.
 
-#### A. Conventional methods
+##### A. Conventional methods
 
 The common methods of conventional propagation are cutting, grafting and layering.
 
@@ -97,11 +97,25 @@ Visit a nursery, observe the method of grafting, layering and do these technique
 
 In this method, the stem of a parent plant is allowed to develop roots while still intact. When the root develops,
 
+{{< figure "1.2(a):artificial-methods-of-vegetative-reproduction-in-plants.png" "w-25 float-right">}}
+
+Figure 1.2(a): Artificial methods of vegetative reproduction in plants
+
+{{< /figure >}}
+
+
 the rooted part is cut and planted to grow as a new plant. Examples: _Ixora_ and _Jasminum_. Mound layering and Air layering are few types of layering (Figure 1.2 b).
 
 **i**. **Mound** **layering**:
 
 This method is applied for the plants having flexible branches. The lower branch with leaves is bent to the ground and part of the stem is buried in the soil and tip of the branch is exposed above the soil. After the roots emerge from the part of the stem buried in the soil, a cut is made in parent plant so that the buried part grow into a new plant.
+
+{{< figure "1.2(b):artificial-methods-of-vegetative-reproduction-in-plants.png" "w-25 float-right">}}
+
+Figure 1.2(b): Artificial methods of vegetative reproduction in plants
+
+{{< /figure >}}
+
 
 **ii**. **Air** **layering**:
 

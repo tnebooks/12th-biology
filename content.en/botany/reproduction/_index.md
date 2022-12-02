@@ -27,7 +27,7 @@ Basically reproduction occurring in organisms fall under **two major** categorie
 2.  Sexual reproduction
 
 
-{{< figure "panchanan-maheswari.png" "w-25 float-start">}}
+{{< figure "panchanan-maheswari.png" "w-50 float-right">}}
 
 Panchanan Maheswari (1904 - 1966)
 
