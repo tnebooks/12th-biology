@@ -468,11 +468,6 @@ Figure 6.13: Insectivorous plant Utricularia
 
 The organisms which are dependent upon the host plants for their entire nutrition are called **Holoparasites.** They are also called **total parasites**.
 
-{{< figure "6.14-a-holoparasite-cuscuta-b-a-partial-stem-parasite-vi.png" "w-25 float-right" >}}
-
-Figure 6.14: a) Holoparasite – Cuscuta b) A Partial stem parasite – Viscum c) Root parasite on the brinjal root Orobanche spp. 
-
-{{< /figure >}}
 
 Examples:
 

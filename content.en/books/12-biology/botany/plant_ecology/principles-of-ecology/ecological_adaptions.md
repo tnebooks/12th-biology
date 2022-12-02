@@ -174,13 +174,7 @@ They have many adaptations to resist dry
 conditions. *Examples: Casuarina, Nerium,*
 *Zizyphus and Acacia.*
 
-{{< figure "6.21:a)succulent-xerophyte–aloeb)non-succulent-perennial-ziziphus.png" "w-25 float-start">}}
 
-Figure 6.21: a)Succulent xerophyte – Aloe
-
-b) Non succulent perennial - Ziziphus
-
-{{< /figure >}}
 
 **Morphological Adaptations**
 

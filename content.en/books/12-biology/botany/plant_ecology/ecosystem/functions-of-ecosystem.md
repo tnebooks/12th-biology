@@ -218,11 +218,7 @@ In a **forest** **ecosystem** the pyramid of number is somewhat different in sha
 
 The pyramid of number in a **parasite** **ecosystem** is always **inverted**, because it starts with a single tree. Therefore there is gradual increase in the number of organisms in successive tropic levels from producer to tertiary consumers.
 
-{{< figure "7.8:pyramids-of-numbers-(individuls-per-unit-area-in-different-types-of-ecosystems.png" "w-25 float-start">}} 
 
-Figure 7.8: Pyramids of numbers
-
-{{< /figure >}}
 
 **2 Pyramid of biomass**
 A graphical representation of the amount of organic material (biomass) present at each successive trophic level in an ecosystem is called **pyramid of biomass.**
@@ -240,11 +236,7 @@ Figure 7.9 : Pyramids of Biomass ( dry weight per unit area) in different types 
 **3. Pyramid of energy**
 A graphical representation of energy flow at each successive trophic level in an ecosystem is called **pyramid of energy**. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
 
-{{< figure "7.10: pyramids-of-energy-in-any-ecosystem.png" "w-25 float-start">}}
 
-Figure 7.10: Pyramids of Energy (Kcal/unitarea /unit time) in any ecosystem
-
-{{< /figure >}}
 
 #### Decomposition:
 
@@ -258,11 +250,7 @@ The process of decomposition varies based on the nature of the organic compounds
 
 Decomposition is a step wise process of degradation mediated by enzymatic reactions. Detritus acts as a raw material for decomposition. It occurs in the following steps.
 
-{{< figure "7.11-diagrammatic-representation-process-of-decomposition-an.pngpng" "w-25 float-start">}}
 
-Figure 7.11 : Diagrammatic representation - Process pf decomposition and cycling of nutrients.
-
-{{< /figure >}}
 
 **a. Fragmentation** -
 

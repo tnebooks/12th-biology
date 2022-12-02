@@ -33,11 +33,7 @@ The development of plant community in a barren area where no community existed b
 
 The development of a plant community in an area where an already developed community has been destroyed by some natural disturbance (Fire, flood, human activity) is known as **secondary** **succession**. Generally, This succession takes less time than the time taken for primary succession.
 
-{{< figure "7.18-diagrammatic-representation-of-secondary-succession.png" "w-25 float-start">}}
 
-Figure 7.18: Diagrammatic representation of secondary succession
-
-{{< /figure >}}
 
 
 ##### 3. Allogenic succession -

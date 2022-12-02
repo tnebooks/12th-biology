@@ -6,11 +6,7 @@ weight: 1
 ---
 
 
-{{< figure "r.misra.png" "w-25 float-sm-end">}}
 
-R.Misra
-
-{{< /figure >}}
 
 The term “ecology” **(oekologie)** is derived from two Greek words – **oikos** (meaning house or dwelling place and **logos** meaning study) It was first proposed by Reiter (1868). However, the most widely accepted definition of ecology was given by **Ernest Haeckel** (1869). 
 
