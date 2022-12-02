@@ -138,7 +138,7 @@ Ovule is also called megasporangium and is protected by one or two covering call
 
 {{< figure "1.7-structure-of-an-ovule.png" "w-50 float-right">}}
 
-Figure 1.7 Structure-of-an-Ovule.png
+Figure 1.7 Structure-of-an-Ovule
 
 {{< /figure >}}
 
@@ -146,6 +146,13 @@ Figure 1.7 Structure-of-an-Ovule.png
 #### Types of Ovules
 
 The ovules are classified into six main types based on the orientation, form and position of the micropyle with respect to funicle and chalaza. Most important ovule types are orthotropous, anatropous, hemianatropous and campylotropous. The types of ovule is given in Figure 1.8.
+
+{{< figure "1.8-types-of-ovule.png" "w-50 float-right">}}
+
+Figure 1.8 Types of Ovule
+
+{{< /figure >}}
+
 
 **Orthotropous**: In this type of ovule, the micropyle is at the distal end and the micropyle, the funicle and the chalaza lie in one straight vertical line. Examples: Piperaceae, Polygonaceae.
 
@@ -167,9 +174,25 @@ As the ovule develops, a single hypodermal cell in the nucellus becomes enlarged
 
 ##### Development of Monosporic embryo sac.
 
+{{< figure "1.9-development-of-ovule-and-embryo-sac.png" "w-50 float-right">}}
+
+Figure 1.9 Development of Ovule and Embryo sac
+
+{{< /figure >}}
+
 To describe the stages in embryo sac development and organization the simplest monosporic type of development is given below.
 
-The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division . Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg** **apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal** **cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2** **polar** **nuclei** may remain free or may fuse to form a **secondary** **nucleus** (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled with 8 nuclei embryo sac is formed. The structure of embryo sac is given in Figure 1.10.
+The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division . Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division).
+
+
+{{< figure "1.10-structure-of-embryo-sac.png" "w-50 float-right">}}
+
+Figure 1.10 structure of embryo sac.
+
+{{< /figure >}}
+
+
+ After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg** **apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal** **cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2** **polar** **nuclei** may remain free or may fuse to form a **secondary** **nucleus** (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled with 8 nuclei embryo sac is formed. The structure of embryo sac is given in Figure 1.10.
 
 #### Pollination
 
