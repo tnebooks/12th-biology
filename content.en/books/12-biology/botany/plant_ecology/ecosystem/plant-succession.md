@@ -5,9 +5,11 @@ draft: false
 weight: 3
 ---
 
+## Plant succession
+
 We very often see that forests and lands in our areas are drastically affected by natural calamities (Flood, earthquake) and anthropogenic activities (Fire, over grazing, cutting of trees). Due to these reasons all plants of an area are destroyed and the areas become nude. When we observe this area, over a period of a time we can see that it will be gradually covered by plant community again and become fertile. Such successive replacement of one type of plant community by the other of the same area/ place is known as plant **succession**. The first invaded plants in a barren area are called **pioneers**. On the other hand, a series of transitional developments of plant communities one after another in a given area are called **seral** **communities**. At the end a final stage and a final plant community gets established which are called as climax and climax community respectively.
 
-#### Characteristics of ecological succession
+### Characteristics of ecological succession
 
 -  It is a systematic process which causes changes in specific structure of plant community.
 - It is resultant of changes of abiotic and biotic factors.
@@ -21,7 +23,7 @@ We very often see that forests and lands in our areas are drastically affected b
 
 The various types of succession have been classified in different ways on the basis of different aspects. These are as follows:
 
-##### 1.Primary succession -
+##### 1.Primary succession
 
 The development of plant community in a barren area where no community existed before is called primary succession. The plants which colonize first in a barren area is called **pioneer** **species** or **primary community** or **primary colonies**. Generally, Primary succession takes a very long time for the occurrence in any region.
 
@@ -31,7 +33,7 @@ The development of plant community in a barren area where no community existed b
 
 The development of a plant community in an area where an already developed community has been destroyed by some natural disturbance (Fire, flood, human activity) is known as **secondary** **succession**. Generally, This succession takes less time than the time taken for primary succession.
 
-{{< figure "7.18-diagrammatic-representation-of-secondary-succession.png.png" "w-25 float-start">}}
+{{< figure "7.18-diagrammatic-representation-of-secondary-succession.png" "w-25 float-start">}}
 
 Figure 7.18: Diagrammatic representation of secondary succession
 
