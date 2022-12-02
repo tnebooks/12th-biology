@@ -1,5 +1,6 @@
 ## Dev
 
 ```sh
-./hugow server --themesDir ../
+./hugow --get-extended --get-latest
+./hugow server --ignoreCache --themesDir ../
 ```
