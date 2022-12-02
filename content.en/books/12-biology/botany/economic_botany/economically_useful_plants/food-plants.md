@@ -84,9 +84,7 @@ used in culinary and industrial purposes.
 **Husks**are used as fuel, and in the manufacture
 of packing material and fertilizer.
 
-{{< figure "pic1.png" "w-25 float-end">}}
-Figure 10.1: Major Cereals
-{{< /figure >}}
+
 
 **Origin and Area of cultivation**
 
@@ -154,9 +152,7 @@ small seeds originally cultivated by ancient
 people in Africa and Asia. They are gluten free
 and have less glycemic index.
 
-{{< figure "pic2.png" "w-25 float-end">}}
-Figure 10.2: Millets
-{{< /figure >}}
+
 
 **Finger Millet – Ragi**
 
@@ -185,9 +181,7 @@ millets in the world and is rich in calcium and iron.
 It is fed to poultry, birds, pigs and cattle and a
 source of fermented alcoholic beverage.
 
-{{< figure "pic3.png" "w-25 float-end">}}
-Figure 10.3: Minor Millets
-{{< /figure >}}
+
 
 #### Minor Millets 
 
@@ -248,9 +242,7 @@ growing black gram in India are
 Uttar Pradesh, Chattisgarh and
 Karnataka.
 
-{{< figure "pic4.png" "w-25 float-end">}}
-Figure 10.4: Pulses
-{{< /figure >}}
+
 
 **Uses**
 
@@ -355,9 +347,7 @@ tropical fruit.
 *Botanical name : Mangifera indica*
 *Family: Anacardiaceae*
 
-{{< figure "pic5.png" "w-25 float-end">}}
-Figure 10.5: Mango
-{{< /figure >}}
+
 
 Origin and Area of
 cultivation
@@ -404,9 +394,7 @@ to India in the 16th century through Portuguese
 sailors. Cashew is grown in Kerala, Karnataka,
 Goa, Maharashtra, Tamil Nadu, and Orissa.
 
-{{< figure "pic6.png" "w-25 float-end">}}
-Figure 10.6: Nuts
-{{< /figure >}}
+
 
 **Uses**
 
@@ -461,9 +449,7 @@ drink. Molasses is the raw material for the
 production of ethyl alcohol.
 
 
-{{< figure "pic7.png" "w-25 float-end">}}
-Figure 10.7: Sugars
-{{< /figure >}}
+
 
 **Palmyra (State tree of Tamil Nadu)**
 
@@ -548,9 +534,7 @@ of the scented oils used in perfumes. Sesame seed
 snacks are popular throughout India.
 
 
-{{< figure "pic8.png" "w-25 float-end">}}
-Figure 10.8: Oil Seeds
-{{< /figure >}}
+
 
 #### Beverages 
 
@@ -571,9 +555,7 @@ night work?
 
 **Origin and Area Coffee of cultivation:**
 
-{{< figure "pic9.png" "w-25 float-end">}}
-Figure 10.9: Beverages
-{{< /figure >}}
+
 
 Coffea arabica is
 the prime source

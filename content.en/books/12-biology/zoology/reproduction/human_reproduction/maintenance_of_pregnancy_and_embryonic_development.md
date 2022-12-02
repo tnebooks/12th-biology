@@ -33,9 +33,7 @@ foetus can move. The yolk sac forms a part of
 the gut and is the source of the earliest blood
 cells and blood vessels.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 The allantois forms a small out pocketing
 of embryonic tissue at the caudal end of the yolk

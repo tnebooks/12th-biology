@@ -6,9 +6,7 @@ weight: 3
 ---
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Unit9
-{{< /figure >}}
+
 
 
 {{< hint warn >}}
@@ -146,9 +144,7 @@ produced by human or natural activity. The
 nature and concentration of a pollutant
 determines the severity of detrimental effects
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 on organisms and human health. Along with
 atmospheric factors (humidity, precipitation,
@@ -407,9 +403,7 @@ by government agencies to communicate to the
 public how polluted the air is at a given time.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 ### Water Pollution 
 
@@ -461,9 +455,7 @@ rain, dumping of the plastics in water bodies,
 agriculture chemical run off are common
 examples **(Fig. 12.2 b).**
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig 12.2 Sources of water pollution
-{{< /figure >}}
+
 
 **Leaks and Spills:** This occurs mostly due to
 ship collision, off shore oil rigs, oil leakages
@@ -473,9 +465,7 @@ Sources of water pollution can also be classified
 in three ways. They are municipal wastes,
 industrial wastes, and agricultural wastes.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 1. Municipal waste water is from homes and
 commercial establishments.
@@ -567,9 +557,7 @@ algal blooms which affect the quality
 of water bodies **(Fig. 12.3).** Red tides, if
 occur, can be lethal to aquatic organisms.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 12.3 Algal bloom
-{{< /figure >}}
+
 
 #### Control Measures 
 1. Right to clean water is a fundamental
@@ -761,9 +749,7 @@ chemicals cause air pollution.
 * Inhalation of contaminated air can cause
 respiratory problems.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 * Consumption can lead to poisoning, side
 effects and after effects.
@@ -793,9 +779,7 @@ naturally occurring substances are degradable.
 
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 #### Biomagnification of DDT
 
@@ -865,14 +849,10 @@ treatment is usually performed in the following
 three stages (Fig. 12.6).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-
-{{< /figure >}}
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
+
 
 ### Primary treatment
 
@@ -935,9 +915,7 @@ inactivating microorganisms. UV is a chemical-
 free process that can completely replace
 the existing chlorination system and also
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 inactivates chlorine-resistant microorganisms
 like Cryptosporidium and Giardia.
@@ -977,9 +955,7 @@ and treated properly. When hazardous
 wastes like pesticides, batteries containing
 lead, cadmium, mercury or zinc, cleaning
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 solvents, radioactive materials, e-waste
 and plastics are mixed up with paper and
@@ -988,14 +964,10 @@ such as dioxins. These gases are toxic and
 carcinogenic. These pollute the surrounding
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-
-{{< /figure >}}
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
+
 
 air, ground water and can seriously affect
 the health of humans, wildlife and our
@@ -1049,9 +1021,7 @@ the treatment, storage, and disposal of liquid,
 airborne, and solid effluents from the nuclear
 industry.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 #### Methods of disposal of radioactive wastes are
 
@@ -1147,9 +1117,7 @@ toxic substances. E-wastes are basically PCB
 (Polychlorinated biphenyl) based, which are
 non-degradable **(Fig.12.8).**
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 Used electronics which are destined for
 reuse, resale, salvage, recycling, or disposal

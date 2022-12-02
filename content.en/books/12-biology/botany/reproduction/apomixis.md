@@ -38,9 +38,7 @@ apomixis is given below.
 
 
 
-{{< figure "40.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 

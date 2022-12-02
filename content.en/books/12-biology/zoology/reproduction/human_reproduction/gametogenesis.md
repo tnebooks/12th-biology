@@ -34,13 +34,9 @@ tubule and become modified and enlarged
 to form primary spermatocytes which are
 diploid with 23 pairs i.e., 46 chromosomes.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 Some of the primary spermatocytes
 undergo first meiotic division to form two
@@ -76,9 +72,7 @@ Leydig cells and stimulates the synthesis of
 **testosterone** which in turn stimulates the
 process of spermatogenesis.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 **Structure of human spermatozoan**
 
@@ -127,9 +121,7 @@ at least 40 per cent
 must show vigorous
 motility for normal fertility.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 {{< hint info >}}
 The sperm is the smallest
@@ -205,7 +197,5 @@ coat of follicular cells called corona radiata.
 Between the vitelline membrane and zona
 pellucida is a narrow perivitelline space.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 

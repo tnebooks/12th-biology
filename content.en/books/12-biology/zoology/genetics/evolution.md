@@ -6,9 +6,7 @@ weight: 3
 ---                               {{< hint info >}}
                                    {{< /hint >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 
 {{< hint warn >}}
@@ -204,9 +202,7 @@ called the **Golden age of reptiles**, is
 divided into three periods namely,
 Triassic (origin of egg laying mammals),
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 Jurassic (Dinosaurs were dominant on the
 earth, fossil **bird – Archaeopteryx)** and
@@ -318,9 +314,7 @@ chamber that was connected to the boiling
 water. The steam condensed to form water
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 which ran down the ‘U’ tube. Experiment
 was conducted continuously for a week and
@@ -429,9 +423,7 @@ similarity with each other and is made of
 similar bones such as humerus, radius, ulna,
 carpals, metacarpals and phalanges.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 Structures which are similar in origin
 but perform different functions are called
@@ -454,9 +446,7 @@ of birds and insects are different structurally
 but perform the same function of flight that
 brings about **convergent evolution (Fig. 6.3).**
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 Other examples of analogous organs
 include the eyes of the Octopus and of
@@ -897,9 +887,7 @@ placental mammals have
 radiated across North
 America.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig 6.5 Darwin’s finches
-{{< /figure >}}
+
 
 ### Mechanism of evolution 
 
@@ -970,13 +958,9 @@ average phenotype are eliminated. This
 results in splitting of the population into
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 sub population/species. This is a rare form
 of selection but leads to formation of two
@@ -1019,9 +1003,7 @@ to founder’s effect.
 
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 #### Mutation
 
@@ -1194,9 +1176,7 @@ forehead, thin large orbits, heavy brow ridges,
 protruding jaws and no chin. They used animal
 hides to protect their bodies, knew the use of
 
-{{< figure "Tweety.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 fire and buried their dead. They did not practice
 agriculture and animal domestication.
@@ -1407,6 +1387,3 @@ sapiens → Ramapithecus → Homo habilis.
 30) How does Neanderthal man differ from
 the modern man in appearance?
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-
-{{< /figure >}}

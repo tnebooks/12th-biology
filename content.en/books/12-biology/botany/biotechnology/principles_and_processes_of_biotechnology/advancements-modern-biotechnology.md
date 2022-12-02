@@ -20,9 +20,7 @@ The steps involved in recombinant DNA technology are:
 - Isolation of a DNA fragment containing a gene of interest that needs to be cloned. This is called an insert. PCR: Polymerase Chain Reaction is a common laboratory technique used to make copies (millions) of a particular region of DNA.
 - Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a vector that can self-replicate within the host cell.
 
-{{< figure "4.4.png" "w-25 float-end">}}
-bio-botant image
-{{< /figure >}}
+
 
 - Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
 - The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.

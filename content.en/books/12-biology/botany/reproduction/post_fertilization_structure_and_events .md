@@ -10,9 +10,7 @@ After fertilization, several changes take place in
 the floral parts up to the formation of the seed
 (Figure 1.20).
 
-{{< figure "1.27.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 The events after fertilization (endosperm,
 embryo development, formation of seed, fruits)
@@ -20,9 +18,7 @@ are called fertilization changes.
 
 
 
-{{< figure "1.28.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -64,9 +60,7 @@ formation. Examples: *Adoxa*, *Helianthus* and
 *Scoparia*
 
 
-{{< figure "1.29.png""w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -92,9 +86,7 @@ the embryo during seed germination. Examples:
 Paddy, Coconut and Castor.
 
 
-{{< figure "34.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Ruminate endosperm**: The endosperm with
@@ -118,9 +110,7 @@ endosperm.
 •	Endosperm regulates the precise mode of embryo development.
 
 
-{{< figure "35.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -145,9 +135,7 @@ two **cotyledons** and a **plumule**.
 
 
 
-{{< figure "46.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 ##### Seed
@@ -158,9 +146,7 @@ Seeds may be endospermous (wheat, maize,
 barley and sunflower) or non endospermo.
 
 
-{{< figure "36.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Cicer seed (example for Dicot seed)**
@@ -183,15 +169,11 @@ in pea whereas in other seeds like castor the
 
 
 
-{{< figure "37.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
 
 
-{{< figure "38.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 
@@ -243,6 +225,4 @@ endosperm with the help of the epithelium
 
 
 
-{{< figure "39.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+

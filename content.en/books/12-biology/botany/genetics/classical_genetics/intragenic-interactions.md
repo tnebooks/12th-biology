@@ -52,9 +52,7 @@ that Mendel’s particulate inheritance takes
 place in this cross which is confirmed by the
 reappearance of original phenotype in F<sub>2</sub>
 
-{{< figure "bbf7.14.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 #### Codominance (1 : 2 : 1) - This pattern occurs due to simultaneous (joint) expression of both alleles in the heterozygote - The phenomenon in which two
@@ -149,9 +147,7 @@ condition. So the F<sub>2</sub> genotypic ratio will be 2 : 1
 or 1 : 2 respectively.
 
 
-{{< figure "bbf7.15.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 #### Pleiotropy – A single gene affects multiple traits

@@ -21,9 +21,7 @@ All the process before starting of the fermenter such as sterilization of the fe
 
 All the process after the fermentation process is known as the downstream process. This process includes distillation, centrifuging,filtration and solvent extraction. Mostly this process involves the purification of the desired product.
 
-{{< figure "4.2.png" "w-25 float-end">}}
-bio-botant image
-{{< /figure >}}
+
 
 ##### Procedure of Fermentation
 
@@ -72,9 +70,7 @@ Single cell proteins are dried cells of microorganism that are used as protein s
 
 The single cell protein forms an important source of food because of their protein content, carbohydrates, fats, vitamins and minerals. It is used by Astronauts and Antarctica expedition scientists.
 
-{{< figure "4.3.png" "w-25 float-end">}}
-bio-botant image
-{{< /figure >}}
+
 
 Spirulina can be grown easily on materials like waste water from potato processing plants (containing starch), straw, molasses, animal manure and even sewage, to produce large quantities and can serve as food rich in protein, minerals, fats, carbohydrate and vitamins. Such utilization also reduces environmental pollution. 250 g of Methylophilus methylotrophus, with a high rate of biomass production and growth, can be expected to produce 25 tonnes of protein.
 

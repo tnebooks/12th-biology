@@ -63,6 +63,3 @@ for manufacturing sacks and bags. It is also used
 in manufacture of blankets, rags, curtains etc. It
 is also being used as a textile fibre in recent years.
 
-{{< figure "pic11.png" "w-25 float-end">}}
-Figure 10.12: Fibres
-{{< /figure >}}

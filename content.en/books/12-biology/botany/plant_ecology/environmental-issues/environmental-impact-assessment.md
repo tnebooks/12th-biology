@@ -51,9 +51,7 @@ method of spraying pesticides and fertilizers,
 which proves very easy and non-harmful.
 
 
-{{< figure "8.20.png" "w-25 float-start">}}
-lesson 9
-{{< /figure >}}
+
 
 
 #### Biodiversity Impact Assessment (BIA)

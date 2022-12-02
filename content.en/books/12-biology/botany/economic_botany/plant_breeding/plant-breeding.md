@@ -44,9 +44,7 @@ photosensitive and
 thermos-sensitive
 varieties.
 
-{{< figure "pic30.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 
 

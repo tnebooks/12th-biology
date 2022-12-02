@@ -15,9 +15,7 @@ four categories based on its origin.
 
 
 
-{{< figure "41.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 

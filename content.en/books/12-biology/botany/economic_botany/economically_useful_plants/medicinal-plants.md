@@ -76,9 +76,7 @@ eight other herbs (Nilavembu Kudineer) is
 effectively used to treat malaria and dengue.
 
 
-{{< figure "pic19.png" "w-25 float-end">}}
-Figure 10.19: Medicinal Plants
-{{< /figure >}}
+
 
 
 **Psychoactive Drugs**
@@ -107,9 +105,7 @@ Rajasthan and Uttar Pradesh are the licenced
 states to cultivate opium poppy.
 
 
-{{< figure "pic20.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 Opium is derived from the exudates of
 fruits of poppy plants. It was traditionally
@@ -149,6 +145,3 @@ effect on individual’s health and society.
 Hence most of the countries have banned its
 cultivation and use.
 
-{{< figure "pic21.png" "w-25 float-end">}}
-
-{{< /figure >}}

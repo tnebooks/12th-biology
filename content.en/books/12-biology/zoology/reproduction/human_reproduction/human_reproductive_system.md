@@ -54,9 +54,7 @@ tissue surrounding the
 seminiferous tubules.
 These cells are endocrine in nature and secret
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 {{< hint info >}}
@@ -109,9 +107,7 @@ glands also called **Cowper’s gland** and a single
 alkaline fluid called seminal plasma containing
 fructose sugar, ascorbic acid, prostaglandins and
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 a coagulating enzyme called **vesiculase** which
 enhances sperm motility. The bulbourethral
@@ -147,9 +143,7 @@ system consists of a pair of ovaries along with
 a pair of oviducts, uterus, cervix, vagina and
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 the external genitalia located in the pelvic
@@ -194,9 +188,7 @@ like projections called **fimbriae**
 Female uterus contains one of the strongest muscles of the human body.
 {{< /hint >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 which help in collection of the ovum after
@@ -281,9 +273,7 @@ up of lobules which contain **acini or alveoli**
 lined by epithelial cells. Cells of the alveoli
 secrete milk. The alveoli open into **mammary tubules**. The tubules of each lobe join to form
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 a **mammary duct**. Several mammary ducts
 join to form a wider **mammary ampulla**

@@ -28,29 +28,13 @@ The plants which are living in water or wet places are called hydrophytes. Accor
 
 **v. Amphibious hydrophytes** (Rooted emergent hydrophytes): These plants are adapted to both
 
-{{< figure "i-free-floating-hydrophyte.png" "w-25 float-start">}}
 
-  i) Free floating hydrophyte  a) Eichhornia  b)Pistia
 
-{{< /figure >}}
 
-{{< figure "ii-rooted-floating-hydrophyte.png" "w-40 float-start">}}
 
-ii) Rooted floating hydrophyte   c) Nymphaea   d) Marsilea
 
-{{< /figure >}}
 
-{{< figure "iii-submerged-floating-hydrophyte.png" "w-40 float-start">}}
 
-iii) Submerged floating hydrophyte e) Ceratophyllum f) Utricularia
-
-{{< /figure >}}
-
-{{< figure "iv-rooted-submerged-hydrophyte.png" "w-40 float-start">}}
-
-iv) Rooted - submerged hydrophyte g) Vallisneria h) Hydrilla
-
-{{< /figure >}}
 
 {{< figure "6.18-hydrophytes.png" "w-40 float-start">}}
 

@@ -89,9 +89,7 @@ or forests over several years
 * Mapping ocean bottom and its resources
 
 
-{{< figure "8.21.png" "w-25 float-start">}}
-lesson 9
-{{< /figure >}}
+
 
 
 

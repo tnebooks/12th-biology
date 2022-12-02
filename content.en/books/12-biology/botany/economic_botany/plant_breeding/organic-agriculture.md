@@ -72,9 +72,7 @@ the wheat granary of India.
 
 {{< /hint >}}
 
-{{< figure "pic24.png" "w-25 float-end">}}
-Figure 9.3: Classification of Biofertilizers
-{{< /figure >}}
+
 
 **Rhizobium**
 
@@ -90,9 +88,7 @@ best suited for the paddy fields which increase
 the yield by 15 – 40%
 
 
-{{< figure "pic25.png" "w-25 float-end">}}
-Figure 9.4 (a) : Root nodules occur on root (b) C.S. of Root nodule
-{{< /figure >}}
+
 
 **Azolla**
 
@@ -106,9 +102,7 @@ is quite significant particularly for increasing the
 yield of rice crop, as it quickly decompose in soil.
 
 
-{{< figure "pic27.png" "w-25 float-end">}}
-Figure 9.5: (a) Azolla in paddy field (b) Azolla
-{{< /figure >}}
+
 
 
 **Arbuscular mycorrhizae**
@@ -120,9 +114,7 @@ They have the ability to dissolve the phosphates
 found in abundance in the soil.
 
 
-{{< figure "pic26.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 
 Apart from increasing the availability of
@@ -143,9 +135,7 @@ but also eco-
 friendly.
 
 
-{{< figure "pic28.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 The
 alginates in the
 seaweed
@@ -185,9 +175,7 @@ to enhance root growth development (3) crop
 productivity (4) resistance to abiotic stress and
 (5) uptake and use of nutrients.
 
-{{< figure "pic29.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 Beauveria species is an entomo-pathogenic
 fungus that grows naturally in soils throughout

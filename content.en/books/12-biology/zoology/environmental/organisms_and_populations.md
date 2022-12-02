@@ -183,9 +183,7 @@ mouths are designed to suit their niche and
 hence have different positions and functions in
 their habitat (Fig.10.1).
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -207,9 +205,7 @@ development and even death in the Biosphere.
 The minimum and maximum temperature of an
 environment regulates the survival of a cell.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 The metabolism of organisms is regulated
@@ -232,9 +228,7 @@ lower the temperature, more the vertebrae
 (Jordon’s rule).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 Temperature influences the distribution
@@ -292,15 +286,11 @@ in summer. Light influences the locomotion
 and movement of lower animals.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 **WATER**
@@ -362,9 +352,7 @@ remain at the surface of a water body even
 though they are denser than the water.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Soil**
@@ -509,14 +497,10 @@ organisms like fishes. The climate of coastal
 zones are influenced by aquatic bodies.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 **Aquatic biomes of earth**
@@ -600,9 +584,7 @@ hare and predatory pine martens. Important
 predators include the timber wolf, grizzly bear,
 black bear, bobcat and wolverines. (Fig. 10.6)
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 **GRASSLAND BIOME**
 
@@ -633,9 +615,7 @@ grass, wild oats, foxtail, ryegrass and buffalo
 grass (Fig. 10.7).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Alpine biome**
@@ -740,9 +720,7 @@ have already been destroyed.
 {{< /hint >}}
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Temperate forest**
@@ -861,9 +839,7 @@ the environmental condition, which in itself
 is a response (Fig. 10.9).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **The types of responses observed are**
@@ -1154,9 +1130,7 @@ usually occurs when there is overcrowding. This
 is regarded as an adaptive behavior that regulates
 the population in a particular site and prevents over exploitation of the habitat. Further, it leads to occupation of new areas elsewhere.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Immigration**
@@ -1204,9 +1178,7 @@ rainy season followed by their disappearance at
 the end of the season (Fig. 10.11).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 **S-Shaped growth form (sigmoid growth)**
 
@@ -1593,9 +1565,7 @@ representation of response of organisms
 to abiotic factors. What do A, B and C
 represent respectively.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 <style type="text/css">

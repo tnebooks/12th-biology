@@ -35,6 +35,4 @@ This dye has long been used to dye skin, hair and
 finger nails. It is used for colouring leather, for
 the tails of horses and in hair-dyes.
 
-{{< figure "pic15.png" "w-25 float-end">}}
-Figure 10.16: Naturals Dyes
-{{< /figure >}}
+

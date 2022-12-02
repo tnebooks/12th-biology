@@ -19,9 +19,7 @@ triggered the search for sea route to India
 and paved way for the exploratory voyages by
 Spanish and Portuguese.
 
-{{< figure "pic10.png" "w-25 float-end">}}
-Figure 10.10: Spices
-{{< /figure >}}
+
 
 Spices are accessory foods mainly used
 for flavouring during food preparation to

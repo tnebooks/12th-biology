@@ -55,9 +55,7 @@ mass. The inner cell mass of the blastocyst
 develops into the embryo and becomes
 embedded in the endometrium of the uterus.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 This process is called implantation and it
 results in pregnancy.
@@ -69,9 +67,7 @@ the embryo may cause internal bleeding,
 infection and in some cases even death due to
 rupture of the fallopian tube.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 {{< hint info >}}
 

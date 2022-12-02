@@ -62,9 +62,7 @@ chromosomes during meiosis not only explains
 Mendel’s principles but leads to new and
 different approaches to study about heredity.
 
-{{< figure "bbf7.22.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 <style type="text/css">
@@ -111,9 +109,7 @@ Physiology or Medicine for his
 discoveries concerning the role
 played by chromosomes in heredity.
 
-{{< figure "bbf7.23.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 {{< /hint >}}
 
 

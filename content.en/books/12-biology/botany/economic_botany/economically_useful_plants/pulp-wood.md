@@ -27,9 +27,7 @@ azadirachta, Neolamarkia chinensis, Casuarina
 spp, Eucalyptus spp are used for making
 paper pulp.
 
-{{< figure "pic14.png" "w-25 float-end">}}
-igure 10.15 : Wood pulp
-{{< /figure >}}
+
 
 {{< hint info >}}
 

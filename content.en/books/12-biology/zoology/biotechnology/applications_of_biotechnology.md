@@ -117,9 +117,7 @@ its effectiveness against diabetes.
 
 {{< /hint >}}
 
-{{< figure "Tweety.png""w-25 float-end">}}
-Fig. 9.1 Human Insulin Production
-{{< /figure >}}
+
 
 
 {{< hint info >}}
@@ -279,9 +277,7 @@ the world after USA, France and Belgium to develop an indigenous hepatitis B vac
 
 {{< /hint >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9.2 Production of recombinant HB Vaccine
-{{< /figure >}}
+
 
 Somatic cell therapy involves the insertion of
 a fully functional and expressible gene into a
@@ -355,9 +351,7 @@ are introduced into the cells of the early embryonic stages.
 
 {{< /hint >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9.3 Process of gene therapy
-{{< /figure >}}
+
 
 
 In mammals there are two main types of
@@ -390,9 +384,7 @@ based therapies. Human stem cells could be used
 to test new drugs.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9.4 Embryonic stem cells
-{{< /figure >}}
+
 
 
 
@@ -503,9 +495,7 @@ the amount of the antigen. ELISA is highly
 sensitive and can detect antigens in the range
 of a nanogram.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9.5 Enzyme Linked Immuno
-{{< /figure >}}
+
 
 
 There are four kinds of ELISA namely,
@@ -571,9 +561,7 @@ complementary DNA by the enzyme reverse
 transcriptase. The cDNA then serves as the
 template for PCR.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9.6 Steps involved in PCR
-{{< /figure >}}
+
 
 **PCR In Clinical Diagnosis**
 
@@ -654,9 +642,7 @@ manipulations are called **transgenic animals**
 or the **genetically engineered** or genetically
 modified organisms.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9. 7 Production of transgenic animals 
-{{< /figure >}}
+
 
 The various steps involved in the
 production of transgenic organisms are
@@ -774,9 +760,7 @@ and the phenomenon of totipotency.
 to develop different cells, tissues, organs and
 finally an organism.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-Fig. 9. 8 Cloning of dolly 
-{{< /figure >}}
+
 
 The mammary gland udder cells
 (somatic cells) from a donor sheep (ewe) were
@@ -1082,6 +1066,3 @@ of cloning.
 28. Explain how recombinant Insulin can be
 produced.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-
-{{< /figure >}}

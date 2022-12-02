@@ -26,9 +26,7 @@ Kerala,
 Tamil Nadu and
 North-West India.
 
-{{< figure "pic12.png" "w-25 float-end">}}
-Figure 10.13: Timber
-{{< /figure >}}
+
 
 **Uses:**
 

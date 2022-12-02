@@ -15,9 +15,7 @@ is called as **Father of Genetics**
 
 #### Father of Genetics – Gregor Johann Mendel (1822 – 1884)
 
-{{< figure "bbf7.1.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 The first Geneticist,Gregor Johann Mendel unraveled the mystery of heredity. He was born on 22<sup>nd</sup> July 1822 in Heinzendorf Silesia (now Hyncice,Czechoslovakia) Austria. After school education, later he studied botany, physics and
@@ -97,9 +95,7 @@ breed refers to homozygosity only. Fusion of
 male and female gametes produced by the same
 individual i.e pollen and egg are
 
-{{< figure "bbf7.2.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 derived from the same plant is known as self-
@@ -116,9 +112,7 @@ principles or laws formulated, now constitute
 the Mendelian Genetics.
 
 
-{{< figure "bbf7.3.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 **Figure 2.4: Mendel’s seven characters in Garden Peas, shown on the plant’s seven chromosomes**
 
@@ -140,9 +134,7 @@ of Austria.
 {{< hint info >}}
 
 
-{{< figure "bbf7.4.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 Can you identify Mendel’s gene for

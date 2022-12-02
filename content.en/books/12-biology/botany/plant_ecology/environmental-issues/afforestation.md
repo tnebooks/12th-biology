@@ -8,9 +8,7 @@ weight: 4
 Afforestation is planting of trees where there was no previous tree coverage and the conversion of non-forested lands into forests by planting suitable trees to retrieve the vegetation. Example: Slopes of dams afforested to reduce water run- off, erosion and siltation. It can also provide a range of environmental services including carbon sequestration, water retention.
 
 
-{{< figure "8.8.png" "w-25 float-start">}}
-lesson 9
-{{< /figure >}}
+
 
 #### Afforestation Objective
 

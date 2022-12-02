@@ -39,9 +39,7 @@ The term biodiversity was introduced by Walter Rosen (1986). Biodiversity is the
 
 Edward Wilson popularized the term ‘Biodiversity’ to describe diversity at all levels of biological organization from populations to biomes. There are three levels of biodiversity – Genetic diversity, Species diversity and Community/Ecosystem diversity (Fig. 11.1). Genetic diversity refers to the differences in genetic make-up (number and types of genes) between distinct species and to the genetic variation within a single species; also covers genetic variation between distinct populations of the same species. Genetic diversity can be measured using a variety of molecular techniques. India has more than 50,000 genetic variants of Paddy and 1000 variants of Mango. Variation of genes of a species increases with diversity in size and habitat. It results in the
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 formation of different races, varieties and subspecies. Rouwolfia vomitaria, a medicinal plant growing in different ranges of the Himalayas shows differences in the potency and concentration of the active ingredient reserpine due to genetic diversity. Genetic diversity helps in developing adaptations to changing environmental conditions. Species diversity refers to the variety in number and richness of the species in any habitat. The number of species per unit area at a specific time is called species richness, which denotes the measure of species diversity. The Western Ghats have greater amphibian species diversity than the Eastern Ghats. The more the number of species in an area the more is the species richness (Fig. 11.1a). The three indices of diversity are - Alpha, Beta and Gamma diversity.
 
@@ -51,9 +49,7 @@ ii. Beta diversity: It is species diversity between two adjacent ecosystems and 
 iii. Gamma diversity refers to the diversity of the habitats over the total landscape or geographical area.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 Community/Ecosystem diversity is the variety of habitats, biotic communities, and ecological processes in the biosphere. It is the diversity at ecosystem level due to diversity of niches, trophic levels and ecological processes like nutrient cycles, food webs, energy flow and several biotic interactions. India with its alpine meadows, rain forests, mangroves, coral reefs, grass lands and deserts has one of the greatest ecosystem diversity on earth.
 
@@ -81,9 +77,7 @@ Temperature, precipitation, distance from the equator (latitudinal gradient), al
 
 {{< hint info >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 Mean Sea Level (MSL) is an average level of the surface of one or more of Earth’s oceans (or seas) from which heights such as elevations may be measured.
 
@@ -115,9 +109,7 @@ Z = Slope of the line
 C = Y-intercept
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 Regression coefficient Z generally has a value of 0.1-0.2 regardless of taxonomic group or region. However, in case of the species – area relationship in very large areas like entire continents, the slope of the line appears to be much steeper (Z-value in the range of 0.6-1.2). For example, in case of the fruit eating (frugivorous) birds and mammals in the tropical forests of different continents, the slope is found to be a steeper line of 1.15 (Fig. 11.2).
@@ -294,9 +286,7 @@ zones, (Fig. 11.3 and table 11.1) namely:
 
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -531,9 +521,7 @@ animals and loss of trees in forest. Thus,
 climate change is an imminent danger to the
 existing biodiversity (Fig. 11.4).
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Shifting or Jhum cultivation (Slash-and-burn agriculture)**
@@ -674,9 +662,7 @@ species as endangered (EN) worldwide.
 
 {{< hint info >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 George the tree snail (Achatinella
 apexfulva) died on January 1, 2019, at

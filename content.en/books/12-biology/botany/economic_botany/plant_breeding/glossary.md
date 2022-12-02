@@ -27,13 +27,9 @@ the spread of disease
 common origin.
 
 
-{{< figure "pic41.png" "w-25 float-end">}}
+ 
 
-{{< /figure >}} 
-
-{{< figure "pic42.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **Biofortification –** breeding crops with higher levels of vitamins and minerals or higher protein
 and healthier fats – is the most practical means to improve public health.

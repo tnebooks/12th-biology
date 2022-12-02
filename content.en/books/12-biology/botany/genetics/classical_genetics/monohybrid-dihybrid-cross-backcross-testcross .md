@@ -23,9 +23,7 @@ after a British Geneticist Reginald C.Punnett.
 It is a graphical representation to calculate the
 
 
-{{< figure "bbf7.5.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -108,14 +106,10 @@ an individual is homozygous or heterozygous for
 dominant character.
 
 
-{{< figure "bbf7.6.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
 
-{{< figure "bbf7.7.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 #### Back cross
@@ -171,9 +165,7 @@ two recessive alleles (le le) which code for
 non-functional protein, hence they are dwarf.
 
 
-{{< figure "bbf7.8.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 {{< /hint >}}
 
@@ -188,9 +180,7 @@ that are located in different chromosomes assort independently during meiosis. M
 
 
 
-{{< figure "bbf7.9.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 Independent assortment leads to genetic
@@ -220,9 +210,7 @@ over wrinkled (r) ; in cotyledon colour yellow
 
 
 
-{{< figure "bbf7.10.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -267,9 +255,7 @@ balance which minimises the loss of water
 resulting in smooth structured round seed.
 
 
-{{< figure "bbf7.11.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 {{< /hint >}}
@@ -304,9 +290,7 @@ of independent assortment.
 
 #### The Dihybrid test cross
 
-{{< figure "bbf7.12.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -332,9 +316,7 @@ the result of interaction between
 two or more genes.
 
 
-{{< figure "bbf7.13.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 

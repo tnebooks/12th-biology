@@ -66,13 +66,9 @@ like part arising from each pollinium is called
 inverted letter 'Y' and is called **translator**
 
 
-{{< figure "1.6.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "1.7.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 #### T.S. of Mature anther
 
@@ -110,9 +106,7 @@ development from your observations.
 
 {{< /hint >}}
 
-{{< figure "1.8.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **b.Endothecium**: 
@@ -294,9 +288,7 @@ from UV radiation.
 The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at 2 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells.
 
 
-{{< figure "1.9.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
@@ -356,9 +348,7 @@ embryo sac is called **hypostase** and the thick
 above the embryo sac is called **epistase**. The
 structure of ovule is given in Figure 1.7.
 
-{{< figure "1.10.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -461,22 +451,16 @@ The development of monosporic embryo sac
 To describe the stages in embryo sac development and organization the simplest monosporic type of development is given below.
 
 
-{{< figure "1.11.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "1.14.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division . Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg** **apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal** **cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2** **polar** **nuclei** may remain free or may fuse to form a **secondary** **nucleus** (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled with 8 nuclei embryo sac is formed. The structure of embryo sac is given in Figure 1.10.
 
 
 
-{{< figure "1.12.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -484,9 +468,7 @@ lesson 1
 #### Pollination
 
 
-{{< figure "1.13.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 Pollination is a wonderful mechanism which provides food, shelter etc., for the pollinating animals. Many plants are pollinated by a particular animal species and the flowers are modified accordingly and thus there exists a co-evolution between plants and animals. Let us imagine if pollination fails. Do you think there will be any seed and fruit formation? If not what happens to pollinating organisms and those that depend on these pollinating organism for the food? Here lies the significance of the process of pollination.
 
@@ -513,9 +495,7 @@ According to a majority of Botanists, the transfer of pollen on the stigma of th
 
 2. **Homogamy**: When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self pollination to occur. Example: *Mirabilis jalapa*, *Catharanthus roseus*
 
-{{< figure "1.15.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 3. **Incomplete dichogamy**: In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
@@ -559,17 +539,13 @@ a. **Protandry**: The stamens mature earlier than the stigmas of the flowers. Ex
 b. **Protogyny**: The stigmas mature earlier than the stamens of the flower. Examples: Scrophularia nodosa and Aristolochia bracteata (Figure1.12b)
 
 
-{{< figure "1.17.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **ii. Herkogamy**: In bisexual flowers the essential organs, the stamens and stigmas, are arranged in such a way that self-pollination becomes impossible. For example in Gloriosa superba, the style is reflexed away from the stamens and in Hibiscus the stigmas project far above the stamens (Figure 1.13).
 
 
-{{< figure "1.16.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -581,9 +557,7 @@ lesson 1
 **a. Distyly**: The plant produces two forms of flowers, Pin or long style, long stigmatic papillae, short stamens and small pollen grains; Thrum-eyed or short style, small stigmatic papillae, long stamens and large pollen grains. Example: *Primula* (Figure 1.14a). The stigma of the Thrum-eyed flowers and the anther of the pin lie in same level to bring out pollination. Similarly the anther of Thrum-eyed and stigma of pin ones is found in same height. This helps in effective pollination.
 
 
-{{< figure "1.18.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -646,9 +620,7 @@ beyond leaves. The pollens drop from the tassel
 is caught by the stigma (Figure 1.15).
 
 
-{{< figure "1.19.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 
@@ -690,9 +662,7 @@ female flower coils and goes under water where
 fruits are produced. (Figure 1.16).
 
 
-{{< figure "1.20.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **b. Hypohydrophily**:
@@ -778,9 +748,7 @@ crawling among *Lemna* pollinate them.
 
 
 
-{{< figure "1.21.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **D. Entomophily**: Pollination by insects is
@@ -851,6 +819,4 @@ translator
 mechanism (*Asclepiadaceae*) and piston mechanism (*Papilionaceae*).
 
 
-{{< figure "1.22.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+

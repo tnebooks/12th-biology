@@ -162,11 +162,7 @@ The productivity and distribution of plants depend upon the availability of wate
 
 **2. Stenohaline:** Organisms which can withstand only small range of salinity. Example: Plants of estuaries.
 
-{{< figure "Table" "w-25 float-right" >}}
-
-Table 6.2: Tolerance of Environmental factor
-
-{{< /figure >}} 
+ 
 
 
 **Examples of tolerance to toxicity**
@@ -304,9 +300,7 @@ Soil is commonly stratified into horizons at different depth. These layers diffe
 
 Based on the relative proportion of soil particles, four types of soil are recognized.
 
-{{< figure "Table 6.3: Types of soil particles.png" "w-25 float-right" >}}
-Table 6.3: Types of soil particles 
-{{< /figure >}}
+
 
 **Loamy soil is ideal soil for cultivation.** It consists of 70% sand and 30% clay or silt or both. It ensures good retention and proper drainage of water. The porosity of soil provides adequate aeration and allows the penetration of roots.
 
@@ -387,11 +381,7 @@ When one or both the participating species are benefited, it is positive interac
 
 **Rhizobium**(Bacterium) forms nodules in the roots of leguminous plants and lives symbiotically. The Rhizobium obtains food from leguminous plant and in turn fixes atmospheric nitrogen into nitrate, making it available to host plants.
 
-{{< figure "Table 6.4:" "w-25 float-right" >}}
 
-Table 6.4: Different interactions of plant
-
-{{< /figure >}}
 
 **Other examples:**
 

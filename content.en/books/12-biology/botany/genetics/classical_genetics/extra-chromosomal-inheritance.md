@@ -35,9 +35,7 @@ inheritance. But in the reciprocal cross the F<sub>1</sub> plant
 differs from each other. In each cross, the F<sub>1</sub> plant
 reveals the character of the plant which is used as female plant.
 
-{{< figure "bbf7.20.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 This inheritance is not through nuclear
 gene. It is due to the chloroplast gene found in
@@ -47,9 +45,7 @@ male gamete contribute only the nucleus but
 not cytoplasm.
 
 
-{{< figure "bbf7.21.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 Recently it has been discovered that

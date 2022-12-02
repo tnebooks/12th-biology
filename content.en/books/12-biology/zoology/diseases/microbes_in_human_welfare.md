@@ -72,9 +72,7 @@ millions of Lactobacilli, which under suitable temperature (≤40<sup>0</sup>C) 
 milk as it contains a number of organic acids
 and vitamins.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 Yogurt is produced by bacterial
 fermentation of milk, and lactic acid is
@@ -170,14 +168,10 @@ with penicillin. Fleming, Chain and Florey
 were awarded the Nobel prize in 1945 for the
 discovery of penicillin.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 Tetracycline is a broad spectrum
@@ -233,9 +227,7 @@ are produced without distillation, whereas
 whisky, brandy and rum are obtained by
 fermentation and distillation.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 Oenology is the science and study of
 wine and wine making. Wine is made from
@@ -258,9 +250,7 @@ beverage made from fermented grain mash by
 Saccharomyces cerevisiae.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 In some parts of South India, a traditional
@@ -297,14 +287,10 @@ first generation of biofuel technology. Ethanol is
 often used as a fuel, mainly as a biofuel additive
 for gasoline.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 
@@ -384,9 +370,7 @@ through the membrane to the cathode and the
 electrons pass through the anode to the external
 circuit to generate current.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **8.4 Microbes in the production of biogas**
@@ -415,9 +399,7 @@ consists of methane, CO2 with some hydrogen,
 nitrogen and other gases in trace amounts.
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 In a biogas plant, anaerobic digestion is
@@ -465,9 +447,7 @@ bacterium which can digest the hydrocarbons
 in the oil spills (Fig. 8.4).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 Nitrosomonas europaea is also capable of
 degrading benzene and a variety of halogenated
@@ -494,9 +474,7 @@ and digesting polyurethane. This makes the
 fungus a potential candidate for bioremediation
 projects involving large quantities of plastics.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 
 **Summary**

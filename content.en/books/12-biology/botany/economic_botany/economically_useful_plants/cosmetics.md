@@ -46,9 +46,7 @@ from aloe leaves have multiple properties such
 as emollient, antibacterial, antioxidant,
 antifungal and antiseptic. Aloe vera gel is used in skin care cosmetics.
 
-{{< figure "pic16.png" "w-25 float-end">}}
-Figure 10.17: Aloe vera
-{{< /figure >}}
+
 
 
 #### Perfumes
@@ -71,9 +69,7 @@ such as leaves, (curry leaf, mint), flowers (rose,
 jasmine), fruits (citrus, straw berry) and wood
 (sandal, eucalyptus).
 
-{{< figure "pic17.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 **Jasmine**
 Botanical name : *Jasminum grandiflorum*
@@ -88,9 +84,7 @@ species
 cultivated on the
 commercial scale
 
-{{< figure "pic18.png" "w-25 float-end">}}
 
-{{< /figure >}}
 
 is
 Jasminum

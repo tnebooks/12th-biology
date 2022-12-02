@@ -7,9 +7,7 @@ weight: 8
 
 
 
-{{< figure "8.19.png" "w-25 float-start">}}
-lesson 9
-{{< /figure >}}
+
 
 
 

@@ -78,9 +78,7 @@ leaves. It also blocks sunlight entering deep and the waterways hampering agricu
 recreation and hydropower.
 
 
-{{< figure "8.10.png" "w-25 float-start">}}
-lesson 9
-{{< /figure >}}
+
 
 
 ##### Prosopis juliflora
@@ -104,9 +102,7 @@ erosion and stabilize sand dunes on coastal and
 desert areas. It can absorb hazardous chemicals
 from soil and it is the main source of charcoal.
 
-{{< figure "8.11.png" "w-25 float-start">}}
-lesson 9
-{{< /figure >}}
+
 
 
 

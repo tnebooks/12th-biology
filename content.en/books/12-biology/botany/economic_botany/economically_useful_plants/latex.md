@@ -23,9 +23,7 @@ contributed 90% of the world production.
 Kerala is the largest producer in India followed
 by Tamil Nadu.
 
-{{< figure "pic13.png" "w-25 float-end">}}
-Figure 10.14: Rubber Tree
-{{< /figure >}}
+
 
 **Uses**
 

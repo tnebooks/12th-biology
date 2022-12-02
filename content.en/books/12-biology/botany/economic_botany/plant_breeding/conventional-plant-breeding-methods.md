@@ -56,9 +56,7 @@ initially grown in Botanical Garden of Kolkata
 from which appropriate clones have selected
 and introduced to different parts of India.
 
-{{< figure "pic31.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 #### Selection
 
@@ -102,9 +100,7 @@ this type is that the new genotypes are never
 created and they are less adaptable and less
 stable to the environmental fluctuations.
 
-{{< figure "pic32.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **c. Clonal Selection:** In asexually propagated
 crop, progenies derived from a plant
@@ -118,9 +114,7 @@ through vegetative propagation to give rise
 to a clone. The genotype of a clone remains
 unchanged for a long period of time.
 
-{{< figure "pic33.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 ### Hybridization
 
@@ -150,9 +144,7 @@ dehiscence of anther.
 protected against any undesirable pollen
 grains, by covering it with a bag .
 
-{{< figure "pic34.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **4. Crossing:** Transfer of pollen grains from
 selected male flower to the stigma of the
@@ -194,9 +186,7 @@ resistance from one species to another.
 
 Example: *Gossypium hirsutum x Gossypium arboreum* – Deviraj.
 
-{{< figure "pic35.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **iv. Intergeneric hybridization –** The crosses
 are made between the plants belonging to
@@ -354,9 +344,7 @@ Some crop varieties bred by hybridization
 and selection, for disease resistance to fungi,
 bacteria and viral diseases are released (Table 9.1).
 
-{{< figure "pic36.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **Norman E. Borlaug:** The plant pathologist
 plant breeder devoted his life at the International
@@ -370,9 +358,7 @@ the base for ‘green revolution’.
 He was awarded a Nobel prize
 for Peace in 1970.
 
-{{< figure "pic37.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **Dr. M. S. Swaminathan:** He
 is a pioneer mutation breeder.
@@ -383,9 +369,7 @@ Dr. Swaminathan is called
 “Father of green revolution
 in India”.
 
-{{< figure "pic38.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 **Nel Jayaraman:**
 Mr.
@@ -400,9 +384,7 @@ traditional rice varieties. He had trained a team
 of farmers and regularly update them on the
 current issues that affect them.
 
-{{< figure "pic39.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 
 
 In 2005, he organized a first ever
 traditional
@@ -447,6 +429,4 @@ do not attract bollworms. High aspartic acid,
 low nitrogen and sugar content in maize leads
 to resistance to maize stem borers.
 
-{{< figure "pic40.png" "w-25 float-end">}}
-
-{{< /figure >}} 
+ 

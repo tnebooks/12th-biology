@@ -66,13 +66,9 @@ divides by mitosis.
 In **longitudinal binary fission,** the nucleus and the cytoplasm divides in the longitudinal axis of the organism **(Fig 1.3)**. In flagellates, the
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 
 flagellum is retained usually by one daughter cell. The basal granule is divided into two and the new basal granule forms a flagellum in the other daughter individual. e.g. *Vorticella and Euglena*. 
@@ -87,13 +83,9 @@ by multiple fission and produces many minute amoebae called **pseudopodiospore o
 pseudopodiospores, each with a fine pseudopodia. They feed and grow rapidly to
 lead an independent life. In some metazoan animals, a special type of transverse fission called **strobilation** occurs
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 **(Fig. 1.5)**. In the process of strobilation, several transverse fissions occur simultaneously giving rise to a number of individuals which often do not separate immediately from each other e.g. Aurelia. **Plasmotomy** is the division of multinucleated parent into many multinucleate daughter individuals with the division of nuclei. Nuclear division occurs later to maintain normal number of nuclei. Plasmotomy occurs in *Opalina and Pelomyxa(Giant Amoeba)*.
 
@@ -109,13 +101,9 @@ In **budding**, the parent body produces one or more buds and each bud grows int
 one. The buds separate from the parent to lead a normal life. In sponges, the buds constrict and detach from the parent body and the bud develops into a new sponge (Fig. 1.7).
 
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 When buds are formed on the outer surface of the parent body, it is known as
 **exogenous budding** e.g. Hydra. In Hydra when food is plenty, the ectoderm cells increase and
@@ -134,9 +122,7 @@ food-laden archaeocytes. During unfavourable conditions, the sponge disintegrate
 gemmule can withstand adverse conditions. When conditions become favourable, the
 **gemmules** begin to hatch.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 In **fragmentation**, the parent body
 breaks into fragments (pieces) and each of the
@@ -157,13 +143,9 @@ helps in transferring the developed embryos
 from the primary host (man) to find a secondary
 host (pig).
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
+
 
 Regeneration is regrowth in the injured
 region. Regeneration was first studied in Hydra
@@ -186,6 +168,4 @@ whereas in restorative regeneration severed
 body parts can develop. e.g. star fish, tail of wall
 lizard.
 
-{{< figure "Tweety.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+

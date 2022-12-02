@@ -28,9 +28,7 @@ Intimate pairing between two homologous chromosomes is initiated during zygotene
 
 **(iii) Cross Over** After tetrad formation, crossing over occurs in pachytene stage. The non-sister chromatids of homologous pair make a contact at one or more points. These points of contact between non- sister chromatids of homologous chromosomes are called **Chiasmata** (singular-Chiasma). At chiasma, cross-shaped or X-shaped structures are formed, where breaking and rejoining of two chromatids occur. This results in reciprocal exchange of equal and corresponding segments
 
-{{< figure "bbf7.27.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 **(iv) Terminalisation**
 
@@ -82,9 +80,7 @@ Genes are present in a linear order along the chromosome. They are present in a 
 The unit of distance in a genetic map is called a **map unit** (m.u). One map unit is equivalent to one percent of crossing over (Figure 4. ). One map unit is also called a centimorgan (cM) in honour of **T.H. Morgan**. 100 centimorgan is equal to one Morgan (M). For example: A distance between A and B genes is estimated to be 3.5 map units. It is equal to 3.5 centimorgans or 3.5 % or 0.035 recombination frequency between the genes.
 
 
-{{< figure "bbf7.28.png" "w-25 float-end">}}
-lesson 1
-{{< /figure >}}
+
 
 **Uses of genetic mapping**
 
