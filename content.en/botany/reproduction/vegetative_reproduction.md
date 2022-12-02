@@ -8,7 +8,7 @@ weight: 2
 
 Natural vegetative reproduction is a form of asexual reproduction in which a bud grows and develops into a new plant. The buds may be formed in organs such as root, stem and leaf. At some stage, the new plant gets detached from the parent plant and starts to develop into a new plant. Some of the organs involved in the vegetative reproduction also serve as the organs of storage and perennation. The unit of reproductive structure used in propagation is called **reproductive propagules** or **diaspores**. Some of the organs that help in vegetative reproduction are given in Figure 1.1
 
-### A. Vegetative reproduction in root
+##### A. Vegetative reproduction in root
 
 The roots of some plants develop vegetative or adventitious buds on them. Example _Murraya_, _Dalbergia_ and _Millingtonia_. Some tuberous adventitious roots apart from developing buds also store food. Example _Ipomoea_ batatus and _Dahlia_. Roots possessing buds become detached from the parent plant and grow into independent plant under suitable condition.
 
@@ -18,27 +18,40 @@ Visit to a vegetable market and classify the vegetables into root, stem or leaf 
 
 {{< /hint >}}
 
+{{< figure "doyouknow.png" "w-25 float-right">}}
+
+Do You Know
+
+{{< /figure >}}
+
 ### B. Vegetative reproduction in stem
 
 From the Unit 3 of class XI (Vegetative morphology) you are familiar with the structure of various underground stem and sub aerial stem modifications. These include rhizome (_Musa_ _paradisiaca_, _Zingiber officinale_ and _Curcuma_ _longa_); corm (_Amorphophallus_ and _Colocasia_); tuber (_Solanum tuberosum_); bulb(_Allium_ _cepa_ and _Lilium_) runner (_Centella asiatica_); stolon (_Mentha_, and _Fragaria_); offset (_Pistia_, and _Eichhornia_); sucker (_Chrysanthemum_) and bulbils (_Dioscorea and Agave_). The axillary buds from the nodes of rhizome and eyes of tuber give rise to new plants.
 
-### C. Vegetative reproduction in leaf
+##### C. Vegetative reproduction in leaf
 
 In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum_, _Scilla_, and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called **epiphyllous buds**. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
+{{< figure "natural-methods-of-vegetative-reproduction-in-plants.png" "w-50 float-right">}}
+
+Figure 1.1 a-k: Natural methods of vegetative reproduction in plants.
+
+{{< /figure >}}
+
+
 **Advantages of natural vegetative** **reproduction**
 
-• Only one parent is required for propagation.
+- Only one parent is required for propagation.
 
-• The new individual plants produced are genetically identical.
+- The new individual plants produced are genetically identical.
 
-• In some plants, this enables to spread rapidly. Example: Spinifex
+- In some plants, this enables to spread rapidly. Example: Spinifex
 
-• Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
+- Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
 
 **Disadvantage of natural vegetative** **reproduction**
 
-• New plants produced have no genetic variation.
+- New plants produced have no genetic variation.
 
 #### Artificial Methods
 
