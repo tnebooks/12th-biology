@@ -20,11 +20,18 @@ A very young anther develops as a homogenous mass of cells surrounded by an epid
 
 The stages involved in the formation of haploid microspores from diploid microspore mother cell through meiosis is called **Microsporogenesis**. The primary sporogeneous cells directly, or may undergo a few mitotic divisions to form **sporogenous** **tissue**. The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of four haploid microspores (microspore tetrad). Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called pollinium. Example: _Calotropis_. Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter 'Y' and is called **translator**
 
+
+{{< figure "1.4-stages-in-the-development-of-another.png" "w-50 float-right">}}
+
+Figure 1.4 Stages in the Figure development of anther 2.1 Development
+
+{{< /figure >}}
+
 #### T.S. of Mature anther
 
 Transverse section of mature anther reveals the presence of anther cavity surrounded by an anther wall. It is bilobed, each lobe having 2 theca (dithecous). A typical anther is tetrasporangiate. The T.S. of Mature anther is given in Figure 1.5.
 
-**1\. Anther wall**
+**1.Anther wall**
 
 The mature anther wall consists of the following layers **a. Epidermis** **b. Endothecium** **c. Middle layers d. Tapetum.**
 
@@ -37,6 +44,13 @@ It is single layered and protective in function. The cells undergo repeated anti
 Collect buds and opened flowers of Datura metel. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 
 {{< /hint >}}
+
+
+{{< figure "1.5-t.s-of-mature-anther.png" "w-50 float-right">}}
+
+Figure 1.5 T.S of Mature anther
+
+{{< /figure >}}
 
 **b.Endothecium**:
 
@@ -62,14 +76,14 @@ The cells loose their inner tangential and radial walls and the protoplast of al
 
 **Functions of Tapetum**:
 
-*   It supplies nutrition to the developing microspores.
+-   It supplies nutrition to the developing microspores.
     
-*   It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
+-   It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
     
 
-The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
+- The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
 
-Exine proteins responsible for **‘rejection** **reaction’** of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
+- Exine proteins responsible for **‘rejection** **reaction’** of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
 
 {{< hint info >}}
 
@@ -105,15 +119,29 @@ Pollenkitt is contributed by the tapetum and coloured yellow or orange and is ch
 
 The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at 2 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells.
 
+{{< figure "1.6-development-of-male-gametophyte.png" "w-50 float-right">}}
+
+Figure 1.6 Development of male gametophyte
+
+{{< /figure >}}
+
+
 The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
 
 #### Female reproductive part - Gynoecium
 
 The **gynoecium** represents the female reproductive part of the flower. The word gynoecium represents one or more pistils of a flower. The word pistil refers to the ovary, style and stigma. A pistil is derived from a carpel. The word ovary represents the part that contains the ovules. The stigma serves as a landing platform for pollen grains. The style is an elongated slender part beneath the stigma. The basal swollen part of the pistil is the ovary. The ovules are present inside the ovary cavity (locule)on the placenta .Gynoecium (carpel) arises as a small papillate outgrowth of meristematic tissue from the growing tip of the floral primordium. It grows actively and soon gets differentiated into ovary, style and stigma. The ovules or megasporangia arise from the placenta. The number of ovules in an ovary may be one (paddy, wheat and mango) or many (papaya, water melon and orchids).
 
-Structure of ovule(Megasporangium):
+##### Structure of ovule(Megasporangium):
 
 Ovule is also called megasporangium and is protected by one or two covering called **integuments**. A mature ovule consists of a stalk and a body. The stalk or the **funiculus** (also called funicle) is present at the base and it attaches the ovule to the placenta. The point of attachment of funicle to the body of the ovule is known as **hilum**. It represents the junction between ovule and funicle. In an inverted ovule, the funicle is adnate to the body of the ovule forming a ridge called **raphe**. The body of the ovule is made up of a central mass of parenchymatous tissue called **nucellus** which has large reserve food materials. The nucellus is enveloped by one or two protective coverings called **integuments**. Integument encloses the nucellus completely except at the top where it is free and forms a pore called micropyle. The ovule with one or two integuments are said to be **unitegmic** or **bitegmic** ovules respectively. The basal region of the body of the ovule where the nucellus, the integument and the funicle meet or merge is called as **chalaza**. There is a large, oval, sac-like structure in the nucellus toward the micropylar end called **embryo** **sac** or female gametophyte. It develops from the functional megaspore formed within the nucellus. In some species(unitegmic tenuinucellate) the inner layer of the integument may become specialized to perform the nutritive function for the embryo sac and is called as **endothelium** or **integumentary** **tapetum** (Example : Asteraceae). There are two types of ovule based on the position of the sporogenous cell. If the sporogenous cell is hypodermal with a single layer of nucellar tissue around it is called **tenuinucellate** type. Normally tenuinucellate ovules have very small nucellus. Ovules with subhypodermal sporogenous cell is called **crassinucellate** type. Normally these ovules have fairly large nucellus. Group of cells found at the base of the ovule between the chalaza and embryo sac is called **hypostase** and the thick -walled cells found above the micropylar end above the embryo sac is called **epistase**. The structure of ovule is given in Figure 1.7.
+
+{{< figure "1.7-structure-of-an-ovule.png" "w-50 float-right">}}
+
+Figure 1.7 Structure-of-an-Ovule.png
+
+{{< /figure >}}
+
 
 #### Types of Ovules
 
