@@ -97,7 +97,7 @@ Visit a nursery, observe the method of grafting, layering and do these technique
 
 In this method, the stem of a parent plant is allowed to develop roots while still intact. When the root develops,
 
-{{< figure "1.2(a):artificial-methods-of-vegetative-reproduction-in-plants.png" "w-25 float-right">}}
+{{< figure "1.2(a):artificial-methods-of-vegetative-reproduction-in-plants.png" "w-75 float-right">}}
 
 Figure 1.2(a): Artificial methods of vegetative reproduction in plants
 
@@ -110,7 +110,7 @@ the rooted part is cut and planted to grow as a new plant. Examples: _Ixora_ and
 
 This method is applied for the plants having flexible branches. The lower branch with leaves is bent to the ground and part of the stem is buried in the soil and tip of the branch is exposed above the soil. After the roots emerge from the part of the stem buried in the soil, a cut is made in parent plant so that the buried part grow into a new plant.
 
-{{< figure "1.2(b):artificial-methods-of-vegetative-reproduction-in-plants.png" "w-25 float-right">}}
+{{< figure "1.2(b):artificial-methods-of-vegetative-reproduction-in-plants.png" "w-30 float-right">}}
 
 Figure 1.2(b): Artificial methods of vegetative reproduction in plants
 
@@ -123,18 +123,18 @@ In this method the stem is girdled at nodal region and hormones are applied to t
 
 **Advantages of conventional methods**
 
-• The plants produced are genetically uniform.
+- The plants produced are genetically uniform.
 
-• Many plants can be produced quickly by this method.
+- Many plants can be produced quickly by this method.
 
-• Some plants produce little or no seeds; in others, the seeds produced do not germinate. In such cases, plants can be produced in a short period by this method.
+- Some plants produce little or no seeds; in others, the seeds produced do not germinate. In such cases, plants can be produced in a short period by this method.
 
-• Some plants can be propagated more economically by vegetative propagation. Example: _Solanum tuberosum_.
+- Some plants can be propagated more economically by vegetative propagation. Example: _Solanum tuberosum_.
 
-• Two different plants with desirable characters such as disease resistance and high yield can be grafted and grown as a new plant with the same desirable characters.
+- Two different plants with desirable characters such as disease resistance and high yield can be grafted and grown as a new plant with the same desirable characters.
 
 **Disadvantages of conventional methods**
 
-• Use of virus infected plants as parents produces viral infected new plants.
+- Use of virus infected plants as parents produces viral infected new plants.
 
-• Vegetative structures used for propagation are bulky and so they are difficult to handle and store.
+- Vegetative structures used for propagation are bulky and so they are difficult to handle and store.
