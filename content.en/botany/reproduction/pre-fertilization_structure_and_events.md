@@ -20,7 +20,6 @@ A very young anther develops as a homogenous mass of cells surrounded by an epid
 
 The stages involved in the formation of haploid microspores from diploid microspore mother cell through meiosis is called **Microsporogenesis**. The primary sporogeneous cells directly, or may undergo a few mitotic divisions to form **sporogenous** **tissue**. The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of four haploid microspores (microspore tetrad). Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called pollinium. Example: _Calotropis_. Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter 'Y' and is called **translator**
 
-
 {{< figure "1.4-stages-in-the-development-of-another.png" "w-50 float-right">}}
 
 Figure 1.4 Stages in the Figure development of anther 2.1 Development
@@ -44,7 +43,6 @@ It is single layered and protective in function. The cells undergo repeated anti
 Collect buds and opened flowers of Datura metel. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 
 {{< /hint >}}
-
 
 {{< figure "1.5-t.s-of-mature-anther.png" "w-50 float-right">}}
 
@@ -76,13 +74,9 @@ The cells loose their inner tangential and radial walls and the protoplast of al
 
 **Functions of Tapetum**:
 
--   It supplies nutrition to the developing microspores.
-    
--   It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
-    
-
+- It supplies nutrition to the developing microspores.
+- It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
 - The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
-
 - Exine proteins responsible for **‘rejection** **reaction’** of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
 
 {{< hint info >}}
@@ -125,7 +119,6 @@ Figure 1.6 Development of male gametophyte
 
 {{< /figure >}}
 
-
 The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
 
 #### Female reproductive part - Gynoecium
@@ -142,7 +135,6 @@ Figure 1.7 Structure-of-an-Ovule
 
 {{< /figure >}}
 
-
 #### Types of Ovules
 
 The ovules are classified into six main types based on the orientation, form and position of the micropyle with respect to funicle and chalaza. Most important ovule types are orthotropous, anatropous, hemianatropous and campylotropous. The types of ovule is given in Figure 1.8.
@@ -152,7 +144,6 @@ The ovules are classified into six main types based on the orientation, form and
 Figure 1.8 Types of Ovule
 
 {{< /figure >}}
-
 
 **Orthotropous**: In this type of ovule, the micropyle is at the distal end and the micropyle, the funicle and the chalaza lie in one straight vertical line. Examples: Piperaceae, Polygonaceae.
 
@@ -184,19 +175,24 @@ To describe the stages in embryo sac development and organization the simplest m
 
 The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division . Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division).
 
-
 {{< figure "1.10-structure-of-embryo-sac.png" "w-50 float-right">}}
 
 Figure 1.10 structure of embryo sac.
 
 {{< /figure >}}
 
-
- After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg** **apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal** **cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2** **polar** **nuclei** may remain free or may fuse to form a **secondary** **nucleus** (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled with 8 nuclei embryo sac is formed. The structure of embryo sac is given in Figure 1.10.
+After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg** **apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal** **cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2** **polar** **nuclei** may remain free or may fuse to form a **secondary** **nucleus** (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled with 8 nuclei embryo sac is formed. The structure of embryo sac is given in Figure 1.10.
+ss
 
 #### Pollination
 
 Pollination is a wonderful mechanism which provides food, shelter etc., for the pollinating animals. Many plants are pollinated by a particular animal species and the flowers are modified accordingly and thus there exists a co-evolution between plants and animals. Let us imagine if pollination fails. Do you think there will be any seed and fruit formation? If not what happens to pollinating organisms and those that depend on these pollinating organism for the food? Here lies the significance of the process of pollination.
+
+{{< figure "pollination.png" "w-50 float-right">}}
+
+Pollination
+
+{{< /figure >}}
 
 The pollen grains produced in the anther will germinate only when they reach the stigma of the pistil. The reproductive organs, stamens and pistil of the flower are spatially separated, a mechanism which is essential for pollen grains to reach the stigma is needed. This process of transfer of pollen grains from the anther to a stigma of a flower is called **pollination**.
 
@@ -208,12 +204,9 @@ The pollen grains produced in the anther will germinate only when they reach the
 
 According to a majority of Botanists, the transfer of pollen on the stigma of the same flower is called **self-pollination or** **Autogamy**. Self-pollination is possible only in those plants which bear bisexual flowers. In order to promote self- pollination the flowers of the plants have several adaptations or mechanisms. They are:
 
-1.  **Cleistogamy**: In cleistogamy (Greek Kleisto = closed. Gamos = marriage) flowers never open and expose the reproductive organs and thus the pollination is carried out within the closed flower. Commelina, Viola, Oxalis are some examples for cleistogamous flowers. In Commelina benghalensis, two types of flowers are produced- aerial and underground flowers. The aerial flowers are brightly coloured, chasmogamous and insect pollinated. The underground flowers are borne on the subterranean branches of the rhizome that are dull, cleistogamous and self pollinated and are not dependent on pollinators for pollination.(Figure 1.11).
-    
-2.  **Homogamy**: When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self pollination to occur. Example: _Mirabilis jalapa_, _Catharanthus roseus_
-    
-3.  **Incomplete dichogamy**: In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
-    
+1. **Cleistogamy**: In cleistogamy (Greek Kleisto = closed. Gamos = marriage) flowers never open and expose the reproductive organs and thus the pollination is carried out within the closed flower. Commelina, Viola, Oxalis are some examples for cleistogamous flowers. In Commelina benghalensis, two types of flowers are produced- aerial and underground flowers. The aerial flowers are brightly coloured, chasmogamous and insect pollinated. The underground flowers are borne on the subterranean branches of the rhizome that are dull, cleistogamous and self pollinated and are not dependent on pollinators for pollination.(Figure 1.11).
+2. **Homogamy**: When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self pollination to occur. Example: _Mirabilis jalapa_, _Catharanthus roseus_
+3. **Incomplete dichogamy**: In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
 
 ##### B. Cross - pollination
 
@@ -225,7 +218,7 @@ It refers to the transfer of pollens on the stigma of another flower. The cross-
 
 The flowers have several mechanisms that promote cross-pollination which are also called **contrivances of cross-pollination or outbreeding** devices. It includes the following.
 
-1.  **Dicliny or Unisexuality**
+1. **Dicliny or Unisexuality**
 
 When the flowers are unisexual only cross- pollination is possible. There are two types.
 
@@ -233,7 +226,7 @@ i. **Monoecious**: Male and female flowers on the same plant. Coconut, Bitter go
 
 ii. **Dioecious** : Male and female flowers on different plants. Borassus, Carica and phoenix. Here both autogamy and geitonogamy are prevented.
 
-2.  **Monocliny or Bisexuality**
+2. **Monocliny or Bisexuality**
 
 Flowers are bisexual and the special adaptation of the flowers prevents self-pollination.
 
@@ -259,28 +252,28 @@ Pollination is effected by many agents like wind, water, insects etc. On the bas
 
 **Abiotic agents**
 
-1.  Anemophily - pollination by Wind
-2.  Hydrophily - pollination by Water
+1. Anemophily - pollination by Wind
+2. Hydrophily - pollination by Water
 
 **Biotic agents**
 
-1.  Zoophily
+1. Zoophily
 
 Zoophily refers to pollination through animals and pollination through insects is called Entomophily.
 
-1.  **Anemophily**: Pollination by wind. The wind pollinated flowers are called **anemophilous**. The wind pollinated plants are generally situated in wind exposed regions. Anemophily is a chance event. Therefore, the pollen may not reach the target flower effectively and are wasted during the transit from one flower to another. The common examples of wind pollinated flowers are - grasses, sugarcane, bamboo, coconut, palm, maize etc.,
+1. **Anemophily**: Pollination by wind. The wind pollinated flowers are called **anemophilous**. The wind pollinated plants are generally situated in wind exposed regions. Anemophily is a chance event. Therefore, the pollen may not reach the target flower effectively and are wasted during the transit from one flower to another. The common examples of wind pollinated flowers are - grasses, sugarcane, bamboo, coconut, palm, maize etc.,
 
 **Anemophilous plants have the following** **characteristic features:**
 
-*   The flowers are produced in pendulous, catkin-like or spike inflorescence.
-*   The axis of inflorescence elongates so that the flowers are brought well above the leaves.
-*   The perianth is absent or highly reduced.
-*   The flowers are small, inconspicuous, colourless, not scented, do not secrete nectar.
-*   The stamens are numerous, filaments are long, exerted and versatile.
-*   Anthers produce enormous quantities of pollen grains compared to number of ovules available for pollination. They are minute, light and dry so that they can be carried to long distances by wind.
-*   In some plants anthers burst violently and release the pollen into the air. Example: Urtica.
-*   Stigmas are comparatively large, protruding, sometimes branched and feathery, adapted to catch the pollen grains. Generally single ovule is present.
-*   Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
+* The flowers are produced in pendulous, catkin-like or spike inflorescence.
+* The axis of inflorescence elongates so that the flowers are brought well above the leaves.
+* The perianth is absent or highly reduced.
+* The flowers are small, inconspicuous, colourless, not scented, do not secrete nectar.
+* The stamens are numerous, filaments are long, exerted and versatile.
+* Anthers produce enormous quantities of pollen grains compared to number of ovules available for pollination. They are minute, light and dry so that they can be carried to long distances by wind.
+* In some plants anthers burst violently and release the pollen into the air. Example: Urtica.
+* Stigmas are comparatively large, protruding, sometimes branched and feathery, adapted to catch the pollen grains. Generally single ovule is present.
+* Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
 
 **Pollination in Maize (Zea mays)**: The maize is monoecious and unisexual. The male inflorescence (tassel) is borne terminally and female inflorescence (cob) laterally at lower levels. Maize pollens are large and heavy and cannot be carried by light breeze. However, the mild wind shakes the male inflorescence to release the pollen which falls vertically below. The female inflorescence has long stigma (silk) measuring upto 23 cm in length, which projects beyond leaves. The pollens drop from the tassel is caught by the stigma (Figure 1.15).
 
@@ -304,16 +297,11 @@ Visit to a nearby park and observe the different flowers. Record the adaptations
 
 **The ornithophilous flowers have** **following characteristic features**:
 
-*   The flowers are usually large in size.
-    
-*   The flowes are tubular, cup shaped or urn- shaped.
-    
-*   The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds
-    
-*   The flowers are scentless and produce nectar in large quantities. Pollen and nectar form the floral rewards for the birds visiting the flower.
-    
-*   The floral parts are tough and leathery to withstand the powerful impact of the visitors.
-    
+* The flowers are usually large in size.
+* The flowes are tubular, cup shaped or urn- shaped.
+* The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds
+* The flowers are scentless and produce nectar in large quantities. Pollen and nectar form the floral rewards for the birds visiting the flower.
+* The floral parts are tough and leathery to withstand the powerful impact of the visitors.
 
 **B. Cheiropterophily**: Pollination carried out by bats is called cheiropterophily. Some of the common cheiropterophilous plants are _Kigelia_ _africana_, _Adansonia digitata_, etc.,
 
@@ -323,18 +311,12 @@ Visit to a nearby park and observe the different flowers. Record the adaptations
 
 **The characteristic features of entomophilous flowers are as follows:**
 
-*   Flowers are generally large or if small they are aggregated in dense inflorescence.Example: Asteraceae flowers.
-    
-*   Flowers are brightly coloured.The adjacent part of the flowers may also be brightly coloured to attract insect. For example in _Poinsettia_ and _Bougainvillea_ the _bracts_ become coloured.
-    
-*   Flowers are scented and produce nectar.
-    
-*   Flowers in which there is no secretion of nectar, the pollen is either consumed as nectar, the pollen is either consumed as food or used in building up of its hive by the honeybees. Pollen and nectar are the floral rewards for the visitors.
-    
-*   Flowers pollinated by flies and beetles produce foul odour to attract pollinators.
-    
-*   In some flowers juicy cells are present which are pierced and the contents are sucked by the insects.
-    
+* Flowers are generally large or if small they are aggregated in dense inflorescence.Example: Asteraceae flowers.
+* Flowers are brightly coloured.The adjacent part of the flowers may also be brightly coloured to attract insect. For example in _Poinsettia_ and _Bougainvillea_ the _bracts_ become coloured.
+* Flowers are scented and produce nectar.
+* Flowers in which there is no secretion of nectar, the pollen is either consumed as nectar, the pollen is either consumed as food or used in building up of its hive by the honeybees. Pollen and nectar are the floral rewards for the visitors.
+* Flowers pollinated by flies and beetles produce foul odour to attract pollinators.
+* In some flowers juicy cells are present which are pierced and the contents are sucked by the insects.
 
 **Pollination in Salvia (Lever mechanism):**
 
