@@ -22,14 +22,19 @@ jobs:
           hugo-version: ${{ matrix.hugo-version }}
           extended: true
           
-      - name: Hello world
+      - name: Build Theme
         run: |
           git clone https://github.com/techatpark/gurukulam
           rm -rf gurukulam/site/content.* && rm -rf gurukulam/site/static/ && rm -rf gurukulam/site/layouts/index.html
           BOOK_PATH=$(git config --get remote.origin.url | cut -d. -f2 | cut -c 5-)
           for dir in content.*/; do mkdir -p temp/books/$BOOK_PATH && mv $dir/** temp/books/$BOOK_PATH && mv temp/** $dir/; done
           cp -rf content.* gurukulam/site/
+
       - name: Run Hugo
         working-directory: gurukulam/site
         run: hugo --themesDir ../..
  
+      - name: Build Theme
+        run: |
+          rm -rf gurukulam/site/public/*.* && rm -rf gurukulam/site/public/tag && rm -rf gurukulam/site/public/en
+          ls gurukulam/site/public
