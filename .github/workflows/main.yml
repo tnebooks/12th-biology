@@ -47,3 +47,4 @@ jobs:
           key: ${{ secrets.KEY }}
           source: "gurukulam/site/public"
           target: ${{ secrets.TARGET_DIR }}
+          strip_components: 3
