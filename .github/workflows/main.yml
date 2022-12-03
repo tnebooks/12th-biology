@@ -36,5 +36,15 @@ jobs:
  
       - name: Build Theme
         run: |
-          rm -rf gurukulam/site/public/*.* && rm -rf gurukulam/site/public/tag && rm -rf gurukulam/site/public/en
+          rm -rf gurukulam/site/public/*.* && rm -rf gurukulam/site/public/tags && rm -rf gurukulam/site/public/en
           ls gurukulam/site/public
+
+      - name: Deploy
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.KEY }}
+          source: "gurukulam/site/public"
+          target: ${{ secrets.TARGET_DIR }}
+          strip_components: 1
