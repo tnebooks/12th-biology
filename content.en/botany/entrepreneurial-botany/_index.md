@@ -1,10 +1,8 @@
 ---
-title: 'BOTANY_XII_PAGES_216-269 CH 10'
+title: 'Economically Useful Plants and Entrepreneurial Botany'
 weight: 11
 ---
   
-
-
 
 The land and water of the earth sustain a vast assemblage of plants upon which all other living forms are directly or indirectly dependent. Pre-historic humans lived on berries, tubers, herbage, and the wild game which they collected and hunted that occupied whole of their time. Domestication of plants and animals has led to the production of surplus food which formed the basis for civilizations. Early civilization in different parts of the world has domesticated different species of plants for various purposes. Based on their utility, the economically useful plants are classified into food plants, fodder plants, fibre plants, timber plants, medicinal plants, and plants used in paper industries, dyes and cosmetics. Selected examples of economically important plants for each category are discussed in this chapter.
 
@@ -560,7 +558,6 @@ Cotton plant Jute products Coconut coir **Figure 10.14:** Fibres
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-14-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-14-2.jpg "")
@@ -597,14 +594,10 @@ transparent films (cellophane, cellulose acetate films), plastics. The viscose p
 **Figure 10.17 :** Wood pulp
 
 
-
-
 ![](botany_xii_pages_216-269-ch-10-15-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-15-2.jpg "")
   
-
-
 
 **Uses** An orange dye ‘Henna’ is obtained from the leaves and young shoots of Lawsonia inermis. The principal colouring matter of leaves ‘lacosone” is harmless and causes no irritation to the skin. This dye has long been used to dye skin, hair and finger nails. It is used for colouring leather, for the tails of horses and in hair-dyes.
 
@@ -637,8 +630,7 @@ Indigo dye Henna dye
 
 ![](botany_xii_pages_216-269-ch-10-16-3.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-16-5.jpg "")
-  
+
 
 
 
@@ -831,15 +823,7 @@ be ripe and golden-yellow in colour. It should be cut into 2-4 inches and proper
 
 **Figure 10.22:** Mushroom Cultivation
 
-
-
-
-![](botany_xii_pages_216-269-ch-10-22-1.jpg "")
-
 ![](botany_xii_pages_216-269-ch-10-22-2.jpg "")
-  
-
-
 
 • The culture space should be sprayed with 0.1% Nuvan and 5% Formalin, two days prior to spawning and transferring to bags to cropping rooms.
 
@@ -856,7 +840,6 @@ be ripe and golden-yellow in colour. It should be cut into 2-4 inches and proper
 Two kinds of mushrooms are cultivated namely **button** and **oyster**.
 
 ### Single Cell Protein (SCP) Production
-
 
 Single-cell proteins are the dried cells of microorganism, which are used as protein supplement in human foods or animal feeds. Microorganisms that can be used for the production of SCP have the capacity to synthesize proteins rapidly than higher living organisms. Microorganisms like algae, fungi, yeast and bacteria are used for this purpose. Here you will learn about the production of SCP from an algae, _Spirulina_.
 
@@ -893,15 +876,9 @@ Single cell protein has a high nutritive value due to higher protein, vitamin, e
 
 • Fill a bucket to three quarters way with
 
-
-
-
 ![](botany_xii_pages_216-269-ch-10-23-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-23-2.jpg "")
-  
-
-
 
 water. Add as much seaweed as will fit and leave to soak.
 

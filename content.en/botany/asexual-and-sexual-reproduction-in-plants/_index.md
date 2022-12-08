@@ -2,60 +2,43 @@
 title: 'Asexual and Sexual Reproduction in Plants'
 weight: 2
 ---
-  
 
+```
 
+**Learning Objectives**
+- The learner will be able to Recall various types of reproduction in lower and higher organisms. 
+- Discuss different methods of vegetative reproduction in plants. 
+- Recognise modern methods of reproduction. 
+- Recall the parts of a flower. Describe the steps involved in microsporogenesis. 
+- Recognise the structure of mature anther. 
+- Describe the structure and types of ovules. 
+- Explain the stages in megasporogenesis. 
+- Discuss the structure of embryo sac. 
+- Recognise different types of pollination. 
+- Identify the types of endosperms. 
+- Describe the development of Dicot embryo. 
+- Differentiate the structure of Dicot and Monocot seed.
+
+```
 
 One of the essential features of all living things on the earth is reproduction. Reproduction is a vital process for the existence of a species and it also brings suitable changes through variation in the offsprings for their survival on earth. Plant reproduction is important not only for its own survival but also for the continuation and existence of all other organisms since the latter directly or indirectly depend on plants. Reproduction also plays an important role in evolution.
 
 In this unit let us learn in detail about reproduction in plants.
 
+```
 **Panchanan Maheswari (1904-1966)** Professor P. Maheswari was an eminent Botanist who specialised in plant embryology, morphology and anatomy. In 1934, he became the Fellow of Indian Academy of Science. He published the book titled “An introduction to the Embryology of Angiosperms”in 1950. He established the International Society for Plant Morphologists, in 1951.
+```
 
-Basically reproduction occurring in organisms fall under two major categories 1. Asexual reproduction 2. Sexual reproduction.
+Basically reproduction occurring in organisms fall under two major categories 
+1. Asexual reproduction 
+2. Sexual reproduction.
 
 ## Asexual Reproduction
- The reproduction method which helps to perpetuate its own species without the involvement of gametes is referred to as asexual reproduction. From Unit I of Class XI we know that reproduction is one of the attributes of living things and the different types of
+The reproduction method which helps to perpetuate its own species without the involvement of gametes is referred to as asexual reproduction. From Unit I of Class XI we know that reproduction is one of the attributes of living things and the different types of reproduction have also been discussed. Lower plants, fungi and animals show different methods of asexual reproduction**.** Some of the methods include, formation of Conidia (_Aspergillus_ and _Penicillium_); Budding (_Yeast_ and _Hydra_); Fragmentation (_Spirogyra_); production of Gemma (_Marchantia_); Regeneration (_Planaria_) and Binary fission (Bacteria) (Refer chapter 1 of Unit I of class XI). The individuals formed by this method is morphologically and genetically identical and are called **clones**. Higher plants also reproduce asexually by different methods which are given below:
 
-**Learning Objectives**
+## Vegetative reproduction 
 
-The learner will be able to Recall various types of reproduction in
-
-lower and higher organisms. Discuss different methods of vegetative
-
-reproduction in plants. Recognise modern methods of
-
-reproduction. Recall the parts of a flower. Describe the steps involved in
-
-microsporogenesis. Recognise the structure of mature anther. Describe the structure and types of ovules. Explain the stages in megasporogenesis. Discuss the structure of embryo sac. Recognise different types of pollination. Identify the types of endosperms. Describe the development of Dicot
-
-embryo. Differentiate the structure of Dicot and
-
-Monocot seed.
-
-**Chapter outline**
-
-1.1 Asexual reproduction 1.2 Vegetative reproduction 1.3 Sexual Reproduction 1.4 Pre-fertilization
-
-structure and events 1.5 Fertilization 1.6 Post fertilization structure and events 1.7 Apomixis 1.8 Polyembryony 1.9 Parthenocarpy
-
-**UNIT VI: Reproduction in Plants** Chapter
-
-**1 Asexual and Sexual Reproduction in Plants**
-
-
-
-
-![](botany_xii_pages_001-032-ch-01-1-2.jpg "")
-
-![](botany_xii_pages_001-032-ch-01-1-3.jpg "")
-  
-
-
-
-reproduction have also been discussed. Lower plants, fungi and animals show different methods of asexual reproduction**.** Some of the methods include, formation of Conidia (_Aspergillus_ and _Penicillium_); Budding (_Yeast_ and _Hydra_); Fragmentation (_Spirogyra_); production of Gemma (_Marchantia_); Regeneration (_Planaria_) and Binary fission (Bacteria) (Refer chapter 1 of Unit I of class XI). The individuals formed by this method is morphologically and genetically identical and are called **clones**. Higher plants also reproduce asexually by different methods which are given below:
-
-## Vegetative reproduction 1.2.1 Natural methods
+### Natural methods
  Natural vegetative reproduction is a form of asexual reproduction in which a bud grows and develops into a new plant. The buds may be formed in organs such as root, stem and leaf. At some stage, the new plant gets detached from the parent plant and starts to develop into a new plant. Some of the organs involved in the vegetative reproduction also serve as the organs of storage and perennation. The unit of reproductive structure used in propagation is called **reproductive propagules** or **diaspores.** Some of the organs that help in vegetative reproduction are given in Figure 1.1.
 
 **A. Vegetative reproduction in root**
@@ -141,8 +124,6 @@ Epiphyllous buds
 **(k) Axillary bulbils _Dioscorea bulbifera_**
 
 
-
-
 ![](botany_xii_pages_001-032-ch-01-3-1.jpg "")
 
 ![](botany_xii_pages_001-032-ch-01-3-8.jpg "")
@@ -175,7 +156,6 @@ Epiphyllous buds
 
 ![](botany_xii_pages_001-032-ch-01-3-29.jpg "")
   
-
 
 
 contact with the soil is called **stock** and the plant used for grafting is called scion (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
@@ -385,12 +365,6 @@ Microspores
 **Figure 1.4** Stages in the development of anther
 
 **Activity** Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
-
-
-
-  
-
-
 
 **Figure 1.5** T.S of Mature anther
 
