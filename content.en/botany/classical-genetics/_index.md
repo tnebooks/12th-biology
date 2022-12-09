@@ -96,19 +96,17 @@ Mendel’s theory of inheritance, known as the Particulate theory, establishes t
 
 experiments with several true-breeding lines of pea plants. A true breeding lines (Pure-breeding strains) means it has undergone continuous self pollination having stable trait inheritance from parent to offspring. Matings within pure breeding lines produce offsprings having specific parental traits that are constant in inheritance and expression for many generations. Pure line breed refers to homozygosity only. Fusion of male and female gametes produced by the same individual i.e pollen and egg are
 
-**Figure 2.2**: Steps in cross pollination of pea flowers
+![Steps in cross Pollination Flowers](steps-in-cross-pollination-flowers.png "")
+
 
 derived from the same plant is known as self- fertilization. Self pollination takes place in Mendel’s peas. The experimenter can remove the anthers (Emasculation) before fertilization and transfer the pollen from another variety of pea to the stigma of flowers where the anthers are removed. This results in cross-fertilization, which leads to the creation of hybrid varieties with different traits. Mendel’s work on the study of the pattern of inheritance and the principles or laws formulated, now constitute the Mendelian Genetics.
 
 
-![Steps in cross Pollination Flowers](steps-in-cross-pollination-flowers.png "")
-
-
 **The First Model Organism in Genetics – Garden Peas (_Pisum sativum_) – Seven characters studied by Mendel.**
 
-![Seven characters of _Pisum sativum_ studied by Mendel.]( "")
+![](figure2.3.seven-characters-of-pisumsativum-studied-by-mendel.png "")
 
-![Mendel’s seven characters in Garden Peas, shown on the plant’s seven chromosomes]( "")
+![](seven-characters-of-pisumsativum-with-genes.png "")
 
 Mendel worked at the rules of inheritance and arrived at the correct mechanism before any knowledge of cellular mechanism, DNA, genes, chromosomes became available. Mendel insights and meticulous work into the mechanism of inheritance played an important role which led to the development of improved crop varieties and a revolution in crop hybridization.
 
@@ -122,14 +120,8 @@ If an individual has two identical alleles of
 
 Can you identify Mendel’s gene for **regulating white colour in peas? Let us find** the **molecular answer** to understand the gene function. Now the **genetic mystery of Mendel’s white flowers is solved.** It is quite fascinating to trace the Mendel’s genes. In 2010, the gene responsible for regulating flower colour in peas were identified by an international team of researchers. It was called **Pea Gene A** which encodes a **protein** that functions as a transcription factor which is responsible for the production of **anthocyanin pigment. So the flowers are** purple. Pea plants with white flowers do not have anthocyanin, even though they have the gene that encodes the enzyme involved in anthocyanin synthesis. Researchers delivered normal copies of gene A into the cells of the petals of white flowers by the gene gun method. When Gene A entered in a small percentage of cells of white flowers it is expressed in those particular cells, accumulated anthocyanin pigments and became purple. In white flowers the gene A sequence showed a single-nucleotide change that makes the transcription factor inactive. So the mutant form of gene A do not accumulate anthocyanin and hence they are white.
 
+
 ![of Pea with Pea Gene A and White flower of Pea]( "")
-
-
-
-![](figure2.3.seven-characters-of-pisumsativum-studied-by-mendel.png "")
-
- 
-
 
 a gene, it is called as **homozygous(TT)**. An individual with two different alleles is called **heterozygous(Tt)**. Mendels non-true breeding plants are heterozygous, called as **hybrids**.
 
