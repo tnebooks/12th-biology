@@ -2,49 +2,25 @@
 title: 'Ecosystem'
 weight: 8
 ---
-  
 
+```hint
+**Learning objectives** 
 
-
-**Learning Objectives**
-
-**Learning objectives** The learner will be able to,
-
+The learner will be able to,
 Describe the Structure, functions and types of ecosystems
-
 Draw ecological pyramids by means of number, biomass and energy
-
 Interpret carbon and phosphorus cycle
-
 Recognise pond ecosystem as a self- sufficient and self-regulating system
-
 Analyse ecosystem services and its management
-
 Discuss about the importance and conservation of ecosystem
-
 Explain causes, process and types of plant succession
-
 Classify vegetation types of India and Tamil Nadu
+```
 
-**Chapter outline**
-
-7.1 Ecosystem
-
-7.2 Functions of ecosystem
-
-7.2 Plant succession
-
-7.3 Vegetation
 
 Have you seen lakes, ponds and pools in your surroundings? They are all called water bodies with many components in them. Can you list out the things which are found in water bodies? Mud, nutrients, clay, dissolved gases, planktons, microorganisms, plants like algae, _Hydrilla, Nelumbo, Nymphaea_ and animals like snake, small fish, large fish, frog, tortoise and crane are the components of the water bodies which constitutes **ecosystem**. Further, we all know that plants and animals are prominent living components in the environment. They interact with space components such as air, water, soil, sunlight, etc. For example, you have studied in class XI, one of the life processes, photosynthesis which utilizes sunlight , water, carbondioxide, nutrients from the soil and release oxygen to the atmosphere. From this, we understand that the exchange of materials takes place between living and space components. Likewise, you can study the structure, function and types of ecosystem in this chapter. The term ‘ecosystem’ was proposed by A.G. Tansley (1935), who defined it as ‘the system resulting from the **integration of all the living and nonliving factors of the environment’**. Whereas, Odum (1962) defined ecosystem ‘as the structural and **functional unit of ecology’.**
 
 **Parallel terms for ecosystem coined by various ecologists** • Biocoenosis – Karl Mobius • Microcosm – S.A. Forbes • Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov • Holocoen - Friederichs • Biosystem – Thienemann • Bioenert body – Vernadsky
-
-**UNIT IX: Plant Ecology** Chapter
-
-**7 Ecosystem**
-
-
 
 
 ![](botany_xii_pages_149-177-ch-07-1-1.jpg "")
@@ -55,7 +31,7 @@ Have you seen lakes, ponds and pools in your surroundings? They are all called w
 
 
 ## Ecosystem
- Ecosystem comprises of two major components. They are: i) **Abiotic (non-living) components**: It
+Ecosystem comprises of two major components. They are: i) **Abiotic (non-living) components**: It
 
 includes climatic factors (air, water, sunlight, rainfall, temperature and humidity), edaphic factors (soil air, soil water and pH of soil),topography (latitude, altitude), organic components (carbohydrates, proteins, lipids and humic substances) and inorganic substances (C, H, O, N and P ). Abiotic components play vital role in any ecosystem and hence the total inorganic substances present in any ecosystem at a given time is called **standing quality** (or) **standing state**.
 
@@ -1476,12 +1452,6 @@ These forests are found at about 400 to 800 m MSL .These forests are found in th
 **FOREST TYPES OF INDIA Champion and Seth (1968)**
 
 **Figure 7.22:** Map showing forest types of India. Champion and Seth (1968)
-
-
-
-  
-
-
 
 _Bauhinia_ and _Zizyphus._ Some common Climbers are _Combretum, Hiptage_: herbs like _Abutilon, Achyranthes_ and Tribulus.These are found in Andhra Pradesh, Punjab, Uttar Pradesh, Bihar, Orissa, Madhya Pradesh and also found in all districts of Tamil Nadu at lower elevations.
 
