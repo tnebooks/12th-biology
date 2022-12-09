@@ -2,80 +2,28 @@
 title: 'Plant Tissue Culture'
 weight: 6
 ---
-  
 
+```
+**Learning Objectives**
+
+- Perceive the concepts of tissue culture. 
+- Cognize the steps of tissue culture techniques and its types. 
+- Understand the protoplast culture in detail. 
+- Elicit the list of secondary metabolites obtained through cell suspension culture.
+- Learn plant regeneration pathway. 
+- Appreciate the uses of micro propagation, somatic hybridization, shoot meristem culture and germplasm conservation.
+- Acquire the knowledge of patenting Biosafety and Bioethics.
+```
+
+![](botany_xii_pages_110-122-ch-05-1-2.jpg "")
 
 Growing plant protoplasts, cells, tissues or organs away from their natural or normal environment, under artificial condition, is known as Tissue Culture. It is also known as _in vitro_ (_In vitro_ is a Latin word, it means that - in glass or in test-tube) growth of plant protoplasts, cells, tissues and organs. A single explant can be multiplied into several thousand plants in a short duration and space under controlled conditions.
+
+![Gottlieb Haberlandt](botany_xii_pages_110-122-ch-05-1-1.jpg "")
 
 Tissue culture techniques are often used for commercial production of plants as well as for plant research. Plant tissue culture serves as an indispensable tool for regeneration of transgenic plants. Apart from this some of the main applications of Plant tissue culture are clonal propagation of elite varieties, conservation of endangered plants, production of virus-free plants, germplasm preservation, industrial production of secondary metabolites. etc., In this chapter let us discuss the history , techniques, types , applications of plant tissue culture and get awareness on ethical issues.
 
 Gottlieb Haberlandt (1902) the German Botanist proposed the concept **Totipotency** and he was also the first person to culture plant cells in artificial conditions using the mesophyll cells of _Lamium purpureum_ in culture medium and obtained cell proliferation. He is regarded as the father of tissue culture.
-
-Gottlieb Haberlandt
-
-**Learning Objectives**
-
-The learner will be able to Perceive the concepts of tissue culture. Cognize the steps of tissue culture
-
-techniques and its types. Understand the protoplast culture in
-
-detail. Elicit the list of secondary metabolites
-
-obtained through cell suspension culture.
-
-Learn plant regeneration pathway. Appreciate the uses of micro
-
-propagation, somatic hybridization, shoot meristem culture and germplasm conservation.
-
-Acquire the knowledge of patenting Biosafety and Bioethics.
-
-5.1 Basic concepts of Tissue Culture
-
-5.2 Plant tissue culture techniques and types
-
-5.3 Plant regeneration pathway
-
-5.4 Applications of plant tissue culture 5.5 Conservation of plant genetic
-
-resources 5.6 Intellectual Property Right (IPR),
-
-Biosafety and Bioethics 5.7 Future Biotechnology
-
-**Chapter outline**
-
-**UNIT VIII: Biotechnology** Chapter
-
-**5 Plant Tissue Culture**
-
-
-
-![](botany_xii_pages_110-122-ch-05-1-1.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-1-2.jpg "")
-
-  
-
-
-## Plant Tissue Culture (PTC)
- Plant tissue culture is used to describe the _in vitro_ and aseptic growth of any plant part on a tissue culture medium. This technology is based on three fundamental principles: • The plant part or explant must be selected
-
-and isolated from the rest of plant body.
-- The explant must be maintained in controlled physically (environmental) and chemically defined (nutrient medium) conditions.
-- Aseptic condition must be maintained, which requires high degree of cleanliness in the laboratory.
-
-**Explant: The tissue taken from a selected** plant transferred to a culture medium often to establish a new plant.
-
-### Laboratory Facilities for PTC
- For PTC, the laboratory must have the following facilities:
-
-![Tissue culture lab • Washing facility for glassware and ovens for]( "")
-
-drying glassware. • Medium preparation room with autoclave,
-
-electronic balance and pH meter. • Transfer area sterile room with laminar
-
-air-flow bench and a positive pressure ventilation unit called High Efficiency Particulate Air (HEPA) filter to maintain aseptic condition.
-- Culture facility: Growing the explant inoculated into culture tubes at 22-28° C with illumination of light 2400 lux, with a photoperiod of 8-16 hours and a relative humidity of about 60%.
 
 ## Basic concepts of Tissue Culture
  Basic concepts of plant tissue culture are totipotency, differentiation, dedifferentiation and redifferentiation.
@@ -96,49 +44,56 @@ Plantlet
 
 Explant in Nutrient medium
 
-![Totipotency]( "")
+![Totipotency](totipotency.png "")
 
 **Redifferentiation** The further differentiation of already differentiated cell into another type of cell. For example, when the component cells of callus have the ability to form a whole plant in a nutrient medium, the phenomenon is called redifferentiation.
 
 **Dedifferentiation** The phenomenon of the reversion of mature cells to the meristematic state leading to the formation of callus is called dedifferentiation. These two phenomena of redifferentiation and dedifferentiation are the inherent capacities of living plant cells or tissue. This is described as totipotency.
 
+## Plant Tissue Culture (PTC)
+ Plant tissue culture is used to describe the _in vitro_ and aseptic growth of any plant part on a tissue culture medium. This technology is based on three fundamental principles: • The plant part or explant must be selected and isolated from the rest of plant body.
+- The explant must be maintained in controlled physically (environmental) and chemically defined (nutrient medium) conditions.
+- Aseptic condition must be maintained, which requires high degree of cleanliness in the laboratory.
 
+```
+**Explant: The tissue taken from a selected** plant transferred to a culture medium often to establish a new plant.
+```
 
-![](botany_xii_pages_110-122-ch-05-2-1.jpg "")
+### Laboratory Facilities for PTC
 
-![](botany_xii_pages_110-122-ch-05-2-2.jpg "")
-  
+![Tissue culture lab ](botany_xii_pages_110-122-ch-05-2-1.jpg "")
 
+ For PTC, the laboratory must have the following facilities:
 
-iv. Sterilization of Explants: The plant materials to be used for tissue culture should be surface sterilized by first exposing the material in running tap water and then treating it in surface sterilization agents like 0.1% mercuric chloride, 70% ethanol under aseptic condition inside the Laminar Air Flow Chamber.
+- Washing facility for glassware and ovens for drying glassware.
+- Medium preparation room with autoclave,electronic balance and pH meter. 
+- Transfer area sterile room with laminar air-flow bench and a positive pressure ventilation unit called High Efficiency Particulate Air (HEPA) filter to maintain aseptic condition.
+- Culture facility: Growing the explant inoculated into culture tubes at 22-28° C with illumination of light 2400 lux, with a photoperiod of 8-16 hours and a relative humidity of about 60%.
 
-**2\. Media Preparation** The success of tissue culture lies in the composition of the growth medium, plant growth regulators and culture conditions such as temperature, pH, light and humidity. No single medium is capable of maintaining optimum growth of all plant tissues. Suitable nutrient medium as per the principle of tissue culture is prepared and used.
+### Technique Involved in PTC
+
+#### 1\. Sterilization
+Sterilization is the technique employed to get rid of microbes such as bacteria and fungi in the culture medium, vessels and explants. 
+
+i. **Maintenance of Aseptic Environment:** During in vitro tissue culture maintenance of aseptic environmental condition should be followed, i.e., sterilization of glassware, forceps, scalpels, and all accessories in wet steam sterilization by autoclaving at 15 psi (121°C) for 15 to 30 minutes or dipping in 70% ethanol followed by flaming and cooling. 
+
+ii. **Sterilization of culture room:** Floor and walls are washed first with detergent and then with 2% sodium hypochlorite or 95% ethanol. The cabinet of laminar airflow is sterilized by clearing the work surface with 95% ethanol and then exposure of UV radiation for 15 minutes. 
+
+iii. **Sterilization of Nutrient Media:** Culture media are dispensed in glass containers, plugged with non-absorbent cotton or sealed with plastic closures and then sterilized using autoclave at 15 psi (121°C) for 15 to 30 minutes. The plant extracts, vitamins, amino acids and hormones are sterilized by passing through Millipore filter with 0.2 mm pore diameter and then added to sterilized culture medium inside Laminar Airflow Chamber under sterile condition.
+
+![Basic steps in Plant tissue culture technology](steps-in-plant-tissue-culture.png "")
+
+iv. **Sterilization of Explants:** The plant materials to be used for tissue culture should be surface sterilized by first exposing the material in running tap water and then treating it in surface sterilization agents like 0.1% mercuric chloride, 70% ethanol under aseptic condition inside the Laminar Air Flow Chamber.
+
+#### 2\. Media Preparation
+The success of tissue culture lies in the composition of the growth medium, plant growth regulators and culture conditions such as temperature, pH, light and humidity. No single medium is capable of maintaining optimum growth of all plant tissues. Suitable nutrient medium as per the principle of tissue culture is prepared and used.
 
 MS nutrient medium (Murashige and Skoog 1962) is commonly used. It has carbon sources, with suitable vitamins and hormones. The media formulations available for plant tissue culture other than MS are B5 medium (Gamborg.et.al 1968), White medium (white 1943), Nitsch’s medium (Nitsch & Nitsch 1969). A medium may be solid or semisolid or liquid. For solidification, a gelling agent such as agar is added.
 
 **Agar:** A complex mucilaginous polysaccharide obtained from marine algae (sea weeds) used as solidifying agent in media preparation.
 
-### Technique Involved in PTC
 
-**1\. Sterilization:** Sterilization is the technique employed to get rid of microbes such as bacteria and fungi in the culture medium, vessels and explants. i. **Maintenance of Aseptic Environment:** During in vitro tissue culture maintenance of aseptic environmental condition should be followed, i.e., sterilization of glassware, forceps, scalpels, and all accessories in wet steam sterilization by autoclaving at 15 psi (121°C) for 15 to 30 minutes or dipping in 70% ethanol followed by flaming and cooling. ii. **Sterilization of culture room:** Floor and walls are washed first with detergent and then with 2% sodium hypochlorite or 95% ethanol. The cabinet of laminar airflow is sterilized by clearing the work surface with 95% ethanol and then exposure of UV radiation for 15 minutes. iii. **Sterilization of Nutrient Media:** Culture media are dispensed in glass containers, plugged with non-absorbent cotton or sealed with plastic closures and then sterilized using autoclave at 15 psi (121°C) for 15 to 30 minutes. The plant extracts, vitamins, amino acids and hormones are sterilized by passing through Millipore filter with 0.2 mm pore diameter and then added to sterilized culture medium inside Laminar Airflow Chamber under sterile condition.
-
-![Basic steps in Plant tissue culture technology]( "")
-
-
-
-![](botany_xii_pages_110-122-ch-05-3-1.jpg "")
-
-
-![](botany_xii_pages_110-122-ch-05-3-3.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-3-4.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-3-5.jpg "")
-
-  
-
-
-**3\. Culture condition**
+#### 3\. Culture condition
 
 **pH** The pH of medium is normally adjusted between 5.6 to 6.0 for the best result.
 
@@ -148,75 +103,42 @@ MS nutrient medium (Murashige and Skoog 1962) is commonly used. It has carbon so
 
 **Aeration** Aeration to the culture can be provided by shaking the flasks or tubes of liquid culture on automatic shaker or aeration of the medium by passing with filter-sterilized air.
 
-**4\. Induction of Callus** Explant of 1-2 cm sterile segment selected from leaf, stem, tuber or root is inoculated (transferring the explants to sterile glass tube containing nutrient medium) in the MS nutrient medium supplemented with auxins and incubated at 25°C ± 2°C in an alternate light and dark period of 12 hours to induce cell division and soon the upper surface of explant develops into callus. Callus is a mass of unorganized growth of plant cells or tissues in _in vitro_ culture medium.
+#### 4\. Induction of Callus
 
-**5\. Embryogenesis** The callus cells undergoes differentiation and produces somatic embryos, known as **Embryoids. The embryoids** are sub-cultured to produce plantlets.
+![Induction of callus](induction-of-callus.png "")
 
-![Induction of callus]( "")
+Explant of 1-2 cm sterile segment selected from leaf, stem, tuber or root is inoculated (transferring the explants to sterile glass tube containing nutrient medium) in the MS nutrient medium supplemented with auxins and incubated at 25°C ± 2°C in an alternate light and dark period of 12 hours to induce cell division and soon the upper surface of explant develops into callus. Callus is a mass of unorganized growth of plant cells or tissues in _in vitro_ culture medium.
 
-![Embryogenesis]( "")
+#### 5\. Embryogenesis
+The callus cells undergoes differentiation and produces somatic embryos, known as **Embryoids. The embryoids** are sub-cultured to produce plantlets.
 
-**6\. Hardening** The plantlets developed in vitro require a hardening period and so are transferred to greenhouse or hardening chamber and then to normal environmental conditions. Hardening is the gradual exposure of _in vitro_ developed plantlets in humid chambers in diffused light for acclimatization so as to enable them to grow under normal field conditions.
+![Embryogenesis](embryogenesis.png "")
+
+#### 6\. Hardening
+The plantlets developed in vitro require a hardening period and so are transferred to greenhouse or hardening chamber and then to normal environmental conditions. Hardening is the gradual exposure of _in vitro_ developed plantlets in humid chambers in diffused light for acclimatization so as to enable them to grow under normal field conditions.
 
 ### Types of Plant tissue cultures
- Based on the type of explant other plant tissue culture types are 1. Organ culture 2. Meristem culture 3. Protoplast culture 4. Cell suspension culture.
+Based on the type of explant other plant tissue culture types are 
+1. Organ culture 
+2. Meristem culture 
+3. Protoplast culture 
+4. Cell suspension culture.
 
 **1\. Organ culture**
 
-![Organ Culture]( "")
+![Organ Culture](organ-culture.png "")
 
 The culture of embryos, anthers, ovaries, roots, shoots or other organs of plants on culture media.
 
 **2\. Meristem Culture:** The culture of any plant meristematic tissue on culture media.
 
-
-
-![](botany_xii_pages_110-122-ch-05-4-1.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-4-3.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-4-4.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-4-6.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-4-7.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-4-8.jpg "")
-  
-
-
-![Meristem Culture]( "")
+![Meristem Culture](meristem-culture.png "")
 
 **3\. Protoplast Culture:** Protoplasts are cells without a cell wall, but bound by a cell membrane or plasma membrane. Using protoplasts, it is possible to regenerate whole plants from single cells and also develop somatic hybrids. The steps involved in protoplast culture. i. **Isolation of protoplast:** Small bits of plant tissue like leaf tissue are used for isolation of protoplast. The leaf tissue is immersed in 0.5% Macrozyme and 2% Onozuka cellulase enzymes dissolved in 13% sorbitol or mannitol at pH 5.4. It is then incubated over-night at 25°C. After a gentle teasing of cells, protoplasts are obtained, and these are then transferred to 20% sucrose solution to retain their viability. They are then centrifuged to get pure protoplasts as different from debris of cell walls.
 
-![Protoplast Culture]( "")
+![Protoplast Culture](protoplast-culture.png "")
 
 ii. **Fusion of protoplast:** It is done through the use of a suitable fusogen. This is normally PEG (Polyethylene Glycol). The isolated protoplast are incubated in 25 to 30% concentration of PEG with Ca++ ions and the protoplast shows agglutination (the formation of clumps of cells) and fusion. iii. **Culture of protoplast:** MS liquid medium is used with some modification in droplet, plating or micro-drop array techniques. Protoplast viability is tested with fluorescein diacetate before the culture. The cultures are incubated in continuous light 1000-2000 lux at 25°C. The cell wall formation occurs within 24-48 hours and the first division of new cells occurs between 2-7 days of culture. iv. Selection of somatic hybrid cells: The fusion product of protoplasts without nucleus of different cells is called a cybrid. Following this nuclear fusion takes place. This process is called somatic hybridization.
-
-
-
-![](botany_xii_pages_110-122-ch-05-5-1.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-2.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-8.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-10.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-11.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-12.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-14.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-5-15.jpg "")
-
-
-
-
-![](botany_xii_pages_110-122-ch-05-5-22.jpg "")
-  
-
 
 **4\. Cell Suspension Culture** The growing of cells including the culture of single cells or small aggregates of cells _in vitro_ in liquid medium is known as cell suspension culture. The cell suspension is prepared by transferring a portion of callus to the liquid medium and agitated using rotary shaker instrument. The cells are separated from the callus tissue and used for cell suspension culture.
 
@@ -241,18 +163,13 @@ and its plant resources
 ## Plant Regeneration Pathway
  From the explants, plants can be regenerated by somatic embryogenesis or organogenesis.
 
-![Flow chart of Plant regeneration pathway]( "")
+![Flow chart of Plant regeneration pathway](regeneration-pathway.png "")
 
 ### Somatic Embryogenesis
 
 Somatic embryogenesis is the formation of embryos from the callus tissue directly and these embryos are called **Embryoids** or from the _in vitro_ cells directly form pre-embryonic cells which differentiate into embryoids.
 
-![Plant Regeneration Pathway]( "")
-
-
-
-![](botany_xii_pages_110-122-ch-05-6-1.jpg "")
-  
+![Plant Regeneration Pathway](plant-regeneration-pathway.png "")  
 
 
 **Applications** • Somatic embryogenesis provides potential
@@ -294,18 +211,11 @@ vi. Production of secondary metabolites from cell culture utilized in pharmaceut
 ### Micropropagation of Banana
  Micropropagation of plants at industrial level maintains high standards of homogeneity in plants like pineapple, banana, strawberry and potato.
 
-![Artificial seeds or synthetic seeds (synseeds) are produced by using embryoids (somatic embryos) obtained through in vitro culture. They may even be derived from single cells from any part of the plant that later divide to form cell mass containing dense cytoplasm, large nuclceus, starch grains, proteins, and oils etc., To prepare the artificial seeds different inert materials are used for coating the somatic embryoids like agrose and sodium alginate.]( "")
+![](micropropagation-of-Banana.png "")
 
+Artificial seeds or synthetic seeds (synseeds) are produced by using embryoids (somatic embryos) obtained through in vitro culture. They may even be derived from single cells from any part of the plant that later divide to form cell mass containing dense cytoplasm, large nuclceus, starch grains, proteins, and oils etc., To prepare the artificial seeds different inert materials are used for coating the somatic embryoids like agrose and sodium alginate.
 
-
-![](botany_xii_pages_110-122-ch-05-7-1.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-7-2.jpg "")
-
-  
-
-
-**Figure 5.12: Artificial seeds**
+![Figure 5.12: Artificial seeds](artificia-seeds.png "")
 
 Somatic Embryo
 
@@ -329,7 +239,7 @@ greatly reduced, hence growth is faster with a shortened life cycle.
 
 Shoot meristem tip culture is the method to produce virus-free plants, because the shoot meristem tip is always free from viruses.
 
-![Shoot tip - Apical Meristem]( "")
+![Shoot tip - Apical Meristem](botany_xii_pages_110-122-ch-05-8-3.jpg "")
 
 ## Conservation of plant genetic resources
 
@@ -341,22 +251,9 @@ Germplasm conservation resources is a part of collection of seeds and pollen tha
 ### Cryopreservation (–195.C)
  Cryopreservation, also known as Cryo-conservation, is a process by which protoplasts, cells, tissues, organelles, organs, extracellular matrix, enzymes or any other biological materials are subjected to preservation by cooling to very low temperature of –196°C using liquid nitrogen. At this extreme low temperature any enzymatic or chemical activity of the biological material will be totally stopped and this leads to preservation of material in dormant status. Later these materials can be activated by bringing to room t e m p e r a t u r e slowly for any e x p e r i me nt a l work.
 
-![Seed bank]( "")
+![Seed bank](botany_xii_pages_110-122-ch-05-8-4.jpg "")
 
-![Cryopreservation]( "")
-
-
-
-![](botany_xii_pages_110-122-ch-05-8-1.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-8-2.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-8-3.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-8-4.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-8-5.jpg "")
-  
+![Cryopreservation](botany_xii_pages_110-122-ch-05-8-5.jpg "")
 
 
 Protective agents like dimethyl sulphoxide, glycerol or sucrose are added before cryopreservation process. These protective agents are called cryoprotectants, since they protect the cells, or tissues from the stress of freezing temperature.
@@ -364,7 +261,7 @@ Protective agents like dimethyl sulphoxide, glycerol or sucrose are added before
 ## Intellectual Property Right (IPR)
  Intellectual property right (IPR) is a category of rights that includes intangible creation of the human intellect, and primarily consists of copyrights, patents, and trademarks. It also includes other types of rights, such as trade secrets, publicity rights, moral rights, and rights against unfair competition.
 
-![IPR in India]( "")
+![IPR in India](ipr-in-india.png1 "")
 
 **IPR IN INDIA**
 
@@ -396,20 +293,7 @@ that has been granted by the government through legislation for trading new arti
 - Patent terms give the inventor the rights to exclude others from making, using or selling his invention.
 
 ### Biosafety and Bioethics
- Advances in biotechnology and their applications deals with genetic manipulation. **Biosafety** Biosafety is the prevention of large-scale loss of biological integrity, focusing both on ecology and human health. These prevention mechanisms include conduction of regular reviews of the biosafety in laboratory settings, as well as strict guidelines to follow. Many laboratories handling biohazards employ an ongoing risk management assessment and enforcement process for biosafety. Failures to follow such protocols can lead to increased risk of exposure to biohazards or pathogens. **Bioethics - Ethical, Legal and Social Implications (ELSI)** Bioethics refers to the study of ethical issues emerging from advances in biology and medicine. It is also a moral discernment as it relates to medical policy and practice. Bioethicists are concerned with the ethical questions that arise in the relationships among life sciences, biotechnology and medicine. It includes the study of values relating to primary care and other branches of medicine. The scope of bioethics is directly related to biotechnology, including cloning, gene therapy, life extension, human genetic engineering, astroethics life in space, and manipulation of basic biology through altered DNA, RNA and proteins. These developments in biotechnology will affect future evolution, and may require new principles, such as biotic ethics, that values life and its basic biological characters and structures. The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 as an integral part
-
-
-
-
-
-
-
-
-
-  
-
-
-of the Human Genome Project. The mission of the ELSI program was to identify and address issues raised by genomic research that would affect individuals, families, and society. A percentage of the Human Genome Project budget at the National Institutes of Health and the U.S. Department of Energy was devoted to ELSI research. **Genetic Engineering Appraisal Committee (GEAC)** GEAC is an apex body under Ministry of Environment, Forests and Climate change for regulating manufacturing, use, import, export and storage of hazardous microbes or genetically modified organisms (GMOs) and cells in the country. It was established as an apex body to accord approval of activities involving large scale use of hazardous microorganisms and recombinants in research and industrial production. The GEAC is also responsible for approval of proposals relating to release of genetically engineered organisms and products into the environment including experimental field trials.
+ Advances in biotechnology and their applications deals with genetic manipulation. **Biosafety** Biosafety is the prevention of large-scale loss of biological integrity, focusing both on ecology and human health. These prevention mechanisms include conduction of regular reviews of the biosafety in laboratory settings, as well as strict guidelines to follow. Many laboratories handling biohazards employ an ongoing risk management assessment and enforcement process for biosafety. Failures to follow such protocols can lead to increased risk of exposure to biohazards or pathogens. **Bioethics - Ethical, Legal and Social Implications (ELSI)** Bioethics refers to the study of ethical issues emerging from advances in biology and medicine. It is also a moral discernment as it relates to medical policy and practice. Bioethicists are concerned with the ethical questions that arise in the relationships among life sciences, biotechnology and medicine. It includes the study of values relating to primary care and other branches of medicine. The scope of bioethics is directly related to biotechnology, including cloning, gene therapy, life extension, human genetic engineering, astroethics life in space, and manipulation of basic biology through altered DNA, RNA and proteins. These developments in biotechnology will affect future evolution, and may require new principles, such as biotic ethics, that values life and its basic biological characters and structures. The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 as an integral part of the Human Genome Project. The mission of the ELSI program was to identify and address issues raised by genomic research that would affect individuals, families, and society. A percentage of the Human Genome Project budget at the National Institutes of Health and the U.S. Department of Energy was devoted to ELSI research. **Genetic Engineering Appraisal Committee (GEAC)** GEAC is an apex body under Ministry of Environment, Forests and Climate change for regulating manufacturing, use, import, export and storage of hazardous microbes or genetically modified organisms (GMOs) and cells in the country. It was established as an apex body to accord approval of activities involving large scale use of hazardous microorganisms and recombinants in research and industrial production. The GEAC is also responsible for approval of proposals relating to release of genetically engineered organisms and products into the environment including experimental field trials.
 
 ## Future of Biotechnology
  Biotechnology has become a comprehensive scientific venture from the point of academic and commercial angles, within a short time with the sequencing of human genome and genome of some important organisms. The future developments in biotechnology will be exciting. Thus the development in biotechnology will lead to a new scientific revolution that would change the lives and future of people. Like industrial and computer revolution, biotechnological revolution will also promise major changes in many aspects of modern life.
@@ -488,19 +372,6 @@ such as seaweeds. b) Callus undergoes differentiation and
 produces somatic embryoids. c) Surface sterilization of explants is done
 
 by using mercuric bromide d) PH of the culture medium is 5.0 to 6.0
-
-
-
-![](botany_xii_pages_110-122-ch-05-11-1.jpg "")
-
-
-![](botany_xii_pages_110-122-ch-05-11-4.jpg "")
-
-![](botany_xii_pages_110-122-ch-05-11-5.jpg "")
-
-
-  
-
 
 12\. How will you avoid the growing of microbes in nutrient medium during culture process? What are the techniques used to remove the microbes?
 
@@ -610,5 +481,3 @@ cultured plant cells in artificial condition called in vitro (inside glass) in c
 **Horsh** _et al_. (1984)
 
 **Milestones in Plant Tissue Culture**
-
-
