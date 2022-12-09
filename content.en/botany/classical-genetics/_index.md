@@ -101,7 +101,7 @@ experiments with several true-breeding lines of pea plants. A true breeding line
 derived from the same plant is known as self- fertilization. Self pollination takes place in Mendel’s peas. The experimenter can remove the anthers (Emasculation) before fertilization and transfer the pollen from another variety of pea to the stigma of flowers where the anthers are removed. This results in cross-fertilization, which leads to the creation of hybrid varieties with different traits. Mendel’s work on the study of the pattern of inheritance and the principles or laws formulated, now constitute the Mendelian Genetics.
 
 
-![](figure2.2:steps-in-cross-pollination-flowers.png "")
+![Steps in cross Pollination Flowers](steps-in-cross-pollination-flowers.png "")
 
 
 **The First Model Organism in Genetics – Garden Peas (_Pisum sativum_) – Seven characters studied by Mendel.**
@@ -126,42 +126,9 @@ Can you identify Mendel’s gene for **regulating white colour in peas? Let us f
 
 
 
-![](botany_xii_pages_033-051-ch-02-4-7.jpg "")
+![](figure2.3.seven-characters-of-pisumsativum-studied-by-mendel.png "")
 
-![](botany_xii_pages_033-051-ch-02-4-9.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-10.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-24.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-30.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-31.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-32.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-34.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-35.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-38.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-40.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-41.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-46.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-48.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-49.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-50.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-52.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-4-57.jpg "")
-  
+ 
 
 
 a gene, it is called as **homozygous(TT)**. An individual with two different alleles is called **heterozygous(Tt)**. Mendels non-true breeding plants are heterozygous, called as **hybrids**.
