@@ -138,13 +138,16 @@ Mendel proposed two rules based on his observations on monohybrid cross, today t
 and a heterozygous parent produces two kinds of gametes each having one allele with equal proportion. **Gametes are never hybrid.**
 
 ## Monohybrid cross
- Monohybrid inheritance is the inheritance of a single character i.e. plant height.It involves the inheritance of two alleles of a single gene. When the F1 generation was selfed Mendel noticed that 787 of 1064 F2 plants were tall, while 277 of 1064 were dwarf. The dwarf trait disappeared in the F1 generation only to reappear in the F2 generation. The term genotype is the genetic constitution of an individual. The term phenotype refers to the observable characteristic of an organism. In a genetic cross the genotypes and phenotypes of offspring, resulting from combining gametes during fertilization can be easily understood with the help of a diagram called Punnett’s Square named after a British Geneticist Reginald C.Punnett. It is a graphical representation to calculate the probability of all possible genotypes of offsprings in a genetic cross.The Law of Dominance and the Law of Segregation give suitable explanation to Mendel’s monohybrid cross.
+ Monohybrid inheritance is the inheritance of a single character i.e. plant height.It involves the inheritance of two alleles of a single gene. When the F1 generation was selfed Mendel noticed that 787 of 1064 F2 plants were tall, while 277 of 1064 were dwarf. The dwarf trait disappeared in the F1 generation only to reappear in the F2 generation. The term genotype is the genetic constitution of an individual. The term phenotype refers to the observable characteristic of an organism. In a genetic cross the genotypes and phenotypes of offspring, resulting from combining gametes during fertilization can be easily understood with the help of a diagram called Punnett’s Square named after a British Geneticist Reginald C.Punnett. 
+ 
+ ![Monohybrid Cross](monohybrid-cross.png "")
+ 
+ 
+ It is a graphical representation to calculate the probability of all possible genotypes of offsprings in a genetic cross.The Law of Dominance and the Law of Segregation give suitable explanation to Mendel’s monohybrid cross.
 
 **Reciprocal cross** – In one experiment, the tall pea plants were pollinated with the pollens from a true-breeding dwarf plants, the result was all tall plants. When the parental types were reversed, the pollen from a tall plant was used to pollinate a dwarf pea plant which gave only tall plants. The result was the same - All tall plants. Tall ( ) x Dwarf ( ) and Tall ( ) x Dwarf ( ) matings are done in both ways which are called reciprocal crosses.The results of the reciprocal crosses are the same. So it was concluded that the trait is not sex dependent. The results of Mendel’s monohybrid crosses were not sex dependent.
 
 The gene for plant height has two alleles: Tall (T) x Dwarf (t). The phenotypic and genotypic analysis of the crosses has been shown by Checker board method or by Forkline method.
-
-![Monohybrid Cross](monohybrid-cross.png "")
 
 ### Mendel’s analytical and empirical approach
 
@@ -159,105 +162,17 @@ Test cross is crossing an individual of unknown genotype with a homozygous reces
 In Mendel’s monohybrid cross all the plants are tall in F1 generation. In F2 tall and dwarf plants were in the ratio of 3:1. Mendel self pollinated dwarf F2 plants and got dwarf plants in F3 and F4 generations. So he concluded that the genotype of dwarf was homozygous (tt). The genotypes of tall plants TT or Tt from F1and F2 cannot be predicted. But how we can tell if a tall plant is homozygous or heterozygous? To determine the genotype of a tall plant Mendel crossed the plants from F2 with the homozygous recessive dwarf plant. This he called a test cross. The progenies of the test cross can be easily analysed to predict the genotype of the plant or the test organism. Thus in a typical test cross an organism (pea plants) showing dominant phenotype (whose genotype is to be determined) is crossed with the recessive parent instead of self crossing. Test cross is used to identify whether an individual is homozygous or heterozygous for dominant character.
 
 
-**If heterozygous tall test cross** F1 Heterozygous tall
+**If heterozygous tall test cross** 
 
-Tt
+![Test Tall](heterozygous-tall-test-cross.png "")
 
-Homozygous dwarf
 
-tt
+![Test Tall](homozygous-tall-test-cross.png "")
 
-Parental (P) Phenotypes
-
-x
-
-Genotypes
-
-Gametes T t t t
-
-Offspring (F1) genotypes
-
-Genotypic Ratio
-
-Phenotypes
-
-Phenotypic Ratio
-
-Tt tt
-
-1 : 1
-
-1 : 1
-
-Tall Dwarf
-
-Homozygous dwarf plant
-
-(tt) Homozygous
-
-dwarf plant (tt)
-
-Heterozygous tall plant
-
-(Tt)
-
-Heterozygous tall plant
-
-(Tt)
-
-gametes gametes
-
-t t
-
-tT
-
-F1 Homozygous tall
-
-TT
-
-Homozygous dwarf
-
-tt
-
-Parental (P) Phenotypes
-
-x
-
-Genotypes
-
-Gametes T T t t
-
-Heterozygous tall plant
-
-(Tt) Heterozygous
-
-tall plant (Tt)
-
-Heterozygous tall plant
-
-(Tt)
-
-Heterozygous tall plant
-
-(Tt)
-
-gametes
-
-Offspring (F1) genotypes
-
-gametes
-
-T t
-
-tT
-
-Tt Tt
 
 Phenotypes Tall Tall All tall plants
 
 **If homozygous tall test cross**
-
-![Test cross]( "")
 
 **Why Mendel’s pea plants are tall and dwarf? Find out the molecular explanation.**
 
