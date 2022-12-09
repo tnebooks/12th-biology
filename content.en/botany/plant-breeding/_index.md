@@ -79,7 +79,6 @@ environments and a wider geographical range.
 
 • Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
 =======
-![](botany_xii_pages_199-215-ch-09-1-1.jpg "")
 
   
 

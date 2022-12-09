@@ -340,7 +340,6 @@ it is used as dietary supplement and is sold as pollen tablets and syrups. Furth
 
 
 
-![](botany_xii_pages_001-032-ch-01-9-1.jpg "")
   
 
 
@@ -525,7 +524,6 @@ Cleistogamous flower
 
 
 
-![](botany_xii_pages_001-032-ch-01-13-1.jpg "")
 
   
 
@@ -658,7 +656,6 @@ Silk (Stigma and Style)
 
 
 
-![](botany_xii_pages_001-032-ch-01-16-1.jpg "")
 
 
 
@@ -726,21 +723,14 @@ Apospory
 
 
 
-![](botany_xii_pages_001-032-ch-01-17-1.jpg "")
 
 ![](botany_xii_pages_001-032-ch-01-17-2.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-17-3.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-17-4.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-17-5.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-17-6.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-17-7.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-17-8.jpg "")
   
 
 
@@ -786,7 +776,6 @@ Pollen gets dusted on the body of the insect
 
 
 
-![](botany_xii_pages_001-032-ch-01-18-1.jpg "")
   
 
 
@@ -826,11 +815,8 @@ In Bee orchid (_Ophrys_) the morphology of the flower mimics that of female wasp
 
 
 
-![](botany_xii_pages_001-032-ch-01-19-1.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-19-2.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-19-3.jpg "")
   
 
 
@@ -914,7 +900,6 @@ S.G. Nawaschin and L.Guignard in 1898 and 1899, observed in _Lilium_ and _Fritil
 
 
 
-![](botany_xii_pages_001-032-ch-01-21-1.jpg "")
   
 
 
@@ -1278,19 +1263,12 @@ Apospory
 
 
 
-![](botany_xii_pages_001-032-ch-01-26-3.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-26-5.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-26-6.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-26-7.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-26-8.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-26-9.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-26-10.jpg "")
   
 
 
@@ -1624,10 +1602,6 @@ _Ricinus_ \- Caruncle
 
 
 
-![](botany_xii_pages_001-032-ch-01-32-1.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-32-2.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-32-3.jpg "")
 
-![](botany_xii_pages_001-032-ch-01-32-4.jpg "")
