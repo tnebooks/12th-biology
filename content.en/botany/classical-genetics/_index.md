@@ -121,7 +121,7 @@ If an individual has two identical alleles of
 Can you identify Mendel’s gene for **regulating white colour in peas? Let us find** the **molecular answer** to understand the gene function. Now the **genetic mystery of Mendel’s white flowers is solved.** It is quite fascinating to trace the Mendel’s genes. In 2010, the gene responsible for regulating flower colour in peas were identified by an international team of researchers. It was called **Pea Gene A** which encodes a **protein** that functions as a transcription factor which is responsible for the production of **anthocyanin pigment. So the flowers are** purple. Pea plants with white flowers do not have anthocyanin, even though they have the gene that encodes the enzyme involved in anthocyanin synthesis. Researchers delivered normal copies of gene A into the cells of the petals of white flowers by the gene gun method. When Gene A entered in a small percentage of cells of white flowers it is expressed in those particular cells, accumulated anthocyanin pigments and became purple. In white flowers the gene A sequence showed a single-nucleotide change that makes the transcription factor inactive. So the mutant form of gene A do not accumulate anthocyanin and hence they are white.
 
 
-![of Pea with Pea Gene A and White flower of Pea]( "")
+![of Pea with Pea Gene A and White flower of Pea](purple-flower-ofpea-with-pea-gene-a-and-white-flower-of-pea.png "")
 
 a gene, it is called as **homozygous(TT)**. An individual with two different alleles is called **heterozygous(Tt)**. Mendels non-true breeding plants are heterozygous, called as **hybrids**.
 
@@ -144,74 +144,7 @@ and a heterozygous parent produces two kinds of gametes each having one allele w
 
 The gene for plant height has two alleles: Tall (T) x Dwarf (t). The phenotypic and genotypic analysis of the crosses has been shown by Checker board method or by Forkline method.
 
-
-Tall (True - breeding)
-
-TT
-
-Dwarf (True - breeding)
-
-tt
-
-T t
-
-tT Tt (tall)
-
-Tt (tall)
-
-Tt (tall)
-
-Tt (tall)
-
-X
-
-Homozygous tall plant
-
-(TT)
-
-Homozygous dwarf plant
-
-(tt)
-
-Heterozygous tall plant
-
-(Tt)
-
-Heterozygous tall plant
-
-(Tt)
-
-gametes
-
-Offspring (F2) genotypes
-
-Genotypic Ratio
-
-Phenotypes
-
-Phenotypic Ratio
-
-gametes
-
-T T
-
-tt
-
-TT Tt tt
-
-1 : 2 : 1
-
-3 : 1
-
-Tall Dwarf
-
-P generation
-
-F1 generation All tall (**Selfed**)
-
-F2 generation
-
-![Monohybrid Cross]( "")
+![Monohybrid Cross](monohybrid-cross.png "")
 
 ### Mendel’s analytical and empirical approach
 
