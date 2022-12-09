@@ -2,7 +2,7 @@
 title: 'Classical Genetics'
 weight: 3
 ---
-  
+![](botany_xii_pages_033-051-ch-02-1-1.jpg "")
 
 
 Genetics – The Science of heredity (Inheritance) - “Genetics” is the branch of biological science which deals with the mechanism of transmission of characters from parents to offsprings. The term **Genetics** was introduced by **W. Bateson** in 1906. The four major subdisciplines of genetics are 1. **Transmission Genetics / Classical Genetics**
@@ -38,13 +38,6 @@ Genetics is the study of how living things receive common traits from previous g
 What is the reason for similarities, differences of appearance and skipping of generations? Genes – Functional Units of inheritance: The basic unit of heredity (biological information) which transmits biochemical, anatomical and behavioural traits from parents to offsprings.
 
 
-
-![](botany_xii_pages_033-051-ch-02-1-1.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-1-2.jpg "")
-  
-
-
 ## Heredity and variation
  Genetics is often described as a science which deals with heredity and variation.
 
@@ -75,11 +68,7 @@ fitted in the struggle for existence.
 
 The first Geneticist, Gregor Johann Mendel unraveled the mystery of heredity. He was born on 22nd July 1822 in Heinzendorf Silesia (now Hyncice, C z e c h o s l o v a k i a ) , Austria. After school education, later he studied botany, physics and mathematics at the University of Vienna.He then entered a monastery of St.Thomas at Brunn in Austria and continued his interest in plant hybridization. In 1849 Mendel got a temporary position in a school as a teacher and he performed a series of elegant experiments with pea plants in his garden. In 1856, he started his historic studies on pea plants. 1856 to 1863 was the period of Mendel’s hybridization experiments on pea plants. Mendel discovered the principles of heredity by studying the inheritance of seven pairs of contrasting traits of pea plant in his garden. Mendel crossed and catalogued 24,034
 
-![Gregor Johann Mendel]( "")
-
-
-
-![](botany_xii_pages_033-051-ch-02-2-1.jpg "")
+![](gregormendel.jpg "")
   
 
 
