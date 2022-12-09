@@ -2,31 +2,9 @@
 title: 'Plant Breeding'
 weight: 10
 ---
-  
 
 
-
-Economic botany is the study of the relationship between people and economically important plants. It explores the ways by which humans use plants for food, medicines and other uses. Economic botany intersects many fields including established disciplines such as agronomy, anthropology, archaeology, chemistry, trade and commerce.
-
-## Relationship between humans and plants
-
-
-From the very early times, human beings have co-existed with plants which played a vital role in their survival. Through a long process of trial and error, our ancestors have selected hundreds of wild plants from the various parts of the world for their specific use. The knowledge of the plants and its applications have led to the development of the humans and their civilization in many ways.
-
-## Domestication of plants
- Domestication is the process of bringing a plant species under the control of humans and gradually changing it through careful selection, genetic alteration and handling so that it is more useful to people. The domesticated species are renewable sources that have provided food and other benefits to human. The possible changes in the plant species due to domestication are listed below; • Adaptation to a greater diversity of
-
-environments and a wider geographical range.
-
-• Simultaneous /uniform flowering and fruiting.
-
-• Lack of shattering or scattering of seeds.
-
-**Plant Breeding**
-
-**Unit X: Economic Botany** Chapter
-
-**9 Learning Objectives**
+**Learning Objectives**
 
 The learner will be able to Appreciate the relationship between
 
@@ -61,14 +39,21 @@ seed storage with modern methods.
 9.9 Seed storage
 
 
+Economic botany is the study of the relationship between people and economically important plants. It explores the ways by which humans use plants for food, medicines and other uses. Economic botany intersects many fields including established disciplines such as agronomy, anthropology, archaeology, chemistry, trade and commerce.
+
+## Relationship between humans and plants
 
 
-![](botany_xii_pages_199-215-ch-09-1-1.jpg "")
+From the very early times, human beings have co-existed with plants which played a vital role in their survival. Through a long process of trial and error, our ancestors have selected hundreds of wild plants from the various parts of the world for their specific use. The knowledge of the plants and its applications have led to the development of the humans and their civilization in many ways.
 
-![](botany_xii_pages_199-215-ch-09-1-2.jpg "")
-  
+## Domestication of plants
+ Domestication is the process of bringing a plant species under the control of humans and gradually changing it through careful selection, genetic alteration and handling so that it is more useful to people. The domesticated species are renewable sources that have provided food and other benefits to human. The possible changes in the plant species due to domestication are listed below; • Adaptation to a greater diversity of
 
+environments and a wider geographical range.
 
+• Simultaneous /uniform flowering and fruiting.
+
+• Lack of shattering or scattering of seeds.
 
 • Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
 
@@ -86,81 +71,7 @@ The earlier Greek and Roman naturalists like Theophrastus, Dioscorides, Pliny th
 
 They are efficient in fixing nitrogen, solubilising phosphate and decomposing cellulose. They are designed to improve the soil fertility, plant growth, and also the number and biological activity of beneficial microorganisms in the soil. They are eco-friendly organic agro inputs and are more efficient and cost effective than chemical fertilizers.
 
-**S.N Groups**
-
-**N2 fixing Biofertilize**
-
-Free-living1.
-
-3.
-
-1.
-
-2.
-
-2.
-
-2.
-
-1.
-
-1.
-
-A
-
-B
-
-C
-
-D
-
-E
-
-Symbiotic
-
-Associative Symbiotic
-
-**P Solubilizing Biofertilizer**
-
-Bacteria
-
-Fungi
-
-**P Mobilizing Biofertilizers**
-
-Arbuscular Mycorrhiza
-
-Ectomycorrhiza
-
-**Biofertilizer for Micro nutrients**
-
-Silicate and Zinc solubilizers
-
-**Plant Growth Promoting Rhizobacteria**
-
-Pseudomonas
-
-**Examples**
-
-_Azotobacter, Clostridium, Anabaena, Nostoc,_
-
-_Rhizobium, Anabaena azollae_
-
-_Azospirillum_
-
-_Bacillus subtilis, Pseudomonas striata_
-
-_Penicillium, Aspergillus._
-
-_Glomus, Scutellospora._
-
-_Amanita._
-
-_Bacillus._
-
-_Pseudomonas fluorescence_
-
-**Figure 9.1: Classification of Biofertilizers**
+figure 9.1
 
 **Indian Plant Breeders** a. **Dr. M. S. Swaminathan** –
 
@@ -242,7 +153,7 @@ Local resistance to root pathogens
 
 **Figure 9.5: Seaweed** – Kelp
 
-
+  
 
 
 ![](botany_xii_pages_199-215-ch-09-3-1.jpg "")

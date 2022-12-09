@@ -6,6 +6,8 @@ weight: 2
 ```
 
 **Learning Objectives**
+
+
 - The learner will be able to Recall various types of reproduction in lower and higher organisms. 
 - Discuss different methods of vegetative reproduction in plants. 
 - Recognise modern methods of reproduction. 
@@ -21,24 +23,50 @@ weight: 2
 
 ```
 
-![](botany_xii_pages_001-032-ch-01-1-2.jpg) ""
+```
+**Chapter outline**
+
+
+1.1 Asexual reproduction
+
+1.2 Vegetative reproduction
+
+1.3 Sexual Reproduction
+
+1.4 Pre-fertilization
+
+structure and events
+
+1.5 Fertilization
+
+1.6 Post fertilization structure and events
+
+1.7 Apomixis
+
+1.8 Polyembryony
+
+1.9 Parthenocarpy
+
+```
 
 One of the essential features of all living things on the earth is reproduction. Reproduction is a vital process for the existence of a species and it also brings suitable changes through variation in the offsprings for their survival on earth. Plant reproduction is important not only for its own survival but also for the continuation and existence of all other organisms since the latter directly or indirectly depend on plants. Reproduction also plays an important role in evolution.
 
 In this unit let us learn in detail about reproduction in plants.
 
-```
-
-![](panchan-macheshwari.png) ""
-
-**Panchanan Maheswari (1904-1966)** Professor P. Maheswari was an eminent Botanist who specialised in plant embryology, morphology and anatomy. In 1934, he became the Fellow of Indian Academy of Science. He published the book titled “An introduction to the Embryology of Angiosperms”in 1950. He established the International Society for Plant Morphologists, in 1951.
-```
-
 Basically reproduction occurring in organisms fall under two major categories 
 1. Asexual reproduction 
 2. Sexual reproduction.
 
+
+```
+![](panchan-macheshwari.png) ""
+
+**Panchanan Maheswari (1904-1966)** Professor P. Maheswari was an eminent Botanist who specialised in plant embryology, morphology and anatomy. In 1934, he became the Fellow of Indian Academy of Science. He published the book titled “An introduction to the Embryology of Angiosperms”in 1950. He established the International Society for Plant Morphologists, in 1951.
+
+```
+
 ## Asexual Reproduction
+
 The reproduction method which helps to perpetuate its own species without the involvement of gametes is referred to as asexual reproduction. From Unit I of Class XI we know that reproduction is one of the attributes of living things and the different types of reproduction have also been discussed. Lower plants, fungi and animals show different methods of asexual reproduction**.** Some of the methods include, formation of Conidia (_Aspergillus_ and _Penicillium_); Budding (_Yeast_ and _Hydra_); Fragmentation (_Spirogyra_); production of Gemma (_Marchantia_); Regeneration (_Planaria_) and Binary fission (Bacteria) (Refer chapter 1 of Unit I of class XI). The individuals formed by this method is morphologically and genetically identical and are called **clones**. Higher plants also reproduce asexually by different methods which are given below:
 
 ## Vegetative reproduction 
@@ -50,123 +78,39 @@ The reproduction method which helps to perpetuate its own species without the in
 
 The roots of some plants develop vegetative or adventitious buds on them. Example _Murraya,_ _Dalbergia_ and _Millingtonia._ Some tuberous adventitious roots apart from developing buds also store food. Example _Ipomoea batatus_ and _Dahlia._ Roots possessing buds become detached from the parent plant and grow into independent plant under suitable condition.
 
+```
+
 **Activity**
 
 Visit to a vegetable market and classify the vegetables into root, stem or leaf based on their utility and identify how many of them can be propagated through asexual methods.
 
+```
+
+```
+**DO YOU KNOW**
+
+Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive weed on water bodies like ponds, lakes and reservoirs. It is popularly called “Terror of Bengal”. It spreads rapidly through offsets all over the water body and depletes the dissolved oxygen and causes death of other aquatic organisms.
+
+
+```
+
 **B. Vegetative reproduction in stem** From the Unit 3 of class XI (Vegetative morphology) you are familiar with the structure of various underground stem and sub aerial stem modifications. These include rhizome (Musa _paradisiaca, Zingiber officinale and Curcuma longa_); corm (_Amorphophallus_ and _Colocasia_); tuber (_Solanum tuberosum_); bulb(_Allium cepa_ and _Lillium_) runner (_Centella asiatica_); stolon (Mentha, and Fragaria); offset (Pistia, and _Eichhornia_); sucker (_Chrysanthemum_) and bulbils (Dioscorea and Agave). The axillary buds from the nodes of rhizome and eyes of tuber give rise to new plants. **C. Vegetative reproduction in leaf** In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
-![](botany_xii_pages_001-032-ch-01-2-1.jpg "")
 
-Scourge of water bodies /Water hyacinth **(**_Eichhornia crassipes)_ is an invasive weed on water bodies like ponds, lakes and reservoirs. It is popularly called “Terror of Bengal”. It spreads rapidly through offsets all over the water body and depletes the dissolved oxygen and causes death of other aquatic organisms.
 
 ![Figure 1.1: Natural methods of vegetative reproduction in plants](fig-1-1.png "")
 
-Fleshy scale leaf Axillary bud Reduced stem Adventitious roots
+**Figure 1.1 a-k:** Natural methods of vegitative reproduction in plants.
 
-Naked scale leaves
+**Advantages of natural vegetative reproduction**
+ 
+• Only one parent is required for propagation. 
+ 
+• The new individual plants produced are genetically identical. 
 
-**(a) Reproduction by roots _–_ _Murraya_**
+• In some plants, this enables to spread rapidly. Example: _Spinifex_ 
 
-**(c) Corm – _Colocasia_**
-
-**(d) Tuber – _Solanum tuberosum_**
-
-**i) Tunicated _–_ _Allium cepa_**
-
-**ii) Naked _– Lilium_**
-
-young plant growing from roots
-
-**(b) Rhizome – _Zingiber officinale_**
-
-**(e) Bulb**
-
-Terminal bud
-
-Node Internode
-
-Terminal bud
-
-Root
-
-Bud from eye
-
-_Murraya_ tree
-
-Sucker
-
-Bulbil
-
-Runner
-
-(Daughter plant)
-
-Stolon
-
-Offset
-
-Epiphyllous buds
-
-**(f) Reproduction by leaf _Bryophyllum_**
-
-**(g) Runner _Centella asiatica_**
-
-**(h) Stolon _Fragaria_**
-
-**(i) Offset _Pistia stratiotes_**
-
-**(j) Sucker _Chrysanthemum_**
-
-**(k) Axillary bulbils _Dioscorea bulbifera_**
-
-
-![](botany_xii_pages_001-032-ch-01-3-1.jpg "")
-
-
-![](botany_xii_pages_001-032-ch-01-3-9.jpg "")
-
-
-
-
-
-
-
-![](botany_xii_pages_001-032-ch-01-3-18.jpg "")
-
-
-
-
-
-
-  
-
-
-contact with the soil is called **stock** and the plant used for grafting is called scion (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
-
-**i. Bud grafting: A T- shaped incision is made** in the stock and the bark is lifted. The scion bud with little wood is placed in the incision beneath the bark and properly bandaged with a tape.
-
-**ii. Approach grafting: In this method both** the scion and stock remain rooted. The stock is grown in a pot and it is brought close to the scion. Both of them should have the same thickness. A small slice is cut from both and the cut surfaces are brought near and tied together and held by a tape. After 1-4 weeks the tip of the stock and base of the scion are cut off and detached and grown in a separate pot.
-
-**iii. Tongue grafting** A scion and stock having the same thickness is cut obliquely and the scion is fit into the stock and bound with a tape.
-
-**iv. Crown grafting.** When the stock is large in size scions are cut into wedge shape and are inserted on the slits or clefts of the stock and fixed in position using graft wax.
-
-**v. Wedge grafting** In this method a slit is made in the stock or the bark is cut. A twig of scion is inserted and tightly bound so that the cambium of the two is joined.
-
-**Activity**
-
-Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home
-
-**c. Layering:** In this method, the stem of a parent plant is allowed to develop roots while still intact. When the root develops,
-
-**Advantages of natural vegetative reproduction** • Only one parent is required for propagation. • The new individual plants produced are
-
-genetically identical. • In some plants, this enables to spread
-
-rapidly. Example: _Spinifex_ • Horticulturists and farmers utilize these
-
-organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
+• Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
 
 **Disadvantage of natural vegetative reproduction** • New plants produced have no genetic
 
@@ -179,62 +123,49 @@ variation.
 
 **a. Cutting:** It is the method of producing a new plant by cutting the plant parts such as root, stem and leaf from the parent plant. The cut part is placed in a suitable medium for growth. It produces root and grows into a new plant. Depending upon the part used it is called as root cutting (_Malus_), stem cutting (_Hibiscus, Bougainvillea_ and _Moringa_) and leaf cutting (_Begonia, Bryophyllum_). Stem cutting is widely used for propagation.
 
-**b. Grafting: In this, parts of two different plants** are joined so that they continue to grow as one plant. Of the two plants, the plant which is in
+**b. Grafting: In this, parts of two different plants** are joined so that they continue to grow as one plant. Of the two plants, the plant which is in contact with the soil is called **stock** and the plant used for grafting is called scion (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
 
+**i. Bud grafting: A T- shaped incision is made** in the stock and the bark is lifted. The scion bud with little wood is placed in the incision beneath the bark and properly bandaged with a tape.
 
+**ii. Approach grafting: In this method both** the scion and stock remain rooted. The stock is grown in a pot and it is brought close to the scion. Both of them should have the same thickness. A small slice is cut from both and the cut surfaces are brought near and tied together and held by a tape. After 1-4 weeks the tip of the stock and base of the scion are cut off and detached and grown in a separate pot.
 
-  
+**iii. Tongue grafting** A scion and stock having the same thickness is cut obliquely and the scion is fit into the stock and bound with a tape.
 
+**iv. Crown grafting.** When the stock is large in size scions are cut into wedge shape and are inserted on the slits or clefts of the stock and fixed in position using graft wax.
 
+**v. Wedge grafting** In this method a slit is made in the stock or the bark is cut. A twig of scion is inserted and tightly bound so that the cambium of the two is joined.
 
-**a) Types of Grafting Figure 1.2(a):** Artificial methods of vegetative reproduction in plants
+```
 
-Stock
+**Activity**
 
-Scion
+Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home
 
-**(i) Bud grafting (iv) Crown grafting**
+```
 
-Stock
+**c. Layering:** In this method, the stem of a parent plant is allowed to develop roots while still intact. When the root develops,the rooted part is cut and planted to grow as a new plant. Examples: _Ixora_ and _Jasminum_. Mound layering and Air layering are few types of layering (Figure 1.2 b).
 
-ScionStock
+![figure 1.2(a): Artificial methods od vegitative reproduction in plants](1.1.png "")
 
-Scion
+**a) Types of Grafting**
 
-Bud (Scion)
-
-**(iii) Tongue grafting (v) Wedge grafting**
-
-Stock
-
-‘T’ shaped insertion
-
-**(ii) Approach grafting**
-
-the rooted part is cut and planted to grow as a new plant. Examples: _Ixora_ and _Jasminum_. Mound layering and Air layering are few types of layering (Figure 1.2 b).
+**figure 1.2(a):** Artificial methods od vegitative reproduction in plants
 
 **i. Mound layering: This method is applied for** the plants having flexible branches. The lower branch with leaves is bent to the ground and part of the stem is buried in the soil and tip of the branch is exposed above the soil. After the roots emerge from the part of the stem buried in the soil, a cut is made in parent plant so that the buried part grow into a new plant.
 
-**b) Types of Layering**
-
-**(i) Mound layering**
-
-**(ii) Air layering**
-
-Polythene tied to retain moisture
-
-Bark tissue removed Moist soil
+![Figure 1.2 (b): Artificial methods of vegetative reproduction in plants](1.2.png "")
 
 **Figure 1.2 (b):** Artificial methods of vegetative reproduction in plants
 
-**ii. Air layering**: In this method the stem is girdled at nodal region and hormones are applied to this region which promotes rooting. This portion is covered with damp or moist soil using a polythene sheet. Roots emerge in
+**ii. Air layering**: In this method the stem is girdled at nodal region and hormones are applied to this region which promotes rooting. This portion is covered with damp or moist soil using a polythene sheet. Roots emerge in these branches after 2-4 months. Such branches are removed from the parent plant and grown in a separate pot or ground.
 
-these branches after 2-4 months. Such branches are removed from the parent plant and grown in a separate pot or ground.
+**Advantages of conventional methods** 
 
-**Advantages of conventional methods** • The plants produced are genetically uniform. • Many plants can be produced quickly by
+• The plants produced are genetically uniform. 
 
-this method. • Some plants produce little or no seeds;
+• Many plants can be produced quickly by this method. 
 
+• Some plants produce little or no seeds;
 in others, the seeds produced do not germinate. In such cases, plants can be produced in a short period by this method.
 
 • Some plants can be propagated more economically by vegetative propagation. Example: _Solanum tuberosum._
@@ -248,66 +179,95 @@ produces viral infected new plants. • Vegetative structures used for propagati
 are bulky and so they are difficult to handle and store.1.3 Sexual Reproduction
 
 ## Sexual Reproduction
- In previous classes reproduction in lower plants like algae and bryophytes was discussed
+ In previous classes reproduction in lower plants like algae and bryophytes was discussed in detail. Sexual reproduction involves the production and fusion of male and female gametes. The former is called gametogenesis and the latter is the process of fertilization. Let us recall the sexual reproduction in algae and bryophytes. They reproduce by the production of gametes which may be motile or non motile depending upon the species. The gametic fusion is of three types (Isogamy, Anisogamy and Oogamy). In algae external fertilization takes place whereas in higher plants internal fertilization occurs.
 
+**Flower** A flower is viewed in multidimensional perspectives from time immemorial. It is an inspirational tool for the poets. It is a decorative material for all the celebrations. In Tamil literature the five lands are denoted by different flowers. The flags of some countries are embedded with flowers. Flowers are used in the preparation of perfumes. For a Morphologist, a flower is a highly condensed shoot meant for reproduction. As you have already learned about the parts of a flower in Unit II of Class XI, let us recall the parts of a flower. A Flower possesses four whorls- Calyx, Corolla, Androecium and Gynoecium. Androecium and Gynoecium are essential organs(Figure 1.3). The process or changes involved in sexual reproduction of higher plants include three stages .They are Pre- fertilization, Fertilization and Post fertilization changes. Let us discuss these events in detail.
 
-
-
-
-
-
-
-  
-
-
-
-Stigma Style
-
-Stamen
-
-Petal
-
-Sepal Ovary Ovule
-
-Pedicel
+![Figure 1.3** Parts of a Flower](1.3.png "")
 
 **Figure 1.3** Parts of a Flower
+
+## Pre-fertilization: structures and events
+ The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
 
 ### Male Reproductive part - Androecium
  Androecium is made up of stamens. Each stamen possesses an anther and a filament. Anther bears pollen grains which represent the male gametophyte. In this chapter we shall discuss the structure and development of anther in detail.
 
 **Development of anther**: A very young anther develops as a homogenous mass of cells surrounded by an epidermis. During its development, the anther assumes a four- lobed structure. In each lobe, a row or a few rows of hypodermal cells becomes enlarged with conspicuous nuclei. This functions as archesporium. The archesporial cells divide by periclinal divisions to form primary parietal cells towards the epidermis and primary sporogenous cells towards the inner side of the anther. The primary parietal cells undergo a series of periclinal and anticlinal division and form 2-5 layers of anther walls composed of endothecium, middle layers and tapetum, from periphery to centre.
 
-**Microsporogenesis: The stages involved in** the formation of haploid microspores from diploid microspore mother cell through meiosis is called **Microsporogenesis. The primary sporogeneous** cells directly, or may undergo a few mitotic divisions to form sporogenous tissue. The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of four
+**Microsporogenesis**: The stages involved in the formation of haploid microspores from diploid microspore mother cell through meiosis is called 
+**Microsporogenesis. The primary sporogeneous** cells directly, or may undergo a few mitotic divisions to form sporogenous tissue. The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of fourhaploid microspores (microspore tetrad). The microspore tetrad may be arranged in a tetrahedral, decussate, linear, T shaped or isobilateral manner. Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called **pollinium**. Example: _Calotropis_.Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter ‘Y’ and is called **translator**.
 
-in detail. Sexual reproduction involves the production and fusion of male and female gametes. The former is called gametogenesis and the latter is the process of fertilization. Let us recall the sexual reproduction in algae and bryophytes. They reproduce by the production of gametes which may be motile or non motile depending upon the species. The gametic fusion is of three types (Isogamy, Anisogamy and Oogamy). In algae external fertilization takes place whereas in higher plants internal fertilization occurs.
+![Figure 1.4 stages in the development of anther](1.4.png "") 
+![Figure 1.4 stages in the development of anther](1.5.png "")
 
-**Flower** A flower is viewed in multidimensional perspectives from time immemorial. It is an inspirational tool for the poets. It is a decorative material for all the celebrations. In Tamil literature the five lands are denoted by different flowers. The flags of some countries are embedded with flowers. Flowers are used in the preparation of perfumes. For a Morphologist, a flower is a highly condensed shoot meant for reproduction. As you have already learned about the parts of a flower in Unit II of Class XI, let us recall the parts of a flower. A Flower possesses four whorls- Calyx, Corolla, Androecium and Gynoecium. Androecium and Gynoecium are essential organs(Figure 1.3). The process or changes involved in sexual reproduction of higher plants include three stages .They are Pre- fertilization, Fertilization and Post fertilization changes. Let us discuss these events in detail.
-
-## Pre-fertilization: structures and events
- The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
-
+**Figure 1.4** Stages in the development of anther
 
 
-  
+**T.S. of Mature anther** 
+
+Transverse section of mature anther reveals the presence of anther cavity surrounded by an anther wall. It is bilobed, each lobe having 2 theca (dithecous). A typical anther is tetrasporangiate. The T.S. of Mature anther is given in Figure 1.5.
+
+**1. Anther wall** 
+
+The mature anther wall consists of the following layers **a. Epidermis b. Endothecium c. Middle layers d. Tapetum.**
+
+**a. Epidermis**: It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. 
+
+```
+**Activity** 
+
+Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
+```
+
+![Figure 1.5 T.S of mature anther](1.6.png)
+
+**Figure 1.5** T.S of Mature anther
+
+**b. Endothecium**: It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
+
+**c. Middle layers**: Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. **d. Tapetum**: It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
+
+**Secretory tapetum** (parietal/glandular/ cellular): The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
+
+**Invasive tapetum** (periplasmodial): The cells loose their inner tangential and radial walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
+
+**Functions of Tapetum:** 
+
+• It supplies nutrition to the developing
+microspores. 
+
+• It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
+
+• The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
+
+• Exine proteins responsible for ‘**rejection reaction**’ of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
+
+```
+**DO YOU KNOW**
+
+Many botanists speak of a third type of tapetum called amoeboid, where the cell wall is not lost. The cells protrude into the anther cavity through an amoeboid movement. This type is often associated with male sterility and should not be confused with periplasmodial type.
+```
+
+**2\. Anther Cavity : The anther cavity is filled with** microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. 
+
+**3\. Connective:** It is the column of sterile tissue surrounded by the anther lobe. It possesses vascular tissues. It also contributes to the inner tapetum.
+
+**Microspores and pollen grains** 
+
+Microspores are the immediate product of meiosis of the microspore mother cell whereas the pollen grain is derived from the microspore. The microspores have protoplast surrounded by a wall which is yet to be fully developed. The pollen protoplast consists of dense cytoplasm with a centrally located nucleus. The wall is differentiated into two layers, namely, inner layer called **intine** and outer layer called **exine**. Intine is thin, uniform and is made up of pectin, hemicellulose, cellulose and callose together with proteins. Exine is thick and is made up of cellulose, sporopollenin and pollenkitt. The exine is not uniform and is thin at certain areas. When these thin areas are small and round it is called germ pores or when elongated it is called furrows. It is associated with germination of pollen grains. The sporopollenin is generally absent in germ pores.The surface of the exine is either smooth or sculptured in various patterns (rod like, grooved, warty, punctuate etc.) The sculpturing pattern is used in the plant identification and classification.
+
+Shape of a pollen grain varies from species to species. It may be globose, ellipsoid, fusiform, lobed, angular or crescent shaped. The size of the pollen varies from 10 micrometers in _Myosotis_ to 200 micrometers in members of the family Cucurbitaceae and Nyctaginaceae
+
+```
+**DO YOU KNOW**
+
+Palynology is the study of pollen grains.It helps to identify the distribution of coal and to locate oil fields. Pollen grains reflect the vegetation of an area. 
+
+Liquid nitrogen (-1960C) is used to preserve pollen in viable condition for prolonged duration. This technique is called **cryopreservation** and is used to store pollen grains (pollen banks) of economically important crops for breeding programmes..
+```
 
 
-
-haploid microspores (microspore tetrad). The microspore tetrad may be arranged in a tetrahedral, decussate, linear, T shaped or isobilateral manner. Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called **pollinium**. Example: _Calotropis_. Compound pollen grains are found in _Drosera_ and _Drymis_. **T.S. of Mature anther** Transverse section of mature anther reveals the presence of anther cavity surrounded by an anther wall. It is bilobed, each lobe having 2 theca (dithecous). A typical anther is tetrasporangiate. The T.S. of Mature anther is given in Figure 1.5.
-
-**1\. Anther wall** The mature anther wall consists of the following layers **a. Epidermis b. Endothecium**
-
-**c. Middle layers d. Tapetum. a. Epidermis**: It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. **b. Endothecium**: It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
-
-(h) Pollen grain stage
-
-Epidermis
-
-Endothecium
-
-Middle layer Pollen grain Stomium
-
-Connective
 
 **Figure 2.1 Development of anther (Microsporogenesis)**
 
@@ -341,11 +301,10 @@ Stomium
 
 Microspores
 
-**Figure 1.4** Stages in the development of anther
 
-**Activity** Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 
-**Figure 1.5** T.S of Mature anther
+
+
 
 Connective Epidermis Endothecium
 
@@ -359,49 +318,11 @@ View under microscope
 
 Pollen grain
 
-**c. Middle layers**: Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. **d. Tapetum**: It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
-
-**Secretory tapetum** (parietal/glandular/ cellular): The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
-
-**Invasive tapetum (periplasmodial): The** cells loose their inner tangential and radial
-
-walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
-
-**Functions of Tapetum:** • It supplies nutrition to the developing
-
-microspores. • It contributes sporopollenin through
-
-**ubisch bodies** thus plays an important role in pollen wall formation.
-
-• The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
-
-• Exine proteins responsible for ‘**rejection reaction**’ of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
-
-Many botanists speak of a third type of tapetum called amoeboid, where the cell wall is not lost. The cells protrude
-
-into the anther cavity through an amoeboid movement. This type is often associated with male sterility and should not be confused with periplasmodial type.
-
-**2\. Anther Cavity : The anther cavity is filled with** microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. **3\. Connective:** It is the column of sterile tissue surrounded by the anther lobe. It possesses vascular tissues. It also contributes to the inner tapetum.
-
-**Microspores and pollen grains** Microspores are the immediate product of meiosis of the microspore mother cell whereas the pollen grain is derived from the microspore. The microspores have protoplast surrounded by a wall which is yet to be fully developed. The pollen protoplast consists of dense cytoplasm with a centrally located nucleus. The wall is differentiated into two layers, namely, inner layer called **intine** and outer layer called **exine**. Intine is thin, uniform and is made up of pectin,
 
 
 
 
-![](botany_xii_pages_001-032-ch-01-8-1.jpg "")
-  
 
-
-
-hemicellulose, cellulose and callose together with proteins. Exine is thick and is made up of cellulose, sporopollenin and pollenkitt. The exine is not uniform and is thin at certain areas. When these thin areas are small and round it is called germ pores or when elongated it is called furrows. It is associated with germination of pollen grains. The sporopollenin is generally absent in germ pores.The surface of the exine is either smooth or sculptured in various patterns (rod like, grooved, warty, punctuate etc.) The sculpturing pattern is used in the plant identification and classification.
-
-Shape of a pollen grain varies from species to species. It may be globose, ellipsoid, fusiform, lobed, angular or crescent shaped. The size of the pollen varies from 10 micrometers in _Myosotis_ to 200 micrometers in members of the family Cucurbitaceae and Nyctaginaceae
-
-Palynology is the study of pollen grains.It helps to identify the distribution of coal and to locate oil fields. Pollen grains reflect
-
-the vegetation of an area. Liquid nitrogen (-1960C) is used to
-
-preserve pollen in viable condition for prolonged duration. This technique is called **cryopreservation** and is used to store pollen grains (pollen banks) of economically important crops for breeding programmes..
 
 The wall material sporopollenin is contributed by both pollen cytoplasm and tapetum. It is derived from carotenoids. It is resistant to physical and biological decomposition. It helps to withstand high temperature and is resistant to strong acid, alkali and enzyme action. Hence, it preserves the pollen for long periods in fossil deposits, and it also protects pollen during its journey from anther to stigma.
 
@@ -857,7 +778,9 @@ Pollen gets transferred to the stigma
 
 Pollen gets dusted on the body of the insect
 
-**Pollination in _Calotropis_ (Translator mechanism)** This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG system of classification). The flowers are bisexual with 5 stamens forming **gynostegium**(union of stigma with the androecium). The stigma is large and 5 – angled and is receptive on the underside. Each stamen at its back possesses a brightly coloured hood like outgrowth enclosing horn shaped nectar. The pollen in each anther lobe of a stamen unites into a mass, forming a pollinium. Pollinia are attached to a clamp or clip like sticky structure called corpusculum. The filamentous or thread like part arising from each pollinium is called retinaculum. The
+**Pollination in _Calotropis_ (Translator mechanism)** This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG system of classification). The flowers are bisexual with 5 stamens forming **gynostegium**(union of stigma with the androecium). The stigma is large and 5 – angled and is receptive on the underside. Each stamen at its back possesses a brightly coloured hood like outgrowth enclosing horn shaped nectar. The pollen in each anther lobe of a stamen unites into a mass, forming a pollinium. 
+
+
 
 
 
@@ -867,7 +790,7 @@ Pollen gets dusted on the body of the insect
 
 
 
-whole structure looks like inverted letter ‘Y’ and is called **translator**. When the insect visits the flower for nectar, the translator gets attached to the proboscis or leg of the visitor. During the visit to the next flower the pollinia come in contact with the receptive stigma carrying out pollination.
+ When the insect visits the flower for nectar, the translator gets attached to the proboscis or leg of the visitor. During the visit to the next flower the pollinia come in contact with the receptive stigma carrying out pollination.
 
 **Pollination in _Aristolochia_ (Trap mechanism)** A special mechanism to accomplish pollination called trap mechanism is found in _Aristolochia_. The flowers are axillary and perianth is tubular with a hood at the top. The basal region is swollen and possesses gynostegium. The gynostegium has six anthers.
 
