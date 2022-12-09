@@ -268,268 +268,96 @@ Palynology is the study of pollen grains.It helps to identify the distribution o
 Liquid nitrogen (-1960C) is used to preserve pollen in viable condition for prolonged duration. This technique is called **cryopreservation** and is used to store pollen grains (pollen banks) of economically important crops for breeding programmes..
 ```
 
+```
+**Bee pollen** is a natural substance and contains high protein, carbohydrate, trace amount of minerals and vitamins. Therefore, it is used as dietary supplement and is sold as pollen tablets and syrups. Further , it increases the performance of athletes, race horses and also heals the wounds caused by burns . The study of honey pollen is called Mellitopalynology.
 
+![honey](1.32.png)
+```
+Pollenkitt is contributed by the tapetum and coloured yellow or orange and is chiefly made of carotenoids or flavonoids. It is an oily layer forming a thick viscous coating over pollen surface. It attracts insects and protects damage from UV radiation.
 
-**Figure 2.1 Development of anther (Microsporogenesis)**
+**Development of Male gametophyte:**
 
-(a) Anther primordium (b) Differentiation of archesporial cell
+ The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at this 3 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells. The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
 
-Archesporial cell
+![Development of male gametopyte](1.7.png)
 
-(d) Formation of wall layers
+**Figure 1.6 :** Development of male gametopyte 
 
-Parietal cell Sporogenous cell
+### Female reproductive part - Gynoecium
 
-(c) Formation of parietal and sporogenous cell
+The **gynoecium** represents the female reproductive part of the flower. The word gynoecium represents one or more pistils of a flower. The word pistil refers to the ovary, style and stigma. A pistil is derived from a carpel. The word ovary represents the part that contains the ovules. The stigma serves as a landing platform for pollen grains. The style is an elongated slender part beneath the stigma. The basal swollen part of the pistil is the ovary. The ovules are present inside the ovary cavity (locule)on the placenta .Gynoecium (carpel) arises as a small papillate outgrowth of meristematic tissue from the growing tip of the floral primordium. It grows actively and soon gets differentiated into ovary, style and stigma. The ovules or megasporangia arise from the placenta. The number of ovules in an ovary may be one (paddy, wheat and mango) or many (papaya, water melon and orchids).
 
-Pollen tetrad
+ **Structure of ovule(Megasporangium):**
+ 
+Ovule is also called megasporangium and is protected by one or two covering called **integuments**. A mature ovule consists of a stalk and a body. The stalk or the funiculus (also called funicle) is present at the base and it attaches the ovule to the placenta. The point of attachment of funicle to the body of the ovule is known as **hilum**. It represents the junction between ovule and funicle. In an inverted ovule, the funicle is adnate to the body of the ovule forming a ridge called raphe. The body of the ovule is made up of a central mass of parenchymatous tissue called **nucellus** which has large reserve food materials. The nucellus is enveloped by one or two protective coverings called **integuments**. Integument encloses the nucellus completely except at the top where it is free and forms a pore called micropyle. The ovule with one or two integuments are said to be **unitegmic** or **bitegmic** ovules respectively. The basal region of the body of the ovule where the nucellus, the integument and the funicle meet or merge is called as chalaza. There is a large,oval, sac-like structure in the nucellus toward the micropylar end called **embryo sac** or female gametophyte. It develops from the functional megaspore formed within the nucellus. In some species(unitegmic tenuinucellate) the inner layer of the integument may become specialized to perform the nutritive function for the embryosac and is called as **endothelium** or **integumentary tapetum** (Example : Asteraceae). There are two types of ovule based on the position of the sporogenous cell. If the sporogenous cell is hypodermal with a single layer of nucellar tissue around it is called **tenuinucellate** type. Normally tenuinucellate ovules have very small nucellus. Ovules with subhypodermal sporogenous cell is called **crassinucellate** type. Normally these ovules have fairly large nucellus. Group of cells found at the base of the ovule between the chalaza and embryo sac is called **hypostase** and the thick -walled cells found above the micropylar end above the embryo sac is called epistase. The structure of ovule is given in Figure 1.7.
 
-(f) Pollen tetrad stage
+![Figure 1.7 Structure of an ovule ](1.8.png)
 
-Epidermis Middle layers
+**Figure 1.7** Structure of an ovule
 
-Sporogenous cell
+**Types of Ovules**
 
-(g) Microspore stage Connective
+The ovules are classified into six main types based on the orientation, form and position of the micropyle with respect to funicle and chalaza. Most important ovule types are orthotropous, anatropous, hemianatropous and campylotropous. The types of ovule is given in Figure 1.8. 
+ 
+**Orthotropous:** In this type of ovule, the micropyle is at the distal end and the micropyle, the funicle and the chalaza lie in one straight vertical line. Examples: Piperaceae, Polygonaceae 
 
-Tapetum
+**Anatropous:** The body of the ovule becomes completely inverted so that the micropyle and funiculus come to lie very close to each other. This is the common type of ovules found in dicots and monocots.
 
-Epidermis Endothecium Middle layer Tapetum
+**Hemianatropous:** In this, the body of the ovule is placed transversely and at right angles to the funicle. Example: Primulaceae.
 
-Stomium
+**Campylotropous:** The body of the ovule at the micropylar end is curved and more or less bean shaped. The embryo sac is slightly curved. All the three, hilum, micropyle and chalaza are adjacent to one another, with the micropyle oriented towards the placenta. Example: Leguminosae In addition to the above main types there are two more types of ovules they are, 
 
-(e) Sporogenous stage
+**Amphitropous:** The distance between hilum and chalaza is less. The curvature of the ovule leads to horse-shoe shaped nucellus. Example: some Alismataceae.
 
-Microspores
+**Circinotropous:** Funiculus is very long and surrounds the ovule. Example: Cactaceae
 
+![Figure 1.8 Types of ovule](1.9.png)
 
+**Figure 1.8:** Types of ovule
 
+**Megasporogenesis**
 
+ The process of development of a megaspore from a megaspore mother cell is called **megasporogenesis**.
 
+As the ovule develops, a single hypodermal cell in the nucellus becomes enlarged and functions as **archesporium**. In some plants, the archesporial cell may directly function as megaspore mother cell. In others, it may undergo a transverse division to form outer primary parietal cell and inner primary sporogenous cell. The parietal cell may remain undivided or divide by few periclinal and anticlinal divisions to embed the primary sporogenous cell deep into the nucellus. The primary sporogenous cell functions as a megaspore mother cell. The megaspore mother cell (MMC) undergoes meiotic division to form four haploid megaspores. Based on the number of megaspores that develop into the Embryo sac, we have three basic types of development: **monosporic, bisporic and tetrasporic.** The megaspores are usually arranged in a linear tetrad. Of the four megaspores formed, usually the chalazal one is functional and other three megaspores degenerate. The functional megaspore forms the female gametophyte or embryo sac. This type of development is called **monosporic** development (Example: _Polygonum_). Of the four megaspores formed if two are involved in Embryo sac formation the development is called **bisporic** (Example: _Allium_). If all the four megaspores are involved in Embryo sac formation the development is called **tetrasporic** (Example: _Peperomia_). An ovule generally has a single embryo sac. The development of monosporic embryo sac (_Polygonum_ type) is given in Figure 1.9.
 
-Connective Epidermis Endothecium
+**Development of Monosporic embryo sac.** 
 
-Tapetum Middle layer
+To describe the stages in embryo sac development and organization the simplest monosporic type of development is given below.
 
-Diagrammatic view
+![Figure 1.9 Development of ovule and embryo sac (_Polygonum type_).](1.10.png)
 
-Stomium
+**Figure 1.9 :** Development of ovule and embryo sac (_Polygonum type_).
 
-View under microscope
+The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division. Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2 polar nuclei** may remain free or may fuse to form a secondary nucleus (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled embryo sac with 8 nuclei is formed. The structure of embryo sac is given in Figure 1.10.
 
-Pollen grain
-
-
-
-
-
-
-
-The wall material sporopollenin is contributed by both pollen cytoplasm and tapetum. It is derived from carotenoids. It is resistant to physical and biological decomposition. It helps to withstand high temperature and is resistant to strong acid, alkali and enzyme action. Hence, it preserves the pollen for long periods in fossil deposits, and it also protects pollen during its journey from anther to stigma.
-
-Pollenkitt is contributed by the tapetum and coloured yellow or orange and is chiefly made of carotenoids or flavonoids. It is an oily
-
-layer forming a thick viscous coating over pollen surface. It attracts insects and protects damage from UV radiation.
-
-**Bee pollen** is a natural substance and contains high protein, carbohydrate, trace amount of minerals and vitamins. Therefore,
-
-it is used as dietary supplement and is sold as pollen tablets and syrups. Further , it increases the performance of athletes, race horses and also heals the wounds caused by burns . The study of honey pollen is called Mellitopalynology.
-
-**Development of Male gametophyte:** The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at this 3 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells. The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
-
-
-
-
-  
-
-
-
-**Figure 2.3 Stages in the development of male gametophyte**
-
-Exine Intine Nucleus Germ pore
-
-Vacuole
-
-Nucleus
-
-Dividing nucleus
-
-Tube nucleus
-
-Male gametes
-
-Dividing generative nucleus
-
-Tube nucleus
-
-Generative nucleus Pollen tube Tube nucleus
-
-Vegetative cell
-
-Generative cell
-
-(a)
-
-(b)
-
-(c)
-
-(d)
-
-(e)
-
-(f)
-
-(g)
-
-**Figur 1.6** D velopment of male gamet yte **1.4.2 Female reproductive part -**
-
-**Gynoecium** The gynoecium represents the female reproductive part of the flower. The word gynoecium represents one or more pistils of a flower. The word pistil refers to the ovary, style and stigma. A pistil is derived from a carpel. The word ovary represents the part that contains the ovules. The stigma serves as a landing platform for pollen grains. The style is an elongated slender part beneath the stigma. The basal swollen part of the pistil is the ovary. The ovules are present inside the ovary cavity (locule)on the placenta .Gynoecium (carpel) arises as a small papillate outgrowth of meristematic tissue from the growing tip of the floral primordium. It grows actively and soon gets differentiated into ovary, style and stigma. The ovules or megasporangia arise from the placenta. The number of ovules in an ovary may be one (paddy, wheat and mango) or many (papaya, water melon and orchids). **Structure of ovule(Megasporangium):** Ovule is also called megasporangium and is protected by one or two covering called **integuments**. A mature ovule consists of a stalk
-
-and a body. The stalk or the funiculus (also called funicle) is present at the base and it attaches the ovule to the placenta. The point of attachment of funicle to the body of the ovule is known as **hilum**. It represents the junction between ovule and funicle. In an inverted ovule, the funicle is adnate to the body of the ovule forming a ridge called raphe. The body of the ovule is made up of a central mass of parenchymatous tissue called **nucellus** which has large reserve food materials. The nucellus is enveloped by one or two protective coverings called **integuments**. Integument encloses the nucellus completely except at the top where it is free and forms a pore called micropyle. The ovule with one or two integuments are said to be **unitegmic** or **bitegmic** ovules respectively. The basal region of the body of the ovule where the nucellus, the integument and the funicle meet or merge is called as chalaza. There is a large,
-
-Chalazal end
-
-Integument
-
-Nucellus
-
-Embryo sac
-
-Micropyle Funicle
-
-Vascular supply Ovule structure - diagrammatic
-
-**Figure 1.7** Structure of an ovule View under microscope
-
-Raphe
-
-Hilum
-
-oval, sac-like structure in the nucellus toward the micropylar end called **embryo sac** or female gametophyte. It develops from the functional megaspore formed within the nucellus. In some species(unitegmic tenuinucellate) the inner layer of the integument may become specialized to perform the nutritive function for the embryo
-
-
-
-  
-
-
-
-sac and is called as **endothelium** or **integumentary tapetum** (Example : Asteraceae). There are two types of ovule based on the position of the sporogenous cell. If the sporogenous cell is hypodermal with a single layer of nucellar tissue around it is called **tenuinucellate** type. Normally tenuinucellate ovules have very small nucellus. Ovules with subhypodermal sporogenous cell is called **crassinucellate** type. Normally these ovules have fairly large nucellus. Group of cells found at the base of the ovule between the chalaza and embryo sac is called **hypostase** and the thick -walled cells found above the micropylar end above the embryo sac is called epistase. The structure of ovule is given in Figure 1.7.
-
-**Types of Ovules** The ovules are classified into six main types based on the orientation, form and position of the micropyle with respect to funicle and chalaza. Most important ovule types are orthotropous, anatropous, hemianatropous and campylotropous. The types of ovule is given in Figure 1.8. **Orthotropous:** In this type of ovule, the micropyle is at the distal end and the micropyle, the funicle and the chalaza lie in one straight vertical line. Examples: Piperaceae, Polygonaceae **Anatropous:** The body of the ovule becomes completely inverted so that the micropyle and funiculus come to lie very close to each other. This is the common type of ovules found in dicots and monocots. **Hemianatropous:** In this, the body of the ovule is placed transversely and at right angles to the funicle. Example: Primulaceae.
-
-**Campylotropous: The body of the ovule at the** micropylar end is curved and more or less bean shaped. The embryo sac is slightly curved. All the three, hilum, micropyle and chalaza are adjacent to one another, with the micropyle oriented towards the placenta. Example: Leguminosae In addition to the above main types there are two more types of ovules they are, **Amphitropous: The distance between hilum** and chalaza is less. The curvature of the ovule leads to horse-shoe shaped nucellus. Example: some Alismataceae. **Circinotropous:** Funiculus is very long and surrounds the ovule. Example: Cactaceae
-
-**Megasporogenesis** The process of development of a megaspore from a megaspore mother cell is called **megasporogenesis**.
-
-As the ovule develops, a single hypodermal cell in the nucellus becomes enlarged and functions as **archesporium**. In some plants, the archesporial cell may directly function as megaspore mother cell. In others, it may undergo a transverse division to form outer primary parietal cell and inner primary sporogenous cell. The parietal cell may remain undivided or divide by few periclinal and anticlinal divisions to embed the primary sporogenous cell deep into the nucellus. The primary sporogenous cell functions as a megaspore mother cell. The megaspore mother cell (MMC) undergoes meiotic division to form four haploid megaspores. Based on the number of megaspores that develop into the Embryo sac, we have three basic types of development: **monosporic, bisporic and tetrasporic. The**
-
-(a) Orthotropous (b) Anatropous (c) Hemianatropous (d) Campylotropous (e) Amphitropous (f ) Circinotropous
-
-**Figure 1.8** Types of ovule
-
-
-
-
-  
-
-
-
-megaspores are usually arranged in a linear tetrad. Of the four megaspores formed, usually the chalazal one is functional and other three megaspores degenerate. The functional megaspore forms the female gametophyte or embryo sac. This type of development is called **monosporic** development (Example: _Polygonum_). Of the four megaspores formed if two are involved in Embryo sac formation the development is called **bisporic** (Example: _Allium_). If all the four megaspores are involved in Embryo sac formation the development is called **tetrasporic** (Example: _Peperomia_). An ovule generally has a single embryo sac. The development of monosporic embryo sac (_Polygonum_ type) is given in Figure 1.9.
-
-**Development of Monosporic embryo sac.** To describe the stages in embryo sac development and organization the simplest monosporic type of development is given below.
-
-The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division. Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the
-
-opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division
-
-the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2 polar nuclei** may remain free or may fuse to form a secondary nucleus (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special
-
-**Figure 1.9** Development of ovule and embryo sac (_Polygonum type_).
-
-4-nucleate stage 8-nucleate stage
-
-**(a) (b) (c) (d) (e) (f) (g)**
-
-Synergid
-
-Egg
-
-polar nucleus
-
-Antipodal
-
-2-nucleate stage Nucellus
-
-Archesporial cell
-
-Megaspore mother cell
-
-Functional megaspore
-
-Filiform apparatus
-
-Egg apparatus
-
-Egg
-
-Antipodal cell
-
-Polar nucleus
-
-Synergids
+![**Figure 1.10** Structure of Embryo sac](1.12.png)
 
 **Figure 1.10** Structure of Embryo sac
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled embryo sac with 8 nuclei is formed. The structure of embryo sac is given in Figure 1.10.
-
 ### Pollination
- Pollination is a wonderful mechanism which provides food, shelter etc., for the pollinating animals. Many plants are pollinated by a particular animal species and the flowers are modified accordingly and thus there exists a co-evolution between plants and animals. Let us imagine if pollination fails. Do you think there will be any seed and fruit formation? If not what happens to pollinating organisms and those that depend on these pollinating organism for the food? Here lies the significance of the process of pollination.
+
+![butterfly](1.11.png)
+
+Pollination is a wonderful mechanism which provides food, shelter etc., for the pollinating animals. Many plants are pollinated by a particular animal species and the flowers are modified accordingly and thus there exists a co-evolution between plants and animals. Let us imagine if pollination fails. Do you think there will be any seed and fruit formation? If not what happens to pollinating organisms and those that depend on these pollinating organism for the food? Here lies the significance of the process of pollination.
 
 The pollen grains produced in the anther will germinate only when they reach the stigma of the pistil. The reproductive organs, stamens and pistil of the flower are spatially separated, a mechanism which is essential for pollen grains to reach the stigma is needed. This process of transfer of pollen grains from the anther to a stigma of a flower is called pollination.
 
-**Pollination** is a characteristic feature of spermatophyte (Gymnosperms and Angiosperms). Pollination in gymnosperms is said to be direct as the pollens are deposited directly on the exposed ovules, whereas in angiosperms it is said to be indirect, as the pollens are deposited on the stigma of the pistil. In majority of angiosperms, the flower opens and exposes its mature anthers and stigma for pollination. Such flowers are called **chasmogamous** and the phenomenon is **chasmogamy.** In other plants, pollination occurs without opening and exposing their sex organs. Such flowers are called cleistogamous
+**Pollination** is a characteristic feature of spermatophyte (Gymnosperms and Angiosperms). Pollination in gymnosperms is said to be direct as the pollens are deposited directly on the exposed ovules, whereas in angiosperms it is said to be indirect, as the pollens are deposited on the stigma of the pistil. In majority of angiosperms, the flower opens and exposes its mature anthers and stigma for pollination. Such flowers are called **chasmogamous** and the phenomenon is **chasmogamy.** In other plants, pollination occurs without opening and exposing their sex organs. Such flowers are called cleistogamous and the phenomenon is **cleistogamy.** 
 
-and the phenomenon is **cleistogamy.** Based upon the flower on which the pollen of a flower reaches, the pollination is classified into two kinds, namely, **self-pollination (Autogamy)** **and cross-pollination(Allogamy).**
+Based upon the flower on which the pollen of a flower reaches, the pollination is classified into two kinds, namely, **self-pollination (Autogamy)** **and cross-pollination(Allogamy).**
 
 **A. Self-pollination or Autogamy** (Greek Auto = self, gamos = marriage):
 
 According to a majority of Botanists, the transfer of pollen on the stigma of the same flower is called self-pollination or Autogamy. Self-pollination is possible only in those plants which bear bisexual flowers. In order to promote self- pollination the flowers of the plants have several adaptations or mechanisms. They are: **1\. Cleistogamy:** In cleistogamy (Greek Kleisto = closed. Gamos = marriage) flowers never open and expose the reproductive organs and thus the pollination is carried out within the closed flower. _Commelina, Viola_, _Oxalis_ are some examples for cleistogamous flowers. In Commelina _benghalensis, two types of flowers are produced-_ aerial and underground flowers. The aerial flowers are brightly coloured, chasmogamous and insect pollinated. The underground flowers are borne on the subterranean branches of the rhizome that are dull, cleistogamous and self pollinated and are not dependent on pollinators for pollination.(Figure 1.11).
 
-**Figure 2.8 _Commelina_ with cleistogamous and chasmogamous flower**
+**2\. Homogamy:** When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self- pollination to occur. Example: _Mirabilis jalapa, Catharanthus roseus_ 
 
-Chasmogamous flower
+**3\. Incomplete dichogamy:** In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
 
-Cleistogamous flower
+![Figure 1.11 _Commelina_ with Cleistogamous and Chasmogamous flowers](1.13.png)
 
 **Figure 1.11** _Commelina_ with Cleistogamous and Chasmogamous flowers
-
-
-
-
-
-  
-
-
-
-**2\. Homogamy:** When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self- pollination to occur. Example: _Mirabilis jalapa, Catharanthus roseus_ **3\. Incomplete dichogamy:** In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
 
 **B. Cross - pollination** It refers to the transfer of pollens on the stigma of another flower. The cross-pollination is of two types:
 
@@ -539,57 +367,81 @@ Cleistogamous flower
 
 **Contrivances of cross-pollination** The flowers have several mechanisms to promote cross-pollination which are also called **contrivances of cross-pollination or outbreeding** devices. It includes the following.
 
-**1\. Dicliny or Unisexuality** When the flowers are unisexual only cross- pollination is possible. There are two types. i. Monoecious: Male and female flowers on the same plant. Coconut, Bitter gourd. In plants like castor and maize, autogamy is prevented but geitonogamy takes place. ii. Dioecious : Male and female flowers on different plants. Borassus, Carica and Phoenix. Here both autogamy and geitonogamy are prevented.
+**1\. Dicliny or Unisexuality** When the flowers are unisexual only cross- pollination is possible. There are two types.
 
-**2\. Monocliny or Bisexuality** Flowers are bisexual and the special adaptation of the flowers prevents self-pollination. **i. Dichogamy: In bisexual flowers anthers** and stigmas mature at different times, thus checking self-pollination. It is of two types. **a. Protandry: The stamens mature earlier** than the stigmas of the flowers. Examples: _Helianthus, Clerodendrum_ (Figure 1.12 a). **b. Protogyny: The stigmas mature earlier than** the stamens of the flower. Examples: Scrophularia _nodosa_ and _Aristolochia bracteata_ (Figure 1.12 b).
+**i. Monoecious:** Male and female flowers on the same plant. Coconut, Bitter gourd. In plants like castor and maize, autogamy is prevented but geitonogamy takes place. 
 
-Stigma Style Stamens
+**ii. Dioecious :** Male and female flowers on different plants. Borassus, Carica and Phoenix. Here both autogamy and geitonogamy are prevented.
 
-Style
+**2\. Monocliny or Bisexuality** 
 
-**(b) Protogyny _- Scrophularia_ Figure 1.12** Dichogamy
+Flowers are bisexual and the special adaptation of the flowers prevents self-pollination. 
 
-Stamens
+**i. Dichogamy:** In bisexual flowers anthers and stigmas mature at different times, thus checking self-pollination. It is of two types. 
 
-Stamens Style
+**a. Protandry:** The stamens mature earlier than the stigmas of the flowers. Examples: _Helianthus, Clerodendrum_ (Figure 1.12 a). **b. Protogyny: The stigmas mature earlier than** the stamens of the flower. Examples: Scrophularia _nodosa_ and _Aristolochia bracteata_ (Figure 1.12 b).
 
-Style
+![Figure 1.12 Dichogamy](1.13.png)
 
-**(a) Protandry - _Clerodendrum_**
+**Figure 1.12** Dichogamy
 
 **ii. Herkogamy: In bisexual flowers the** essential organs, the stamens and stigmas, are arranged in such a way that self-pollination becomes impossible. For example in _Gloriosa superba, the style is reflexed away from the_ stamens and in _Hibiscus_ the stigmas project far above the stamens (Figure 1.13).
 
+![Figure 1.13 Herkogamy - _Gloriosa_](1.14.png)
+
 **Figure 1.13** Herkogamy - _Gloriosa_
 
-**Stigma**
+**iii. Heterostyly:** Some plants produce two or three different forms of flowers that are different in their length of stamens and style. Pollination will take place only between organs of the same length.(Figure 1.14)
 
+**a. Distyly:** The plant produces two forms of flowers, Pin or long style, long stigmatic papillae, short stamens and small pollen grains; Thrum-eyed or short style, small stigmatic papillae, long stamens and large pollen grains. Example: Primula (Figure 1.14a). The stigma of the Thrum-eyed flowers and the anther of the pin lie in same level to bring out pollination. Similarly the anther of Thrum-eyed and stigma of pin ones is found in same height. This helps in effective pollination.
 
+![Figure 1.14 Hetetostyly](1.15.png)
 
+**Figure 1.14** Hetetostyly
+
+**b. Tristyly: The plant produces three kinds of** flowers, with respect to the length of the style and stamens. Here,the pollen from flowers of one type can pollinate only the other two types but not their own type. Example : _Lythrum_ (Figure 1.14b).
   
+**iv. Self sterility/ Self- incompatibility:** In some plants, when the pollen grain of a flower reaches the stigma of the same, it is unable to germinate or prevented to germinate on its own stigma. Examples: Abutilon, Passiflora. It is a genetic mechanism.
+
+**Agents of pollination** 
+
+Pollination is effected by many agents like wind, water, insects etc. On the basis of the agents that bring about pollination, the mode of pollination is divided into abiotic and biotic. The latter type is used by majority of plants.
+
+**Abiotic agents** 
+
+1. Anemophily - pollination by Wind 
+2. Hydrophily - pollination by Water
+
+**Biotic agents** 
+
+3. Zoophily
+
+Zoophily refers to pollination through animals and pollination through insects is called Entomophily.
+
+**1\. Anemophily:** Pollination by wind. The wind pollinated flowers are called **anemophilous**. The wind pollinated plants are generally situated in wind exposed regions. Anemophily is a chance event. Therefore, the pollen may not reach the target flower effectively and are wasted during the transit from one flower to another. The common examples of wind pollinated flowers are - grasses, sugarcane, bamboo, coconut, palm, maize etc.,
+
+**Anemophilous plants have the following characteristic features:**
+
+• The flowers are produced in pendulous,catkin-like or spike inflorescence.
+
+• The axis of inflorescence elongates so that the flowers are brought well above the leaves. 
+
+• The perianth is absent or highly reduced.
+
+• The flowers are small, inconspicuous, colourless, not scented, do not secrete nectar. 
+
+• The stamens are numerous, filaments are long, exerted and versatile. 
+
+• Anthers produce enormous quantities of pollen grains compared to number of ovules available for pollination. They are minute,light and dry so that they can be carried to long distances by wind.
+
+• In some plants anthers burst violently and release the pollen into the air. Example: _Urtica._
+
+• Stigmas are comparatively large, protruding, sometimes branched and feathery, adapted to catch the pollen grains. Generally single ovule is present.
+
+• Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
 
 
 
-own stigma. Examples: Abutilon, Passiflora. It is a genetic mechanism.
-
-**Agents of pollination** Pollination is effected by many agents like wind, water, insects etc. On the basis of the agents that bring about pollination, the mode of pollination is divided into abiotic and biotic. The latter type is used by majority of plants.
-
-**Abiotic agents** 1\. Anemophily - pollination by Wind 2. Hydrophily - pollination by Water
-
-**Biotic agents** 3\. Zoophily Zoophily refers to pollination through animals and pollination through insects is called Entomophily. **1\. Anemophily: Pollination by wind. The wind** pollinated flowers are called anemophilous. The wind pollinated plants are generally situated in wind exposed regions. Anemophily is a chance event. Therefore, the pollen may not reach the target flower effectively and are wasted during the transit from one flower to another. The common examples of wind pollinated flowers are - grasses, sugarcane, bamboo, coconut, palm, maize etc.,
-
-**Anemophilous plants have the following characteristic features:** • The flowers are produced in pendulous,
-
-catkin-like or spike inflorescence. • The axis of inflorescence elongates so that
-
-the flowers are brought well above the leaves. • The perianth is absent or highly reduced. • The flowers are small, inconspicuous,
-
-colourless, not scented, do not secrete nectar. • The stamens are numerous, filaments are
-
-long, exerted and versatile. • Anthers produce enormous quantities of
-
-pollen grains compared to number of ovules available for pollination. They are minute,
-
-**iii. Heterostyly:** Some plants produce two or three different forms of flowers that are different in their length of stamens and style. Pollination will take place only between organs of the same length.(Figure 1.14) **a. Distyly: The plant produces two forms** of flowers, Pin or long style, long stigmatic papillae, short stamens and small pollen grains; Thrum-eyed or short style, small stigmatic papillae, long stamens and large pollen grains. Example: Primula (Figure 1.14a). The stigma of the Thrum-eyed flowers and the anther of the pin lie in same level to bring out pollination. Similarly the anther of Thrum-eyed and stigma of pin ones is found in same height. This helps in effective pollination.
 
 i) Pin-eyed flower ii) Thrum-eyed flower
 
@@ -605,7 +457,9 @@ Long style Normal style Short style
 
 Short style
 
-**b. Tristyly: The plant produces three kinds of** flowers, with respect to the length of the style and stamens. Here,the pollen from flowers of one type can pollinate only the other two types but not their own type. Example : _Lythrum_ (Figure 1.14b). **iv. Self sterility/ Self- incompatibility:** In some plants, when the pollen grain of a flower reaches the stigma of the same, it is unable to germinate or prevented to germinate on its
+
+
+
 
 
 
@@ -633,13 +487,9 @@ Visit to a nearby park and observe the different flowers. Record the adaptations
 
 **b. Hypohydrophily:** Pollination occurs inside the water. Examples: _Zostera marina and Ceratophyllum. Zostera marina_ is a submerged marine sea grass and pollination takes place under water. The pollen grains are long, needle like. They are shed
 
-light and dry so that they can be carried to long distances by wind.
 
-• In some plants anthers burst violently and release the pollen into the air. Example: _Urtica._
 
-• Stigmas are comparatively large, protruding, sometimes branched and feathery, adapted to catch the pollen grains. Generally single ovule is present.
 
-• Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
 
 **Pollination in Maize (Zea mays): The maize** is monoecious and unisexual. The male inflorescence (tassel) is borne terminally and female inflorescence (cob) laterally at lower levels. Maize pollens are large and heavy and cannot be carried by light breeze. However, the mild wind shakes the male inflorescence to release the pollen which falls vertically below. The female inflorescence has long stigma (silk) measuring upto 23 cm in length, which projects beyond leaves. The pollens drop from the tassel is caught by the stigma (Figure 1.15).
 
