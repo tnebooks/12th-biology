@@ -101,33 +101,7 @@ experiments with several true-breeding lines of pea plants. A true breeding line
 derived from the same plant is known as self- fertilization. Self pollination takes place in Mendel’s peas. The experimenter can remove the anthers (Emasculation) before fertilization and transfer the pollen from another variety of pea to the stigma of flowers where the anthers are removed. This results in cross-fertilization, which leads to the creation of hybrid varieties with different traits. Mendel’s work on the study of the pattern of inheritance and the principles or laws formulated, now constitute the Mendelian Genetics.
 
 
-
-![](botany_xii_pages_033-051-ch-02-3-1.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-2.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-3.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-4.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-5.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-6.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-7.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-8.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-9.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-10.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-11.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-12.jpg "")
-
-![](botany_xii_pages_033-051-ch-02-3-13.jpg "")
-  
+![](figure2.2:steps-in-cross-pollination-flowers.png "")
 
 
 **The First Model Organism in Genetics – Garden Peas (_Pisum sativum_) – Seven characters studied by Mendel.**
