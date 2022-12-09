@@ -314,118 +314,11 @@ The term “lethal” is applied to those changes in the genome of an organism w
 
 **Dominant Epistasis –** It is a gene interaction in which two alleles of a gene at one locus interfere and suppress or mask the phenotypic expression of a different pair of alleles of another gene at another locus. The gene that suppresses or masks the phenotypic expression of a gene at another locus is known as **epistatic**. The gene whose expression is interfered by non- allelic genes and prevents from exhibiting its character is known as **hypostatic**. When both the genes are present together, the phenotype is determined by the epistatic gene and not by the hypostatic gene.
 
-In the summer squash the fruit colour locus has a dominant allele ‘W’ for white
+In the summer squash the fruit colour locus has a dominant allele ‘W’ for whitecolour and a recessive allele ‘w’ for coloured fruit. ‘W’ allele is dominant that masks the expression of any colour. In another locus hypostatic allele ‘G’ is for yellow fruit and its recessive allele ‘g’ for green fruit. In the first locus the white is dominant to colour where as in the second locus yellow is dominant to green. When the white fruit with genotype WWgg is crossed with yellow fruit with genotype wwGG, the F1 plants have white fruit and are heterozygous (WwGg). When F1 heterozygous plants are crossed they give rise to F2 with the phenotypic ratio of 12 white : 3 yellow : 1 green.
 
-
-
-  
-
-
-colour and a recessive allele ‘w’ for coloured fruit. ‘W’ allele is dominant that masks the expression of any colour. In another locus hypostatic allele ‘G’ is for yellow fruit and its recessive allele ‘g’ for green fruit. In the first locus the white is dominant to colour where as in the second locus yellow is dominant to green. When the white fruit with genotype WWgg is crossed with yellow fruit with genotype wwGG, the F1 plants have white fruit and are heterozygous (WwGg). When F1 heterozygous plants are crossed they give rise to F2 with the phenotypic ratio of 12 white : 3 yellow : 1 green.
-
-WW gg
-
-**Parent generation**
-
-**Gametes**
-
-**F1 (selfed)**
-
-**F2**
-
-ww GG
-
-Wg
-
-X
-
-wG
-
-WwGg
-
-White fruit
-
-White fruit
-
-White fruit Yellow fruit Green fruit
-
-Yellow fruit
-
-WWGG White
-
-WWGg White
-
-WwGG White
-
-WwGg White
-
-WWGg White
-
-WWgg White
-
-WwGg White
-
-Wwgg White
-
-WwGG White
-
-WwGg White
-
-wwGG Yellow
-
-wwGg Yellow
-
-WwGg White
-
-Wwgg White
-
-WG Wg wG wg
-
-WG
-
-Wg
-
-wG
-
-wg
-
-12 : 3 : 1
-
-**Phenotypes**
-
-**Phenotypic ratio**
-
-wwGg Yellow
-
-wwgg Green
-
-![Dominant epistasis in summer squash]( "")
+![Dominant epistasis in summer squash](dominant-epistasis-in-summer-squash.png "")
 
 Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is dominant, masks the effect of yellow or green. Homozygous recessive ww genotypes only can give the coloured fruits (4/16). Double recessive ‘wwgg’ will give green fruit (1/16). The Plants having only ‘G’ in its genotype (wwGg or wwGG) will give the yellow fruit(3/16).
-
-**Intra –genic or allelic interaction**
-
-**S. No.**
-
-**Gene interaction Example**
-
-**F2**
-
-**Phenotypic ratio**
-
-1 Incomplete Dominance
-
-Flower colour in _Mirabilis jalapa._
-
-Flower colour in snapdragon _(Antirrhinum_ spp.)
-
-1 : 2 : 1
-
-1 : 2 : 1
-
-2 Codominance ABO Blood group system in humans
-
-1 : 2 : 1
 
 **Table 2.1:** Intra- genic interaction
 
@@ -439,43 +332,8 @@ Flower colour in snapdragon _(Antirrhinum_ spp.)
 
 **Phenotypic ratio**
 
-1 Dominant epistasis
 
-Fruit colour in summer squash
 
-12 : 3 : 1
-
-2 Recessive epistasis
-
-Flower colour of _Antirrhinum_ spp.
-
-9 : 3 : 4
-
-3 Duplicate genes with cumulative effect
-
-Fruit shape in summer squash
-
-9 : 6 : 1
-
-4 Complementary genes
-
-Flower colour in sweet peas
-
-9 : 7
-
-5 Supplementary genes
-
-Grain colour in Maize
-
-9 : 3 : 4
-
-6 Inhibitor genes Leaf colour in rice plants
-
-13 : 3
-
-7 Duplicate genes Seed capsule shape (fruit shape) in shepherd’s purse Bursa bursa-pastoris
-
-15 : 1
 
 **Table 2.2:** Inter-genic interaction
 
@@ -486,11 +344,6 @@ A group of genes that together determine (contribute) a characteristic of an org
 
 
 
-
-
-  
-
-
 is called polygenic inheritance. It gives explanations to the inheritance of continuous traits which are compatible with Mendel’s Law.
 
 The first experiment on polygenic inheritance was demonstrated by Swedish Geneticist H. Nilsson - Ehle (1909) in wheat kernels. Kernel colour is controlled by two genes each with two alleles, one with red kernel colour was dominant to white. He crossed the two pure breeding wheat varieties dark red and a white. Dark red genotypes R1R1R2R2 and white genotypes are r1r1r2r2. In the F1 generation medium red were obtained with the genotype R1r1R2r2. F1 wheat plant produces four types of gametes R1R2, R1r2, r1R2, r1r2. The intensity of the red colour is determined by the number of R genes in the F2 generation.
@@ -499,63 +352,15 @@ The first experiment on polygenic inheritance was demonstrated by Swedish Geneti
 
 The R gene in an additive manner produces the red kernel colour. The number of each phenotype is plotted against the intensity of red kernel colour which produces a bell shaped curve. This represents the distribution of phenotype. Other example: Height and skin colour in humans are controlled by three pairs of genes.
 
+![polygenic-inheritance-in-wheat-kernel-colour](polygenic-inheritance-in-wheat-kernel-colour.png "")
+
+![The genetic control of colour in wheat kernels](the-genetic-control-of-colour-in-wheat-kernels.png "")
+
 **Conclusion:**
 
 Finally the loci that was studied by Nilsson – Ehle were not linked and the genes assorted independently.
 
 Later, researchers discovered the third gene that also affect the kernel colour of wheat. The three independent pairs of alleles were involved in wheat kernel colour. Nilsson – Ehle found the ratio of 63 red : 1 white in F2 generation – 1 : 6 : 15 : 20 : 15 : 6 : 1 in F2 generation.
-
-R1r1R2r2
-
-R1r1R2r2
-
-r1r1r2r2R1R1R2R2
-
-R1r1R2r2
-
-R1R1R2R2 R1R1R2r2 R1r1R2R2 R1r1R2r2
-
-R1R1R2r2 R1R1r2r2 R1r1R2r2 R1r1r2r2
-
-R1r1R2R2 R1r1R2r2 r1r1R2R2 r1r1R2r2
-
-R1r1R2r2 R1r1r2r2 r1r1R2r2 r1r1r2r2
-
-F1 generation
-
-Parent generation
-
-Dark Red White
-
-Medium Red
-
-F2 generation
-
-F1 generation (selfed)
-
-R1R2
-
-R1R2
-
-R1r2
-
-r1R2
-
-r1r2
-
-R1r2 r1R2 r1r2
-
-1 4 6 4 1
-
-X
-
-Dark Red Wheat kernel colour
-
-White
-
-The data produce a bell shaped curve. which demonstrate continuous variation in wheat kernel from dark red to white in F2
-
-X
 
 ![Polygenic inheritance in wheat kernel colour]( "")
 
