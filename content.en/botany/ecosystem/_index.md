@@ -614,7 +614,7 @@ Based on the factors like distance from the shore, penetration of light, depth o
 
 
 ### Ecosystem services ( Benefits)
- Ecosystem services are defined as the benefits that people derive from nature. Robert Constanza et al (1927) stated “Ecosystem services are the benefits provided to human, through the transformation of resources (or Environmental assets including land, water, vegetation and atmosphere) into a flow of essential goods and services”.
+Ecosystem services are defined as the benefits that people derive from nature. Robert Constanza et al (1927) stated “Ecosystem services are the benefits provided to human, through the transformation of resources (or Environmental assets including land, water, vegetation and atmosphere) into a flow of essential goods and services”.
 
 Study on ecosystem services acts as an effective tool for gaining knowledge on ecosystem benefits and their sustained use. Without such knowledge gain, the fate of any ecosystem will be at stake and the benefits they provide to us in future will become bleak.
 
@@ -846,34 +846,32 @@ If the autotrophic organisms like green plants are dominant during the early sta
 
 4. Aggregation - The successful establishment of species, as a result of reproduction and increase in population of the species than the earlier stage is called aggregation.
 
-5. **Competition -** It refers to the aggregation of a particular species in an area which leads to inter specific and intraspecific competition among the individuals for water, nutrient,
-
-**Types of succession**
-
-**Primary Succession** Development of plant community on barren area.
-
-**Secondary Succession**
-
-Development of plant community on disturbed area.
-
-**Autogenic Succession** Controlled by biotic components of ecosystem.
-
-**Allogenic Succession**
-
-Controlled by abiotic components of ecosystem.
-
-**Autotrophic Succession**
-
-It occurs in the medium that is rich in inorganic substances .
-
-**Heterotrophic Succession**
-
-It occurs in the medium that is rich in organic substances.
-
-![Types of succession]( "")
+5. **Competition -** It refers to the aggregation of a particular species in an area which leads to inter specific and intraspecific competition among the individuals for water, nutrient,radiant energy, CO2, O2 and space, etc.
 
 
-radiant energy, CO2, O2 and space, etc.
+
+```goat
+
+                                                                                                                                                               
+                                                      +--------------------------------+                                   -                                   
+                                                      |                                |                                                                       
+                                                      |     Types of succession        |                                                                       
+                                                      +----------------|---------------+                                                                       
+                                                                       |                                                      -                                
+              |------------------------|--------------------|----------|----------|-----------------------|-------------------|                                
+              |                        |                    |                     |                       |                   |                                
+              |                        |                    |                    -|                       |                   |                                
+     +------------------+    +---------|---------+  +-------|------+    +---------|--------+    +---------|---------+  +------|-------+                        
+     |   Primary        |    | Secondary         |  | Autogenic    |    |   Allogenic      |    |Autotropic         |  |Heterotrophic |                        
+     |   Succession     |    | Succession        |  | Succession   |    |  +Succession     |    |Succession         |  |Succession    |                        
+     |   Development    |    | Development       |  | Controlled   |    |   Controlled     |    |It occurs in the   |  |It occurs     |                        
+     |   of plant       |    | of plant          |  | by biotic    |    |   by abiotic     |    |medium that is     |  |in the        |                        
+     |   community on   |    | community on      |  | components of|    |   components     |    |rich in inorganic  |  |medium that is|                        
+     |   barren area.   |    | disturbed area.   |  | ecosystem.   |    |   of ecosystem.  |    |substances .       |  |rich in organic                        
+     +------------------+    +-------------------+  +--------------+    +------------------+    +-------------------+  +substances.---+                        
+                                                                                                                                          
+
+```
 
 6. Reaction - The species occupying a habitat gradually modify the environmental condition, where the existing species community is displaced or replaced by another. This is called reaction. The community which is replaced by another community is called **seral community**.
 

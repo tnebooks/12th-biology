@@ -71,7 +71,6 @@ All types of pollution
 
 ![](botany_xii_pages_178-198-ch-08-1-2.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-1-3.jpg "")
   
 
 
@@ -405,7 +404,6 @@ Terrestial Marine
 
 
 
-![](botany_xii_pages_178-198-ch-08-10-1.jpg "")
   
 
 
@@ -511,7 +509,6 @@ Liana Khasi hills, Meghalaya
 
 
 
-![](botany_xii_pages_178-198-ch-08-12-1.jpg "")
   
 
 
@@ -620,7 +617,6 @@ Well **Rainwater harvesting in individual house**
 
 ![](botany_xii_pages_178-198-ch-08-14-6.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-14-7.jpg "")
   
 
 
@@ -710,21 +706,15 @@ Secondary treatment
 
 ![](botany_xii_pages_178-198-ch-08-16-2.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-3.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-12.jpg "")
 
 ![](botany_xii_pages_178-198-ch-08-16-13.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-14.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-15.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-23.jpg "")
 
 ![](botany_xii_pages_178-198-ch-08-16-24.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-30.jpg "")
 
 ![](botany_xii_pages_178-198-ch-08-16-31.jpg "")
 
@@ -734,9 +724,7 @@ Secondary treatment
 
 ![](botany_xii_pages_178-198-ch-08-16-34.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-35.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-36.jpg "")
   
 
 
@@ -878,7 +866,6 @@ a) Lantana b) Prosopis c) Parthenium d) Kappaphycus
 
 
 
-![](botany_xii_pages_178-198-ch-08-19-1.jpg "")
   
 
 
@@ -964,7 +951,6 @@ Let us know about the Environmental issues using the **EARTH NOW** app through t
 
 ![](botany_xii_pages_178-198-ch-08-21-1.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-21-2.jpg "")
 
 ![](botany_xii_pages_178-198-ch-08-21-6.jpg "")
 

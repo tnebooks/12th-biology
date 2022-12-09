@@ -49,7 +49,6 @@ Learn the structure of various fruits and seeds related to their dispersal mecha
 
 ![](botany_xii_pages_123-148-ch-06-1-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-1-3.jpg "")
   
 
 
@@ -231,19 +230,14 @@ evening primrose open up with the onset of dusk (5 – 6 pm) due to diurnal rhyt
 
 ![](botany_xii_pages_123-148-ch-06-3-52.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-61.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-65.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-66.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-70.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-3-72.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-3-83.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-87.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-3-94.jpg "")
 
@@ -398,23 +392,15 @@ Grassland or desert Tropical rain forest
 
 ![](botany_xii_pages_123-148-ch-06-5-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-4.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-5.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-7.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-5-8.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-9.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-10.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-11.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-12.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-13.jpg "")
   
 
 
@@ -483,7 +469,6 @@ A natural fire break may occur when there is a lack of vegetation such as River,
 
 
 
-![](botany_xii_pages_123-148-ch-06-7-1.jpg "")
   
 
 
@@ -612,13 +597,10 @@ Height above the sea level forms the **altitude**. At high altitudes, the veloci
 
 
 
-![](botany_xii_pages_123-148-ch-06-9-1.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-9-2.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-9-31.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-9-32.jpg "")
   
 
 
@@ -947,57 +929,32 @@ Roots
 
 
 
-![](botany_xii_pages_123-148-ch-06-14-1.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-3.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-7.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-9.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-10.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-11.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-12.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-13.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-14.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-15.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-16.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-20.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-24.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-25.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-26.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-27.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-28.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-29.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-30.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-31.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-32.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-33.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-14-34.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-35.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-36.jpg "")
   
 
 - Cortex is well developed with aerenchyma
@@ -1139,15 +1096,10 @@ In xerophytic plants with the leaves and stem covered with hairs are called **tr
 
 
 
-![](botany_xii_pages_123-148-ch-06-16-201.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-203.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-233.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-251.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-252.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-16-308.jpg "")
   
@@ -1291,7 +1243,6 @@ halophyte - _Salicornia_
 
 
 
-![](botany_xii_pages_123-148-ch-06-18-1.jpg "")
   
 
 
@@ -1351,7 +1302,6 @@ Out of three districts of Tamil Nadu (Nagapattinam, Thanjavur and Thiruvarur), M
 
 ![](botany_xii_pages_123-148-ch-06-19-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-19-3.jpg "")
   
 
 
@@ -1505,7 +1455,6 @@ iv) High temperature reduces use of water and solute absorption by roots.
 
 
 
-![](botany_xii_pages_123-148-ch-06-22-1.jpg "")
   
 
 
@@ -1722,7 +1671,6 @@ Let us know about the Environmental Studies- Complete Reference Guide in detail.
 
 ![](botany_xii_pages_123-148-ch-06-26-1.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-26-2.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-26-5.jpg "")
 

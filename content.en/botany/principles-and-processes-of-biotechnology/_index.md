@@ -56,7 +56,6 @@ and bounds during the past century and it's development can be well understood u
 
 ![](botany_xii_pages_082-109-ch-04-1-2.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-1-3.jpg "")
   
 
 
@@ -141,9 +140,7 @@ f. Withdrawal of product using downstream processing methods
 
 
 
-![](botany_xii_pages_082-109-ch-04-3-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-3-2.jpg "")
   
 
 
@@ -322,7 +319,6 @@ A-A-T-T-C
 
 
 
-![](botany_xii_pages_082-109-ch-04-5-1.jpg "")
   
 
 
@@ -434,7 +430,6 @@ DNA strand
 
 
 
-![](botany_xii_pages_082-109-ch-04-6-1.jpg "")
   
 
 
@@ -542,7 +537,6 @@ CTTAAG CTTAAG
 
 
 
-![](botany_xii_pages_082-109-ch-04-7-1.jpg "")
   
 
 
@@ -790,9 +784,7 @@ cleavage site
 
 
 
-![](botany_xii_pages_082-109-ch-04-10-4.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-10-10.jpg "")
   
 
 
@@ -951,7 +943,6 @@ vectors are circular but during insertion, become linear. It leads to duplicatio
 
 
 
-![](botany_xii_pages_082-109-ch-04-13-214.jpg "")
   
 
 
@@ -992,7 +983,6 @@ reveal the identity of the book or item as well the details like prize. Similari
 
 ![](botany_xii_pages_082-109-ch-04-14-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-14-2.jpg "")
   
 
 
@@ -1316,7 +1306,6 @@ c. cut the DNA at terminus
 
 
 
-![](botany_xii_pages_082-109-ch-04-22-1.jpg "")
   
 
 
@@ -1530,11 +1519,8 @@ Interdisciplinary Fields of Biotechnology
 
 
 
-![](botany_xii_pages_082-109-ch-04-27-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-27-6.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-27-8.jpg "")
   
 
 
@@ -1561,7 +1547,6 @@ Let us know about the information Bio Technology through this activity.
 
 ![](botany_xii_pages_082-109-ch-04-28-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-28-2.jpg "")
 
 ![](botany_xii_pages_082-109-ch-04-28-6.jpg "")
 

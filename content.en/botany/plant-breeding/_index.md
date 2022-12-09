@@ -60,7 +60,6 @@ seed storage with modern methods.
 
 ![](botany_xii_pages_199-215-ch-09-1-1.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-1-2.jpg "")
   
 
 - Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
@@ -236,9 +235,7 @@ Local resistance to root pathogens
 
 ![](botany_xii_pages_199-215-ch-09-3-2.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-3-3.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-3-4.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-3-7.jpg "")
 
@@ -250,11 +247,8 @@ Local resistance to root pathogens
 
 ![](botany_xii_pages_199-215-ch-09-3-12.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-3-13.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-3-14.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-3-15.jpg "")
   
 
 
@@ -301,7 +295,6 @@ The green manuring can be practised as Green in-situ manuring or Green leaf manu
 
 ![](botany_xii_pages_199-215-ch-09-4-5.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-4-6.jpg "")
   
 
 
@@ -594,7 +587,6 @@ In 2005, he organized a first ever traditional paddy seed festival in his farm a
 
 ![](botany_xii_pages_199-215-ch-09-10-3.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-10-4.jpg "")
   
 
 
@@ -731,7 +723,6 @@ Seed is an important part of the plant as it gives the food for future generatio
 
 
 
-![](botany_xii_pages_199-215-ch-09-13-1.jpg "")
   
 
 
@@ -911,23 +902,14 @@ In 2000, maize hybrids that had twice the amount of amino acids, lysine and tryp
 
 ![](botany_xii_pages_199-215-ch-09-16-1.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-2.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-5.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-6.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-7.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-8.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-9.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-10.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-11.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-16-12.jpg "")
   
 
 
@@ -1015,111 +997,61 @@ Sequential development of plant breeding techniques
 
 
 
-![](botany_xii_pages_199-215-ch-09-17-1.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-17-3.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-9.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-10.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-17-14.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-17-25.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-62.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-63.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-88.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-89.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-99.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-100.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-103.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-105.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-106.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-108.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-109.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-115.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-116.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-117.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-118.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-120.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-121.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-124.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-126.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-129.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-131.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-138.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-174.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-181.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-188.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-189.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-201.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-226.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-235.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-241.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-242.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-257.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-259.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-292.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-297.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-319.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-320.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-321.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-323.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-325.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-326.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-327.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-328.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-330.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-338.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-341.jpg "")
 
-![](botany_xii_pages_199-215-ch-09-17-343.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-17-420.jpg "")
 

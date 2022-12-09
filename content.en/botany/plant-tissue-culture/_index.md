@@ -53,7 +53,6 @@ Biosafety and Bioethics 5.7 Future Biotechnology
 
 ![](botany_xii_pages_110-122-ch-05-1-2.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-1-3.jpg "")
   
 
 
@@ -129,7 +128,6 @@ MS nutrient medium (Murashige and Skoog 1962) is commonly used. It has carbon so
 
 ![](botany_xii_pages_110-122-ch-05-3-1.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-3-2.jpg "")
 
 ![](botany_xii_pages_110-122-ch-05-3-3.jpg "")
 
@@ -137,7 +135,6 @@ MS nutrient medium (Murashige and Skoog 1962) is commonly used. It has carbon so
 
 ![](botany_xii_pages_110-122-ch-05-3-5.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-3-6.jpg "")
   
 
 
@@ -214,11 +211,8 @@ ii. **Fusion of protoplast:** It is done through the use of a suitable fusogen. 
 
 ![](botany_xii_pages_110-122-ch-05-5-15.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-5-16.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-5-18.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-5-20.jpg "")
 
 ![](botany_xii_pages_110-122-ch-05-5-22.jpg "")
   
@@ -308,7 +302,6 @@ vi. Production of secondary metabolites from cell culture utilized in pharmaceut
 
 ![](botany_xii_pages_110-122-ch-05-7-2.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-7-3.jpg "")
   
 
 
@@ -407,19 +400,12 @@ that has been granted by the government through legislation for trading new arti
 
 
 
-![](botany_xii_pages_110-122-ch-05-9-1.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-9-2.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-9-3.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-9-4.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-9-5.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-9-6.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-9-7.jpg "")
   
 
 
@@ -507,15 +493,12 @@ by using mercuric bromide d) PH of the culture medium is 5.0 to 6.0
 
 ![](botany_xii_pages_110-122-ch-05-11-1.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-11-2.jpg "")
 
 ![](botany_xii_pages_110-122-ch-05-11-4.jpg "")
 
 ![](botany_xii_pages_110-122-ch-05-11-5.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-11-6.jpg "")
 
-![](botany_xii_pages_110-122-ch-05-11-7.jpg "")
   
 
 

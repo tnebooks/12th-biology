@@ -44,7 +44,6 @@ medicinal plants.
 
 ![](botany_xii_pages_216-269-ch-10-1-1.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-1-2.jpg "")
   
 
 
@@ -360,7 +359,6 @@ Gingelly oil and Rice bran oil are mixture of MUFA and PUFA
 
 
 
-![](botany_xii_pages_216-269-ch-10-9-1.jpg "")
   
 
 
@@ -905,25 +903,18 @@ Cover the soil ball with mass sheet
 
 ![](botany_xii_pages_216-269-ch-10-25-2.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-3.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-4.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-5.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-25-13.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-24.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-25-27.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-25-28.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-31.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-32.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-25-33.jpg "")
   
 
 
@@ -965,9 +956,7 @@ Plug out the sapling and clean and prune the roots.
 
 ![](botany_xii_pages_216-269-ch-10-26-3.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-26-4.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-26-5.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-26-6.jpg "")
 
@@ -981,11 +970,9 @@ Plug out the sapling and clean and prune the roots.
 
 ![](botany_xii_pages_216-269-ch-10-26-11.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-26-12.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-26-15.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-26-16.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-26-17.jpg "")
 
@@ -1005,9 +992,7 @@ Plug out the sapling and clean and prune the roots.
 
 ![](botany_xii_pages_216-269-ch-10-26-29.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-26-30.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-26-31.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-26-32.jpg "")
 
@@ -1320,7 +1305,6 @@ Let us know about the Agri book in detail through this activity.
 
 ![](botany_xii_pages_216-269-ch-10-33-1.jpg "")
 
-![](botany_xii_pages_216-269-ch-10-33-2.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-33-10.jpg "")
 
