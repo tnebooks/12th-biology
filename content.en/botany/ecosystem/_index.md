@@ -17,18 +17,14 @@ Explain causes, process and types of plant succession
 Classify vegetation types of India and Tamil Nadu
 ```
 
-
 Have you seen lakes, ponds and pools in your surroundings? They are all called water bodies with many components in them. Can you list out the things which are found in water bodies? Mud, nutrients, clay, dissolved gases, planktons, microorganisms, plants like algae, _Hydrilla, Nelumbo, Nymphaea_ and animals like snake, small fish, large fish, frog, tortoise and crane are the components of the water bodies which constitutes **ecosystem**. Further, we all know that plants and animals are prominent living components in the environment. They interact with space components such as air, water, soil, sunlight, etc. For example, you have studied in class XI, one of the life processes, photosynthesis which utilizes sunlight , water, carbondioxide, nutrients from the soil and release oxygen to the atmosphere. From this, we understand that the exchange of materials takes place between living and space components. Likewise, you can study the structure, function and types of ecosystem in this chapter. The term ‘ecosystem’ was proposed by A.G. Tansley (1935), who defined it as ‘the system resulting from the **integration of all the living and nonliving factors of the environment’**. Whereas, Odum (1962) defined ecosystem ‘as the structural and **functional unit of ecology’.**
 
 **Parallel terms for ecosystem coined by various ecologists** • Biocoenosis – Karl Mobius • Microcosm – S.A. Forbes • Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov • Holocoen - Friederichs • Biosystem – Thienemann • Bioenert body – Vernadsky
-
 
 ![](botany_xii_pages_149-177-ch-07-1-1.jpg "")
 
 ![](botany_xii_pages_149-177-ch-07-1-2.jpg "")
   
-
-
 
 ## Ecosystem
 Ecosystem comprises of two major components. They are: i) **Abiotic (non-living) components**: It
@@ -50,17 +46,11 @@ Before studying the productivity in any ecosystem, we should understand the esse
 
 ### Photosynthetically Active Radiation (PAR)
 
-
 The amount of light available for photosynthesis of plants is called **P**hotosynthetically **A**ctive **R**adiation (PAR) which is from 400-700 nm in wave length. It is essential for photosynthesis and plant growth. PAR is not always constant because of clouds, tree shades, air, dust particles, seasons, latitudes and length of the daylight availability. Generally plants absorb more blue and red light for efficient photosynthesis.
 
 Of the total sunlight, 34 percent that reaches the atmosphere is reflected back into the atmosphere, moreover 10% is held by ozone, water vapours and atmospheric gases and the remaining 56% reaches the earth’s surface. Out of this 56%, only 2 – 10% of the solar energy is used by green plants for photosynthesis while the remaining portion is dissipated as heat.
 
 PAR is generally expressed in millimoles / square meter / second by using silicon photo voltic detectors which detect only 400 – 700
-
-
-
-  
-
 
 
 nm wavelength of light. PAR values range from 0 to 3000 millimoles /square meter / second. At night PAR is zero and during midday in the summer, PAR often reaches 2000 – 3000 millimoles /square meter/second.
@@ -80,7 +70,6 @@ of photosynthesis).
 **Black carbon** – carbon emitted from gas, diesel engine and coal fired power plants.
 
 ### Productivity of an ecosystem
-
 
 The rate of biomass production per unit area in a unit time is called productivity. It can be expressed in terms of gm /m2/year or Kcal/m2/ year. It is classified as given bellow.
 
@@ -118,11 +107,6 @@ The rate of net synthesis of organic matter (biomass) by a group of plants per u
  (Greek word ‘ trophic’ = to food or feeding) A trophic level refers to the position of an organism in the food chain. The number of
 
 
-
-  
-
-
-
 trophic levels is equal to the number of steps in the food chain. The green plants (producers) occupying the first trophic level (T1) are called producers. The energy produced by the producers is utilized by the plant eaters (herbivores) they are called **primary consumers** and occupy the second trophic level (T2).
 
 Autotrophs - Plants
@@ -143,12 +127,11 @@ Third Trophic level (T3) (Secondary consumers)
 
 Fourth Trophic level (T4) (Tertiary consumers)
 
-**Figure 7.1:** Diagrammatic representation of trophic levels
+![Diagrammatic representation of trophic levels]( "")
 
 Herbivores are eaten by carnivores, which occupy the third trophic level (T3). They are also called **secondary consumers** or **primary carnivores**. Carnivores are eaten by the other carnivores, which occupy the fourth trophic level (T4). They are called the **tertiary consumers or secondary carnivores**. Some organisms which eat both plants and animals are called as **omnivores** (Crow). Such organisms may occupy more than one trophic level in the food chain.
 
 ### Energy flow Sun
-
 
 **Plants Herbivores Carnivores**
 
@@ -156,7 +139,7 @@ Herbivores are eaten by carnivores, which occupy the third trophic level (T3). T
 
 **Heat Heat Heat**
 
-**Figure 7.2:** Diagrammatic representation of energy flow
+![Diagrammatic representation of energy flow]( "")
 
 The transfer of energy in an ecosystem between trophic levels can be termed as energy flow. It is the key function in an ecosystem. Part of the energy obtained from the sun by producers are transferred to consumers and decomposers
 
@@ -184,7 +167,6 @@ chemical energyLight energy
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-4-1.jpg "")
 
 ![](botany_xii_pages_149-177-ch-07-4-2.jpg "")
@@ -193,7 +175,6 @@ chemical energyLight energy
 
 ![](botany_xii_pages_149-177-ch-07-4-24.jpg "")
   
-
 
 
 respiration, decomposition and in the form of heat. Hence, the law is called **ten percent law.**
@@ -208,7 +189,6 @@ respiration, decomposition and in the form of heat. Hence, the law is called **t
 
 ## Joules 900 Joules Energy lost
 
-
 **90 Joules Energy lost**
 
 **9 Joules Energy lost**
@@ -219,13 +199,11 @@ respiration, decomposition and in the form of heat. Hence, the law is called **t
 
 ## Joule Energy lost
 
-
 ## Joules
-
 
 **Sunlight**
 
-**Figure 7.3:** Ten percent law
+![Ten percent law]( "")
 
 **Example:** It is shown that of the 1000 Joules of Solar energy trapped by producers. 100 Joules of energy is stored as chemical energy through photosynthesis. The remaining 900 Joules would be lost in the environment. In the next trophic level herbivores, which feed on producers get only 10 Joules of energy and the remaining 90 Joules is lost in the environment. Likewise, in the next trophic level, carnivores, which eat herbivores store only 1 Joule of energy and the remaining 9 Joules is dissipated. Finally, the carnivores are eaten by tertiary consumers which store only 0.1 Joule of energy and the remaining 0.9 Joule is lost in the environment. Thus, at the successive trophic level, only ten percent energy is stored.
 
@@ -236,7 +214,7 @@ respiration, decomposition and in the form of heat. Hence, the law is called **t
 
 producers (plants). The second link in the food chain is primary consumers (mouse) which get their food from producers. The third link in the food chain is secondary consumers (snake) which get their food from primary consumers. Fourth link in the food chain is tertiary consumers (eagle) which get their food from secondary consumers.
 
-**Figure 7.4:** Diagrammatic representation of Grazing food chain
+![Diagrammatic representation of Grazing food chain]( "")
 
 Grass EagleMouse Snake
 
@@ -258,7 +236,7 @@ Fallen leaves HawkEarthworm Black bird
 
 **Top carnivores**
 
-**Figure 7.5:** Diagrammatic representation of Detritus food chain.
+![Diagrammatic representation of Detritus food chain.]( "")
 
 ### Food Web
  The inter-locking pattern of a number of food chain form a web like arrangement called **food web**. It is the basic unit of an ecosystem, to maintain its stability in nature. Which its also called homeostasis.
@@ -266,14 +244,9 @@ Fallen leaves HawkEarthworm Black bird
 Example: In a grazing food chain of a grass
 
 
-
-  
-
-
-
 land, in the absence of a rabbit, a mouse may also eat food grains. The mouse in turn may be eaten directly by a hawk or by a snake and the snake may be directly eaten by hawks.
 
-**Figure 7.6:** Diagrammatic representation of Food web in a grassland ecosystem
+![Diagrammatic representation of Food web in a grassland ecosystem]( "")
 
 **Plants**
 
@@ -299,7 +272,6 @@ of energy transfer in terrestrial and aquatic ecosystems.
 
 ### Ecological pyramids
 
-
 Graphic representation of the trophic structure and function at successive trophic levels of an ecosystem is called ecological pyramids. The concept of ecological pyramids was introduced by Charles Elton (1927). Thus they are also called as **Eltonian pyramids**.
 
 There are three types: (1) pyramid of number (2) pyramid of biomass (3) pyramid of energy.
@@ -314,7 +286,7 @@ In a **forest ecosystem** the pyramid of number is somewhat different in shape, 
 
 **A**
 
-**Figure 7.7: Pyramids of numbers ( individuals per unit area) in different types of ecosystems. Upright**\-A) Grassland ecosystem B) Pond ecosystem , **Spindle shaped** -C) Forest ecosystem,
+![-C) Forest ecosystem,]( "")
 
 **Inverted**\-D) Parasite ecosystem
 
@@ -355,11 +327,6 @@ T1 - Producers | T2 - Herbivores | T3 - Secondary consumers | T4 - Tertiary cons
 **B C D**
 
 
-
-  
-
-
-
 trophic level, are more in number than the producers. In final trophic level (T4), tertiary consumers (lion) are lesser in number than the secondary consumer (T3) (fox and snake). Therefore, the pyramid of number in forest ecosystem looks **spindle shaped**.
 
 The pyramid of number in a parasite **ecosystem** is always **inverted**, because it starts with a single tree. Therefore there is gradual increase in the number of organisms in successive tropic levels from producer to tertiary consumers.
@@ -376,7 +343,7 @@ However, in **pond ecosystem**, the bottom of the pyramid is occupied by the pro
 
 A graphical representation of energy flow at each successive trophic level in an ecosystem is called pyramid of energy. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
 
-**Figure 7.9:** Pyramids of energy( Kcal/unit area/unit time ) in any ecosystem
+![Pyramids of energy( Kcal/unit area/unit time ) in any ecosystem]( "")
 
 **Primary consumers**
 
@@ -388,18 +355,15 @@ A graphical representation of energy flow at each successive trophic level in an
 
 ## Joules
 
-
 **10 Joules**
 
 **1 Joule 0.1 Joule**
 
 ## Joules
 
-
 **Sunlight**
 
 ### Decomposition:
-
 
 Decomposition is a process in which the detritus (dead plants, animals and their excreta) are broken down in to simple organic matter by the decomposers. It is an essential process for recycling and balancing the nutrient pool in an ecosystem. **Nature of decomposition** The process of decomposition varies based
 
@@ -432,11 +396,6 @@ T1 - Producers | T2 - Herbivores | T3 - Secondary consumers | T4 - Tertiary cons
 **Figure 7.8: Pyramids of biomass ( dry weight per unit area)in different types of ecosystems. Upright**\-A) Grassland ecosystem B) Forest ecosystem, **Inverted**\- C)Pond ecosystem
 
 
-
-  
-
-
-
 inorganic compounds from the surface to the lower layer of soil or the carrying away of the same by water is called **leaching** or **eluviation**.
 
 **d. Humification - It is a process by which** simplified detritus is changed into dark coloured amorphous substance called **humus**. It is highly resistant to microbial action, therefore decomposition is very slow. It is the reservoir of nutrients.
@@ -448,7 +407,6 @@ inorganic compounds from the surface to the lower layer of soil or the carrying 
 Decomposition is affected by climatic factors like temperature, soil moisture, soil pH ,oxygen and also the chemical quality of detritus.
 
 ### Biogeochemical cycles (Nutrient cycles)
-
 
 Exchange of nutrients between organisms and their environment is one of the essential aspects of an ecosystem. All organisms require nutrients for their growth, development, maintenance
 
@@ -476,8 +434,7 @@ Senescence
 
 **Leaching**
 
-**Figure 7.10:** Diagrammatic representation – Process of decomposition and cycling of nutrients.
-
+![Diagrammatic representation – Process of decomposition and cycling of nutrients.]( "")
 
 
 
@@ -491,7 +448,6 @@ Senescence
 
 ![](botany_xii_pages_149-177-ch-07-8-5.jpg "")
   
-
 
 
 and reproduction. Circulation of nutrients within the ecosystem or biosphere is known as **biogeochemical cycles** and also called as ‘cycling of materials.’ There are two basic types,
@@ -508,7 +464,7 @@ The circulation of carbon between organisms and environment
 
 is known as the **carbon cycle**. Carbon is an inevitable part of all biomolecules and is substantially impacted by the change in global climate. Cycling of carbon between organisms and atmosphere is a consequence of two reciprocal processes of photosynthesis and respiration. The releasing of carbon in
 
-**Figure 7.11:** Diagrammatic Sketch showing Carbon cycle
+![Diagrammatic Sketch showing Carbon cycle]( "")
 
 Peat Coal
 
@@ -542,7 +498,7 @@ Oil and Gas
 
 **Transport (DOM)**
 
-**Figure 7.12:** Diagrammatic sketch showing Phosphorous cycle
+![Diagrammatic sketch showing Phosphorous cycle]( "")
 
 **Decomposition Mineralization**
 
@@ -588,12 +544,10 @@ Po = Organic phosphates PI = Inorganic phosphates
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-9-1.jpg "")
 
 ![](botany_xii_pages_149-177-ch-07-9-2.jpg "")
   
-
 
 
 the atmosphere increases due to burning of fossile fuels, deforestration, forest fire, volcanic eruption and decomposition of dead organic matters. The details of carbon cycle are given in the figure 7.11.
@@ -640,7 +594,7 @@ bodies) Example: Pond
 
 and Lake
 
-**Figure 7.13:** Types of Ecosystem Though there are many types of ecosystems as charted above. Only the pond ecosystem is detailed below.
+![Types of Ecosystem Though there are many types of ecosystems as charted above. Only the pond ecosystem is detailed below.]( "")
 
 **Structure of Pond ecosystem**
 
@@ -654,7 +608,7 @@ Abiotic components
 
 **Mud**
 
-**Figure 7.14:** Diagram shows structure of pond ecosystem with abiotic and biotic components.
+![Diagram shows structure of pond ecosystem with abiotic and biotic components.]( "")
 
 It is a classical example for natural, aquatic, freshwater, lentic type of ecosystem. It helps us to understand the structure and function of an ecosystem. When rain water gathers in a shallow area, gradually over a period of time, different kinds of organisms (microbes, plants, animals) become part of this ecosystem. This pond ecosystem is a self sustaining and self regulatory fresh water ecosystem, which shows a complex interaction between the abiotic and biotic components in it.
 
@@ -668,10 +622,8 @@ Collect few living and nonliving components from any water body found near by.
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-10-1.jpg "")
   
-
 
 
 **a. Producers** A variety of phytoplanktons like _Oscillatoria, Anabaena, Chlamydomonas, Pandorina Eudorina, Volvox_ and _Diatoms._ Filamentous algae such as _Ulothrix, Spirogyra, Cladophora_ and Oedogonium; floating plants Azolla, _Salvia, Pistia, Wolffia and Eichhornia; sub-_ merged plants _Potamogeton_ and _Phragmitis_; rooted floating plants Nymphaea and Nelumbo; macrophytes like _Typha_ and _Ipomoea,_ constitute the major producers of a pond ecosystem.
@@ -708,14 +660,9 @@ compensation level
 
 BENTHIC ZONE
 
-**Figure 7.15:** Diagrammatic sketch shows stratification of Pond ecosystem
+![Diagrammatic sketch shows stratification of Pond ecosystem]( "")
 
 Based on the factors like distance from the shore, penetration of light, depth of water, types of plants and animals, there may be three zones, littoral, limnetic and profundal. The littoral zone, which is closest to the shore with shallow water region, allows easy penetration of light. It is warm and occupied by rooted plant species. The limnetic zone refers the open water of the pond with an effective penetration of light and domination of planktons. The deeper region of a pond below the limnetic zone is called profundal zone with no effective light penetration and predominance of heterotrophs. The bottom zone of a pond is termed benthic and is occupied by a community of organisms called benthos (usually decomposers).The primary productivity through photosynthesis of littoral and limnetic zone is more due to greater penetration of light than the profundal zone.
-
-
-
-  
-
 
 
 ### Ecosystem services ( Benefits)
@@ -728,16 +675,11 @@ Robert Constanza and his colleagues estimated the value of global ecosystem serv
 parameters. According to them in 1997, the average global value of ecosystems services estimated was US $ 33 trillion a year. The updated estimate for the total global ecosystem services in 2011 is US $ 125 trillion / year, indicating a four-fold increase in ecosystem services from 1997 to 2011.
 
 **Mangrove ecosystem services**
-
-• Offers habitat and act as nursery for aquatic plants and animals
-
-• Provides medicine, fuel wood and timber.
-
-• Act as bridge between sea and rivers by balancing sedimentation and soil erosion.
-
-• Help to reduce water force during cyclones, tsunamis and high tide periods.
-
-• Help in wind break, O2 production, carbon sequestration and prevents salt spray from waves.
+- Offers habitat and act as nursery for aquatic plants and animals
+- Provides medicine, fuel wood and timber.
+- Act as bridge between sea and rivers by balancing sedimentation and soil erosion.
+- Help to reduce water force during cyclones, tsunamis and high tide periods.
+- Help in wind break, O2 production, carbon sequestration and prevents salt spray from waves.
 
 **How do anthropogenic activities affect ecosystem services?** Now, we all exploit the ecosystem more than that of our needs. The Millennium Ecosystem **Assessment (2005)** found that “over the past 50 years, humans have changed the ecosystem more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, medicine, timber, fiber and fuel.”
 
@@ -746,12 +688,9 @@ The varieties of benefits obtained from the ecosystem are generally categorized 
 **Ecosystem services**
 
 **Provisoning services**
-
-• Food, fiber and fuel
-
-• Genetic resources
-
-• Bio-chemicals • Fresh water • Medicines
+- Food, fiber and fuel
+- Genetic resources
+- Bio-chemicals • Fresh water • Medicines
 
 **Cultural services** • Spiritual and
 
@@ -769,14 +708,12 @@ atmospheric oxygen • Water cycling
 
 **Regulating services** • Invasion resistance • Herbivory pollination • Seed dispersal • Climate regulation • Pest regulation • Disease regulation • Erosion regulation • Water purification • Natural hazard protection
 
-**Figure 7.16:** Types of Ecosystem services
-
+![Types of Ecosystem services]( "")
 
 
 
 ![](botany_xii_pages_149-177-ch-07-12-1.jpg "")
   
-
 
 
 Generally the following human activities disturb or re-engineer an ecosystem every day. • Habitat destruction • Deforestation and over grazing • Erosion of soils • Introduction of non-native species • Over harvesting of plant material • Pollution of land, water and air • Run off pesticides, fertilizers and animal wastes
@@ -790,24 +727,15 @@ infection, drought, etc., removing a great amount of biomasss. However, ecosyste
 **“If we fail to protect environment, we will fail to save posterity”.**
 
 Therefore, we have to practice the following in our day today life:
-
-• Buy and use only ecofriendly products and recycle them.
-
-• Grow more trees
-
-• Choose sustained farm products (vegetables, fruits, greens, etc.)
-
-• Reduce the use of natural resources.
-
-• Recycle the waste and reduce the amount of waste you produce.
-
-• Reduce consumption of water and electricity.
-
-• Reduce or eliminate the use of house-hold chemicals and pesticides.
-
-• Maintain your cars and vehicles properly. (In order to reduce carbon emission)
-
-• Create awareness and educate about ecosystem protection among your friends and family members and ask them to find out solution to minimise this problem.
+- Buy and use only ecofriendly products and recycle them.
+- Grow more trees
+- Choose sustained farm products (vegetables, fruits, greens, etc.)
+- Reduce the use of natural resources.
+- Recycle the waste and reduce the amount of waste you produce.
+- Reduce consumption of water and electricity.
+- Reduce or eliminate the use of house-hold chemicals and pesticides.
+- Maintain your cars and vehicles properly. (In order to reduce carbon emission)
+- Create awareness and educate about ecosystem protection among your friends and family members and ask them to find out solution to minimise this problem.
 
 **Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** • Close the tap when not in use. • Switch off the electrical gadgets
 
@@ -823,11 +751,6 @@ and products. **“USE ECOSYSTEM BUT DON’T LOSE ECOSYSTEM; MAKE IT SUSTAINABLE
 Ecosystem management emphasis on human role in judicious use of ecosystem
 
 
-
-  
-
-
-
 and for sustained benefits through minimal human impacts on ecosystems. Environmental degradation and biodiversity loss will result in depletion of natural resources, ultimately affecting the existence of human
 
 "By 2025, at least 3.5 billion people, nearly 50% of the world’s population are projected to face water
@@ -839,16 +762,11 @@ scarcity." – IUCN. "Forests house approximately 50% of global bio-diversity an
 ecosystems. • It helps in indicating the damaged
 
 ecosystem (Some species indicate the health of the ecosystem: such species are called a **flagship species).**
-
-• It is used to recognize the inevitability of ecosystem change and plan accordingly.
-
-• It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
-
-• It is also helpful in identifying ecosystems which are in need of rehabilitation.
-
-• It involves collaborative management with government agencies, local population, communities and NGO’s.
-
-• It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
+- It is used to recognize the inevitability of ecosystem change and plan accordingly.
+- It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
+- It is also helpful in identifying ecosystems which are in need of rehabilitation.
+- It involves collaborative management with government agencies, local population, communities and NGO’s.
+- It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
 
 **Urban ecosystem restoration model** Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously. Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem. Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
 
@@ -859,12 +777,10 @@ ecosystem (Some species indicate the health of the ecosystem: such species are c
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-14-1.jpg "")
 
 ![](botany_xii_pages_149-177-ch-07-14-2.jpg "")
   
-
 
 
 it will be gradually covered by plant community again and become fertile. Such successive replacement of one type of plant community by the other of the same area/ place is known as plant succession. The first invaded plants in a barren area are called **pioneers**. On the other hand, a series of transitional developments of plant communities one after another in a given area are called **seral communities**. At the end a final stage and a final plant community gets established which are called as climax and climax community respectively.
@@ -882,20 +798,15 @@ c. Stabilizing causes - The stabilization of the plant community in an area is p
  • It is a systematic process which
 
 causes changes in specific structure of plant community.
-
-• It is resultant of changes of abiotic and biotic factors.
-
-• It transforms unstable community
+- It is resultant of changes of abiotic and biotic factors.
+- It transforms unstable community
 
 into a stable community. • Gradual progression in species diversity,
 
 total biomass, niche specialisation, and humus content of soil takes place.
-
-• It progresses from simple food chain to complex food web.
-
-• It modifies the lower and simple life form to the higher life forms.
-
-• It creates inter-dependence of plants and animals.
+- It progresses from simple food chain to complex food web.
+- It modifies the lower and simple life form to the higher life forms.
+- It creates inter-dependence of plants and animals.
 
 ### Types of succession
  The various types of succession have been classified in different ways on the basis of different aspects. These are as follows:
@@ -922,8 +833,7 @@ Intermediate Species
 
 Climax CommunityPioneer Species
 
-**Figure 7.17:** Diagrammatic representation of secondary succession
-
+![Diagrammatic representation of secondary succession]( "")
 
 
 
@@ -943,7 +853,6 @@ Climax CommunityPioneer Species
 
 ![](botany_xii_pages_149-177-ch-07-15-9.jpg "")
   
-
 
 
 Primary succession Secondary succession 1 Developing in an
@@ -1013,12 +922,7 @@ It occurs in the medium that is rich in inorganic substances .
 
 It occurs in the medium that is rich in organic substances.
 
-**Figure 7.18:** Types of succession
-
-
-
-  
-
+![Types of succession]( "")
 
 
 radiant energy, CO2, O2 and space, etc.
@@ -1083,11 +987,6 @@ community like blue green algae, green algae, diatoms, bacteria, etc., The colon
 **4\. Reed-swamp stage -** It is also called an amphibious stage. During this stage, rooted floating plants are replaced by plants which can live successfully in aquatic as well as aerial environment. Example: _Typha, Phragmites, Sagittaria_ and _Scirpus_ etc. At the end of this stage, water level is very much reduced, making it unsuitable for the continuous growth of amphibious plants.
 
 **5\. Marsh meadow stage -** When the pond becomes swallowed due to decreasing water level, species of Cyperaceae and Poaceae such as
-
-
-
-  
-
 
 
 _Carex, Juncus, Cyperus_ and _Eleocharis_ colonise the area. They form a mat-like vegetation with the help of their much branched root system. This leads to an absorption and loss of large quantity of water. At the end of this stage, the soil becomes dry and the marshy vegetation disappears gradually and leads to shurb stage.
@@ -1208,10 +1107,8 @@ ag e
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-18-1.jpg "")
   
-
 
 
 weathering of rock. Due to this continuous process, small particles of rocks are formed, which together with decaying lichen make the first thin layer of soil on rock surface. However, this process is very slow. At the end, this habitats become less fit for existing plants and is gradually replaced by another type of lichens called foliose lichen.
@@ -1306,10 +1203,8 @@ e
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-19-1.jpg "")
   
-
 
 
 shrubs further enrich the habitat with soil and humus. Therefore, the shrubs are replaced by trees which constitute the climax community.
@@ -1322,26 +1217,17 @@ Of the 6 stages of lithosere succession, stage 1 is occupied by pioneer communit
  • Succession is a dynamic process. Hence
 
 an ecologist can access and study the seral stages of a plant community found in a particular area.
-
-• The knowledge of ecological succession helps to understand the controlled growth of one or more species in a forest.
-
-• Utilizing the knowledge of succession, even dams can be protected by preventing siltation.
-
-• It gives information about the techniques to be used during reforestation and afforestation.
-
-• It helps in the maintenance of pastures.
-
-• Plant succession helps to maintain species diversity in an ecosystem.
-
-• Patterns of diversity during succession are influenced by resource availability and
+- The knowledge of ecological succession helps to understand the controlled growth of one or more species in a forest.
+- Utilizing the knowledge of succession, even dams can be protected by preventing siltation.
+- It gives information about the techniques to be used during reforestation and afforestation.
+- It helps in the maintenance of pastures.
+- Plant succession helps to maintain species diversity in an ecosystem.
+- Patterns of diversity during succession are influenced by resource availability and
 
 disturbance by various factors.
-
-• Primary succession involves the colonization of habitat of an area devoid of life.
-
-• Secondary succession involves the reestablishment of a plant community in disturbed area or habitat.
-
-• Forests and vegetation that we come across all over the world are the result of plant succession.
+- Primary succession involves the colonization of habitat of an area devoid of life.
+- Secondary succession involves the reestablishment of a plant community in disturbed area or habitat.
+- Forests and vegetation that we come across all over the world are the result of plant succession.
 
 ## Vegetation
  Vegetation refers to the plant cover of an area. Geographically, India is a tropical country and also has strong monsoon climate and differs from other tropical regions of the World. India has four major climatic regions such as wet zone, intermediate zone, dry zone and arid zone, These regions are characterized by different types of natural vegetation. Nature of vegetation is also determined by several factors like altitude, types of plants, animals, climate, soil type, etc. Vegetation in Indian sub-continent is influenced by biotic factors and the existing human culture for a long time. The influence of man on plant formation and distribution is called anthropogenic effect on vegetation.
@@ -1353,10 +1239,8 @@ Tamil Nadu has a rich biodiversity right from the Gulf of Mannar to Western Ghat
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-20-1.jpg "")
   
-
 
 
 Forest vegetation Grassland vegetation Riparian vegetation Aquatic and semi aquatic vegetation
@@ -1392,11 +1276,6 @@ These are found all along the sea coasts and river deltas. These areas have sand
 **b. Tidal or mangrove forests**
 
 Tidal forests grow near the estuaries, swampy margins of islands and along sea coasts. The plants are halophytes characterized by the presence of stilt roots, pneumatophores and viviparous germinations of seed. The common plants are _Rhizophora, Avicennia,_ and Sonneratia. These are found near sea coast,Gujarat, Ganges, delta regions of Mahanadhi, Godavari, Krishna, Sundarbans and Pulicat, Pichavaram, Ramanathapuram of Tamil Nadu.
-
-
-
-  
-
 
 
 **c. Fresh water swamp forests**
@@ -1451,7 +1330,7 @@ These forests are found at about 400 to 800 m MSL .These forests are found in th
 
 **FOREST TYPES OF INDIA Champion and Seth (1968)**
 
-**Figure 7.22:** Map showing forest types of India. Champion and Seth (1968)
+![Map showing forest types of India. Champion and Seth (1968)]( "")
 
 _Bauhinia_ and _Zizyphus._ Some common Climbers are _Combretum, Hiptage_: herbs like _Abutilon, Achyranthes_ and Tribulus.These are found in Andhra Pradesh, Punjab, Uttar Pradesh, Bihar, Orissa, Madhya Pradesh and also found in all districts of Tamil Nadu at lower elevations.
 
@@ -1617,14 +1496,12 @@ S
 
 **a le**
 
-**Figure 7.23:** Map showing forest types of Tamil Nadu.
-
+![Map showing forest types of Tamil Nadu.]( "")
 
 
 
 ![](botany_xii_pages_149-177-ch-07-23-1.jpg "")
   
-
 
 
 Punjab, most parts of Rajasthan and part of Gujarat and Thirunelveli in Tamil Nadu.
@@ -1674,11 +1551,6 @@ This type of vegetation is found in the Himalayas at an altitude ranging from 36
 **16.** **Dry alpine scrubs**.
 
 
-
-  
-
-
-
 Himalayan ranges, Nagaland, Himachal Pradesh and Western ghats.
 
 In Tamil Nadu ,these grasslands are found in higher regions of western ghats and are found between the sholas forest patches that occur in the depressions and furrows created by water courses flowing in these rolling downs are called as **rolling grassland** and also called **shola grassland. It shows different types of vegetation** like grasses, herbs, few shrubs and stunted trees.
@@ -1713,14 +1585,12 @@ In Tamil Nadu, these are found in the Eastern Ghats .These are scattered and int
 
 This type of grasslands are found in altitude above 1000 m.The common plants species are _Chrysopogon, A r u n d i n e l l a , Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca,_ and _Agrostis._. It is spread over the southern slopes of Himalayas, sub-
 
-**Figure 7.24:** Higher altitude grassland
-
+![Higher altitude grassland]( "")
 
 
 
 ![](botany_xii_pages_149-177-ch-07-25-1.jpg "")
   
-
 
 
 vegetation, Riparian vegetation, Aquatic and semi aquatic vegetation). According to Champion and Seth (1968), forest vegetation of India and Tamil Nadu has been classified in to 16 and 9 types respectively.
@@ -1751,10 +1621,8 @@ a) 2 – 8% b) 2 – 10%
 
 
 
-
 ![](botany_xii_pages_149-177-ch-07-26-1.jpg "")
   
-
 
 
 c) 3 – 10% d) 2 – 9% 7. Which of the following ecosystem has the
@@ -1824,11 +1692,6 @@ present in all type of ecosystem. Explain and write their significance.
 24\. Generally in summer the forest are affected by natural fire. Over a period of time it
 
 
-
-  
-
-
-
 recovers itself by the process of successions . Find out the types of succession and explain.
 
 25\. Draw a pyramid from following details and explain in brief.
@@ -1886,11 +1749,6 @@ Reed-swamp stage, phytoplankton stage, shrub stage, submerged plant stage, fores
 **Climax communities:** Final establishment of plant communities which are not replaced by others.
 
 
-
-  
-
-
-
 URL: **https://play.google.com/store/apps/details?id=com.ksolve. ecologyfree**
 
 **ICT Corner**
@@ -1904,7 +1762,6 @@ Let us know about the **Ecosystem** in detail through this activity.
 \* Pictures are indicative only
 
 **Step 3 Step 4Step 1 Step 2**
-
 
 
 

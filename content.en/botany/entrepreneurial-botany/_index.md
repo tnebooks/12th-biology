@@ -16,9 +16,7 @@ The land and water of the earth sustain a vast assemblage of plants upon which a
 
 
 
-
 **Learning Objectives**
-
 
 The learner will be able to Acquire knowledge about origin, area
 
@@ -44,12 +42,10 @@ medicinal plants.
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-1-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-1-2.jpg "")
   
-
 
 
 i. Greater adaptability and successful colonisation on every type of habitat.
@@ -70,12 +66,11 @@ Paddy is a semi-aquatic crop and is grown in standing water. It is an important 
 
 rice products such as **Flaked rice** (Aval), **Puffed rice** / **parched rice** (Pori) are used as breakfast cereal or as snack food in different parts of India. **Rice bran oil** obtained from the rice bran is used in culinary and industrial purposes. **Husks** are used as fuel, and in the manufacture of packing material and fertilizer.
 
-Rice Wheat Maize **Figure 10.1:** Major Cereals
+Rice Wheat Maize ![Major Cereals]( "")
 
 **International Rice Research Institute (IRRI)** International Rice Research Institute (IRRI) is located in Los Banos, Manila the capital city of
 
 Philippines. This is the only institute in the world which exclusively carries out research as on rice. IRRI aims to improve livelihoods and nutrition, abolishing poverty, hunger, and malnutrition. Whatever IR rice varieties available in the world are developed through rice breeding programme and released by IRRI. Till date IRRI has produced 843 rice varieties that have been released in 77 countries. IR8 is a high-yielding semi-dwarf rice variety developed by IRRI in the early 1960s and it is called as miracle rice, much celebrated for fighting famine. Another variety to mention is IR36 which is a semi-dwarf variety that proved highly resistant to a number of insect pests and diseases that raised farmers’ rice yields and brought down the prices of the staple food in Asian families. The International Rice Gene bank of IRRI has a collection of more than 117 000 types of rice, comprising of modern and traditional varieties including wild relatives of Paddy.
-
 
 
 
@@ -85,7 +80,6 @@ Philippines. This is the only institute in the world which exclusively carries o
 
 ![](botany_xii_pages_216-269-ch-10-2-3.jpg "")
   
-
 
 
 **Wheat** Botanical name : _Triticum aestivum_
@@ -125,12 +119,10 @@ most part of the grain surrounded by thin layer of hard endosperm. When heated, 
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-3-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-3-2.jpg "")
   
-
 
 
 **Finger Millet – Ragi** Botanical name : _Eleusine coracana_ Finger millet is the crop of early introduction from East Africa into India. Ragi is rich in calcium. **Uses** It is used as a staple food in many southern hilly regions of India. Ragi grains are made into porridge and gruel. Ragi malt is the popular nutrient drink. It is used as a source of fermented beverages.
@@ -149,10 +141,9 @@ most part of the grain surrounded by thin layer of hard endosperm. When heated, 
 ### Pulses
  The word Pulse is derived from the Latin words ‘puls’ or ‘pultis’ meaning “thick soup”. Pulses are the edible seeds that are harvested from the fruits of Fabaceae. They provide vital source of plant-based protein, vitamins and minerals for people around the globe.
 
-Pearl Millet Finger Millet Sorghum **Figure 10.2:** Millets
+Pearl Millet Finger Millet Sorghum ![Millets]( "")
 
-Little Millet Foxtail Millet Kodo Millet **Figure 10.3:** Minor Millets
-
+Little Millet Foxtail Millet Kodo Millet ![Minor Millets]( "")
 
 
 
@@ -168,7 +159,6 @@ Little Millet Foxtail Millet Kodo Millet **Figure 10.3:** Minor Millets
 
 ![](botany_xii_pages_216-269-ch-10-4-6.jpg "")
   
-
 
 
 **Black gram** Botanical name : _Vigna mungo_ **Origin and Area of cultivation** Black gram is native to India. Earliest archeobotanical evidences record the presence of black gram about 3,500 years ago. It is cultivated as a rain fed crop in drier parts of India. India contributes to 80% of the global production of black gram. Important states growing black gram in India are Uttar Pradesh, Chattisgarh and Karnataka.
@@ -190,8 +180,7 @@ Little Millet Foxtail Millet Kodo Millet **Figure 10.3:** Minor Millets
 
 Vegetables are the important part of healthy eating and provide many nutrients, including potassium, fiber, folic acid and vitamins A, E and C. The nutrients in vegetables are vital for maintenance of our health.
 
-**Figure 10.4:** Pulses Black gram Sprouted green gram Red gram Chick pea
-
+![Pulses Black gram Sprouted green gram Red gram Chick pea]( "")
 
 
 
@@ -201,7 +190,6 @@ Vegetables are the important part of healthy eating and provide many nutrients, 
 
 ![](botany_xii_pages_216-269-ch-10-5-3.jpg "")
   
-
 
 
 **Potato** Botanical name : _Solanum tuberosum_ Family: Solanaceae
@@ -231,14 +219,12 @@ three thousand years. Cucumber is commonly cultivated throughout India.
 
 **Uses** Mango is the major table fruit of India, which is rich in beta carotenes. It is utilized in many ways, as dessert, canned, dried and preserves in Indian cuisine. Sour, unripe mangoes are used in chutneys, pickles, side dishes, or may be eaten raw with salt and chili. Mango pulp is
 
-**Figure 10.5:** Mango
-
+![Mango]( "")
 
 
 
 ![](botany_xii_pages_216-269-ch-10-6-1.jpg "")
   
-
 
 
 made into jelly. Aerated and non-aerated fruit juice is a popular soft drink.
@@ -264,9 +250,9 @@ areas of Tamil Nadu are Cuddalore, Kanyakumari, Dindigul, Pudukottai, Namakkal, 
 
 **Uses** Cashews are commonly used for garnishing sweets or curries, or ground into a paste that forms a base of sauces for curries or some sweets. Roasted and raw kernels are used as snacks.
 
-**Figure 10.6:** Banana
+![Banana]( "")
 
-**Figure 10.7:** Jackfruit
+![Jackfruit]( "")
 
 **Table 10.1 : Other common fruits S.No Common**
 
@@ -284,15 +270,13 @@ areas of Tamil Nadu are Cuddalore, Kanyakumari, Dindigul, Pudukottai, Namakkal, 
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-7-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-7-2.jpg "")
   
 
 
-
-**Figure 10.8:** Nuts
+![Nuts]( "")
 
 Cashew Almond
 
@@ -315,8 +299,7 @@ Sugarcane products Stevia leaves
 
 Palmyra tree and Palm Jaggery
 
-**Figure 10.9:** Sugars
-
+![Sugars]( "")
 
 
 
@@ -332,7 +315,6 @@ Palmyra tree and Palm Jaggery
 
 ![](botany_xii_pages_216-269-ch-10-8-7.jpg "")
   
-
 
 
 Let us know about few oil seeds **Groundnut / Peanut** Botanical name : _Arachis hypogaea_ Family : Fabaceae **Origin and Area of Cultivation:** Groundnut is native of Brazil. Portuguese introduced groundnut into Africa. The Spanish took it to the South East Asia and India via Philippines. In India Gujarat, Andhra Pradesh and Rajasthan are top producers. **Uses** Nuts contain about 45% oil. The kernels are also rich sources of phosphorous and vitamins, particularly thiamine, riboflavin and niacin. It is premium cooking oil because it does not smoke. Lower grade oil is used in manufacture of soaps and lubricants.
@@ -378,10 +360,8 @@ Gingelly oil and Rice bran oil are mixture of MUFA and PUFA
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-9-1.jpg "")
   
-
 
 
 Why does a student or a driver prefer tea or coffee during night work? **Origin and Area of cultivation: Cof﻿fea arabica** is the prime source of commercial coffee which is native to the tropical Ethiopia An Indian Muslim saint, Baba Budan introduced coffee from Yemen to Mysore.Karnataka is the largest coffee producing state in India followed by Tamil Nadu and Kerala. Tamil Nadu is the largest consumer of coffee in India. **Uses** Drinking coffee in moderation provides the following health benefits:
@@ -397,10 +377,9 @@ Caffeine enhances release of acetylcholine in brain, which in turn enhances effi
 
 **Coffee** Botanical name : Cof﻿fea arabica Family : Rubiaceae
 
-Groundnut Sesame Coconut **Figure 10.10:** Oil Seeds
+Groundnut Sesame Coconut ![Oil Seeds]( "")
 
-Tea plantation Coffee Cocoa **Figure 10.11:** Beverages
-
+Tea plantation Coffee Cocoa ![Beverages]( "")
 
 
 
@@ -416,7 +395,6 @@ Tea plantation Coffee Cocoa **Figure 10.11:** Beverages
 
 ![](botany_xii_pages_216-269-ch-10-10-6.jpg "")
   
-
 
 
 **Uses** The seeds have a pleasing aroma and a characteristic warm, slightly pungent taste. It is used for flavouring confectionaries, bakery products and beverages. The seeds are used in the preparation of curry powder, pickles and cakes. Medicinally, it is employed as a stimulant and carminative. It is also chewed as a mouth freshener.
@@ -442,8 +420,7 @@ The following spices and condiment are discussed in detail.
 
 Cardamom Turmeric ChilliesBlack Pepper
 
-**Figure 10.12:** Spices
-
+![Spices]( "")
 
 
 
@@ -455,7 +432,6 @@ Cardamom Turmeric ChilliesBlack Pepper
 
 ![](botany_xii_pages_216-269-ch-10-11-4.jpg "")
   
-
 
 
 turmeric. Erode in Tamil Nadu is the World’s largest wholesale turmeric market. **Uses** Turmeric is one of the most important and ancient Indian spices and used traditionally over thousands of years for culinary, cosmetic, dyeing and for medicinal purposes. It is an important constituent of curry powders. Turmeric is used as a colouring agent in pharmacy, confectionery and food industry. Rice coloured with turmeric (yellow) is considered sacred and auspicious which is used in ceremonies. It is also used for dyeing leather, fibre, paper and toys.
@@ -472,7 +448,7 @@ Capsaicin is responsible for the pungency or spicy taste of chillies. Pungency o
 
 **Condiment Tamarind** Botanical name :_Tamarindus indica_ Family : Fabaceae-Caesalpinioideae **Origin and Area of cultivation:** Tamarind is native of tropical African region and was introduced into India several thousand years before. It is cultivated in India, Myanmar, south asian countries and several African and Central American countries.
 
-**Figure 10.13 :** Tamarind
+![Tamarind]( "")
 
 **Table 10.2 : Other common spices and condiments**
 
@@ -492,10 +468,8 @@ Capsaicin is responsible for the pungency or spicy taste of chillies. Pungency o
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-12-1.jpg "")
   
-
 
 
 Tamarind has long been used in Africa and in Southern Asia. The name tamarindus is of Arabian origin, which means “dates of India”. (tamar – dates; Indus – India). **Uses** It is used in flavouring sauces in the United States and Mexico. In India, the fruit pulp is major ingredients for many culinary preparations. Sweet tamarinds are sold as table fruits in India imported from Thailand and Malaysia.
@@ -532,11 +506,6 @@ Silk cotton, Calotropis.
 **Jute** Botanical name : _Corchorus_ spp. Family : Malvaceae **Origin and Area of cultivation:** Jute is derived from the two cultivated species (1) _Corchorus capsularis_ and (2) _C.olitorius_ is of African origin whereas _C. capsularis,_ is believed to be Indo-Burmese origin. It is an important cultivated commercial crop in Gangetic plains of India and Bangladesh. **Uses** It is one of the largest exported fibre material of India. The jute industry occupies an important place in the national economy of India. Jute is used for ‘safe’ packaging in view of being natural, renewable, bio-degradable and eco-friendly product. It is used in bagging and wrapping textile. About 75% of the jute produced is used for manufacturing sacks and bags. It is also used in manufacture of blankets, rags, curtains etc. It is also being used as a textile fibre in recent years.
 
 
-
-  
-
-
-
 **Origin and Area of cultivation: This is native** to South east Asia. It is observed wild in Assam. But cultivated in Bengal, Assam, Kerala, Tamil Nadu and North-West India. **Uses** It is one of best timbers of the world. The heartwood is golden yellow to golden brown when freshly sawn, turning darker when exposed to light. Known for its durability as it is immune to the attack of termites and fungi.
 
 The wood does not split or crack and is a carpenter friendly wood. It was the chief railway carriage and wagon wood in India. Ship building and bridge-building depends on teakwood. It is also used in making boats, toys, plywood, door frames and doors.
@@ -550,12 +519,11 @@ The wood does not split or crack and is a carpenter friendly wood. It was the ch
 
 **Teak** Botanical name : _Tectona grandis_ Family: Lamiaceae
 
-**Figure 10.15:** Timber
+![Timber]( "")
 
 RosewoodTeak wood carving
 
-Cotton plant Jute products Coconut coir **Figure 10.14:** Fibres
-
+Cotton plant Jute products Coconut coir ![Fibres]( "")
 
 
 ![](botany_xii_pages_216-269-ch-10-14-1.jpg "")
@@ -568,7 +536,6 @@ Cotton plant Jute products Coconut coir **Figure 10.14:** Fibres
 
 ![](botany_xii_pages_216-269-ch-10-14-5.jpg "")
   
-
 
 
 **Ebony** Botanical name : _Diospyros ebenum_ Family: Ebenaceae **Origin and Area of cultivation:** It is commonly found in tropical forests Southern India and Srilanka. Ebony is distributed in forests of Karnataka, Kerala and Tamil Nadu. **Uses** The heartwood is jet black with a metallic lustre when smoothened and is resistant to attack by insects and fungi. The wood is difficult to season and hence cut into small pieces before seasoning It is used mainly for making piano keys, handles of cutlery, musical instruments, making sticks, umbrella handles, whips and furniture.
@@ -589,10 +556,9 @@ Purified dissolving pulp is used as a basic material in the manufacture of rayon
 
 transparent films (cellophane, cellulose acetate films), plastics. The viscose process of making rayon is the most common process.
 
-**Figure 10.16 :** Rubber Tree
+![Rubber Tree]( "")
 
-**Figure 10.17 :** Wood pulp
-
+![Wood pulp]( "")
 
 ![](botany_xii_pages_216-269-ch-10-15-1.jpg "")
 
@@ -617,10 +583,9 @@ The earliest authentic records of dyeing were found in the tomb painting of anci
 
 **Henna** Botanical name : _Lawsonia inermis_ Family : Lythraceae **Origin and Area of cultivation:** It is indigenous to North Africa and South-west Asia. It is grown mostly throughout India, especially in Gujarat, Madya Pradesh and Rajasthan.
 
-**Figure 10.18:** Naturals Dyes
+![Naturals Dyes]( "")
 
 Indigo dye Henna dye
-
 
 
 
@@ -629,8 +594,6 @@ Indigo dye Henna dye
 ![](botany_xii_pages_216-269-ch-10-16-2.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-16-3.jpg "")
-
-
 
 
 
@@ -651,8 +614,7 @@ Jasmine blends well with other perfumes. It is much used in modern perfumery and
 
 because of its uniqueness and has been given the Geographical Indications (GI) mark by the Geographical indication Registry of India. Madurai malli has thick petals with long stalk equal to that of petals and the distinct fragrance is due to the presence of chemicals such as jasmine and alpha terpineol. This makes it easy to distinguish Madurai Malli from other places. This is the second GI tag for Jasmine after ‘Mysore Malli’.
 
-**Figure 10.19:** _Aloe vera_
-
+![_Aloe vera_]( "")
 
 
 
@@ -660,7 +622,6 @@ because of its uniqueness and has been given the Geographical Indications (GI) m
 
 ![](botany_xii_pages_216-269-ch-10-17-2.jpg "")
   
-
 
 
 being the highest when distilled from roots (10% of the dry weight). **Uses** Sandalwood oil is a valuable fixative for other fragrances due to the excellent blending properties. More than 90% of the oil is used in the manufacture of scented soaps, talcum powder, face powder, creams, hair oils, hand lotions as well as in perfumery and pharmaceutical industries.
@@ -676,8 +637,7 @@ Rose water (panneer) containing much of phenylethyl alcohol and other compounds 
 
 **Sandalwood** Botanical name : _Santalum album_ Family: Santalaceae **Origin and Area of cultivation:** Sandal tree is native of South East Asia. Karnataka and Tamil Nadu are states that possess large natural populations of Santalum album in India. The heart-wood is scented due to the presence of santalol, from which oil is extracted. The oil yield from a wood chips, varies from 4-5%
 
-Jasmine Rose Sandal **Figure 10.20:** Perfumes
-
+Jasmine Rose Sandal ![Perfumes]( "")
 
 
 
@@ -687,7 +647,6 @@ Jasmine Rose Sandal **Figure 10.20:** Perfumes
 
 ![](botany_xii_pages_216-269-ch-10-18-3.jpg "")
   
-
 
 
 Siddhars. There are different opinions on the constitution of 18 Siddhars. The Siddhars are not only from Tamil Nadu, but have also come from other countries. The entire knowledge is documented in the form of poems in Tamil. Siddha is principally based on the **Pancabūta** philosophy. According to this system three humors namely **Vātam,** **Pittam** and **Kapam** that are responsible for the health of human beings and any disturbance in the equilibrium of these humors result in ill health. The drug sources of Siddha include plants, animal parts, marine products and minerals. This system specializes in using minerals for preparing drugs with the long shelf-life. This system uses about 800 herbs as source of drugs. Great stress is laid on disease prevention, health promotion, rejuvenation and cure.
@@ -708,11 +667,6 @@ Medicinal plants play a significant role in providing primary health care servic
 **Origin and Area of cultivation: The plant is** a native of Tropical American region and is naturalised in India and other tropical countries. It is not cultivated and is collected from moist
 
 
-
-  
-
-
-
 places in plains. _Phyllanthus maderspatensis_ is also commonly sold in the medicinal plant markets collected from non-forest are as keezhanelli. **Active principle:** Phyllanthin is the major chemical component. **Medicinal importance** _Phyllanthus_ is a well-known hepato-protective plant generally used in Tamil Nadu for the treatment of Jaundice. Research carried out by Dr. S P Thyagarajan and his team from University of Madras has scientifically proved that the extract of P. amarus is effective against hepatitis B virus.
 
 **Adathodai** Botanical name : _Justicia adhatoda_ Family: Acanthaceae **Origin and Area of cultivation:** It is native to India and Srilanka. This species is not known in wild in Tamil Nadu but widely cultivated as
@@ -721,7 +675,7 @@ a live fence and around temples. **Active principle:** Vascin **Uses** Adhatoda 
 
 **Nilavembu** Botanical name : _Andrographis paniculata_ Family : Acanthaceae _Andrographis paniculata,_ known as the **King of Bitters** is traditionally used in Indian systems of medicines. **Active principle:** Andrographolides. **Medicinal importance:** Andrographis is a **potent hepatoprotective** and is widely used to treat liver disorders.
 
-_Phyllanthus amarus Andrographis paniculata Curcuma longaJusticia adhatoda_ **Figure 10.21:** Medicinal Plants
+_Phyllanthus amarus Andrographis paniculata Curcuma longaJusticia adhatoda_ ![Medicinal Plants]( "")
 
 **Table 4: Other common Medicinal plants S.**
 
@@ -763,7 +717,6 @@ Paste obtained from the powdered stem and root of this plant is used in bone fra
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-20-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-20-2.jpg "")
@@ -772,7 +725,6 @@ Paste obtained from the powdered stem and root of this plant is used in bone fra
 
 ![](botany_xii_pages_216-269-ch-10-20-4.jpg "")
   
-
 
 
 Concoction of _Andrographis paniculata_ and eight other herbs (Nilavembu Kudineer) is effectively used to treat malaria and dengue.
@@ -798,11 +750,6 @@ The active principle in Marijuana is **trans-tetrahydrocanabinal** (THC). It pos
 for wound healing property of Turmeric in 1995. The patent was granted both for oral and topical applications and provides an exclusive right to sell and distribute. Since the use of turmeric to heal wounds is a common domain knowledge in India, the Government of India has decided to fight against the patent through the Indian Council for Scientific and Industrial Research (CSIR). CSIR collected documentary evidences from various literature to prove that the knowledge on wound healing property of turmeric existed in India for a long time and provided the evidences to the United States Patent and Trade mark Office (USPTO). Based on the evidences the patent was revoked by USPTO. Hence the traditional knowledge (TK) on turmeric was safeguarded from Bio piracy.
 
 
-
-  
-
-
-
 reducing nausea of cancer patients undergoing radiation and chemotherapy. THC provides relief to bronchial disorders, especially asthma as it dilates bronchial vessels. Because of these medicinal properties, cultivation of cannabis is legalized in some countries. However, prolonged use causes addiction and has an effect on individual’s health and society. Hence most of the countries have banned its cultivation and use.
 
 **Narcotics Control Bureau (NCB)** Drugs come in various forms and can be taken
@@ -818,24 +765,17 @@ much-needed training for the students. This part of chapter is aimed to help the
  Malnutrition caused by the lack of adequate protein and other nutrients in daily diet of people is becoming a major health hazard in developing countries. Under such circumstances, mushroom being a rich source of protein and other nutrients can be a part and parcel of every day’s food. Mushrooms are the **fruiting body** of edible fungi and is the most priced commodity among vegetables, not only because of its nutritive value but also for its characteristic aroma and flavor. M u s h r o o m s are also called **white vegetable**. M u s h r o o m cultivation has great scope in India and in other developing c o u n t r i e s . M u s h r o o m c u l t i v a t i o n activities can play an important role in supporting the local economy. Selling mushroom in a local market form a source of additional income to the family. **Steps involved in mushroom cultivation** • The straw used for composting should
 
 be ripe and golden-yellow in colour. It should be cut into 2-4 inches and properly sterilized.
+- The culture space should be clean and the ventilators and windows should be covered with fine wire mesh to prevent the entry of flies and birds.
 
-• The culture space should be clean and the ventilators and windows should be covered with fine wire mesh to prevent the entry of flies and birds.
-
-**Figure 10.22:** Mushroom Cultivation
+![Mushroom Cultivation]( "")
 
 ![](botany_xii_pages_216-269-ch-10-22-2.jpg "")
-
-• The culture space should be sprayed with 0.1% Nuvan and 5% Formalin, two days prior to spawning and transferring to bags to cropping rooms.
-
-• The spawn used for mushroom should be free from contaminations. Bags should be filled with 8 kg of wet straw.
-
-• During spawning running temperature and relative humidity should be maintained 200C to 300C, 75 to 85% respectively.
-
-• Proper watering should be done when the growth coverings are removed. There should not be dry patches on blocks. Excess watering must be avoided.
-
-• About 20 cm gap should be maintained in between two bags or blocks.
-
-• Picking must be done as their caps become 10 – 12 cm by twisting.
+- The culture space should be sprayed with 0.1% Nuvan and 5% Formalin, two days prior to spawning and transferring to bags to cropping rooms.
+- The spawn used for mushroom should be free from contaminations. Bags should be filled with 8 kg of wet straw.
+- During spawning running temperature and relative humidity should be maintained 200C to 300C, 75 to 85% respectively.
+- Proper watering should be done when the growth coverings are removed. There should not be dry patches on blocks. Excess watering must be avoided.
+- About 20 cm gap should be maintained in between two bags or blocks.
+- Picking must be done as their caps become 10 – 12 cm by twisting.
 
 Two kinds of mushrooms are cultivated namely **button** and **oyster**.
 
@@ -843,52 +783,39 @@ Two kinds of mushrooms are cultivated namely **button** and **oyster**.
 
 Single-cell proteins are the dried cells of microorganism, which are used as protein supplement in human foods or animal feeds. Microorganisms that can be used for the production of SCP have the capacity to synthesize proteins rapidly than higher living organisms. Microorganisms like algae, fungi, yeast and bacteria are used for this purpose. Here you will learn about the production of SCP from an algae, _Spirulina_.
 
-**Figure 10.23:** Production of _Spirulina_
+![Production of _Spirulina_]( "")
 
 **Small scale biomass production of _Spirulina_.**
 
 It requires an aquarium, air pump, nutrients and _Spirulina_ mother culture.
-
-• Take a 30 litre capacity aquarium and fill half of it with water.
-
-• Check if any heavy metal concentration or fluorine or calcium carbonate in water.
-
-• Fill the tank with water and add nutrients preferably **zarrouk medium**. (Add half of the required nutrients first and add another half later).
-
-• To aerate the culture, fix the air pump (avoid centrifugal pump) after adding nutrients.
-
-• Add the mother culture to the aquarium. For every 1 liter of water add 4 gm. mother culture.
-
-• Place it in sunlight for 10-12 hrs. every day. • After a week check the culture and add more
+- Take a 30 litre capacity aquarium and fill half of it with water.
+- Check if any heavy metal concentration or fluorine or calcium carbonate in water.
+- Fill the tank with water and add nutrients preferably **zarrouk medium**. (Add half of the required nutrients first and add another half later).
+- To aerate the culture, fix the air pump (avoid centrifugal pump) after adding nutrients.
+- Add the mother culture to the aquarium. For every 1 liter of water add 4 gm. mother culture.
+- Place it in sunlight for 10-12 hrs. every day. • After a week check the culture and add more
 
 water leave it for one more week, till the biomass becomes dark green.
-
-• Use a very fine cloth and harvest the algae. • Water can be reused in aquarium. • Dry the algae for later use.
+- Use a very fine cloth and harvest the algae. • Water can be reused in aquarium. • Dry the algae for later use.
 
 Single cell protein has a high nutritive value due to higher protein, vitamin, essential amino acids and lipid content. Hence it can form a good protein supplement. However it cannot completely replace the conventional protein sources due to their high nucleic acid content and slower in digestibility. They may result in allergic reactions.
 
 ### Seaweed Liquid Fertilizer
  Seaweed is rich in trace elements and potassium, which makes it ideal to add to compost in its raw state, to work in as a mulch, or to create a liquid fertilizer. This is easy to do. Seaweed fertilizer releases about 60 nutrients from which plants can benefit.
-
-• Collect the seaweed that is not too stinky.
-
-• Rinse the seaweed to remove the excess salt.
-
-• Fill a bucket to three quarters way with
+- Collect the seaweed that is not too stinky.
+- Rinse the seaweed to remove the excess salt.
+- Fill a bucket to three quarters way with
 
 ![](botany_xii_pages_216-269-ch-10-23-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-23-2.jpg "")
 
 water. Add as much seaweed as will fit and leave to soak.
-
-• Stir the seaweed mix every two to four days. • Allow to soak for several weeks to months.
+- Stir the seaweed mix every two to four days. • Allow to soak for several weeks to months.
 
 So that the fertilizer grows stronger and stronger over time. (Make sure to keep the brew somewhere so that its odour will not affect the daily household.)
-
-• It is ready for use once it no longer carries a smell of ammonium.
-
-• When it is ready, use as a fertilizer for plants and garden beds (soil). (It should be diluted with water at a minimum of three parts to one).
+- It is ready for use once it no longer carries a smell of ammonium.
+- When it is ready, use as a fertilizer for plants and garden beds (soil). (It should be diluted with water at a minimum of three parts to one).
 
 Liquid seaweed extract enhances healthy growth of plants, flowers and vegetables. Regular use will help plants to withstand environmental stress, pests and disease attack. It can be used as a foliar spray for fruit, flower, vegetable crops as well as for shrubs and trees. It stimulates healthy growth for all plants.
 
@@ -914,15 +841,11 @@ Pour the solution into a glass container and leave it undisturbed for 24 hours. 
 **Preparation of Organic Pesticide**
 
 
-
 ## 7
-
 
 ## 4
 
-
-**Figure 10.24:** Preparation of organic pesticide
-
+![Preparation of organic pesticide]( "")
 
 
 
@@ -936,7 +859,6 @@ Pour the solution into a glass container and leave it undisturbed for 24 hours. 
 
 ![](botany_xii_pages_216-269-ch-10-24-7.jpg "")
   
-
 
 
 Use of biofertilizers is one of the important components of integrated organic farm management, as they are cost effective and renewable source of plant nutrients to supplement the chemical fertilizers for sustainable agriculture. Several microorganisms and their association with crop plants are being exploited in the production of biofertilizers. Organic farming is thus considered as the movement directed towards the philosophy of **Back to Nature.**
@@ -954,14 +876,11 @@ Refer figure: 10.24
 the leaves finely. • The chopped up leaves were put in a 50-liter
 
 container and fill to half with water; put the lid on and leave it for 3 days to brew.
-
-• Using another container, strain the mixture which has brewed for 3 days to remove the leaves, through fine mesh sieve. The filtrate can be sprayed on the plants to repel pests.
-
-• To make sure that the pest repellent sticks to the plants, add 100 ml of cooking oil and the same amount of soap water. (The role of
+- Using another container, strain the mixture which has brewed for 3 days to remove the leaves, through fine mesh sieve. The filtrate can be sprayed on the plants to repel pests.
+- To make sure that the pest repellent sticks to the plants, add 100 ml of cooking oil and the same amount of soap water. (The role of
 
 the soap water is to break down the oil, and the role of the oil is to make it stick to the leaves).
-
-• The stewed leaves from the mixture can be used in the compost heap or around the base of the plants.
+- The stewed leaves from the mixture can be used in the compost heap or around the base of the plants.
 
 Activity
 
@@ -977,19 +896,8 @@ Dig a hole and tuck plant root inside
 
 Cover the soil ball with mass sheet
 
-
-
-
-
-
-
-
-
-
-
 ### Terrarium Can portable miniature indoor greenery be commercially sold?
  A terrarium is a collection of small plants growing in a transparent, sealed container. Terrariums are easy to make, low maintenance gardens, and it can survie indefinitely with minimal water. **How to make a terrarium? Prepare the Container**: Collect whatever interesting glassware you have or source your container from a store and clean it thoroughly. Plan how to arrange the plants inside the glassware.
-
 
 
 
@@ -1019,12 +927,11 @@ Cover the soil ball with mass sheet
   
 
 
-
 **Add Drainage Layers**: To create a false drainage layer, fill the bottom with pebbles so that water can settle and does not flood. The depth of the pebbles depends on the size of the container. **Add the Activated Charcoal**: Cover the pebbles with charcoal to improve the quality of the terraria by reducing bacteria, fungi and odors. **Add Soil**: Add enough soil so that the plant roots will have enough space to fit and grow. **Plant**: Select the desired plant such as_, Caralluma spp, Asperagus spp, Portulaca spp, Begonia spp,_ and _Chlorophytum spp_; trim the roots if they are too long. Dig a pit using a stick, and place the plants’ roots in it. Add more soil around the top
 
 and compact the soil down around the base of the plant. Place little plants in the container and try to keep them away from the edges of the container, so that the leaves do not touch the sides. After planting add accessories like a layer of moss (dried or living), little figurines (old toys, glass beads, stones) or a layer of miniature rocks. This is the little green world **Cleaning and Watering**: Wipe if there is any dirt along the sides of the container. Give the terrarium a little bit of water and enjoy the beautiful miniature living world on your table or in your living room. Ready made terrariums can fetch a good price as indoor garden objects or as gift articles.
 
-**Figure 10.25:** Terrarium
+![Terrarium]( "")
 
 Sand
 
@@ -1055,15 +962,6 @@ After re-potting leave the plant in a semi shaded area until the roots have re-e
 Plug out the sapling and clean and prune the roots.
 
 **How do you make a Bonsai tree?**
-
-
-
-
-
-
-
-
-
 
 ![](botany_xii_pages_216-269-ch-10-26-3.jpg "")
 
@@ -1117,25 +1015,20 @@ Plug out the sapling and clean and prune the roots.
   
 
 
-
 ### Cultivation of Medicinal and Aromatic Plants
  Globalization has brought opportunities and challenges in all business sectors. Government of India has identified medicinal and aromatic plants as one of the sectors that can make India a global leader in the 21st century owing to the treasure of about **8,000** medicinal and **2,500** aromatic plants that can provide large number of consumer products with national and international demand. Medicinal plants synthesize a number of secondary metabolites with pharmacological properties through secondary metabolism. The chemicals isolated from medicinal plants are used in traditional and biomedicine systems to treat diseases of both humans and animals. But most of the medicinal and aromatic plants are still wild collecting.
 
 Central Institute of Medicinal and Aromatic Plants (CIMAP) has developed a number of high yielding varieties and processing technologies to promote cultivation of medicinal and aromatic plants. Profitable cultivation of medicinal plants can be practiced by the entrepreneurs along with traditional agriculture horticulture crops. They can be profitably intercropped in plantations. Cultivation of medicinal/aromatic plants offers following advantages:
-
-• Generate employment through development of ancillary industries.
-
-• Foreign exchange earnings through exports.
-
-• Crops are not damaged by domestic animals or by birds.
-
-• Technologies are farmer and eco-friendly.
+- Generate employment through development of ancillary industries.
+- Foreign exchange earnings through exports.
+- Crops are not damaged by domestic animals or by birds.
+- Technologies are farmer and eco-friendly.
 
 **I. Cultivation of Medicinal Plant - _Gloriosa superba_**
 
 **Economically useful part** – Seed, Rhizome. **Major constituents -** Colchicine (0.5-0.7%) and Colchicoside **Uses - Cures gout, anti-inflammatory,** anticancer.
 
-**Figure 10.26:** _Gloriosa superba_ **Soil and Climate:** Red loamy soils are well suited for cultivation. Glory lily is cultivated in Tamil Nadu mainly in the parts of Tirupur, Dindigul, Karur and Salem districts covering an area of 2000 hectare. **Planting**: Planting is distributed from June – July. Plough the field 2 -3 times and add 10 tons of Farmyard Manure during last ploughing. Trenches of 30 cm depth are formed and tubers are planted at 30 – 45 cm spacing. The vines are trained over support. **Irrigation:** Irrigation should be given immediately after planting. Subsequent irrigation is given at 5 days intervals of time. **Harvest:** Pods are harvested at 160 – 180 days.
+![Pods are harvested at 160 – 180 days.]( "")
 
 **National Medicinal Plants Board (NMPB)**
 
@@ -1143,17 +1036,15 @@ Government of India has set up National Medicinal Plants Board (NMPB) on 24th No
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-27-1.jpg "")
   
-
 
 
 **II. Cultivation of Aromatic plant - _Cymbopogon citratus_(Lemongrass)**
 
 Lemongrass is a tropical herb packed with strong citrus flavor. The lemon taste is prized in Asian cooking, as well as in tea, sauces, and soups.
 
-**Figure 10.27:** Lemon grass **Economic part:** Stem base and leaves. **Major constituents:** Citronella, geraniol and citronellol. Uses: The aromatic oil has flavouring properties and is used in perfumery, cosmetics, confectionary, beverages, mosquito repellents and toilet cleaners. **Soil and Climate:** Lemongrass grow well in
+![Lemongrass grow well in]( "")
 
 full sun, with plenty of water, in a rich, well- draining soil. **Planting: This plant can thrive well all through** the year. Fill planting holes with composted manure to improve fertility and enhance the soil’s ability to hold water. If you’re adding several lemongrass plants to planting beds, space plants 60 cm apart. **Irrigation:** Water requirements for this plant will vary dependent upon the type of soil they grow. Sandy, loose soils require more frequent watering than silty loam. **Harvest:** Start harvesting as soon as plants are 30 cm tall and stem bases are at least 1.5 cm thick. Cut stalks at ground level.
 
@@ -1169,10 +1060,8 @@ Botanically a fibre is a long, narrow, thick walled cell. It is classified based
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-28-1.jpg "")
   
-
 
 
 filling fibres. Cotton, Jute and Coconut are fibre yielding plants. Teak, Rosewood, and Ebony are woods used for making furniture. Rubber is produced from the latex of Hevea brasiliensis. Paper production is a Chinese invention. Dyes have been used since ancient times. Indigo was extracted from the leaves of Indigofera. The orange dye henna is from the leaves of Lawsonia. Cosmetics have a high commercial value and have become chemical based industrial products. Perfumes are volatile and aromatic in nature, manufactured from essential oils which are found at different parts of the plant. Medicinal plants serve as therapeutic agents. Medicinally useful molecules obtained from these plants are marketed as drugs are called Biomedicines. Whereas phytochemicals from some of the plants which alter an individual’s perceptions of mind by producing hallucination are known as psychoactive drugs. Thus plantsplay a vital role in the lives of people throughout the world. Entrepreneurial Botany is the study of how new businesses are created using plant resources as well as the actual process of starting a new business. Mushrooms are the fruiting body of edible fungi and is the most priced commodity among vegetables.
@@ -1211,10 +1100,8 @@ correct explanation for assertion.
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-29-1.jpg "")
   
-
 
 
 7\. _Tamarindus indica_ is indigenous to
@@ -1272,11 +1159,6 @@ fertilizer will help plants to withstand environmental stress.
 iv. SCP can completely replace the conventional protein sources.
 
 A. (i) and (ii), B. (i) and (iii), C. (i) and (iv), D. (i) alone
-
-
-
-  
-
 
 
 19\. Select the incorrect pair/pairs of statements about single cell protein
@@ -1344,11 +1226,6 @@ culturally accepted in Tamil Nadu? - explain.
 Explain about them and their uses.
 
 
-
-  
-
-
-
 51\. How will you prepare an organic pesticide for your home garden with the vegetables available from your kitchen?
 
 52\. What will you do if you want to make a portable indoor greenery?
@@ -1398,11 +1275,6 @@ Explain about them and their uses.
 **Seasoning: The processing of food with spices** and condiments to enhance the flavour.
 
 
-
-  
-
-
-
 URL: **https://play.google.com/store/apps/details?id=com.criyagen**
 
 URL: **https://play.google.com/store/apps/details?id=com.agribook.venkatmc.agri**
@@ -1420,8 +1292,7 @@ sugarcane. • Click on Horticulture it will display the approaches to cultivate
 like tea, coffee. • Click on Organic Farming it will explain the Traditional method of farming and
 
 Traditional Fertilizers.
-
-• Click on Forestry it will explain the gardening methods about plants.
+- Click on Forestry it will explain the gardening methods about plants.
 
 Let us know about the agriculture in detail through this activity
 
@@ -1447,7 +1318,6 @@ Let us know about the Agri book in detail through this activity.
 
 
 
-
 ![](botany_xii_pages_216-269-ch-10-33-1.jpg "")
 
 ![](botany_xii_pages_216-269-ch-10-33-2.jpg "")
@@ -1468,7 +1338,6 @@ Let us know about the Agri book in detail through this activity.
 
 ![](botany_xii_pages_216-269-ch-10-33-17.jpg "")
   
-
 
 
 1\. Anthony J.F. Griffiths, Susan R. Wessler, **Richard C. Lewontin, Sean B. Carroll (2004)** _Introduction to Genetics Analysis_ 8th Edition, USA: W.H. Freeman & Co. Ltd.
@@ -1534,11 +1403,6 @@ Let us know about the Agri book in detail through this activity.
 **References**
 
 
-
-  
-
-
-
 8\. **Brown, T. A.** (2007). _Gene Cloning and DNA Analysis - An Introduction_. 6th ed., Wiley-Blackwell, UK.
 
 9\. **Chen, Z. and Evans, D. A.** (1990). General techniques of tissue cultures in perennial crops. In: Z. Chen _et al._ (ed.). Handbook of Plant Cell Culture. Vol. 6. Perennial Crop. McGraw-Hill Publishing Company, New York.
@@ -1602,11 +1466,6 @@ Let us know about the Agri book in detail through this activity.
 17\. **Verma. V**, (2011), _Plant Ecolog_y, New Delhi: Anu Books Pvt. Ltd.,
 
 
-
-  
-
-
-
 1\. **Gopalan C, Rama Sastri B.V, and Balasubramanian S.C.,** (1989) _Nutritive value of Indian Foods_ – Revised and updated by Narasinga RaoB.S., Deosthale Y.G.,. and Pant K.C., Hyderabad; National Institute of Nutrition, ICMR.
 
 2\. **Kochhar, S.L**. (2016) Economic Botany in the Tropics, (Fifth Edition), Delhi:Cambridge University Press
@@ -1646,11 +1505,6 @@ Coupling இ்ைபபு Crossing over குறுகதகற்றம் D
 மு�ல் மகவுச�ந�தி
 
 **English – Tamil Terminology**
-
-
-
-  
-
 
 
 **UNIT VIII - Biotechnology**
@@ -1702,11 +1556,6 @@ Synopsis இ்ைச த�ர�ல் Tailing வாலாககம் Tassel
 முபபுள்ளி த�ா�்னக கலபபு
 
 Translocation இடைம்்பெயர�ல்
-
-
-
-  
-
 
 
 Dedifferentiation தவறுபொடு இைத்�ல் Differentiation தவறபொடுறு�ல் DNA Bank DNA வங்கி Downstream Process
@@ -1770,11 +1619,6 @@ Altitude குத்துயரம் Autecology சுய சூழ்நி�
 Benthic ஆழ்மிகு மண்டைலம் Benthos ஆழ் உயிரிகள் Biochar உயிரித்்�ாகுபபு Biome உயிரமம் Biotope உயிரி நில அ்மவு
 
 
-
-  
-
-
-
 **UNIT X - Economic Botany**
 
 Acclimatization புதிய �ட்பெ்வபபெ நி்லககு பெைகு�ல்
@@ -1820,11 +1664,6 @@ Plant Ecology �ாவர சூழ்நி்லயியல் Predation ்
 ்�டுககு்வட்டு விவரம் Standing crops நி்லபபெயிர Standing quality நி்லத்�ரம் Succession வழிமு்ற வைரசசி Synecology கூட்டுச சூழ்நி்லயில் Topographic factors நிலபபெரபபு
 
 வடிவ்மபபு காரணிகள் Trophic level ஊட்டைஞ�ார மட்டைம்
-
-
-
-  
-
 
 
 1\. Which of the following plant reproduces by leaf (DPMT 2003)
@@ -1894,11 +1733,6 @@ pollen
 **Competitive Examination Questions**
 
 
-
-  
-
-
-
 13) Function of filiform apparatus is to (AIPMT 2014) a) recognize the suitable pollen at stigma b) stimulate division of generative cell c) produce nectar d) **guide the entry of pollen tube**
 
 14) The coconut water from tender coconut represents (NEET 2016)
@@ -1962,11 +1796,6 @@ dominance
 **UNIT VII – Genetics**
 
 
-
-  
-
-
-
 5\. A Pleiotropic gene (AIPMT 2015 – Re-exam) **a) Controls multiple traits in an individual** b) Is expressed only in primitive plants c) Is a gene evolved during Pliocene d) Controls a trait only in combination with
 
 another L gene
@@ -2026,11 +1855,6 @@ How many types of homologous pairs can be prepared? (JIPMER 2010)
 a) 14 **b) 7** c) 214 d) 210
 
 
-
-  
-
-
-
 17\. The year 1900 AD is highly significant for geneticists due to (JIPMER 2013)
 
 a) Discovery of genes b) Principle of linkage c) Chromosomal theory of heredity d) **Rediscovery of Mendelism**
@@ -2088,11 +1912,6 @@ a) **n =21 and x =7** b) n =7 and x =21 c) n =21 and x =21 d) n =21 and x =14
 frame shift mutations. d) Cancer cells commonly show
 
 chromosomal aberrations.
-
-
-
-  
-
 
 
 31\. Which of the following statement is not true of two genes that show 50% recombination frequency? (NEET 2013)
@@ -2164,11 +1983,6 @@ d) UAA is the nonsense codon which also codes for methionine
 a) hnRNA, tRNA, rRNA b) **mRNA, tRNA, rRNA** c) mRNA, tRNA, hnRNA d) hnRNA, rRNA, lRNA 41. Sequence of DNA (non-coding) is known
 
 as (JIPMER 2006) a) exon b) **intron** b) cistron d) none of these
-
-
-
-  
-
 
 
 42\. During transcription holoenzyme RNA polymerase binds to a DNA sequence and the DNA assumes a saddle like structure at that point. What is that sequence called
@@ -2246,11 +2060,6 @@ culture vessel.
 **UNIT VIII – Biotechnology**
 
 
-
-  
-
-
-
 a) Separation b) Purification c) Preservation d**) Expression**
 
 4\. Which of the following is not a feature of the plasmids? (NEET-I 2016)
@@ -2310,11 +2119,6 @@ instruments such as ECG, EFG, etc.
 1\. A bacterium 2. Plasmid 3. Plasmodium 4. Bacteriophage (AIPMT Main 2010) a) 1 and 4 only b) **2 and 4 only** c) 1 only d) 1 and 3 only
 
 
-
-  
-
-
-
 15\. Given below is a sample of a portion of DNA strand giving the base sequence on the opposite strands. What is so special shown in it? (AIPMT 2014)
 
 5’---GAATTC---3’ 3’---CTTAAG---5’
@@ -2368,11 +2172,6 @@ rice (AIPMT,2010) a) Does not require chemical fertilisers and
 growth hormones b) **Gives high yield and is rich in**
 
 **vitamin A**
-
-
-
-  
-
 
 
 c) Is completely resistant to all insect pests and diseases of paddy
@@ -2432,11 +2231,6 @@ d) Callus - U n o r g a n i s e d mass of cells produced in tissue culture.
 a) Plantlet culture ( AIPMT 2005) b) Organ culture **c) Micropropagation** d) Macropropagation
 
 
-
-  
-
-
-
 36\. Coconut milk is used in tissue culture in which present ( AIPMT 2000)
 
 **a) cytokinin** b) auxin
@@ -2492,11 +2286,6 @@ a) Alphine forests b) Temperate forests c) Mangroves d) **Tropical rain forests*
 **between the two species** d) Mutualism between two species
 
 **UNIT IX - Plant Ecology**
-
-
-
-  
-
 
 
 12\. Which one of the following pairs is **mismatched**? (AIPMT Prelims 2005)
@@ -2578,11 +2367,6 @@ a) Pond b) **forest** c) lake d) grassland
 (Mains 2012) a) net productivity b) **secondary productivity** c) net primary productivity d) gross primary productivity
 
 
-
-  
-
-
-
 24\. The second stage of hydrosere is occupied by plants like (Mains 2012)
 
 a) _Azolla_ b) _Typha_ c) _Salix_ d) **_Vallisneria_**
@@ -2646,11 +2430,6 @@ d) Producers Litter fall Rock minerals Detritus
 32\. Given below is an imaginary pyramid of numbers. What could be one of the possibilities about certain organisms at some of the different levels ?
 
 (AIPMT Prelims 2012)
-
-
-
-  
-
 
 
 50
@@ -2730,11 +2509,6 @@ Which two of the above statements are correct? (AIPMT Prelims 2008)
 a) i and ii b) **ii and iii** c) iii and iv d) i and iv
 
 
-
-  
-
-
-
 42\. Which one of the following is not used for construction of ecological pyramids?
 
 (AIPMT Prelims 2006) a) Dry weight 2) Number of individuals c) Rate of energy flow 4) **Fresh weight**
@@ -2786,11 +2560,6 @@ a. _Lemna pancicostata_ b_. Eichhornia crassipes_ **c. _Escherichia coli_** d. _
 53\. Which country has the greatest contribution for the hole formation in ozone layer? (AIPMT 1996)
 
 **a. Russia** b. Japan c. USA d Germany
-
-
-
-  
-
 
 
 1\. The name of Dr. Norman Borlaug is associated with (JIPMER 2007)
@@ -2846,6 +2615,5 @@ b) Indian National Botanical Research Institute
 c) Australian crop Improvement centre d) African Crop Improvement centre
 
 **UNIT X - Economic Botany**
-
 
 

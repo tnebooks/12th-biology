@@ -5,11 +5,9 @@ weight: 10
   
 
 
-
 Economic botany is the study of the relationship between people and economically important plants. It explores the ways by which humans use plants for food, medicines and other uses. Economic botany intersects many fields including established disciplines such as agronomy, anthropology, archaeology, chemistry, trade and commerce.
 
 ## Relationship between humans and plants
-
 
 From the very early times, human beings have co-existed with plants which played a vital role in their survival. Through a long process of trial and error, our ancestors have selected hundreds of wild plants from the various parts of the world for their specific use. The knowledge of the plants and its applications have led to the development of the humans and their civilization in many ways.
 
@@ -17,10 +15,8 @@ From the very early times, human beings have co-existed with plants which played
  Domestication is the process of bringing a plant species under the control of humans and gradually changing it through careful selection, genetic alteration and handling so that it is more useful to people. The domesticated species are renewable sources that have provided food and other benefits to human. The possible changes in the plant species due to domestication are listed below; • Adaptation to a greater diversity of
 
 environments and a wider geographical range.
-
-• Simultaneous /uniform flowering and fruiting.
-
-• Lack of shattering or scattering of seeds.
+- Simultaneous /uniform flowering and fruiting.
+- Lack of shattering or scattering of seeds.
 
 **Plant Breeding**
 
@@ -62,15 +58,12 @@ seed storage with modern methods.
 
 
 
-
 ![](botany_xii_pages_199-215-ch-09-1-1.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-1-2.jpg "")
   
 
-
-
-• Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
+- Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
 
 fruit. • Enhancing colour, appearance,
 
@@ -179,16 +172,11 @@ f. **C.T. Patel** – Who developed world’s first cotton hybrid.
 g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of wheat, which made Punjab the wheat granary of India.
 
 
-
-  
-
-
-
 **_Rhizobium_** Bio-fertilisers containing rhizobium bacteria are called _rhizobium_ bio-fertilizer culture. Symbiotic bacteria that reside inside the root nodules convert the atmospheric nitrogen into a bio available form to the plants. This nitrogen fixing bacterium when applied to the soil undergoes multiplication and fixes the atmospheric nitrogen in the soil. _Rhizobium_ is best suited for the paddy fields which increase the yield by 15 – 40%.
 
 **(a)(b)**
 
-**Figure 9.2 (a)** : Root nodules occur on root **(b)** C.S. of Root nodule
+![C.S. of Root nodule]( "")
 
 **_Azolla_** _Azolla is a free-floating water fern that fixes_ the atmospheric nitrogen in association with nitrogen fixing blue green alga Anabaena azollae. It is used as a bio-fertilizer for wetland rice cultivation and is known to contribute 40 – 60 kg/ha/crop. The agronomic potential of Azolla is quite significant particularly for increasing the yield of rice crop, as it quickly decompose in soil.
 
@@ -196,7 +184,7 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 **(a)**
 
-**Figure 9.3: (a) Azolla in paddy field** (b) _Azolla_
+![(b) _Azolla_]( "")
 
 **Arbuscular mycorrhizae** Arbuscular mycorrhizae (AM) is formed by
 
@@ -236,12 +224,11 @@ Zn2+
 
 Local resistance to root pathogens
 
-**Figure 9.4 Benefits of AM colonisation** Apart from increasing the availability of phosphorus, AM provides necessary strength to resist disease, germs and unfavourable weather conditions. It also assures water availability.
+![Apart from increasing the availability of phosphorus, AM provides necessary strength to resist disease, germs and unfavourable weather conditions. It also assures water availability.]( "")
 
 **Seaweed** **Liquid Fertilizer** Seaweed liquid f e r t i l i z e r **(**SLF) contains c y t o k i n i n , g i b b e r e l l i n s and auxin apart from macro and micro n u t r i e n t s . Most seaweed based fertilizers are made from kelp(brown algae) which grows to length of 150 metres. Liquid seaweed fertilizer is not only organic but also eco-friendly. The alginates in the seaweed that reacts with metals in the soil and form long, cross-linked polymers in the
 
-**Figure 9.5: Seaweed** – Kelp
-
+![– Kelp]( "")
 
 
 
@@ -271,24 +258,23 @@ Local resistance to root pathogens
   
 
 
-
 soil. These polymers improve the crumbing in the soil, swell up when they get wet and retain moisture for a long time. They are especially useful in organic gardening which provides carbohydrates for plants. Seaweed has more than 70 minerals, vitamins and enzymes. It promotes vigorous growth. Improves resistance of plants to frost and disease. Seeds soaked in seaweed extract germinate much rapidly and develop a better root system.
 
 **Bio-Pesticides** Bio-pesticides are biological agents used for the control of plant pests. They are in high use due to their non-toxic, cheaper and eco-friendly characteristics as compared to chemical or synthetic pesticides. Bio- pesticides have become an integral component of pest management in terms of the environmental and health issues attributed to the use of chemicals in agriculture.
 
 **_Trichoderma_** species are free-living fungi that are common in soil and root ecosystem. They have been recognized as bio-control agent for (1) the control of plant disease (2) ability to enhance root growth development (3) crop productivity (4) resistance to abiotic stress and (5) uptake and use of nutrients.
 
-**Figure 9.6:** (b) Biopesticide
+![(b) Biopesticide]( "")
 
 **TRICHODERMA VIRIDE** A Potential bio-control agent for
 
 soil borne diseases
 
-**Figure 9.6:** (a) _Trichoderma_ fungi
+![(a) _Trichoderma_ fungi]( "")
 
 **_Beauveria_** species is an entomo-pathogenic fungus that grows naturally in soils throughout the world. It acts as a parasite on various arthropod species causing white muscardine disease without affecting the plant health and growth. It also controls damping off of tomato caused by _Rhizoctonia solani_.
 
-**Figure 9.7:** (a) _Beauveria_ Fungi (b) _Beauveria_ sps infected insect on green plant
+![(a) _Beauveria_ Fungi (b) _Beauveria_ sps infected insect on green plant]( "")
 
 (c)Entomopathogenic fungi on insets
 
@@ -302,7 +288,6 @@ The green manuring can be practised as Green in-situ manuring or Green leaf manu
 
 ## Plant Breeding
  Plant breeding is the science of improvement of crop varieties with higher yield, better quality, resistance to diseases and shorter durations which are suitable
-
 
 
 
@@ -320,7 +305,6 @@ The green manuring can be practised as Green in-situ manuring or Green leaf manu
   
 
 
-
 to particular environment. In other words, it is a purposeful manipulation of plant species in order to create desired genotype and phenotype for the benefit of humans. In early days, plant breeding activities were based mainly on skills and ability of person involved. But as the principles of genetics and cytogenetics have elucidated breeding methods such as selection, introduction, hybridization, ploidy, mutation, tissue culture and biotechnology techniques were designed to develop improved crop varieties.
 
 **9.6.1. Objectives of Plant Breeding** • To increase yield, vigour and fertility of
@@ -328,10 +312,8 @@ to particular environment. In other words, it is a purposeful manipulation of pl
 the crop • To increase tolerance to environmental
 
 condition, salinity, temperature and drought.
-
-• To prevent the premature falling of buds, fruits etc.
-
-• To improve synchronous maturity. • To develop resistance to pathogens and
+- To prevent the premature falling of buds, fruits etc.
+- To improve synchronous maturity. • To develop resistance to pathogens and
 
 pests. • To develop photosensitive and thermos-
 
@@ -339,7 +321,7 @@ sensitive varieties.
 
 **9.6.2. Steps in Plant Breeding** The main steps in plant breeding are given below
 
-**Figure 9.8:** Steps in Plant Breeding
+![Steps in Plant Breeding]( "")
 
 Creation of Genetic
 
@@ -371,7 +353,6 @@ Seed multiplication and distribution
 
 ## Conventional Plant Breeding Methods
 
-
 Conventional plant breeding methods resulting in hybrid varieties had a tremendous impact on agricultural productivity over the last decades. It develops new plant varieties by the process of selection and seeks to achieve expression of genetic material which is already present within
 
 the species. In this chapter we will discuss about some of the conventional methods of plant breeding.
@@ -383,11 +364,6 @@ The newly introduced plant has to adapt itself to the new environment. This adju
 Introduction may be classified as Primary introduction and Secondary introduction (1) **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype. (2) **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. Example : Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. **9.7.2. Selection** Selection is the choice of certain individuals from a mixed population for a one or more desirable traits. Selection is the oldest and basic method of plant breeding. There are two main types of Selection.
 
 **i. Natural Selection: This is a rule in nature and** results in evolution reflected in the Darwinian principle “survival of the fittest”. It takes longer time in bringing about desired variation.
-
-
-
-  
-
 
 
 **ii. Artificial Selection: It is a human involved** process in having better crop from a mixed population where the individuals differ in character. The following are the three main types of artificial selection.
@@ -414,13 +390,13 @@ L1 L3........ LNL2
 
 Register and market the best pure lines
 
-**Figure 9.9: Mass** selection vs Pureline selection
+![selection vs Pureline selection]( "")
 
 **b. Pureline selection:** Johannsen in 1903 coined the word pureline. It is a collection of plants obtained as a result of repeated self-pollination from a single homozygous individual. Hence, a variety formed by this method shows more homozygosity with respect to all genes. The disadvantage of this type is that the new genotypes are never created and they are less adaptable and less stable to the environmental fluctuations.
 
 **c. Clonal Selection:** In asexually propagated crop, progenies derived from a plant resemble in genetic constitution with the parent plant as they are mitotically divided. Based on their phenotypic appearance, clonal selection is employed to select improved variety from a mixed population (clones). The selected plants are multiplied through vegetative propagation to give rise to a clone. The genotype of a clone remains unchanged for a long period of time.
 
-**Figure 9.10** Clonal Selection
+![Clonal Selection]( "")
 
 **1st**
 
@@ -461,11 +437,6 @@ National Bureau of plant Genetic Resources (NBPGR) The Bureau is responsible for
 introduction and maintenance of germ plasm of various agricultural and horticultural station in our country. It is also responsible for maintenance of plant materials of botanical and medicinal interest. It is located at Rangpuri, New Delhi and has four regional plant quarantine stations at Amristsar, Kolkata, Mumbai and Chennai at Meenambakkam
 
 
-
-  
-
-
-
 **9.7.3. Hybridization** Hybridization is the method of producing new crop varieties in which two or more plants of unlike genetically constitution all crossed together that result in a progeny called hybrid. Hybridization offers improvement in crop and is the only effective means of combining together the desirable characters of two or more varieties or species. The first natural hybridization was observed by Cotton Mather in maize. **Steps in Hybridization** Steps involved in hybridization are as follows. 1. **Selection of Parents:** Male and female
 
 plants of the desired characters are selected. It should be tested for their homozygosity.
@@ -474,7 +445,7 @@ plants of the desired characters are selected. It should be tested for their hom
 
 3\. Bagging: The stigma of the flower is protected against any undesirable pollen grains, by covering it with a bag .
 
-**Figure 9.11 a & b**: Emasculation and Bagging (Wheat)
+![a & b]( ""): Emasculation and Bagging (Wheat)
 
 4\. **Crossing:** Transfer of pollen grains from selected male flower to the stigma of the female emasculated flower.
 
@@ -490,14 +461,13 @@ ii. Intervarietal hybridization - The cross between the plants belonging to two 
 
 iii. Interspecific hybridization - The cross between the plants belonging to different species belonging to the same genus is also called intragenic hybridization. It is commonly used for transferring the genes of disease, insect, pest and drought resistance from one species to another. **Example:** Gossypium hirsutum x Gossypium arboreum – Deviraj.
 
-**Figure 9.12 Flower** - (a) _G. hirsutum_ (b) _G. arboreum_
+![- (a) _G. hirsutum_ (b) _G. arboreum_]( "")
 
 **(a) (b)**
 
 **iv. Intergeneric hybridization – The crosses** are made between the plants belonging to two different genera. The disadvantages are hybrid sterility, time consuming and expensive procedure. **Example:** _Raphanobrassica, Triticale._ (Refer chapter 4 for detailed illustration)
 
 **9.7.4. Heterosis** Heterosis (hetero- different; sis - condition) G.H. Shull was the first scientist to use the term heterosis in 1912. The superiority of the F1 hybrid in performance over its parents is called heterosis or hybrid vigour. Vigour refers to increase in growth, yield, greater adaptability of resistance to diseases, pest and drought. Vegetative propagation is the best suited measure
-
 
 
 
@@ -509,7 +479,6 @@ iii. Interspecific hybridization - The cross between the plants belonging to dif
 
 ![](botany_xii_pages_199-215-ch-09-7-4.jpg "")
   
-
 
 
 for maintaining hybrid vigour, since the desired characters are not lost and can persist over a period of time. Many breeders believe that the magnitude of heterosis is directly related to the degree of genetic diversity between the two parents. Depending on the nature, origin, adaptability and reproducing ability heterosis can be classified as: **i. Euheterosis- This is the true heterosis which**
@@ -535,11 +504,6 @@ When chromosome number is doubled by itself in the same plant, is called autopol
 **Gamma Garden or Atomic Garden**: Is a form of mutation breeding where plants are exposed to radioactive sources
 
 typically cobalt-60 or caesium-137 in order to generate desirable mutation in crop plants. The first Gamma garden in India is Bose Research Institute at Calcutta in 1959 and the second is IARI in 1960 which produced large variation in short type.
-
-
-
-  
-
 
 
 S.Gaud in (1968). It is defined as the cumulative result of a series of research, development, innovation and technology transfer initiatives. Agricultural production (especially wheat and rice) manifolds worldwide particularly in the developing countries between the 1940’s and the late 1960’s.
@@ -599,21 +563,13 @@ Shoot and Fruit borer
 **Table 9.2** Pest resistance varieties
 
 
-
-  
-
-
-
 ## Modern Plant Breeding
  In the milestones of plant breeding methods Genetic Engineering, Plant tissue culture, Protoplasmic fusion or somatic hybridisation, Molecular marking and DNA finger printing are some of the modern plant breeding tools used to improve the crop varieties. We have already discussed about the various techniques and application of the above mentioned concepts in Unit VIII. **New Plant Engineering Techniques / New Breeding Techniques (NBT)** NBT are a collection of methods that could increase and accelerate the development of new traits in plant breeding. These techniques often involve genome editing, to modify DNA at specific locations within the plants to produce new traits in crop plants. The various methods of achieving these changes in traits include the following. • Cutting and modifying the genome
 
 during the repair process by tools like CRISPR /Cas.
-
-• Genome editing to introduce changes in few base pairs using a technique called Oligonucleotide-directed mutagenesis (ODM).
-
-• Transferring a gene from an identical or closely related species (cisgenesis)
-
-• Organising processes that alter gene activity without altering the DNA itself (epigenetic methods).
+- Genome editing to introduce changes in few base pairs using a technique called Oligonucleotide-directed mutagenesis (ODM).
+- Transferring a gene from an identical or closely related species (cisgenesis)
+- Organising processes that alter gene activity without altering the DNA itself (epigenetic methods).
 
 ## Seed Protection
  Seed is one of the most crucial elements in the livelihoods of agricultural communities. It is the repository of the genetic information of crop species and their varieties resulting from the continuous improvement and selection over the time. The potential benefits of seed to crop productivity and food security can be enormous. Crop protection products can be applied during the growth of the crop or added to the seed. Seed protection play a significant
@@ -632,7 +588,6 @@ In 2005, he organized a first ever traditional paddy seed festival in his farm a
 
 
 
-
 ![](botany_xii_pages_199-215-ch-09-10-1.jpg "")
 
 ![](botany_xii_pages_199-215-ch-09-10-2.jpg "")
@@ -641,7 +596,6 @@ In 2005, he organized a first ever traditional paddy seed festival in his farm a
 
 ![](botany_xii_pages_199-215-ch-09-10-4.jpg "")
   
-
 
 
 duration in proper ratio (Seed : Solution) and shade drying to bring back the seed to original moisture content.
@@ -662,16 +616,11 @@ vigour of seed germination • The uniformity of seedling emergence. • Floweri
 role in improving the establishment of healthy crops. Protection and storage of seeds can be done by traditional and modern methods.
 
 **9.9.1. Traditional methods of Seed Protection**
-
-• In traditional method seeds are coated with fine red soil, Guntur Chilli Powder, Neem leaf Powder, Powder of Bittergourd, Drumstick extract, Pongamia leaf extract and stored for short duration.
-
-• Paddy Seeds are immersed in salt water in the ratio of 1:10 to remove the floating chaffy seed and then dried in shade for one -two years of storage.
-
-• Sorghum seeds were treated with lime water (1 kg of lime in 10 litres of H20) for 10 days and then the seeds are dried and stored.
-
-• Chickpea were treated with citronella leaf oil, cotton seed oil, soya bean oil, castor seed oil (500 ml of oil for 100 kg of seed).
-
-• Sunflower seeds were kept inside the dried fruit of sponge gourd after removing the seeds. These fruits were kept in an airtight container.
+- In traditional method seeds are coated with fine red soil, Guntur Chilli Powder, Neem leaf Powder, Powder of Bittergourd, Drumstick extract, Pongamia leaf extract and stored for short duration.
+- Paddy Seeds are immersed in salt water in the ratio of 1:10 to remove the floating chaffy seed and then dried in shade for one -two years of storage.
+- Sorghum seeds were treated with lime water (1 kg of lime in 10 litres of H20) for 10 days and then the seeds are dried and stored.
+- Chickpea were treated with citronella leaf oil, cotton seed oil, soya bean oil, castor seed oil (500 ml of oil for 100 kg of seed).
+- Sunflower seeds were kept inside the dried fruit of sponge gourd after removing the seeds. These fruits were kept in an airtight container.
 
 **9.9.2. Modern Methods of Seed Protection** The various modern methods of seed protection are as follows:
 
@@ -680,11 +629,6 @@ role in improving the establishment of healthy crops. Protection and storage of 
 **Benefits of seed treatment** • Prevents spread of plant disease. • Protects seed from seedling blights. • Improves germination. • Provides protection from storage insects. • Controls soil insects.
 
 **2\. Seed Hardening** Seed hardening is a physiological preconditioning of the seed by soaking of seed in water or chemical solution for definite
-
-
-
-  
-
 
 
 purpose, but is useful to store the valuable germplasm for use in future which cannot be preserved by conventional methods.
@@ -737,14 +681,12 @@ based on life span or longitivity
 
 **ii. Modern Methods of Seed Storage a. Seed storage in cryopreservation:** It is the technique of germplasm conservation (storage of cells, tissue, embryo or seeds) by ultra-low temperature in liquid nitrogen at -196oC. It is not practical for commercial seed storage
 
-**Figure 9.13 Svalbard** seed bank
-
+![seed bank]( "")
 
 
 
 ![](botany_xii_pages_199-215-ch-09-12-1.jpg "")
   
-
 
 
 in concrete / cement silos or metal or plastic drums. In modern methods of storage we have cryo preservation, gene bank and Svalbard seed bank for long time seed storage.
@@ -789,10 +731,8 @@ Seed is an important part of the plant as it gives the food for future generatio
 
 
 
-
 ![](botany_xii_pages_199-215-ch-09-13-1.jpg "")
   
-
 
 
 5\. The quickest method of plant breeding is a) Introduction b) Selection c) Hybridization d) Mutation breeding
@@ -840,11 +780,6 @@ i) Free living N2 a) _Aspergillus_ ii) Symbiotic N2 b) _Amanita_ iii) P Solubili
 a. ic, iia, iiib, ivd b. id, iic, iiia, ivb.
 
 c. ia, iic, iiib, ivd c. ib, iia, iiid, ivc.
-
-
-
-  
-
 
 
 19\. List the ways by which seeds can be stored for longer duration.
@@ -912,11 +847,6 @@ a changed environment over a number of generations.
 **Strain :** A group of similar individuals from a common origin.
 
 
-
-  
-
-
-
 **MILESTONES IN PLANT BREEDING**
 
 **Crop Domestication** Farmers select the best wild species to create crops
@@ -924,9 +854,7 @@ a changed environment over a number of generations.
 **Mutagenesis** Developing new genetic diversity by exposing crop plants to chemical agents or radiation
 
 
-
 Understanding the structure of **DNA** James watson and Francis Crick identify the double helix of DNA
-
 
 
 Plant breeding Based on **Genetic information** Development of improved varieties by working directly with DNA
@@ -937,7 +865,6 @@ More vigorous hybrid corn
 
 ### BC
 
-
 **Hybrid breeding** Crossing two genetically different individuals to develop better performing hybrid
 
 Plant breeding based on **Cross breeding** Development of improved varieties by combining good characteristics from two parents
@@ -945,13 +872,11 @@ Plant breeding based on **Cross breeding** Development of improved varieties by 
 **GMO** Introducing foreign genes into the DNA of a plant
 
 
-
 **Mendel's laws** Gregor Mendel describes the inheritance of traits from one generation to the next. His laws become the core of classical genetics
 
 **Marker-assisted Selection** Locating desirable traits in a plant for efficient selection and breeding
 
 ### now
-
 
 Waxy corn
 
@@ -976,13 +901,11 @@ By 2050, we will need 50% more food to feed the rapid growing population
 Milestones in Plant Breeding
 
 **Biofortification – breeding crops with higher levels of vitamins and minerals or higher protein** and healthier fats – is the most practical means to improve public health. Breeding for improved nutritional quality is undertaken with the objectives of improving
-
-• Protein content and quality • Oil content and quality • Vitamin content and • Micronutrient and mineral content
+- Protein content and quality • Oil content and quality • Vitamin content and • Micronutrient and mineral content
 
 In 2000, maize hybrids that had twice the amount of amino acids, lysine and tryptophan, compared to existing maize hybrids were developed. Wheat variety, Atlas 66 having a high protein content, has been used a donor for improving cultivated wheat. It has been possible to develop an iron fortified rice variety containing over five times as much iron as in commonly consumed varieties. The Indian Agricultural Research Institute, New Delhi has also released several vegetable crops that are rich in vitamins and minerals, example: vitamin A enriched carrots, spinach, pumpkin; vitamin C enriched bitter gourd, bathua, mustard, tomato; iron and calcium enriched spinach and protein enriched beans – broad, lablab, French garden peas.
 
 **Sugar cane:** _Saccharum bareri_ was originally grown in North India, but had poor sugar content and yield. Tropical canes grown in South India Saccharum officinarum had thicker stems and higher sugar content but did not grow well in North India. These two species were successfully crossed to get sugar cane varieties combining the desirable qualities of high yield, thick stems, high sugar and ability to grow in the sugarcane areas of North India.
-
 
 
 
@@ -1006,7 +929,6 @@ In 2000, maize hybrids that had twice the amount of amino acids, lysine and tryp
 
 ![](botany_xii_pages_199-215-ch-09-16-12.jpg "")
   
-
 
 
 URL: **https://play.google.com/store/apps/details?id=com.dssoft.plantasmedicinales**
@@ -1090,7 +1012,6 @@ Gene has 50-50 chance of being passed to offspring. Desired gene will take multi
 Gene Plant cell
 
 Sequential development of plant breeding techniques
-
 
 
 

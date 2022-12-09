@@ -5,7 +5,6 @@ weight: 5
   
 
 
-
 **Learning Objectives**
 
 The learner will be able to Apply the knowledge of traditional
@@ -29,7 +28,7 @@ Biotechnology is the science of applied biological processes. In other words it 
 
 and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
 
-**Figure 4.1 _Karl Ereky_**
+![_Karl Ereky_]( "")
 
 4.1 Development of Biotechnology
 
@@ -53,14 +52,12 @@ and bounds during the past century and it's development can be well understood u
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-1-1.jpg "")
 
 ![](botany_xii_pages_082-109-ch-04-1-2.jpg "")
 
 ![](botany_xii_pages_082-109-ch-04-1-3.jpg "")
   
-
 
 
 **4.2. Methods of Biotechnology 4.2.1 Fermentation** The word fermentation is derived from the Latin verb ‘fervere’ which means ‘ to boil’. Fermentation refers to the metabolic process in which organic molecules (normally glucose) are converted into acids, gases, or alcohol in the absence of oxygen or any electron transport chain. The study of fermentation, its practical uses is called zymology and originated in 1856, when French chemist Louis Pasteur demonstrated that fermentation was caused by yeast. Fermentation occurs in certain types of bacteria and fungi that require an oxygen-free environment to live. The processes of fermentation are valuable to the food and beverage industries, with the conversion of sugar into ethanol to produce alcoholic beverages, the release of CO2 by yeast used in the leavening of bread, and with the production of organic acids to preserve and flavor vegetables and dairy products.
@@ -76,27 +73,15 @@ and bounds during the past century and it's development can be well understood u
 Modern biotechnology embraces all methods of genetic modification by recombinant DNA and cell fusion technology. The major focus of biotechnology is on • **Fermentation** for production of acids,
 
 enzymes, alcohols, antibiotics, fine chemicals, vitamins and toxins
-
-• **Biomass for** bulk production of single cell protein , alcohol, and biofuel
-
-• **Enzymes** as biosensors, in processing industry
-
-• **Biofuels** for production of hydrogen, alcohol, methane
-
-• **Microbial inoculants** as biofertiliser, and nitrogen fixers
-
-• **Plant and animal cell culture** for production of secondary metabolites, monoclonal antibodies
-
-• **Recombinant DNA technology** for production of fine chemicals, enzymes, vaccines, growth hormones, antibiotics, and interferon
-
-• **Process engineering** – tools of biotechnology is used for effluent treatment, water recycling.
+- **Biomass for** bulk production of single cell protein , alcohol, and biofuel
+- **Enzymes** as biosensors, in processing industry
+- **Biofuels** for production of hydrogen, alcohol, methane
+- **Microbial inoculants** as biofertiliser, and nitrogen fixers
+- **Plant and animal cell culture** for production of secondary metabolites, monoclonal antibodies
+- **Recombinant DNA technology** for production of fine chemicals, enzymes, vaccines, growth hormones, antibiotics, and interferon
+- **Process engineering** – tools of biotechnology is used for effluent treatment, water recycling.
 
 This unit will reveal the various aspects of modern biotechnology, its products and applications.
-
-
-
-  
-
 
 
 called metabolites, can be grouped into two categories: **a. Primary metabolites:** Metabolites
@@ -132,7 +117,7 @@ Sparger
 
 nutrient or inoculant
 
-**Figure 4.2:** Bioreactor
+![Bioreactor]( "")
 
 **Procedure of Fermentation** a. Depending upon the type of product,
 
@@ -156,12 +141,10 @@ f. Withdrawal of product using downstream processing methods
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-3-1.jpg "")
 
 ![](botany_xii_pages_082-109-ch-04-3-2.jpg "")
   
-
 
 
 in digestibility. Microorganisms used for the production of Single Cell Protein are as follows: • Bacteria - _Methylophilus methylotrophus_,
@@ -181,8 +164,7 @@ hair and skin • It is used as the excellent source of protein
 for feeding cattle, birds, fishes etc. • It is used in food industry as aroma
 
 carriers, vitamin carrier, emulsifying agents to improve the nutritive value of baked products, in soups, in ready-to-serve-meals, in diet recipes
-
-• It is used in industries like paper processing, leather processing as foam stabilizers.
+- It is used in industries like paper processing, leather processing as foam stabilizers.
 
 ## Advancements in Modern Biotechnology
  Modern biotechnology embraces all the genetic manipulations, protoplasmic fusion techniques and the improvements made in the old biotechnological processes. Some of the major advancements in modern biotechnology are described below. **4.3.1 Genetic Engineering** Genetic engineering or recombinant DNA technology or gene cloning is a collective term that includes different experimental protocols resulting in the modification and transfer of DNA from one organism to another.
@@ -190,24 +172,18 @@ carriers, vitamin carrier, emulsifying agents to improve the nutritive value of 
 The definition for conventional recombination was already given in Unit II. Conventional recombination involves exchange or recombination of genes between homologous chromosomes during meiosis. Recombination carried out artificially using modern technology is called recombinant DNA technology (r-DNA technology). It is also known as gene manipulation technique. This technique involves the transfer of DNA coding for a specific gene from one organism into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated transfers and microinjection. **4.3.2 Steps involved in Recombinant DNA Technology The steps involved in recombinant DNA technology are:** • Isolation of a DNA fragment containing
 
 a gene of interest that needs to be cloned. This is called an insert.
+- Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
+- Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
 
-• Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
-
-• Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
-
-**Figure 4.3:** _Spirulina_ products
-
+![_Spirulina_ products]( "")
 
 
 
 ![](botany_xii_pages_082-109-ch-04-4-1.jpg "")
   
 
-
-
-• The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
-
-• Wherever vectors are not involved the desired gene is multiplied by PCR technique. The multiple copies are injected into the host cell protoplast or it is shot into the host cell protoplast by shot gun method.
+- The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
+- Wherever vectors are not involved the desired gene is multiplied by PCR technique. The multiple copies are injected into the host cell protoplast or it is shot into the host cell protoplast by shot gun method.
 
 **PCR**: Polymerase Chain Reaction is a common laboratory technique used to make copies (millions) of a particular region of DNA.
 
@@ -268,7 +244,7 @@ Gene used to alter bacteria for cleaning up toxic waste
 
 6
 
-**Figure 4.4:** Steps involved in r-DNA Technology
+![Steps involved in r-DNA Technology]( "")
 
 **Restriction enzyme**
 
@@ -346,10 +322,8 @@ A-A-T-T-C
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-5-1.jpg "")
   
-
 
 
 **Restriction endonucleases: Molecular scissors** The restriction enzymes are called as molecular scissors. These act as foundation of recombinant DNA technology. These enzymes exist in many bacteria where they function as a part of their defence mechanism called restriction- modification system.
@@ -408,7 +382,7 @@ Blunt ends
 
 **GGG CCC**
 
-**Figure 4.5:** Sticky and Blunt ends
+![Sticky and Blunt ends]( "")
 
 Two other enzymes that play an important role in recombinant DNA technology are DNA ligase and alkaline phosphatase
 
@@ -453,17 +427,15 @@ PDNA strand DNA strand
 
 DNA strand
 
-**Figure 4.6:** DNA ligase reaction
+![DNA ligase reaction]( "")
 
 ### Alkaline Phosphatase
  It is a DNA modifying enzyme and adds or removes specific phosphate group at 5’ terminus of double stranded DNA (dsDNA) or single stranded DNA (ssDNA) or RNA. Thus it prevents self ligation. This enzyme is purified from bacteria and calf intestine.
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-6-1.jpg "")
   
-
 
 
 DNA P
@@ -506,18 +478,15 @@ Recircularization of plasmid
 
 (Self ligation)
 
-**Figure 4.7:** Action of Alkaline Phosphatase
+![Action of Alkaline Phosphatase]( "")
 
 ### Vectors
  Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host. **Properties of Vectors** Vectors are able to replicate autonomously to produce multiple copies of them along with their DNA insert in the host cell. • It should be small in size and of low molecular
 
 weight, less than 10 Kb (kilo base pair) in size so that entry/transfer into host cell is easy.
-
-• Vector must contain an origin of replication so that it can independetly replicate within the host.
-
-• It should contain a suitable marker such as antibiotic resistance, to permit its detection in transformed host cell.
-
-• Vector should have unique target sites for integration with DNA insert and should have the ability to integrate with DNA insert it carries into the genome of the host cell. Most of the commonly used cloning vectors have more than one restriction site. These are Multiple Cloning Site (MCS) or polylinker. Presence of MCS facilitates the use of restriction enzyme of choice.
+- Vector must contain an origin of replication so that it can independetly replicate within the host.
+- It should contain a suitable marker such as antibiotic resistance, to permit its detection in transformed host cell.
+- Vector should have unique target sites for integration with DNA insert and should have the ability to integrate with DNA insert it carries into the genome of the host cell. Most of the commonly used cloning vectors have more than one restriction site. These are Multiple Cloning Site (MCS) or polylinker. Presence of MCS facilitates the use of restriction enzyme of choice.
 
 The following are the features that are required to facilitate cloning into a vector. 1. Origin of replication (ori): This is a
 
@@ -573,10 +542,8 @@ CTTAAG CTTAAG
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-7-1.jpg "")
   
-
 
 
 1\. A cloning vector must contain an orgin of replication recongnized in the host cell so that it is replicated along with the DNA that it carries.
@@ -597,7 +564,7 @@ Selectable marker
 
 3\. A cloning vector needs a single cleavage site for each of one or more restriction enzyme used.
 
-**Figure 4.8:** Properties of Vector
+![Properties of Vector]( "")
 
 2\. **Selectable marker**: In addition to **ori** the vector requires a selectable marker, which helps in identifying and eliminating non transformants and selectively permitting the growth of the transformants.
 
@@ -609,7 +576,7 @@ Selectable marker
 
 **pBR 322 Plasmid** pBR 322 plasmid is a reconstructed plasmid and most widely used as cloning vector; it contains 4361 base pairs. In pBR, **_p_** denotes plasmid, **_B_**and **_R_** respectively the names of scientist **B**oliver and **R**odriguez who developed this plasmid. The number 322 is the number of plasmid developed from their laboratory. It contains ampR and tetR two different antibiotic
 
-**Figure 4.9:** Bacterial chromosome and plasmids
+![Bacterial chromosome and plasmids]( "")
 
 NucleoidBacterial chromosome (circular)
 
@@ -617,7 +584,7 @@ Plasmids
 
 resistance genes and recognition sites for several restriction enzymes. (_Hind III, EcoRI, BamH I, Sal I, Pvu II, Pst I, Cla I_), ori and antibiotic resistance genes. Rop codes for the proteins involved in the replication of the plasmid.
 
-**Figure 4.10:** pBR 322
+![pBR 322]( "")
 
 **Ti Plasmid** Ti plasmid is found in _Agrobacterium tumefaciens,_ a bacterium responsible for inducing tumours in several dicot plants. The plasmid carries transfer (tra) gene which help to transfer T- DNA from one bacterium to other bacterial or plant cell. It has Onc gene for oncogenecity, ori gene for origin for replication and inc gene for incompatibility. T-DNA of Ti-Plasmid is stably integrated with plant DNA. Agrobacterium plasmids have been used for introduction of genes of desirable traits into plants. **4.4.5 Competent Host (For Transformation with Recombinant DNA)** The propagation of the recombinant DNA molecules must occur inside a living system or host. Many types of host cells are available for gene cloning which includes _E.coli,_ yeast, animal or plant cells. The type of host cell depends upon the cloning experiment. _E.coli_ is the most widely used organism as its genetic make-up has been extensively studied, it is easy to handle and grow, can accept a range of vectors and has also been studied for safety. One more important feature of _E.coli_ to be preferred as a host cell is that under optimal growing conditions the cells divide every 20 minutes.
 
@@ -633,12 +600,7 @@ Orgin of Replication (ORI)
 
 Virulence Region
 
-**Figure 4.11:** Ti Plasmid
-
-
-
-  
-
+![Ti Plasmid]( "")
 
 
 (PEG) and dextran sulphate induce DNA uptake into plant protoplasts.
@@ -709,7 +671,7 @@ Electric field induces a voltage across cell membrane
 
 Cell **heals** with gene/drug inside
 
-**Figure 4.12:** Electroporation Methods of Gene Transfer
+![Electroporation Methods of Gene Transfer]( "")
 
 d. **Liposome mediated method of Gene Transfer:** Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
 
@@ -730,11 +692,6 @@ For achieving genetic transformation in plants, the basic pre-requisite is the c
 Certain chemicals like polyethylene glycol
 
 
-
-  
-
-
-
 plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
 The foreign gene (e.g. Bt gene for insect resistance) and plant selection marker gene, usually an antibiotic gene like _npt II_ which confers resistance to antibiotic kanamycin are cloned in the T DNA region of Ti-plasmid in place of unwanted DNA sequences.(Figure 4.15)
@@ -747,7 +704,7 @@ or tissues are cultured on selected medium to regenerate plants from the transfo
 ### Indirect or Vector-Mediated Gene Transfer
  Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into
 
-**Figure 4.13:** Liposome mediated method of Gene Transfer
+![Liposome mediated method of Gene Transfer]( "")
 
 Cell membrane
 
@@ -791,7 +748,7 @@ DNA-pcoated gold particles
 
 Gene gun barrel
 
-**Figure 4.14:** Gene gun method of Gene Transfer
+![Gene gun method of Gene Transfer]( "")
 
 DNA containing gene for desired trait
 
@@ -829,8 +786,7 @@ cleavage site
 
 2 3 3
 
-**Figure 4.15:** Agrobacterium mediated gene transfer in plants
-
+![Agrobacterium mediated gene transfer in plants]( "")
 
 
 
@@ -838,7 +794,6 @@ cleavage site
 
 ![](botany_xii_pages_082-109-ch-04-10-10.jpg "")
   
-
 
 
 the methods are used and one such method is Blue-White colony Selection method.
@@ -891,7 +846,7 @@ Ori
 
 Multiple cloning site
 
-**Figure 4.16:** a. Plasmid vector designed for blue-white screening b. Blue-white colony
+![a. Plasmid vector designed for blue-white screening b. Blue-white colony]( "")
 
 selection method Sterile velvet on a block Imprints of all colonies
 
@@ -907,12 +862,7 @@ Ampicillin sensitive colonies
 
 Lacks ampicillin
 
-**Figure 4.17:** Replica plating technique
-
-
-
-  
-
+![Replica plating technique]( "")
 
 
 **Southern Blotting Techniques - DNA** The transfer of denatured DNA from Agarose gel to Nitrocellulose Blotting or Filter Paper technique was introduced by Southern in 1975 and this technique is called Southern Blotting Technique. **Steps** The transfer of DNA from agarose gel to nitrocellulose filter paper is achieved by Capillary Action.
@@ -927,7 +877,7 @@ Autoradiography - A technique that captures the image formed in a photographic e
 
 from a few hundred to about 20000 base pairs. Polyacrylamide is preferred for the purification of smaller DNA fragments. The gel is complex network of polymeric molecules. DNA molecule is negatively charged molecule - under an electric field DNA molecule migrates through the gel. The electrophoresis is frequently performed with marker DNA fragments of known size which allow accurate size determination of an unknown DNA molecule by interpolation. The advantages of agarose gel electrophoresis are that the DNA bands can be readily detected at high sensitivity. The bands of DNA in the gel are stained with the dye **Ethidium Bromide** and DNA can be detected as visible fluorescence illuminated in UV light will give orange fluorescence, which can be photographed.
 
-**Figure 4.18:** **a.** Bands of DNA in Agarose gel **b.** Gel Electrophoresis Instrument
+![Gel Electrophoresis Instrument]( "")
 
 **a b**
 
@@ -940,12 +890,10 @@ Agricultural diagnostics refers to a variety of tests that are used for detectio
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-12-1.jpg "")
 
 ![](botany_xii_pages_082-109-ch-04-12-2.jpg "")
   
-
 
 
 Weight Glass plate
@@ -962,7 +910,7 @@ Transfer buffer
 
 Support block
 
-**Figure 4.19:** Diagrammatic representation of a typical blotting apparatus
+![Diagrammatic representation of a typical blotting apparatus]( "")
 
 **Northern Blot** It was found that RNA is not binding to cellulose nitrate. Therefore, Alwin et al. (1979) devised a procedure in which RNA bands are transferred from the agarose gel into nitrocellulose filter paper. This transfer of RNA from gel to special filter paper is called Northern Blot hybridization. The filter paper used for Northern blot is Amino Benzyloxymethyl Paper which can be prepared from Whatman 540 paper. **Western Blot** Refers to the electrophoretic transfer of proteins to blotting papers. Nitrocellulose filter paper can be used for western blot technique. A particular protein is then identified by probing the blot with a radio-labelled antibody which binds on the specific protein to which the antibody was prepared.
 
@@ -970,16 +918,6 @@ Support block
  Target gene is target DNA, foreign DNA, passenger DNA, exogenous DNA, gene of interest or insert DNA that is to be either cloned or specifically mutated. Gene targeting experiments have been targeting the nuclei and this leads to ‘gene knock-out’. For this purpose, two types of targeting vectors are used. They are insertion vectors and replacement or transplacement vectors. 1. Insertion vectors are entirely inserted into
 
 targeted locus as the vectors are linearized within the homology region. Initially, these
-
-
-
-
-
-
-
-
-
-
 
 Weight
 
@@ -1007,18 +945,14 @@ Radioactive probe
 
 
 
-
-
-**Figure 4.20:** Steps involved in southern blotting technique
+![Steps involved in southern blotting technique]( "")
 
 vectors are circular but during insertion, become linear. It leads to duplication of sequences adjacent to selectable markers.
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-13-214.jpg "")
   
-
 
 
 2 The replacement vector has the homology region and it is co-linear with target. This vector is linearized prior to transfection outside the homology region and then consequently a crossing over occurs to replace the endogenous DNA with the incoming DNA.
@@ -1056,12 +990,10 @@ reveal the identity of the book or item as well the details like prize. Similari
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-14-1.jpg "")
 
 ![](botany_xii_pages_082-109-ch-04-14-2.jpg "")
   
-
 
 
 removed, or altered at particular locations in the genome. Several approaches to genome editing have been developed. A recent one is known as CRISPR-Cas9, which is short form of **Clustered Regularly Interspaced Short Palindromic Repeats** and CRISPR- associated protein 9. The CRISPR-Cas9 system has generated a lot of excitement in the scientific community because it is faster, cheaper, more accurate, and more efficient than other existing genome editing methods.
@@ -1076,7 +1008,6 @@ A simplified model for the RNAi pathway is based on two steps, each involving
 ribonuclease enzyme. In the first step, the trigger RNA (either dsRNA or miRNA primary transcript) is processed into a short interfering RNA (siRNA) by the RNase II enzymes called Dicer and Drosha. In the second step, siRNAs are loaded into the effector complex RNA-induced silencing complex (RISC). The siRNA is unwound during RISC assembly and the single-stranded RNA hybridizes with mRNA target. This RNAi is seen in plant feeding nematodes.
 
 ## Transgenic Plants / Genetically Modified Crops (Gm Crops)
-
 
 ### Herbicide Tolerant – Glyphosate
  Weeds are a constant problem in crop fields. Weeds not only compete with crops for sunlight, water, nutrients and space but also acts as a carrier for insects and diseases. If left uncontrolled, weeds can reduce crop yields significantly.
@@ -1109,12 +1040,7 @@ Target mRNA
 
 Root-knot nematode
 
-**Figure 4.21:** RNA Interference
-
-
-
-  
-
+![RNA Interference]( "")
 
 
 One strategy is to incorporate a soil bacterium gene that produces a glyphosate tolerant form of EPSPS. Another way is to incorporate a different soil bacterium gene that produces a glyphosate degrading enzyme.
@@ -1130,10 +1056,8 @@ microbes. **4.7.2 Herbicide Tolerant - Basta** Trade name ‘Basta’ refers to 
 and eat the cotton plant the Cry toxins are dissolved in the insect’s stomach. The epithelial membranes of the gut block certain vital nutrients thereby sufficient regulation of potassium ions are lost in the insects and results in the death of epithelial cells in the intestine membrane which leads to the death of the larvae. **_Advantages_** The advantages of Bt cotton are: • Yield of cotton
 
 is increased due to effective control of bollworms.
-
-• Reduction in insecticide use in the cultivation of Bt cotton
-
-• Potential reduction in the cost of cultivation.
+- Reduction in insecticide use in the cultivation of Bt cotton
+- Potential reduction in the cost of cultivation.
 
 **_Disadvantages_** Bt cotton has some limitations: • Cost of Bt cotton seed is high. • Effectiveness up to 120 days after that
 
@@ -1143,10 +1067,9 @@ aphids and whitefly. • Affects pollinating insects and thus yield.
 
 **ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal
 
-**Figure 4.22:** Bt Cotton
+![Bt Cotton]( "")
 
-**Figure 4.23:** Bt Brinjal
-
+![Bt Brinjal]( "")
 
 
 
@@ -1154,7 +1077,6 @@ aphids and whitefly. • Affects pollinating insects and thus yield.
 
 ![](botany_xii_pages_082-109-ch-04-16-2.jpg "")
   
-
 
 
 Fruit and Shoot Borer (_Leucinodes orbonalis_).
@@ -1172,16 +1094,15 @@ help in delaying the ripening process of tomato during long storage and transpor
 ### Golden rice - Biofortification
  Golden rice is a variety of _Oryza sativa_ (rice) produced through genetic engineering of biosynthesized beta-carotene, a precursor of Vitamin-A in the edible parts of rice developed by Ingo Potrykus and his group. The aim is to produce a fortified food to be grown and consumed in areas with a shortage of dietary Vitamin-A, Golden rice differs from its parental strain by the addition of three beta-carotene biosynthesis genes namely ‘psy’ (phytoene synthase) from daffodil plant Narcissus _pseudonarcissus_ and ‘crt-1’ gene from the soil bacterium _Erwinia auredorora_ and ‘lyc’ (lycopene cyclase) gene from wild-type rice endosperm. The endosperm of normal rice, does not contain beta-carotene. Golden-rice has been genetically altered so that the endosperm now accumulates Beta-carotene. This has been done using Recombinant DNA technology. Golden rice can control childhood blindness - Xerophthalmia.
 
-**Figure 4.26:** Golden rice **GM Food - Benefits** • High yield without pest • 70% reduction of pesticide usage • Reduce soil pollution problem • Conserve microbial population in soil
+![• High yield without pest • 70% reduction of pesticide usage • Reduce soil pollution problem • Conserve microbial population in soil]( "")
 
 **Risks - believed to** • Affect liver, kidney function and cancer • Hormonal imbalance and physical disorder • Anaphylactic shock (sudden hypersensitive
 
 reaction) and allergies.
 
-**Figure 4.24:** Dhara Mustard
+![Dhara Mustard]( "")
 
-**Figure 4.25:** FlavrSavr Tomato
-
+![FlavrSavr Tomato]( "")
 
 
 
@@ -1194,11 +1115,8 @@ reaction) and allergies.
 ![](botany_xii_pages_082-109-ch-04-17-4.jpg "")
   
 
-
-
-• Adverse effect in immune system because of bacterial protein.
-
-• Loss of viability of seeds seen in terminator seed technology of GM crops.
+- Adverse effect in immune system because of bacterial protein.
+- Loss of viability of seeds seen in terminator seed technology of GM crops.
 
 ### Polyhydroxybutyrate (PHB)
  Synthetic polymers are non-degradable and pollute the soil and when burnt add dioxin in the environment which cause cancer. So, efforts were taken to provide an alternative eco-friendly biopolymers. Polyhydroxyalkanoates (PHAs) and polyhydroxybutyrate (PHB) are group of degradable biopolymers which have several medical applications such as drug delivery, scaffold and heart valves. PHAs are biological macromolecules and thermoplastics which are biodegradable and biocompatible. Several microorganisms have been utilized to produce different types of PHAs including Gram-positive like _Bacillus megaterium_, _Bacillussubtilis_ and _Corynebacterium glutamicum_, Gram-negative bacteria like group of _Pseudomonas_ sp. and _Alcaligenes eutrophus_.
@@ -1218,50 +1136,36 @@ nm). GFP refers to the protein first isolated from the jellyfish Aequorea victor
  It is defined as the use of microorganisms or plants to manage environmental pollution. It is an approach used to treat wastes including wastewater, industrial waste and solid waste. Bioremediation process is applied to the removal of oil, petrochemical residues, pesticides or heavy metals from soil or ground water. In many cases, bioremediation is less expensive and more sustainable than other physical and chemical methods of remediation.Bioremediation an eco-friendly approach and can deal with lower concentrations of contaminants more effectively. The strategies for bioremediation in soil and water can be as follows: • Use of indigenous microbial population
 
 as indicator species for bioremediation process.
+- Bioremediation with the addition of adapted or designed microbial inoculants.
 
-• Bioremediation with the addition of adapted or designed microbial inoculants.
-
-**Figure 4.27:** Polylactic acid
+![Polylactic acid]( "")
 
 product
-
 
 
 
 ![](botany_xii_pages_082-109-ch-04-18-1.jpg "")
   
 
-
-
-• Use of plants for bioremediation - green technology.
+- Use of plants for bioremediation - green technology.
 
 Some examples of bioremediation technologies are: • **Phytoremediation** - use of plants to bring
 
 about remediation of environmental pollutants.
-
-• **Mycoremediation** - use of fungi to bring about remediation of environmental pollutants.
-
-• **Bioventing** - a process that increases the oxygen or air flow to accelerate the degradation of environmental pollutants.
-
-• **Bioleaching** - a use of microorganisms in solution to recover metal pollutants from contaminated sites.
-
-• **Bioaugmentation** - a addition of selected microbes to speed up degradation process.
-
-• **Composting** - a process by which the solid waste is composted by the use of microbes into manure which acts as a nutrient for plant growth.
-
-• Rhizofiltration - uptake of metals or degradation of organic compounds by rhizosphere microorganisms.
-
-• **Rhizostimulation** - stimulation of plant growth by the rhizosphere by providing better growth condition or reduction in toxic materials.
+- **Mycoremediation** - use of fungi to bring about remediation of environmental pollutants.
+- **Bioventing** - a process that increases the oxygen or air flow to accelerate the degradation of environmental pollutants.
+- **Bioleaching** - a use of microorganisms in solution to recover metal pollutants from contaminated sites.
+- **Bioaugmentation** - a addition of selected microbes to speed up degradation process.
+- **Composting** - a process by which the solid waste is composted by the use of microbes into manure which acts as a nutrient for plant growth.
+- Rhizofiltration - uptake of metals or degradation of organic compounds by rhizosphere microorganisms.
+- **Rhizostimulation** - stimulation of plant growth by the rhizosphere by providing better growth condition or reduction in toxic materials.
 
 **Limitations** • Only biodegradable contaminants can
 
 be transformed using bioremediation processes.
-
-• Bioremediation processes must be specifically made in accordance to the conditions at the contaminated site.
-
-• Small-scale tests on a pilot scale must be performed before carrying out the procedure at the contaminated site.
-
-• The use of genetic engineering technology to create genetically modified microorganism or a consortium of microbes for bioremediation process has great potential.
+- Bioremediation processes must be specifically made in accordance to the conditions at the contaminated site.
+- Small-scale tests on a pilot scale must be performed before carrying out the procedure at the contaminated site.
+- The use of genetic engineering technology to create genetically modified microorganism or a consortium of microbes for bioremediation process has great potential.
 
 ### Biofuel: Algal Biofuel
  Algal fuel, also known as algal biofuel, or algal oil is an alternative to liquid fossil fuel, the petroleum products. This is also used as a source of energy-rich oils. Also, algal fuels are an alternative to commonly known biofuel sources obtained from corn and sugarcane. The energy crisis and the world food crisis have initiated interest in algal culture (farming algae) for making biodiesel and other biofuels on lands unsuitable for agriculture. _Botryococcus braunii_ is normally used to produce algal biofuel.
@@ -1284,7 +1188,7 @@ be transformed using bioremediation processes.
 
 **Existing Technology**
 
-**Figure 4.28:** Algal Biofuel **Biological hydrogen production by algae** The biological hydrogen production with algae is a method of photo biological water splitting. In normal photosynthesis the alga, _Chlamydomonas reinhardtii_ releases oxygen. When it is deprived of sulfur, it switches to the production of hydrogen during photosynthesis and the electrons are transported to ferredoxins. \[Fe\]-hydrogenase enzymes combine them into the production of hydrogen gas.
+![The biological hydrogen production with algae is a method of photo biological water splitting. In normal photosynthesis the alga, _Chlamydomonas reinhardtii_ releases oxygen. When it is deprived of sulfur, it switches to the production of hydrogen during photosynthesis and the electrons are transported to ferredoxins. \[Fe\]-hydrogenase enzymes combine them into the production of hydrogen gas.]( "")
 
 2H2O
 
@@ -1308,12 +1212,7 @@ O2 + 4H+ + 4e-
 
 PC
 
-**Figure 4.29:** Hydrogen production by algae
-
-
-
-  
-
+![Hydrogen production by algae]( "")
 
 
 ### Bioprospecting Bioprospecting
@@ -1330,43 +1229,23 @@ of healing rashes. The journal article published by the Indian Medical Associati
 **Biopiracy of Basmati** On September 2, 1997, the U.S. Patent and Trademarks Office granted Patent on “basmati rice lines and grains” to the Texas-based company RiceTec. This broad patent gives the company several rights, including exclusive use of the term 'basmati', as well proprietary rights on the seeds and grains from any crosses. The patent also covers the process of breeding RiceTec’s novel rice lines and the method to determine the cooking properties and starch content of the rice grains. India had periled the United States to take the matter to the WTO as an infringement of the TRIPS agreement, which could have resulted in major embarrassment for the US. Hence voluntarily and due to few decisions take by the US patent office, Rice Tec had no choice but to lose most of the claims and most importantly the right to call the rice “Basmati”. In the year 2002, the final decision was taken. Rice Tec dropped down 15 claims, resulting in clearing the path of Indian Basmati rice exports to the foreign countries. The Patent Office ordered the patent name to be changed to ‘Rice lines 867’. **4.8 Applications of Biotechnology** • Biotechnology is one of the most important
 
 applied interdisciplinary sciences of the **21st century**. It is the trusted area that enables us to find the beneficial way of life.
-
-• Biotechnology has wide applications in various sectors like agriculture, medicine, environment and commercial industries.
-
-• This science has an invaluable outcome like **transgenic varieties** of plants e.g. transgenic
-
-
-
-  
-
+- Biotechnology has wide applications in various sectors like agriculture, medicine, environment and commercial industries.
+- This science has an invaluable outcome like **transgenic varieties** of plants e.g. transgenic
 
 
 cotton (Bt-cotton), rice, tomato, tobacco, cauliflower, potato and banana.
-
-• The development of transgenics as pesticide resistant, stress resistant and disease resistant varieties of agricultural crops is the immense outcome of biotechnology.
-
-• The synthesis of human insulin and blood protein in _E.coli_ and utilized for insulin deficiency disorder in human is a breakthrough in biotech industries in medicine.
-
-• The synthesis of vaccines, enzymes, antibiotics, dairy products and beverages are the products of biotech industries.
-
-• **Biochip** based biological computer is one of the successes of biotechnology.
-
-• Genetic engineering involves genetic manipulation, tissue culture involves aseptic cultivation of totipotent plant cell into plant clones under controlled atmospheric conditions.
-
-• **Single cell protein** from _Spirulina_ is utilized in food industries.
-
-• Production of **secondary metabolites**, biofertilizers, biopesticides and enzymes.
-
-• Biomass energy, biofuel, Bioremediation, phytoremediation for environmental biotechnology.
+- The development of transgenics as pesticide resistant, stress resistant and disease resistant varieties of agricultural crops is the immense outcome of biotechnology.
+- The synthesis of human insulin and blood protein in _E.coli_ and utilized for insulin deficiency disorder in human is a breakthrough in biotech industries in medicine.
+- The synthesis of vaccines, enzymes, antibiotics, dairy products and beverages are the products of biotech industries.
+- **Biochip** based biological computer is one of the successes of biotechnology.
+- Genetic engineering involves genetic manipulation, tissue culture involves aseptic cultivation of totipotent plant cell into plant clones under controlled atmospheric conditions.
+- **Single cell protein** from _Spirulina_ is utilized in food industries.
+- Production of **secondary metabolites**, biofertilizers, biopesticides and enzymes.
+- Biomass energy, biofuel, Bioremediation, phytoremediation for environmental biotechnology.
 
 **Summary** Biotechnology is the science of applied biological process in which there is a controlled use of biological agents such as microorganisms or cellular components for beneficial use. A Hungarian Engineer, Karl Ereky (1919) coined the term biotechnology. Biotechnology broadly categorized into traditional practices and modern practices. Traditional biotechnology includes our ancient practices such as fermentation. Single Cell Protein (SCP) organisms are grown in large quantities to produce goods rich in protein, minerals, fats, carbohydrates and vitamins. The modern biotechnology embraces all the genetic manipulations. The recombinant DNA technology is a technique of modern biotechnology in which transfer of DNA coding for a specific gene from one organism is introduced into another
 
 organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated and micro injection. Other tools are enzymes and host organisms. The enzyme restriction endonuclease is a molecular scissor that cleaves DNA into fragments at or near specific recognition sites with the molecule known as restriction sites. Other enzymes are DNA ligase and alkaline phosphatase. DNA ligase enzyme joins the sugar and phosphate molecules of double stranded DNA. Alkaline phosphatase is an enzyme which adds or removes specific phosphate group of double stranded DNA. A vector is a small DNA molecule capable of self replication and used as a carrier of DNA inserted in the host cell. Few examples of vectors are plasmid – pBR 322, cosmid – Lambda phage, M13, Phagmid , BAC, YAC, transposon, shuttle vector and expression vector. After production of recombinant DNA molecule has been generated is introduced into a suitable host cell. Type of host cell depends upon the cloning experiment. E.coli is the most widely used host organism. There are two kinds of gene transfer methods in plants. They are direct or vectorless gene transfer and indirect or vector mediated gene transfer. Direct gene transfer includes chemical mediated gene transfer, micro injection, electroporation. Gene gun method and Liposome mediated method of gene transfer. Indirect or vector mediated gene transfer is a method of gene transfer with the help of a plasmid vector. In this method Ti-plasmid from _Agrobactirum tumefeciens_ has been used extensively for vector mediated gene transfer. After the introduction of rDNA into a host cell, it is essential to identify those cells which have received the rDNA molecule. This process is called screening. One of the method of recombinant screening is blue white selection method Replica plating technique in which the pattern of colonies growing on a culture plate is copied. Electrophoresis is a separating technique used to separate different biomolecules. Blotting techniques are widely used tools for identification of desired DNA or RNA fragments from larger number of molecules. Some of the
-
-
-
-  
-
 
 
 genetically modified crops are herbicide tolerant – Basta, Dhara mustard, insects resistance – Bt crops, flavrSavr – Tomato, Golden rice. Biopolymers are polyhydroxybutyrate (PHB), polylactic acid (PLA) and green fluorescent protein (GFP) is used to make biosensors. Other applications are biopharming, bioprospecting, biomedication and biofuel, etc.
@@ -1437,10 +1316,8 @@ c. cut the DNA at terminus
 
 
 
-
 ![](botany_xii_pages_082-109-ch-04-22-1.jpg "")
   
-
 
 
 1 2 3 4 A) a b c d B) c d b a C) a c b d D) c d a b
@@ -1510,11 +1387,6 @@ examples of bioremediation. 31. Write the benefits and risk of Genetically
 Modified Foods.
 
 
-
-  
-
-
-
 **Glossary 3’ Hydroxy end: The hydroxyl group attached** to 3’ carbon atom of sugar of the terminal nucleotide of a nucleic acid.
 
 **Bacterial artificial chromosomes (BAC): A** cloning vector for isolation of genomic DNA constructed on the basis of F-factor.
@@ -1575,44 +1447,16 @@ Modified Foods.
 
 
 
-  
-
-
-
-
-
 functioning within the living cells by H.G. Khorana
 
-
-
-
-
-
-
-
-
-
-
 ## – U.S approved the first Genetically Modified food: Flavr Savr tomato.
-
 
 ## – The first transgenic animal,
  mammalian sheep, Dolly developed by **nuclear cloning** by Ian Wilmet.
 
 
-
 ## – Human genome Project creates a draft of the human genome sequence
 .
-
-
-
-
-
-
-
-
-
-
 
 **discovered protein found in immune cells. This found a new role in cancer** therapy.
 
@@ -1628,8 +1472,6 @@ field with multidisciplinary applications are listed below:
 
 
 
-
-
 ## – Louis Pasteur identified role of microorganisms in fermentation
 .
 
@@ -1638,20 +1480,8 @@ field with multidisciplinary applications are listed below:
 
 
 
-
-
 ## – Identification of DNA as the genetic material
  Avery–MacLeod–McCarty
-
-
-
-
-
-
-
-
-
-
 
 ## BC – 3000 BC
  – Bread making, fermentation of fruit juices and plant exudates to produce alcoholic beverages using yeast.
@@ -1665,11 +1495,6 @@ field with multidisciplinary applications are listed below:
 **21st Century**
 
 **APPENDIX**
-
-
-
-  
-
 
 
 Cosmids are plasmids containing the ‘cos’ - Cohesive Terminus, the sequence having cohesive ends. They are hybrid vectors derived from plasmids having a fragment of lambda phage DNA with its Cos site and a bacterial plasmid.
@@ -1699,15 +1524,9 @@ BAC is a shuttle plasmid vector, created for cloning large-sized foreign DNA. BA
 **More vectors to know**
 
 
-
-  
-
-
-
 **Interdisciplinary Fields of Biotechnology** Biotechnology is one of the most important applied interdisciplinary sciences of the **21st century**. It is the trusted area that enables us to find the beneficial way of life. Biotechnology has wide applications in various sectors like agriculture, medicine, environment and commercial industries.
 
 Interdisciplinary Fields of Biotechnology
-
 
 
 
@@ -1717,7 +1536,6 @@ Interdisciplinary Fields of Biotechnology
 
 ![](botany_xii_pages_082-109-ch-04-27-8.jpg "")
   
-
 
 
 URL:
@@ -1733,13 +1551,11 @@ _BIO TECH STUDY APP_
 **Step 2Step 1 Step 3 Step 4**
 
 **Steps**
-
-• Type the URL or scan the QR code to open the activity page. • Click on the topic to know in detail. • To know the sub topics in detail click on the dots in top right corner.
+- Type the URL or scan the QR code to open the activity page. • Click on the topic to know in detail. • To know the sub topics in detail click on the dots in top right corner.
 
 Let us know about the information Bio Technology through this activity.
 
 \* Pictures are indicative only
-
 
 
 
