@@ -197,47 +197,8 @@ The plant height is controlled by a single gene with two alleles. The reason for
 
 **Law of Independent Assortment** – When two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent to the other pair of characters. Genes that are located in different chromosomes assort independently during meiosis. Many possible combinations of factors can occur in the gametes.
 
-**Homozygous** Round seeds
 
-**Heterozygous**
-
-**Homozygous** Wrinkled seeds
-
-Parental
-
-x
-
-x
-
-Gametes
-
-Gametes
-
-F1 generation
-
-RY
-
-RY Ry rY ry RY Ry rY ry
-
-RrYy
-
-RrYy RrYy
-
-ry
-
-Yellow cotyledon
-
-Green cotyledon
-
-RRYY Meiosis
-
-rryy Meiosis
-
-Round seeds Yellow cotyledon
-
-Selfed – Genes are present on separate chromosomes and random assortment takes place. So four different types of gametes in equal proportions are formed. Law of Independent Assortment.
-
-![Dihybrid cross – Segregation of gametes]( "")
+![Dihybrid cross – Segregation of gametes](dihybrid-cross-segregation-of-gametes.png "")
 
 Independent assortment leads to genetic diversity. If an individual produces genetically dissimilar gametes it is the consequence of independent assortment. Through independent assortment, the maternal and paternal members of all pairs were distributed to gametes, so all possible chromosomal combinations were produced leading to genetic variation. In sexually reproducing plants / organisms, due to independent assortment, genetic variation takes place which is important in the process of evolution. The Law of Segregation is concerned with alleles of one gene but the Law of Independent Assortment deals with the relationship between genes.
 
@@ -250,123 +211,8 @@ in the ratio of 9:3:3:1 as shown in the figure. Mendel’s 9:3:3:1 dihybrid rati
 
 fertilization. In sexually reproducing organism / plants from the garden peas to human beings, Mendel’s findings laid the foundation for understanding inheritance and revolutionized the field of biology. The dihybrid cross and its result led Mendel to propose a second set of generalisations that we called Mendel's Law of independent assortment.
 
-Phenotypic Ratio 9:3:3:1
 
-Parent 2Parent 1
-
-Round yellow cotyledon
-
-P Generation Parental phenotype
-
-Diploid parental genotype
-
-Haploid gametes
-
-F1 generation
-
-F1 genotypes : All _Rr Yy_
-
-F1 phenotype : All round-yellow cotyledon
-
-_RR YY_
-
-X
-
-X
-
-X
-
-_rr yy_
-
-Wrinkled green cotyledon
-
-_r_
-
-_r_
-
-_R y_
-
-_y_
-
-_Y_
-
-_R Y_
-
-F2 Generation
-
-F1 gametes
-
-Haploid F1 gametes
-
-F1
-
-gametes
-
-_Rr YyRr Yy_
-
-R Y R YR y r Y r y
-
-R Y
-
-R Y
-
-R y
-
-R y
-
-r Y
-
-r Y
-
-r y
-
-r y
-
-R y r Y r y
-
-1/4
-
-1/4
-
-1/4
-
-1/4
-
-1/4 1/4 1/4 1/4
-
-_RR YY RR Yy_
-
-_RR Yy RR yy_
-
-_Rr YY Rr Yy_
-
-_Rr Yy Rr yy_
-
-_Rr YY_
-
-_Rr Yy_
-
-_rr YY_
-
-_rr Yy_
-
-_Rr Yy_
-
-_Rr yy_
-
-_rr Yy_
-
-_rr yy_
-
-Parent 2Parent 1
-
-Round yellow cotyledon
-
-F1 Generation (**selfed**)
-
-Round yellow cotyledon
-
-![Dihybrid Cross in Garden peas]( "")
+![Dihybrid Cross in Garden peas](dihybrid-cross-in-garden-peas.png "")
 
 **How does the wrinkled gene make Mendel’s peas wrinkled? Find out the molecular explanation.**
 
@@ -374,43 +220,8 @@ The protein called starch branching enzyme (SBEI) is encoded by the wild-type al
 
 **The wrinkled gene make Mendel’s peas wrinkled**
 
-RR rr
 
-Recessive allele rr
-
-Active enzyme SBE - I
-
-Inactive enzyme
-
-Converted to
-
-**Round Peas & Wrinkled Peas**
-
-Dominant allele RR
-
-Linear unbranched
-
-starch amylose
-
-Branched starch
-
-amylopectin Round
-
-peas
-
-No conversion
-
-Wrinkled peas
-
-Linear unbranched
-
-starch amylose
-
-Linear unbranched
-
-starch amylose
-
-![Molecular explanation of round and wrinkled peas.]( "")
+![Molecular explanation of round and wrinkled peas.](molecular-explanations-of-round-and-wrinkled-peas.png "")
 
 
 Epistatic / Non-epistatic interactions
@@ -435,11 +246,11 @@ Interlocus interactions
 
 (Non-allelic interactions)
 
-![Gene Interaction Mendelian experiments prove that a single gene controls one character. But in the post Mendelian findings, various exception have been noticed, in which different types of interactions are possible between the genes. This gene interaction concept was introduced and explained by W. Bateson. This concept is otherwise known as Factor hypothesis or Bateson’s factor hypothesis. According to Bateson’s factor hypothesis, the gene interactions can be classified as • Intragenic gene interactions or Intra allelic]( "")
+![]( "")
 
 or allelic interactions • Intergenic gene interactions or inter allelic
 
-or non-allelic interactions **2.4 Intragenic interactions** Interactions take place between the alleles of the same gene i.e., alleles at the same locus is called intragenic or intralocus gene interaction. It includes the following: 1) Incomplete dominance (2) Codominance (3) Multiple alleles (4) Pleiotropic genes are common examples for intragenic interaction.
+or non-allelic interactions 
 
 ### The Dihybrid test cross
 
