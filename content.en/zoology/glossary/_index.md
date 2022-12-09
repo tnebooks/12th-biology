@@ -13,7 +13,6 @@ weight: 15
 XII Std Zoology Glossary EM.indd 236 12/15/2021 10:55:55 AM
 
 
-![](glossary-1-1.jpg "")
   
 
 237 Glossary

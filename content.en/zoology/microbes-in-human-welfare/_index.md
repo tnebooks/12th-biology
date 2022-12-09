@@ -47,7 +47,6 @@ XII Std Zoology Chapter 9 EM.indd 148 18/12/2021 14:59:09
 
 ![](chapter-9-1-1.jpg "")
 
-![](chapter-9-1-2.jpg "")
   
 
 149 Microbes in Human Welfare
@@ -139,7 +138,6 @@ XII Std Zoology Chapter 9 EM.indd 150 18/12/2021 14:59:10
 
 ![](chapter-9-3-4.jpg "")
 
-![](chapter-9-3-6.jpg "")
   
 
 151 Microbes in Human Welfare
@@ -313,29 +311,20 @@ XII Std Zoology Chapter 9 EM.indd 154 18/12/2021 14:59:12
 
 ![](chapter-9-7-1.jpg "")
 
-![](chapter-9-7-2.jpg "")
 
 ![](chapter-9-7-3.jpg "")
 
 ![](chapter-9-7-4.jpg "")
 
-![](chapter-9-7-7.jpg "")
 
-![](chapter-9-7-8.jpg "")
 
-![](chapter-9-7-9.jpg "")
 
-![](chapter-9-7-11.jpg "")
 
-![](chapter-9-7-12.jpg "")
 
-![](chapter-9-7-13.jpg "")
 
-![](chapter-9-7-15.jpg "")
 
 ![](chapter-9-7-16.jpg "")
 
-![](chapter-9-7-18.jpg "")
 
 ![](chapter-9-7-19.jpg "")
 
@@ -397,7 +386,6 @@ a) _Aspergillus niger_ b) _Manascus purpureus_ c) _Penicillium notatum_ **_d) Tr
 XII Std Zoology Chapter 9 EM.indd 155 18/12/2021 14:59:12
 
 
-![](chapter-9-8-1.jpg "")
   
 
 156Microbes in Human Welfare
@@ -429,4 +417,3 @@ XII Std Zoology Chapter 9 EM.indd 156 18/12/2021 14:59:13
 
 ![](chapter-9-9-1.jpg "")
 
-![](chapter-9-9-3.jpg "")

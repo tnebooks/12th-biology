@@ -45,7 +45,6 @@ _\- Hippocrates_
 XII Std Zoology Chapter 8 EM.indd 129 18/12/2021 14:58:23
 
 
-![](chapter-8-1-2.jpg "")
   
 
 130Immunology
@@ -379,7 +378,6 @@ XII Std Zoology Chapter 8 EM.indd 136 18/12/2021 14:58:25
 
 ![](chapter-8-8-1.jpg "")
 
-![](chapter-8-8-2.jpg "")
   
 
 137 Immunology
@@ -453,7 +451,6 @@ The binding force between antigen and antibody is due to three factors. They are
 XII Std Zoology Chapter 8 EM.indd 138 18/12/2021 14:58:25
 
 
-![](chapter-8-10-1.jpg "")
   
 
 139 Immunology
@@ -533,119 +530,65 @@ Attenuated non-pathogenic form (vaccine)
 XII Std Zoology Chapter 8 EM.indd 139 18/12/2021 14:58:25
 
 
-![](chapter-8-11-2.jpg "")
 
-![](chapter-8-11-3.jpg "")
 
-![](chapter-8-11-4.jpg "")
 
-![](chapter-8-11-5.jpg "")
 
-![](chapter-8-11-7.jpg "")
 
-![](chapter-8-11-8.jpg "")
 
 ![](chapter-8-11-11.jpg "")
 
 ![](chapter-8-11-12.jpg "")
 
-![](chapter-8-11-14.jpg "")
 
-![](chapter-8-11-15.jpg "")
 
 ![](chapter-8-11-16.jpg "")
 
-![](chapter-8-11-17.jpg "")
 
-![](chapter-8-11-18.jpg "")
 
-![](chapter-8-11-19.jpg "")
 
-![](chapter-8-11-21.jpg "")
 
-![](chapter-8-11-22.jpg "")
 
-![](chapter-8-11-23.jpg "")
 
-![](chapter-8-11-25.jpg "")
 
-![](chapter-8-11-26.jpg "")
 
-![](chapter-8-11-27.jpg "")
 
-![](chapter-8-11-28.jpg "")
 
-![](chapter-8-11-29.jpg "")
 
-![](chapter-8-11-30.jpg "")
 
-![](chapter-8-11-31.jpg "")
 
-![](chapter-8-11-32.jpg "")
 
-![](chapter-8-11-33.jpg "")
 
-![](chapter-8-11-34.jpg "")
 
-![](chapter-8-11-36.jpg "")
 
-![](chapter-8-11-37.jpg "")
 
-![](chapter-8-11-38.jpg "")
 
-![](chapter-8-11-39.jpg "")
 
-![](chapter-8-11-40.jpg "")
 
-![](chapter-8-11-41.jpg "")
 
-![](chapter-8-11-42.jpg "")
 
-![](chapter-8-11-43.jpg "")
 
-![](chapter-8-11-44.jpg "")
 
-![](chapter-8-11-45.jpg "")
 
-![](chapter-8-11-47.jpg "")
 
-![](chapter-8-11-48.jpg "")
 
-![](chapter-8-11-49.jpg "")
 
-![](chapter-8-11-53.jpg "")
 
-![](chapter-8-11-54.jpg "")
 
-![](chapter-8-11-55.jpg "")
 
-![](chapter-8-11-56.jpg "")
 
-![](chapter-8-11-59.jpg "")
 
-![](chapter-8-11-60.jpg "")
 
-![](chapter-8-11-61.jpg "")
 
-![](chapter-8-11-65.jpg "")
 
-![](chapter-8-11-66.jpg "")
 
-![](chapter-8-11-67.jpg "")
 
-![](chapter-8-11-69.jpg "")
 
-![](chapter-8-11-70.jpg "")
 
-![](chapter-8-11-71.jpg "")
 
-![](chapter-8-11-72.jpg "")
 
-![](chapter-8-11-73.jpg "")
 
-![](chapter-8-11-74.jpg "")
 
-![](chapter-8-11-75.jpg "")
   
 
 140Immunology
@@ -797,7 +740,6 @@ An antigen is a substance that is specific to an antibody. An immunogen is a sub
 XII Std Zoology Chapter 8 EM.indd 144 18/12/2021 14:58:26
 
 
-![](chapter-8-16-1.jpg "")
   
 
 145 Immunology
@@ -1313,7 +1255,6 @@ XII Std Zoology Chapter 8 EM.indd 147 18/12/2021 14:58:29
 
 ![](chapter-8-19-1.jpg "")
 
-![](chapter-8-19-3.jpg "")
 
 ![](chapter-8-19-4.jpg "")
 

@@ -4,9 +4,7 @@ weight: 7
 ---
   
 
-
-
-• How soil, climate and other physical features affect the flora and fauna or vice versa?
+- How soil, climate and other physical features affect the flora and fauna or vice versa?
 
 These questions can be better answered with the study of ecology. Ecology is essentially a practical science involving experiments, continuous observations to predict how organisms react to particular environmental circumstances and understanding the principles involved in ecology.
 
@@ -21,8 +19,7 @@ These questions can be better answered with the study of ecology. Ecology is ess
 R. Misra
 
 Ecology is a division of biology which deals with the study of environment in relation to organisms. It can be studied by considering individual organisms, population, community, biome or biosphere and their environment. While observing our different environments, one can ask questions like
-
-• Why do plants or animals vary with places? • What are the causes for variation in
+- Why do plants or animals vary with places? • What are the causes for variation in
 
 biological diversity of different places?
 
@@ -48,14 +45,11 @@ Learn the structure of various fruits and seeds related to their dispersal mecha
 
 
 
-
 ![](botany_xii_pages_123-148-ch-06-1-1.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-1-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-1-3.jpg "")
   
-
 
 
 habitat and niche of any organism is called **Ecotope**
@@ -90,7 +84,6 @@ otherwise called as **Applied ecology or Environmental technology.** It helps us
 
 ### Branches of Ecology:
 
-
 Ecology is mainly divided into two branches, they are autecology and synecology.
 
 **1\. Autecology** is the ecology of an individual species and is also called species ecology.
@@ -98,7 +91,6 @@ Ecology is mainly divided into two branches, they are autecology and synecology.
 **2\. Synecology** is the ecology of a population or community with one or more species and also called as community ecology. Many advances and developments in the field ecology resulted in various new dimensions and branches. Some of the advanced fields are Molecular ecology, Eco technology, Statistical ecology and Environmental toxicology.
 
 ### Habitat and Niche
-
 
 **Habitat** Habitat is a specific physical place or locality occupied by an organism or any species which has a particular combination of abiotic or environmental factors. But the environment of any community is called **Biotope**.
 
@@ -117,11 +109,6 @@ Individual organism
 Population
 
 Community
-
-
-
-  
-
 
 
 Sun light
@@ -154,7 +141,7 @@ Soil air
 
 Edaphic factors
 
-**Figure 6.1: Environmental factors affecting a plant a. Light** Light is a well known factor needed for the basic physiological processes of plants, such as photosynthesis, transpiration, seed germination and flowering. The portion of the sunlight which can be resolved by the human eye is called **visible light. The visible part of light is made-** up of wavelength from about 400 nm (**violet**) to 700 nm (red). The rate of photosynthesis is maximum at **blue** (400 – 500 nm) and **red** (600 – 700 nm). The green (500 – 600 nm) wave length of spectrum is less strongly absorbed by plants. **Effects of light on plants**
+![(600 – 700 nm). The green (500 – 600 nm) wave length of spectrum is less strongly absorbed by plants. **Effects of light on plants**]( "")
 
 Photosynthesis
 
@@ -200,13 +187,12 @@ m at
 
 io n
 
-**Figure 6.2: Various effects of light upon a** green plant
+![green plant]( "")
 
 Examples: • Certain species of epiphytic orchids of
 
 Western Ghats of India differ from the epiphytic orchids of South America. But they are epiphytes.
-
-• Species of the grass lands of Western Ghats of India differ from the grass species of temperate grass lands of Steppe in North America. But they are all ecologically primary producers and fulfilling similar roles in their respective communities.
+- Species of the grass lands of Western Ghats of India differ from the grass species of temperate grass lands of Steppe in North America. But they are all ecologically primary producers and fulfilling similar roles in their respective communities.
 
 ## Ecological factors
  Many organisms, co-exist in an environment. The environment (surrounding) includes physical, chemical and biological components. When a component surrounding an organism affects the life of an organism, it becomes a factor. All such factors together are called **environmental factors** or **ecological factors**. These factors can be classified into living (**biotic**) and non-living (**abiotic**) which make the environment of an organism. However the ecological factors are meaningfully grouped into four classes, which are as follows: i. Climatic factors ii. Edaphic factors iii. Topographic factors iv. Biotic factors We will discuss the above factors in a concise manner.
@@ -217,7 +203,6 @@ evening primrose open up with the onset of dusk (5 – 6 pm) due to diurnal rhyt
 
 ### Climatic Factors
  Climate is one of the important natural factors controlling the plant life. The climatic factors includes light, temperature, water, wind and fire.
-
 
 
 
@@ -245,19 +230,14 @@ evening primrose open up with the onset of dusk (5 – 6 pm) due to diurnal rhyt
 
 ![](botany_xii_pages_123-148-ch-06-3-52.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-61.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-65.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-66.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-70.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-3-72.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-3-83.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-3-87.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-3-94.jpg "")
 
@@ -265,7 +245,6 @@ evening primrose open up with the onset of dusk (5 – 6 pm) due to diurnal rhyt
 
 ![](botany_xii_pages_123-148-ch-06-3-116.jpg "")
   
-
 
 
 **1\. Eurythermal:** Organisms which can tolerate a wide range of temperature fluctuations. Example: _Zostera_ (A marine Angiosperm) and _Artemisia tridentata_. **2\. Stenothermal:** Organisms which can tolerate only small range of temperature variations. Example: Mango and Palm (Terrestrial Angiosperms).
@@ -315,11 +294,6 @@ activities are maximum. 3. **Maximum temperature** \- Physiological
 activities will stop. Based on the temperature prevailing in
 
 an area, Raunkiaer classified the world’s vegetation into the following four types. They are megatherms, mesotherms, microtherms and hekistotherms. In thermal springs and deep sea hydrothermal vents the average temperature exceed 100oc. Based on the range of **thermal tolerance**, organisms are divided into two types.
-
-
-
-  
-
 
 
 **c. Water** Water is one of the most important climatic factors. It affects the vital processes of all living organisms. It is believed that even life had originated only in water during the evolution of Earth. Water covers more than 70% of the earth’s surface. In nature, water is available to plants in three ways. They are atmospheric moisture, **precipitation** and **soil water**.
@@ -376,7 +350,7 @@ rain forest**EQUATOR**
 
 Ice/ Snow
 
-**Figure 6.4:** Latitudinal zonation of vegetation type
+![Latitudinal zonation of vegetation type]( "")
 
 14,500' 12,000'
 
@@ -402,20 +376,15 @@ Grassland or desert Tropical rain forest
 
 3000' 1300'
 
-**Figure 6.5:** Altitudinal zonation of vegetation
+![Altitudinal zonation of vegetation]( "")
 
 **Timber line / Tree line** : It is an imaginary line in a mountain or higher areas of land that marks the level above which trees do not grow. The altitudinal limit of normal tree growth is about 
 
 **Effects of temperature** The following physiological processes are influenced by temperature:
-
-• Temperature affects the enzymatic action of all the bio-chemical reactions in a plant body.
-
-• It influences CO2 and O2 solubility in the biological systems. Increases respiration and stimulates growth of seedlings.
-
-• Low temperature with high humidity can cause spread of diseases in plants.
-
-• The varying temperature with moisture determines the distribution of the vegetation types.
-
+- Temperature affects the enzymatic action of all the bio-chemical reactions in a plant body.
+- It influences CO2 and O2 solubility in the biological systems. Increases respiration and stimulates growth of seedlings.
+- Low temperature with high humidity can cause spread of diseases in plants.
+- The varying temperature with moisture determines the distribution of the vegetation types.
 
 
 
@@ -423,25 +392,16 @@ Grassland or desert Tropical rain forest
 
 ![](botany_xii_pages_123-148-ch-06-5-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-4.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-5.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-7.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-5-8.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-9.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-10.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-11.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-12.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-5-13.jpg "")
   
-
 
 
 **Effects of wind** • Wind is an important factor for the
@@ -453,10 +413,8 @@ promotes aeration of water • Strong wind causes soil erosion and reduces
 soil fertility • Increases the rate of transpiration • Helps in pollination in anemophilous plants • It also helps in
 
 dispersal of many fruits, seeds, spores, etc.
-
-• Strong wind may cause up-rooting of big trees
-
-• Unidirectional wind stimulates the development of flag **forms** in trees**.**
+- Strong wind may cause up-rooting of big trees
+- Unidirectional wind stimulates the development of flag **forms** in trees**.**
 
 **e. Fire** Fire is an exothermic factor caused due to the chemical process of combustion, releasing heat and light. It is mostly man-made and some- times develops naturally due to the friction between the tree surfaces. Fire is generally divided into **1\. Ground fire – Which is flameless and**
 
@@ -467,8 +425,7 @@ and shrubs. **3\. Crown fire – Which burns the forest canopy. Effects of fire*
 entry of parasitic fungi and insects • It brings out the alteration of light, rainfall,
 
 nutrient cycle, fertility of soil, pH, soil flora and fauna
-
-• Some fungi which grow in soil of burnt areas called pyrophilous.
+- Some fungi which grow in soil of burnt areas called pyrophilous.
 
 Example: Pyronema confluens.
 
@@ -482,12 +439,7 @@ Gases let out to atmosphere causes climatic change. Emission of dust
 
 and aerosols (small solids or liquid particles in suspension in the atmosphere) from industries, automobiles, forest fire, So2 and DMS (dimethyl sulphur) play an important role in disturbing the temperature level of any region. Aerosols with small particles is reflecting the solar radiation entering the atmosphere. This is known as Albedo effect. So it reduces the temperature (cooling) limits, photosynthesis and respiration. The sulphur compounds are responsible for **acid rain due to acidification of rain water** and destroy the ozone.
 
-**Figure 6.6:** Flag form in trees
-
-
-
-  
-
+![Flag form in trees]( "")
 
 
 **Soil types** Based on soil formation (**pedogenesis**),
@@ -517,10 +469,7 @@ A natural fire break may occur when there is a lack of vegetation such as River,
 
 
 
-
-![](botany_xii_pages_123-148-ch-06-7-1.jpg "")
   
-
 
 
 **Loamy soil is ideal soil for cultivation.** It consists of 70% sand and 30% clay or silt or both. It ensures good retention and proper drainage of water. The porosity of soil provides adequate aeration and allows the penetration of roots.
@@ -583,7 +532,6 @@ It is a parent bed rock upon which underground water is found .
 
 
 
-
 ![](botany_xii_pages_123-148-ch-06-8-1.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-8-2.jpg "")
@@ -604,7 +552,6 @@ It is a parent bed rock upon which underground water is found .
 
 ![](botany_xii_pages_123-148-ch-06-8-10.jpg "")
   
-
 
 
 **Ecotone - The transition zone between two** ecosystems. Example: The border between forest and grassland. **Edge effect – Species found in ecotone** areas are unique due to the effect of the two habitats. Example: Owl in the ecotone area between forest and grassland.
@@ -633,7 +580,7 @@ Moist winds
 
 Rich vegetation
 
-**Figure 6.9:** Steepness of mountain
+![Steepness of mountain]( "")
 
 **Holard –**Total soil water content **Chresard –**Water available to plants **Echard –** Water not available to plants
 
@@ -642,7 +589,7 @@ Rich vegetation
 
 **a. Latitudes and altitudes** Latitudes represent distance from the equator. Temperature values are maximum at the equator and decrease gradually towards poles. Different types of vegetation occur from equator to poles which are illustrated below.
 
-**Figure 6.8:** Latitudinal and Altitudinal Vegetation
+![Latitudinal and Altitudinal Vegetation]( "")
 
 Height above the sea level forms the **altitude**. At high altitudes, the velocity of wind remains high, temperature and air pressure decrease while humidity and intensity of light increases. Due to these factors, vegetation at different altitudes varies, showing distinct zonation.
 
@@ -651,26 +598,18 @@ Height above the sea level forms the **altitude**. At high altitudes, the veloci
 
 
 
-![](botany_xii_pages_123-148-ch-06-9-1.jpg "")
-
-![](botany_xii_pages_123-148-ch-06-9-2.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-9-31.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-9-32.jpg "")
   
-
 
 
 **Other examples:** • Water fern
 
 (_Azolla_) and Nitrogen fixing Cyanobacterium _(Anabaena_ ).
-
-• _Anabaena_ present in coralloid roots of _Cycas_. (Gymnosperm)
-
-• Cyanobacterium (_Nostoc_) found in the thalloid body of _Anthoceros._(Bryophytes)
-
-• Wasps present in fruits of fig. • Lichen is a mutual association of an **alga**
+- _Anabaena_ present in coralloid roots of _Cycas_. (Gymnosperm)
+- Cyanobacterium (_Nostoc_) found in the thalloid body of _Anthoceros._(Bryophytes)
+- Wasps present in fruits of fig. • Lichen is a mutual association of an **alga**
 
 and **a fungus**. • Roots of terrestrial plants and fungal
 
@@ -689,7 +628,7 @@ Root hair
 
 Bacteria
 
-**Figure 6.10:** A nodulated legume
+![A nodulated legume]( "")
 
 plant root with bacteria
 
@@ -714,11 +653,6 @@ other species are unaffected _Penicillium_ and _Staphylococcus_
 (+) Benefitted, (-) Harmed (0)Unaffected **Table 6.4: Different interactions of plant**
 
 
-
-  
-
-
-
 **Examples:** • A number of
 
 plants like _Drosera_ (Sun dew Plant), _Nepenthes_ (Pitcher Plant), _Dionaea_ (Venus fly trap), _Utricularia_ (Bladder wort) and _Sarracenia_ are predators which consume insects and other small animals for their food as a source of nitrogen. They are also called as **insectivorous plants**.
@@ -737,19 +671,16 @@ Absorptive hairsInsect larva
 
 **Bladder**
 
-**Figure 6.13:** Insectivorous plant _Utricularia_
-
-• Many herbivores are **predators**. Cattles, Camels, Goats etc., frequently browse on the tender shoots of herbs, shrubs and trees. Generally annuals suffer more than the perennials. Grazing and browsing may cause remarkable changes in vegetation. Nearly 25 percent of all insects are known as phytophagous(feeds on plant sap and other parts of plant)
-
-• Many **defense mechanisms** are evolved to avoid their predations by plants. Examples: _Calotropis_ produces highly poisonous cardiac glycosides, Tobacco produces nicotine, coffee plants produce caffeine, Cinchona plant produces quinine. Thorns of Bougainvillea, spines of _Opuntia_, and latex of cacti also protect them from predators.
+![Insectivorous plant _Utricularia_]( "")
+- Many herbivores are **predators**. Cattles, Camels, Goats etc., frequently browse on the tender shoots of herbs, shrubs and trees. Generally annuals suffer more than the perennials. Grazing and browsing may cause remarkable changes in vegetation. Nearly 25 percent of all insects are known as phytophagous(feeds on plant sap and other parts of plant)
+- Many **defense mechanisms** are evolved to avoid their predations by plants. Examples: _Calotropis_ produces highly poisonous cardiac glycosides, Tobacco produces nicotine, coffee plants produce caffeine, Cinchona plant produces quinine. Thorns of Bougainvillea, spines of _Opuntia_, and latex of cacti also protect them from predators.
 
 **Epiphytes** The plants which are found growing on other plants without harming them are called epiphytes. They are commonly found in tropical rain forest.
 
 The epiphytic higher plant (Orchid) gets its nutrients and water from the atmosphere with the help of the hygroscopic roots which contain special type of spongy tissue called **Velamen.** It prepares its own food and does not depend on the host. Using the host plant only they support and does not harm it in any way. • Many orchids, ferns, lianas, hanging mosses,
 
 _Peperomia_, money plant and _Usnea_ (Lichen) are some of the examples of epiphytes.
-
-• Spanish Moss –_Tillandsia_ grows on the bark of Oak and Pine trees.
+- Spanish Moss –_Tillandsia_ grows on the bark of Oak and Pine trees.
 
 **Proto Cooperation**
 
@@ -779,12 +710,7 @@ Insect
 
 Fluid
 
-**Figure 6.12:** Pitcher plant – with insect
-
-
-
-  
-
+![Pitcher plant – with insect]( "")
 
 
 **Hemiparasites** The organisms which derive only water and minerals from their host plant while synthesizing their own food by photosynthesis are called Hemiparasites. They are also called **partial parasites**. Examples: • _Viscum_ and _Loranthus_ are **partial stem**
@@ -829,33 +755,25 @@ Host
 
 Root Tuber
 
-**Figure 6.14:** a) Holoparasite – _Cuscuta_ b) A Partial stem parasite – _Viscum_
+![a) Holoparasite – _Cuscuta_ b) A Partial stem parasite – _Viscum_]( "")
 
 c) Root parasite on the brinjal root _Orobanche_ spp.
 
 Examples:
+- _Cuscuta_ is a total stem parasite of the host plant _Acacia_, _Duranta_ and many other plants. Cuscuta even gets flower inducing hormone from its host plant.
+- Balanophora, Orobanche and Rafflesia are the total root parasites found on higher plants.
 
-• _Cuscuta_ is a total stem parasite of the host plant _Acacia_, _Duranta_ and many other plants. Cuscuta even gets flower inducing hormone from its host plant.
-
-• Balanophora, Orobanche and Rafflesia are the total root parasites found on higher plants.
-
-
-
-  
-
-
-
-• _Phyllium frondosum_ – leaf insect, another example of protective mimicry.
+- _Phyllium frondosum_ – leaf insect, another example of protective mimicry.
 
 **ii. Myrmecophily:** Sometimes, ants take their shelter on some trees such as Mango, Litchi, Jamun, _Acacia_ etc. These ants act as body guards of the plants against any disturbing agent and the plants in turn provide food and shelter to these ants. This phenomenon is known as Myrmecophily. Example: Acacia and acacia ants.
 
-**Figure 6.16:** Myrmecophily
+![Myrmecophily]( "")
 
 Ant
 
 **iii. Co-evolution:** The interaction between organisms, when continues for generations, involves reciprocal changes in genetic and morphological characters of both organisms. This type of evolution is called Co-evolution. It is a kind of co- adaptation and mutual change among interactive species.
 
-**Figure 6.17:** Co-evolution
+![Co-evolution]( "")
 
 Examples: • Corolla length and proboscis length of
 
@@ -866,23 +784,19 @@ of Scrub jungles ,Slit size of pollinia of Apocynaceae members and leg size of i
 **d. Amensalism: It is an interspecific interaction** in which one species is inhibited while the other species is neither benefitted nor harmed. The inhibition is achieved by the secretion of certain chemicals called **allelopathic** substances. Amensalism is also called **antibiosis.** • _Penicillium notatum_ produces penicillin to
 
 inhibit the growth of a variety of bacteria especially _Staphylococcus_.
-
-• _Trichoderma_ inhibits the growth of fungus _Aspergillus_.
-
-• Roots and hulls of Black Walnut _Juglans nigra_ secretes an alkaloid **Juglone** which inhibits the growth of seedlings of Apple, Tomato and _Alfalfa_ around it.
+- _Trichoderma_ inhibits the growth of fungus _Aspergillus_.
+- Roots and hulls of Black Walnut _Juglans nigra_ secretes an alkaloid **Juglone** which inhibits the growth of seedlings of Apple, Tomato and _Alfalfa_ around it.
 
 **Interspecific interactions/ Co-evolutionary dynamics i. Mimicry:** It is a phenomenon in which living organism modifies its form, appearance, structure or behavior and looks like another living organism as a self defence and increases the chance of its survival. Floral mimicry is for usually inviting pollinators but animal mimicry is often protective. Mimicry is a result of evolutionary significance due to shape and sudden heritable mutation and preservation by natural selection.
 
-**Figure 6.15:** Mimicry a) _Phyllium frondosum_ b) _Carausium morosus_
+![Mimicry a) _Phyllium frondosum_ b) _Carausium morosus_]( "")
 
 a) b)
 
 Example: • The plant, Ophrys an orchid, the flower looks
 
 like a female insect to attract the male insect to get pollinated by the male insect and it is otherwise called ‘floral mimicry ‘.
-
-• _Carausium morosus_ – stick insect or walking stick. It is a protective mimicry.
-
+- _Carausium morosus_ – stick insect or walking stick. It is a protective mimicry.
 
 
 
@@ -894,7 +808,6 @@ like a female insect to attract the male insect to get pollinated by the male in
 
 ![](botany_xii_pages_123-148-ch-06-13-4.jpg "")
   
-
 
 
 ## Ecological adaptations
@@ -1012,71 +925,41 @@ Stolen
 
 Roots
 
-**Figure 6.18:** Hydrophytes
+![Hydrophytes]( "")
 
 
 
 
-![](botany_xii_pages_123-148-ch-06-14-1.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-3.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-7.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-9.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-10.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-11.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-12.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-13.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-14.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-15.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-16.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-20.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-24.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-25.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-26.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-27.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-28.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-29.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-30.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-31.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-32.jpg "")
-
-![](botany_xii_pages_123-148-ch-06-14-33.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-14-34.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-35.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-14-36.jpg "")
   
 
-
-
-• Cortex is well developed with aerenchyma
-
-• Vascular tissues are poorly developed. In emergent forms vascular elements are well developed.
-
-• Mechanical tissues are generally absent except in some emergent forms. Pith cells are sclerenchymatous.
+- Cortex is well developed with aerenchyma
+- Vascular tissues are poorly developed. In emergent forms vascular elements are well developed.
+- Mechanical tissues are generally absent except in some emergent forms. Pith cells are sclerenchymatous.
 
 **T.s of _Hydrilla_ stem**
 
@@ -1094,13 +977,11 @@ Pericycle Xylem cavity
 
 Phloem
 
-**Figure 6.19:** T.S. of _Hydrilla_ stem
+![T.S. of _Hydrilla_ stem]( "")
 
 **Physiological adaptations of Hydrophytes:**
-
-• Hydrophytes have the ability to withstand anaerobic conditions .
-
-• They possess special aerating organs.
+- Hydrophytes have the ability to withstand anaerobic conditions .
+- They possess special aerating organs.
 
 **Xerophytes**
 
@@ -1119,44 +1000,29 @@ aquatic and terrestrial modes of life. They grow in shallow water. Examples: _Ra
 **Morphological adaptations of Hydrophytes: In root** • Roots are totally absent in Wolffia and
 
 _Salvinia_ or poorly developed in _Hydrilla_ or well developed in _Ranunculus._
-
-• The root caps are replaced by root pockets. Example: _Eichhornia_
+- The root caps are replaced by root pockets. Example: _Eichhornia_
 
 **In stem**
-
-• The stem is long, slender, spongy and flexible in submerged forms.
-
-• In free floating forms the stem is thick, short stoloniferous and spongy; and in rooted floating forms, it is a rhizome .
-
-• Vegetative propagation is through runners, stolon, stem and root cuttings , tubers, dormant apices and offsets.
+- The stem is long, slender, spongy and flexible in submerged forms.
+- In free floating forms the stem is thick, short stoloniferous and spongy; and in rooted floating forms, it is a rhizome .
+- Vegetative propagation is through runners, stolon, stem and root cuttings , tubers, dormant apices and offsets.
 
 **In leaves** • The leaves are thin, long and ribbon shaped in
 
 _Vallisneria_ or long and linear in _Potamogeton_ or finely dissected in Ceratophyllum
-
-• The floating leaves are large and flat as in _Nymphaea_ and _Nelumbo_. In _Eichhornia_ and _Trapa_ petioles become swollen and spongy.
-
-• In emergent forms, the leaves show **heterophylly** (Submerged leaves are dissected and aerial leaves are entire). Example: _Ranunculus, Limnophila heterophylla_ and _Sagittaria_
+- The floating leaves are large and flat as in _Nymphaea_ and _Nelumbo_. In _Eichhornia_ and _Trapa_ petioles become swollen and spongy.
+- In emergent forms, the leaves show **heterophylly** (Submerged leaves are dissected and aerial leaves are entire). Example: _Ranunculus, Limnophila heterophylla_ and _Sagittaria_
 
 **Anatomical adaptations** • Cuticle is either completely absent or if
 
 present it is thin and poorly developed • Single layer of epidermis is present
 
 
-
-  
-
-
-
 **In stem**
-
-• Stems are mostly hard and woody. They may be aerial or underground
-
-• The stems and leaves are covered with wax coating or covered with dense hairs.
-
-• In some xerophytes all the internodes in the stem are modified into a fleshy leaf structure called **phylloclades** (_Opuntia_) .
-
-• In some of the others single or occasionally two internodes modified into fleshy green structure called **cladode** (_Asparagus_).
+- Stems are mostly hard and woody. They may be aerial or underground
+- The stems and leaves are covered with wax coating or covered with dense hairs.
+- In some xerophytes all the internodes in the stem are modified into a fleshy leaf structure called **phylloclades** (_Opuntia_) .
+- In some of the others single or occasionally two internodes modified into fleshy green structure called **cladode** (_Asparagus_).
 
 In some the petiole is modified into a fleshy leaf like structure called **phyllode** (_Acacia_
 
@@ -1188,7 +1054,7 @@ Phylloclade Stipular spine
 
 Stem
 
-**Figure 6.22:** Xerophytes
+![Xerophytes]( "")
 
 a) A succulent xerophyte: Phylloclade – _Opuntia_ b) Non succulent: Perennial - _Capparis_ c) Cladode of _Asparagus_ d) Phyllode _– Acacia_
 
@@ -1216,7 +1082,7 @@ Stipular spines
 
 a) b)
 
-**Figure 6.21:** a)Succulent xerophyte – _Aloe_ b) Non succulent perennial - _Ziziphus_
+![a)Succulent xerophyte – _Aloe_ b) Non succulent perennial - _Ziziphus_]( "")
 
 **Morphological Adaptations In root** • Root system is well developed and is greater
 
@@ -1224,26 +1090,19 @@ than that of shoot system. • Root hairs and root caps are also well
 
 developed.
 
-**Figure 6.20:** _Argemone mexicana-_Ephemerals
+![_Argemone mexicana-_Ephemerals]( "")
 
 In xerophytic plants with the leaves and stem covered with hairs are called **trichophyllous plants** . Example: Cucurbits (_Melothria and Mukia_ )
 
 
 
 
-![](botany_xii_pages_123-148-ch-06-16-201.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-203.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-233.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-16-251.jpg "")
-
-![](botany_xii_pages_123-148-ch-06-16-252.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-16-308.jpg "")
   
-
 
 
 **Physiological adaptations** • Most of the physiological processes are
@@ -1279,24 +1138,17 @@ temperature when there is water scarcity.
 reflect light and heat. • In some plants like _Euphorbia, Acacia,_
 
 _Ziziphus_ and _Capparis_, the stipules are modified into spines.
-
-• The entire leaves are modified into spines (_Opuntia_ ) or reduced to scales (_Asparagus_).
+- The entire leaves are modified into spines (_Opuntia_ ) or reduced to scales (_Asparagus_).
 
 **Anatomical adaptations** • Presence of multilayered epidermis with
 
 heavy cuticle to prevent water loss due to transpiration.
-
-• Hypodermis is well developed with sclerenchymatous tissues.
-
-• Sunken stomata are present only in the lower epidermis with hairs in the sunken pits.
-
-• Scotoactive type of stomata found in succulent plants .
-
-• Vascular bundles are well developed with several layered bundle sheath.
-
-• Mesophyll is well differentiated into palisade and spongy parenchyma.
-
-• In succulents the stem possesses a water storage region.
+- Hypodermis is well developed with sclerenchymatous tissues.
+- Sunken stomata are present only in the lower epidermis with hairs in the sunken pits.
+- Scotoactive type of stomata found in succulent plants .
+- Vascular bundles are well developed with several layered bundle sheath.
+- Mesophyll is well differentiated into palisade and spongy parenchyma.
+- In succulents the stem possesses a water storage region.
 
 Thick cuticle Multi-layered epidermis
 
@@ -1310,9 +1162,9 @@ Lower epidermis Cuticle
 
 Guard cells Stomata
 
-**Figure 6.23:** T.S. of Nerium leaf
+![T.S. of Nerium leaf]( "")
 
-**Figure 6.24:** A Succulent leaf of _Peperomia_ (T.S.) (lateral wing portion only)
+![A Succulent leaf of _Peperomia_ (T.S.) (lateral wing portion only)]( "")
 
 Palisade parenchyma Spongy parenchyma
 
@@ -1325,11 +1177,6 @@ er e
 pi de
 
 rm is
-
-
-
-  
-
 
 
 **Physiological adaptations** Special absorption processes of water by velamen tissue .
@@ -1352,11 +1199,9 @@ Roots
 
 Pneumatophores
 
-**Figure 6.26a:** Pneumatophores of mangrove plant
-
-• Presence of thick cuticle on the aerial parts of the plant body
-
-• Leaves are thick, entire, succulent and glossy. Some species are **aphyllous** (without leaves).
+![Pneumatophores of mangrove plant]( "")
+- Presence of thick cuticle on the aerial parts of the plant body
+- Leaves are thick, entire, succulent and glossy. Some species are **aphyllous** (without leaves).
 
 are commonly seen in tropical rain forests. Examples: Orchids, Lianas, Hanging Mosses and Money plant.
 
@@ -1367,22 +1212,16 @@ roots may be of two types. They are Clinging roots and Aerial roots.
 Clinging roots fix the epiphytes firmly on the surface of the supporting objects.
 
 **Aerial roots** are green coloured roots which may hang downwardly and absorb moisture from the atmosphere with the help of a spongy tissue called **velamen**.
-
-• Stem of some epiphytes are succulent and develop pseudobulb or tuber.
-
-• Generally the leaves are lesser in number and may be fleshy and leathery
-
-• **Myrmecophily** is a common occurrence in the epiphytic vegetation to prevent the predators.
-
-• The fruits and seeds are very small and usually dispersed by wind, insects and birds.
+- Stem of some epiphytes are succulent and develop pseudobulb or tuber.
+- Generally the leaves are lesser in number and may be fleshy and leathery
+- **Myrmecophily** is a common occurrence in the epiphytic vegetation to prevent the predators.
+- The fruits and seeds are very small and usually dispersed by wind, insects and birds.
 
 **Anatomical adaptations** • Multilayered epidermis is present. Inner to
 
 the velamen tissue, the peculiar exodermis layer is present.
-
-• Presence of thick cuticle and sunken stomata greatly reduces transpiration.
-
-• Succulent epiphytes contain well developed parenchymatous cells to store water.
+- Presence of thick cuticle and sunken stomata greatly reduces transpiration.
+- Succulent epiphytes contain well developed parenchymatous cells to store water.
 
 Epidermis
 
@@ -1396,18 +1235,15 @@ Endodermis PericyclePith Conjuctive tissueMetaxylem
 
 Protoxylem Phloem
 
-**Figure 6.25:** T.S. of an aerial root of Orchid showing velamen tissue
+![T.S. of an aerial root of Orchid showing velamen tissue]( "")
 
-**Figure 6.26b:** Succulent
+![Succulent]( "")
 
 halophyte - _Salicornia_
 
 
 
-
-![](botany_xii_pages_123-148-ch-06-18-1.jpg "")
   
-
 
 
 protective covering called **seed coat**. As seeds contain miniature but dormant future plants, their dispersal is an important criterion for distribution and establishment of plants over a wide geographical area. The dissemination of seeds and fruits to various distances from the parent plant is called seed and fruit dispersal. It takes place with the help of ecological factors such as wind, water and animals.
@@ -1423,11 +1259,10 @@ Seeds require agents for dispersal which are crucial in plant community dynamics
 
 \`\`form a wing. Examples: Maple, _Gyrocarpus, Dipterocarpus_ and _Terminalia_
 
-**Figure 6.29:** _Gyrocarpus_**Figure 6.28:** _Asclepias_ • **Feathery Appendages:** Seeds or fruits may
+![Seeds or fruits may]( "")
 
 have feathery appendages which greatly increase their buoyancy to disperse to high altitudes. Examples: _Vernonia_ and _Asclepias._
-
-• Viviparous mode of seed germination is found in halophytes
+- Viviparous mode of seed germination is found in halophytes
 
 Leaf
 
@@ -1441,15 +1276,12 @@ Radicle Fruit
 
 Hypocotyl
 
-**Figure 6.27:** Viviparous type of seed germination
+![Viviparous type of seed germination]( "")
 
 **Anatomical adaptations**
-
-• Epidermal cells of stem is heavy cutinized, almost squarish and are filled with oil and tannins.
-
-• **‘Star’ shaped** sclereids and **‘H’ shaped** heavy thickened spicules that provide mechanical strength to cortex are present in the stem.
-
-• The leaves may be dorsiventral or isobilateral with **salt secreting glands**.
+- Epidermal cells of stem is heavy cutinized, almost squarish and are filled with oil and tannins.
+- **‘Star’ shaped** sclereids and **‘H’ shaped** heavy thickened spicules that provide mechanical strength to cortex are present in the stem.
+- The leaves may be dorsiventral or isobilateral with **salt secreting glands**.
 
 **Physiological adaptations** • High osmotic pressure exists in some
 
@@ -1466,14 +1298,11 @@ Out of three districts of Tamil Nadu (Nagapattinam, Thanjavur and Thiruvarur), M
 
 
 
-
 ![](botany_xii_pages_123-148-ch-06-19-1.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-19-2.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-19-3.jpg "")
   
-
 
 
 which they adhere to the fur of grazing animals. Example: _Boerhaavi_a and _Cleome_. **b.** Some fruits have viscid layer which adhere to the beak of the bird which eat them and when they rub them on to the branch of the tree, they disperse and germinate. Example: _Cordia_ and _Alangium_ **iii. Fleshy fruits: Some fleshy fruits with** conspicuous colours are dispersed by human beings to distant places after consumption. Example: Mango and _Diplocyclos_
@@ -1482,18 +1311,13 @@ which they adhere to the fur of grazing animals. Example: _Boerhaavi_a and _Cleo
 
 ### Dispersal by Explosive Mechanism
  (Autochory) Some fruits burst suddenly with a force enabling to throw seeds to a little distance away from the plant. Autochory shows the following adaptations.
-
-• Mere touch of some plants causes the ripened fruit to explode suddenly and seeds are thrown out with great force. Example: _Impatiens_ (Balsam), _Hura_.
-
-• Some fruits when they come in contact with water particularly after a shower of rain, burst suddenly with a noise and scatter the seeds.Examples: _Ruellia_ and _Crossandra._
-
-• Certain long pods explode with a loud noise like cracker, scattering the seeds in all directions. Example: _Bauhinia vahlii_ (Camel’s foot climber)
-
-• As the fruit matures, tissues around seeds are converted into a mucilaginous fluid, due to which a **high turgor pressure** develops inside the fruit which leads to the dispersal of seeds.
+- Mere touch of some plants causes the ripened fruit to explode suddenly and seeds are thrown out with great force. Example: _Impatiens_ (Balsam), _Hura_.
+- Some fruits when they come in contact with water particularly after a shower of rain, burst suddenly with a noise and scatter the seeds.Examples: _Ruellia_ and _Crossandra._
+- Certain long pods explode with a loud noise like cracker, scattering the seeds in all directions. Example: _Bauhinia vahlii_ (Camel’s foot climber)
+- As the fruit matures, tissues around seeds are converted into a mucilaginous fluid, due to which a **high turgor pressure** develops inside the fruit which leads to the dispersal of seeds.
 
 Example: _Ecballium elatrium_ (Squirting cucumber) _Gyrocarpus_ and _Dipterocarpus._
-
-• Censor mechanisms: The fruits of many plants open in such a way that the seeds can escape only when the fruit is violently shaken by a strong wind. Examples: _Aristolochia_ and Poppy.
+- Censor mechanisms: The fruits of many plants open in such a way that the seeds can escape only when the fruit is violently shaken by a strong wind. Examples: _Aristolochia_ and Poppy.
 
 Guess!! Who am I…….? I am dispersed by ant and I have caruncle.
 
@@ -1510,11 +1334,10 @@ _Heritiera littoralis_. • Seeds by themselves would not float may be
 
 carried by water current. Example: Coconut.
 
-**Figure 6.31:** Coconut**Figure 6.30:** _Nelumbo_
+![_Nelumbo_]( "")
 
 ### Dispersal by Animals
  (Zoochory) Birds and mammals, including human beings play an efficient and important role in the dispersal of fruit and seeds. They have the following devices. **i. Hooked fruit: The surface of the fruit or seeds** have hooks,(_Xanthium_), barbs (_Andropogon_), spines (_Aristida_) by means of which they adhere to the body of animals or clothes of human beings and get dispersed. **ii. Sticky fruits and seeds: a.** Some fruits have sticky glandular hairs by
-
 
 
 
@@ -1527,11 +1350,8 @@ carried by water current. Example: Coconut.
 ![](botany_xii_pages_123-148-ch-06-20-4.jpg "")
   
 
-
-
-• Seed dispersal by animals help in conservation of many species even in human altered ecosystems.
-
-• Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems.
+- Seed dispersal by animals help in conservation of many species even in human altered ecosystems.
+- Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems.
 
 **Summary** Ecology is a division of biology and deals with the study of environment in relation to organisms. Ecology is mainly divided into two branches Autecology and Synecology. The environment (surrounding) includes physical, chemical and biological components. These factors can be classified into living (biotic) and non-living (abiotic), which make the environment of an organism. The ecological factors are meaningfully grouped into four classes, which are as follows: 1. Climatic factors 2. Edaphic factors 3. Topographic factors 4. Biotic factors.
 
@@ -1539,7 +1359,7 @@ Climate is one of the important natural factors controlling the plant life. The 
 
 The modifications in the structure of organisms to survive successfully in an environment are called adaptations of organisms. Based on the habitats and the corresponding adaptations of plants, they are classified into 1) Hydrophytes 2) Xerophytes
 
-**Figure 6.35:** _Impatents_**Figure 6.34:** _Ecballium_
+![_Ecballium_]( "")
 
 **Human aided seed dispersal Seed Ball** : Seed ball is an ancient Japanese technique of encasing seeds in a mixture of clay and soil humus (also in cow dung) and scattering them on to suitable ground, not planting of trees manually. This method is suitable for barren and degraded lands for tree regeneration and vegetation before monsoon period where the suitable dispersal agents become rare.
 
@@ -1550,13 +1370,10 @@ Ecologically important days March 21 - World forest day April 22 - Earth day May
 **Advantages of seed dispersal:** • Seeds escape from mortality near the
 
 parent plants due to predation by animals or getting diseases and also avoiding competition.
+- Dispersal also gives a chance to occupy favourable sites for growth.
+- It is an important process in the movement of plant genes particularly this is the only method available for self-fertilized flowers and maternally transmitted genes in outcrossing plants.
 
-• Dispersal also gives a chance to occupy favourable sites for growth.
-
-• It is an important process in the movement of plant genes particularly this is the only method available for self-fertilized flowers and maternally transmitted genes in outcrossing plants.
-
-**Figure 6.36:** Seed ball
-
+![Seed ball]( "")
 
 
 
@@ -1566,7 +1383,6 @@ parent plants due to predation by animals or getting diseases and also avoiding 
 
 ![](botany_xii_pages_123-148-ch-06-21-3.jpg "")
   
-
 
 
 a) i, ii, and iii only b) ii, iii and iv c) ii and iii only d) i and ii only
@@ -1639,10 +1455,7 @@ iv) High temperature reduces use of water and solute absorption by roots.
 
 
 
-
-![](botany_xii_pages_123-148-ch-06-22-1.jpg "")
   
-
 
 
 A B C D a) (+) Parasitism (-) Amensalism b) (-) Mutalism (+) Competition c) (+) Competition (0) Mutalism d) (0) Amensalism (+) Parasitism
@@ -1706,11 +1519,6 @@ Interaction Effects on species X
 Effects on species Y
 
 Mutualism A (+) B (+) (-) Competition (-) C D (-) 0
-
-
-
-  
-
 
 
 28\. What is Phytoremediation ?
@@ -1778,11 +1586,6 @@ a) Anemochory b) Zoochory c) Autochory d) Hydrochory
 27\. ‘Green algae are not likely to be found in the deepest strata of the ocean’. Give at least one reason.
 
 
-
-  
-
-
-
 **Flora: The kinds of plants in region**
 
 **Frugivores:** Fruit eating organisms
@@ -1846,11 +1649,6 @@ a) Anemochory b) Zoochory c) Autochory d) Hydrochory
 **Community**: A group of organism living in the same place.
 
 
-
-  
-
-
-
 URL:
 
 **https://play.google.com/store/apps/details?id=com.dhavaldev. EnvironmentalStudies**
@@ -1862,10 +1660,8 @@ URL:
 **Step 2Step 1 Step 3**
 
 **Steps**
-
-• Type the URL or scan the QR code to open the activity page then Introduction page will open.
-
-• Click on the Content icon in the introduction page. • Click on the topic you like. • To know more applications related to this title click on More apps.
+- Type the URL or scan the QR code to open the activity page then Introduction page will open.
+- Click on the Content icon in the introduction page. • Click on the topic you like. • To know more applications related to this title click on More apps.
 
 Let us know about the Environmental Studies- Complete Reference Guide in detail.
 
@@ -1873,10 +1669,8 @@ Let us know about the Environmental Studies- Complete Reference Guide in detail.
 
 
 
-
 ![](botany_xii_pages_123-148-ch-06-26-1.jpg "")
 
-![](botany_xii_pages_123-148-ch-06-26-2.jpg "")
 
 ![](botany_xii_pages_123-148-ch-06-26-5.jpg "")
 

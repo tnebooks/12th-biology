@@ -47,7 +47,6 @@ maturation, reproduction and death. Reproduction is the fundamental feature of a
 XII Std Zoology Chapter 1 EM.indd 1 18/12/2021 14:50:06
 
 
-![](chapter-1-1-1.jpg "")
   
 
 2Reproduction in Organisms
@@ -367,7 +366,6 @@ XII Std Zoology Chapter 1 EM.indd 6 18/12/2021 14:50:09
 
 ![](chapter-1-6-1.jpg "")
 
-![](chapter-1-6-2.jpg "")
   
 
 7 Reproduction in Organisms
@@ -437,7 +435,6 @@ c. If A is true but R is false d. If both A and R are false.
 XII Std Zoology Chapter 1 EM.indd 8 18/12/2021 14:50:09
 
 
-![](chapter-1-8-1.jpg "")
   
 
 9 Reproduction in Organisms

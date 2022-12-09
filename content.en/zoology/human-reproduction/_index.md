@@ -63,7 +63,6 @@ XII Std Zoology Chapter 2 EM.indd 11 18/12/2021 14:50:57
 
 ![](chapter-2-1-1.jpg "")
 
-![](chapter-2-1-2.jpg "")
   
 
 12Human Reproduction
@@ -241,7 +240,6 @@ XII Std Zoology Chapter 2 EM.indd 15 18/12/2021 14:51:00
 
 ![](chapter-2-5-11.jpg "")
 
-![](chapter-2-5-12.jpg "")
 
 ![](chapter-2-5-13.jpg "")
   
@@ -497,7 +495,6 @@ XII Std Zoology Chapter 2 EM.indd 20 18/12/2021 14:51:03
 
 ![](chapter-2-10-2.jpg "")
 
-![](chapter-2-10-3.jpg "")
 
 ![](chapter-2-10-4.jpg "")
   
@@ -561,29 +558,17 @@ The first cleavage produces two identical cells called blastomeres. These produc
 XII Std Zoology Chapter 2 EM.indd 22 18/12/2021 14:51:04
 
 
-![](chapter-2-12-1.jpg "")
 
-![](chapter-2-12-2.jpg "")
 
-![](chapter-2-12-3.jpg "")
 
-![](chapter-2-12-4.jpg "")
 
-![](chapter-2-12-5.jpg "")
 
-![](chapter-2-12-7.jpg "")
 
-![](chapter-2-12-8.jpg "")
 
-![](chapter-2-12-9.jpg "")
 
-![](chapter-2-12-10.jpg "")
 
-![](chapter-2-12-11.jpg "")
 
-![](chapter-2-12-12.jpg "")
 
-![](chapter-2-12-13.jpg "")
 
 ![](chapter-2-12-14.jpg "")
 
@@ -627,7 +612,6 @@ XII Std Zoology Chapter 2 EM.indd 23 18/12/2021 14:51:05
 
 ![](chapter-2-13-2.jpg "")
 
-![](chapter-2-13-3.jpg "")
 
 ![](chapter-2-13-4.jpg "")
 
@@ -661,7 +645,6 @@ XII Std Zoology Chapter 2 EM.indd 23 18/12/2021 14:51:05
 
 ![](chapter-2-13-19.jpg "")
 
-![](chapter-2-13-20.jpg "")
 
 ![](chapter-2-13-21.jpg "")
 
@@ -675,7 +658,6 @@ XII Std Zoology Chapter 2 EM.indd 23 18/12/2021 14:51:05
 
 ![](chapter-2-13-26.jpg "")
 
-![](chapter-2-13-27.jpg "")
 
 ![](chapter-2-13-28.jpg "")
 
@@ -757,69 +739,42 @@ _Ready to be born any day_
 XII Std Zoology Chapter 2 EM.indd 24 18/12/2021 14:51:07
 
 
-![](chapter-2-14-1.jpg "")
 
-![](chapter-2-14-2.jpg "")
 
-![](chapter-2-14-3.jpg "")
 
-![](chapter-2-14-14.jpg "")
 
-![](chapter-2-14-25.jpg "")
 
-![](chapter-2-14-36.jpg "")
 
-![](chapter-2-14-47.jpg "")
 
-![](chapter-2-14-58.jpg "")
 
-![](chapter-2-14-69.jpg "")
 
 ![](chapter-2-14-102.jpg "")
 
-![](chapter-2-14-113.jpg "")
 
-![](chapter-2-14-114.jpg "")
 
-![](chapter-2-14-125.jpg "")
 
-![](chapter-2-14-180.jpg "")
 
-![](chapter-2-14-212.jpg "")
 
-![](chapter-2-14-219.jpg "")
 
-![](chapter-2-14-222.jpg "")
 
-![](chapter-2-14-224.jpg "")
 
 ![](chapter-2-14-247.jpg "")
 
-![](chapter-2-14-266.jpg "")
 
-![](chapter-2-14-268.jpg "")
 
-![](chapter-2-14-269.jpg "")
 
 ![](chapter-2-14-270.jpg "")
 
-![](chapter-2-14-291.jpg "")
 
-![](chapter-2-14-335.jpg "")
 
 ![](chapter-2-14-371.jpg "")
 
 ![](chapter-2-14-374.jpg "")
 
-![](chapter-2-14-440.jpg "")
 
-![](chapter-2-14-451.jpg "")
 
-![](chapter-2-14-462.jpg "")
 
-![](chapter-2-14-473.jpg "")
 
-![](chapter-2-14-484.jpg "")
   
 
 25 Human Reproduction
@@ -879,71 +834,42 @@ _Ready to be born any day_
 XII Std Zoology Chapter 2 EM.indd 25 18/12/2021 14:51:08
 
 
-![](chapter-2-15-1.jpg "")
 
-![](chapter-2-15-2.jpg "")
 
-![](chapter-2-15-3.jpg "")
 
-![](chapter-2-15-14.jpg "")
 
-![](chapter-2-15-25.jpg "")
 
-![](chapter-2-15-36.jpg "")
 
-![](chapter-2-15-47.jpg "")
 
-![](chapter-2-15-58.jpg "")
 
-![](chapter-2-15-69.jpg "")
 
-![](chapter-2-15-102.jpg "")
 
-![](chapter-2-15-113.jpg "")
 
-![](chapter-2-15-114.jpg "")
 
-![](chapter-2-15-125.jpg "")
 
-![](chapter-2-15-180.jpg "")
 
-![](chapter-2-15-212.jpg "")
 
-![](chapter-2-15-219.jpg "")
 
-![](chapter-2-15-222.jpg "")
 
-![](chapter-2-15-224.jpg "")
 
 ![](chapter-2-15-247.jpg "")
 
-![](chapter-2-15-266.jpg "")
 
-![](chapter-2-15-268.jpg "")
 
-![](chapter-2-15-269.jpg "")
 
 ![](chapter-2-15-270.jpg "")
 
-![](chapter-2-15-291.jpg "")
 
-![](chapter-2-15-335.jpg "")
 
 ![](chapter-2-15-371.jpg "")
 
 ![](chapter-2-15-374.jpg "")
 
-![](chapter-2-15-440.jpg "")
 
-![](chapter-2-15-441.jpg "")
 
-![](chapter-2-15-452.jpg "")
 
-![](chapter-2-15-463.jpg "")
 
-![](chapter-2-15-474.jpg "")
 
-![](chapter-2-15-485.jpg "")
   
 
 26Human Reproduction
@@ -1075,7 +1001,6 @@ a. Spermiation b. Cortical reaction
 XII Std Zoology Chapter 2 EM.indd 28 18/12/2021 14:51:08
 
 
-![](chapter-2-18-1.jpg "")
   
 
 29 Human Reproduction
@@ -1211,7 +1136,6 @@ XII Std Zoology Chapter 2 EM.indd 31 18/12/2021 14:51:11
 
 ![](chapter-2-21-1.jpg "")
 
-![](chapter-2-21-7.jpg "")
 
 ![](chapter-2-21-8.jpg "")
 

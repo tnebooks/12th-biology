@@ -18,7 +18,6 @@ Untouchability is Inhuman and a Crime
 
 
 
-
 ![](botany_xii_page-i-viii-front-1-1.jpg "")
   
 
@@ -61,7 +60,6 @@ Learning objectives are brief statements that describe what students will be exp
 Illustrate the complete overview of chapter**Chapter Outline**
 
 
-
   
 
 IV
@@ -93,7 +91,6 @@ IV
 **7 B.P.T (Physiotherapy) – 4.5 years** Physiotherapy helps the temporary disabled people in their rehabilitation.
 
 **List of Medical Courses**
-
 
 
   
@@ -133,7 +130,6 @@ The amount of diversity in the field of Botany gives it students to choose their
 **Plant biochemist:** Biochemists study the chemical and physical principles of living things and of biological processes, such as cell development, growth, heredity, and disease.
 
 **Molecular biologist:** Molecular biologists conduct research and academic activities. The research component involves the study of biological structures in well-equipped laboratories with advanced technology to help them explore complex molecular structures and their particular functions. The equipment
-
 
 
   
@@ -229,7 +225,6 @@ Research Institute, Nagpur
 Kasargod.
 
 
-
   
 
 VII
@@ -253,12 +248,8 @@ Plants and Entrepreneurial Botany
 
 
 
-![](botany_xii_page-i-viii-front-7-1.jpg "")
-
-![](botany_xii_page-i-viii-front-7-2.jpg "")
   
 
 VIII
-
 
 

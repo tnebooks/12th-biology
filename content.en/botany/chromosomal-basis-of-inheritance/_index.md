@@ -5,14 +5,11 @@ weight: 4
   
 
 
-
 ## Chromosomal Theory of Inheritance
-
 
 G. J. Mendel (1865) studied the inheritance of well-defined characters of pea plant but for several reasons it was unrecognized till 1900. Three scientists (de Vries, Correns and Tschermak) independently rediscovered Mendel’s results on the inheritance of characters. Various cytologists also observed cell division due to advancements in microscopy. This led to the discovery of structures inside nucleus. In eukaryotic cells, worm-shaped structures formed during cell division are called **chromosomes** (colored bodies, visualized by staining). An organism which possesses two complete basic sets of chromosomes are known as diploid. A chromosome consists of long, continuous coiled piece of DNA in which genes are arranged in linear order. Each gene has a definite position (locus) on a chromosome. These genes are hereditary units. Chromosomal theory of inheritance states that Mendelian factors (genes) have specific locus (position) on chromosomes and they carry information from one generation to the next generation.
 
 ### Historical development of chromosome theory
-
 
 The important cytological findings related to the chromosome theory of inheritance are given below. � **Wilhelm Roux (1883)** postulated that the
 
@@ -48,7 +45,6 @@ and their significance. **3.6** DNA Metabolism in Plants 3.7 Protein synthesis i
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-1-149.jpg "")
 
 ![](botany_xii_pages_052-081-ch-03-1-230.jpg "")
@@ -77,7 +73,6 @@ and their significance. **3.6** DNA Metabolism in Plants 3.7 Protein synthesis i
 
 ![](botany_xii_pages_052-081-ch-03-1-965.jpg "")
   
-
 
 
 suggest occurrence of distinct pairs of chromosomes and he also concluded that maternal chromosomes pair with paternal chromosomes only during meiosis.
@@ -119,7 +114,7 @@ Different DNA sequences
 
 Genes
 
-**Figure 3.1:** Comparison of chromosome and gene behaviour
+![Comparison of chromosome and gene behaviour]( "")
 
 **Table 3.1:** Parallelism between Mendelian factors and chromosomal behaviour.
 
@@ -136,11 +131,6 @@ The homologous chromosomes separate during meiosis
 3\. Mendelian factors can assort independently
 
 The paired chromosomes can separate independently during meiosis but the linked genes in the same chromosome normally do not assort independently.
-
-
-
-  
-
 
 
 **Organism Number of chromosomes (2n)**
@@ -172,7 +162,7 @@ Gene 1
 
 Gene 2
 
-**Figure 3.2:** Arrangement of linked and unlinked genes on chromosome
+![Arrangement of linked and unlinked genes on chromosome]( "")
 
 Genes located close together on the same chromosome and inherited together are called **linked genes.** But the two genes that are sufficiently far apart on the same chromosome are called **unlinked genes or syntenic genes** (Figure 3.3). Such condition is known as **synteny. It is to be differentiated by the value of** recombination frequency. If the recombination frequency value is more than 50 % the two genes show unlinked. when the recombination frequency value is less than 50 %, they show linked. Closely located genes show strong linkage, while genes widely located show weak linkages.
 
@@ -182,15 +172,13 @@ They lost their ability to make proteins. They tell the story of evolution throu
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-3-1.jpg "")
   
 
 
-
 **incomplete linkage. This was observed in** maize. It was reported by Hutchinson.
 
-**Figure 3.4:** Alleles in coupling or cis configuration
+![Alleles in coupling or cis configuration]( "")
 
 ### Linkage Groups
  The groups of linearly arranged linked genes on a chromosome are called **Linkage groups**. In any species the number of linkage groups corresponds to the number haploid set of chromosomes. Example:
@@ -198,7 +186,7 @@ They lost their ability to make proteins. They tell the story of evolution throu
 ### Coupling and Repulsion theory
  The two dominant alleles or recessive alleles occur in the same homologous chromosomes, tend to inherit together into same gamete are called coupling or cis configuration (Figure: 3.5 ). If dominant or recessive alleles are present on two different, but homologous chromosomes they inherit apart into different gamete are called **repulsion or trans configuration (Figure: 3. 6).**
 
-**Figure 3.3:** _Cis-Trans_ arrangement of genes
+![_Cis-Trans_ arrangement of genes]( "")
 
 **_Cis_** AB/ab **_Trans_** Ab/aB
 
@@ -214,12 +202,7 @@ genes are not possible those genes always remain together as a result, only pare
 the chances of their separation are possible. As a result, parental and non-parental combinations are observed. The linked genes exhibit some crossing over. This phenomenon is called
 
 
-
-  
-
-
-
-**Figure 3.5:** Alleles in repulsion or trans configuration
+![Alleles in repulsion or trans configuration]( "")
 
 **Name of organism Linkage groups** _Mucor_ 2 _Drosophila_ 4 Sweet pea 7 _Neurospora_ 7 Maize 10
 
@@ -253,11 +236,6 @@ It increases variability by forming new gene combinations. lead to formation of 
 chromosomes is initiated during zygotene stage of prophase I of meiosis I. Homologous chromosomes are aligned side by side resulting in a pair of homologous chromosomes called **bivalents. This pairing phenomenon is called synapsis or syndesis.** It is of three types,
 
 
-
-  
-
-
-
 1\. **Procentric synapsis:** Pairing starts from middle of the chromosome.
 
 2\. **Proterminal synapsis:** Pairing starts from the telomeres.
@@ -282,7 +260,7 @@ Synaptonemal complex
 
 Synaptonemal complex
 
-**Figure 3.6:** Structure of Synaptonemal Complex
+![Structure of Synaptonemal Complex]( "")
 
 **(iv) Terminalisation** After crossing over, chiasma starts to move towards the terminal end of chromatids. This is known as **terminalisation**. As a result, complete separation of homologous chromosomes occurs.
 
@@ -303,8 +281,7 @@ can be used in plant breeding. **3.3.3 Recombination** Crossing over results in 
 
 The percentage of recombinant progeny in a cross is called recombination frequency. The recombination frequency (cross over
 
-**Figure 3.7:** Mechanism of crossing over
-
+![Mechanism of crossing over]( "")
 
 
 
@@ -360,7 +337,6 @@ The percentage of recombinant progeny in a cross is called recombination frequen
   
 
 
-
 **Uses of genetic mapping** � It is used to determine gene order, identify
 
 the locus of a gene and calculate the distances between genes.
@@ -380,12 +356,9 @@ There may be multiple alleles within the population, but individuals have only t
  • Multiple alleles of a series always occupy
 
 the same locus in the homologous chromosome. Therefore, no crossing over occurs within the alleles of a series.
-
-• Multiple alleles are always responsible for the same character.
-
-• The wild type alleles of a series exhibit dominant character whereas mutant type will influence dominance or an intermediate phenotypic effect.
-
-• When any two of the mutant multiple alleles are crossed the phenotype is always mutant type and not the wild type
+- Multiple alleles are always responsible for the same character.
+- The wild type alleles of a series exhibit dominant character whereas mutant type will influence dominance or an intermediate phenotypic effect.
+- When any two of the mutant multiple alleles are crossed the phenotype is always mutant type and not the wild type
 
 ### Self-sterility in _Nicotiana_
  In plants, multiple alleles have been reported in association with self-sterility or self- incompatibility. Self-sterility means that the
@@ -410,11 +383,6 @@ autosomes. (b) a and b are linked on the same
 autosome but are so far apart that a crossover occurs between them.
 
 (c) a and b are linked on the same autosome but are so close together that a crossover almost never occurs.
-
-
-
-  
-
 
 
 When crosses were made between seed parents with S1S2 and pollen parents with S2S3, two kinds of pollen tubes were distinguished. Pollen grains carrying S2 were not effective, but the pollen grains carrying S3 were capable of fertilization. Thus, from the cross S1S2XS3S4, all the pollens were effective and four kinds of progeny resulted: S1S3, S1S4, S2S3 and S2S4. Some combinations are showed in the table-3.5.
@@ -504,7 +472,6 @@ Inflorescence of Zea mays
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-8-1.jpg "")
 
 ![](botany_xii_pages_052-081-ch-03-8-3.jpg "")
@@ -557,7 +524,6 @@ Inflorescence of Zea mays
 
 ![](botany_xii_pages_052-081-ch-03-8-246.jpg "")
   
-
 
 
 responsible for mutation are called **mutagens,** that increase the rate of mutation. Mutations can occur either spontaneously or induced. The production of mutants through exposure of mutagens is called mutagenesis, and the organism is said to be **_mutagenized._**
@@ -730,17 +696,13 @@ AT TA
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-9-1.jpg "")
 
 ![](botany_xii_pages_052-081-ch-03-9-2.jpg "")
   
 
-
-
-• Mutations affecting single base or base pair of DNA are called point mutation
-
-• Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
+- Mutations affecting single base or base pair of DNA are called point mutation
+- Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
 
 **Point mutation** It refers to alterations of single base pairs of
 
@@ -791,16 +753,12 @@ Expressed at incorrect time or inappropriate cells
 4\. Molecular change
 
 **Nucleotide substitution**
-
-• Transition
+- Transition
 
 A base pair in DNA duplex is replaced with a different base pair Purine to purine(A G)or pyrimidine to pyrimidine(T C)
-
-• Transversion
-
-• Insertion
-
-• Deletion
+- Transversion
+- Insertion
+- Deletion
 
 Purine to pyrimidine(A T) or pyrimidine to purine(C G)
 
@@ -809,14 +767,10 @@ One or more extra nucleotides are present
 One or more nucleotides are missing
 
 5\. Effect on translation
-
-• Silent (synonymous)
-
-• Missense (non-synonymous)
-
-• Nonsense(termination)
-
-• Frameshift
+- Silent (synonymous)
+- Missense (non-synonymous)
+- Nonsense(termination)
+- Frameshift
 
 No change in amino acid encoded
 
@@ -825,11 +779,6 @@ Change in amino acid encoded
 Creates translational termination codon (UAA, UAG, or UGA)
 
 Shifts triplet reading of codons out of correct phase
-
-
-
-  
-
 
 
 substitutions and base pair insertions or deletions. Base substitutions are mutations in which there is a change in the DNA such that one base pair is replaced by another. It can be divided into two subtypes: transitions and transversions. Addition or deletion mutations are actually additions or deletions of nucleotide pairs and also called base pair addition or deletions. Collectively, they are termed **indel mutations** (for insertion- deletion).
@@ -860,11 +809,6 @@ Castor Aruna is mutant variety of castor which is developed by treatment of seed
 **Chemical mutagens:**
 
 Chemicals which induce mutation are called chemical mutagens. Some chemical mutagens are mustard gas, nitrous acid, ethyl and methyl methane sulphonate (EMS and MMS), ethyl urethane, magnous salt, formaldehyde, eosin and enthrosine. Example: Nitrous oxide alters the nitrogen bases of DNA and disturb the replication and transcription
-
-
-
-  
-
 
 
 will not differentiate the character of species from one another but the nature of hereditary material (gene) in chromosome that determines the character of species.
@@ -913,11 +857,6 @@ Chemical mutagenesis was first reported by C. Auerback (1944).
 Each cell of living organisms possesses fixed number of chromosomes. It varies in different species. Even though some species of plants and animals are having identical number of chromosomes, they will not be similar in character. Hence the number of chromosomes
 
 
-
-  
-
-
-
 respectively. All possible tetrasomics are available in Wheat.
 
 **(c) Pentasomy**
@@ -958,7 +897,7 @@ Pentasomy (2_n +_ 3_)_
 
 Nullisomy (2_n –_ 2_)_
 
-**Figure 3.11** Types of aneuploidy
+![Types of aneuploidy]( "")
 
 **(ii) Euploidy**
 
@@ -1004,12 +943,7 @@ Double Tetrasomy (2n+2+2)
 
 Pentasomy (2n+3)
 
-**Figure 3.10** Types of Ploidy
-
-
-
-  
-
+![Types of Ploidy]( "")
 
 
 **Autotetraploids** have four copies of its own genome. They may be induced by doubling the chromosomes of a diploid species. Example: rye, grapes, alfalfa, groundnut, potato and coffee.
@@ -1062,7 +996,6 @@ Polyploidy is the condition where an organism possesses more than two basic sets
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-14-1.jpg "")
 
 ![](botany_xii_pages_052-081-ch-03-14-2.jpg "")
@@ -1075,10 +1008,9 @@ Polyploidy is the condition where an organism possesses more than two basic sets
   
 
 
-
 For example, they combine the high-protein content of wheat with rye’s high content of the amino acid lysine, which is low in wheat. It can be explained by chart below (Figure: 3.13).
 
-**Figure 3.13** Triticale
+![Triticale]( "")
 
 **Colchicine** , an alkaloid is extracted from root and corms of **_Colchicum autumnale_**, when applied in low concentration to the growing tips of the plants it will induce polyploidy. Surprisingly it does not affect the source plant Colchicum, due to presence of anticolchicine.
 
@@ -1087,12 +1019,9 @@ For example, they combine the high-protein content of wheat with rye’s high co
 more adaptable than diploids. • Many ornamental plants are autotetraploids
 
 and have larger flowers and longer flowering duration than diploids.
-
-• Autopolyploids usually have higher fresh weight due to more water content.
-
-• Aneuploids are useful to determine the phenotypic effects of loss or gain of different chromosomes.
-
-• Many angiosperms are allopolyploids and they play a role in the evolution of plants.
+- Autopolyploids usually have higher fresh weight due to more water content.
+- Aneuploids are useful to determine the phenotypic effects of loss or gain of different chromosomes.
+- Many angiosperms are allopolyploids and they play a role in the evolution of plants.
 
 **II Structural changes in chromosome (Structural chromosomal aberration)**
 
@@ -1112,7 +1041,6 @@ When two plants (A and B) belonging to the same genus but different species are 
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-15-1.jpg "")
 
 ![](botany_xii_pages_052-081-ch-03-15-2.jpg "")
@@ -1121,7 +1049,6 @@ When two plants (A and B) belonging to the same genus but different species are 
 
 ![](botany_xii_pages_052-081-ch-03-15-4.jpg "")
   
-
 
 
 complementary strand. DNA replication is semiconservative, i.e each new DNA molecule conserves one original strand.
@@ -1231,7 +1158,7 @@ C
 
 B
 
-**Figure 3.15** Duplication
+![Duplication]( "")
 
 A
 
@@ -1285,12 +1212,7 @@ F G
 
 I H
 
-**Figure 3.14** Deletion
-
-
-
-  
-
+![Deletion]( "")
 
 
 **Recombination:** In cells the genetic information within and among DNA molecule are re-arranged by a process called genetic recombination. Recombination is the result of crossing over between the pairs of homologous chromosomes during meiosis. In earlier classes you have learnt chromosomal recombination. In molecular level it involves breakage and reunion of polynucleotides.
@@ -1325,11 +1247,6 @@ Leading strand 3"
 3" Lagging strand
 
 
-
-  
-
-
-
 Lagging strand where the replication direction is 5’  3’ which is opposite to the direction of fork movement. . The continuous strand is called Leading strand where the replication direction is 5’  3’ which is same to the direction to that of the replication fork movement. DNA ligase joins any nicks in the DNA by forming a phosphodiester bond between 3’ hydroxyl and 5’ phosphate group.
 
 **Arabidopsis telomere sequence - TTTAGGG**
@@ -1357,11 +1274,6 @@ The results proved the semiconservative method of DNA replication.
 
 ## Protein synthesis in plants
  The process of protein synthesis consists of two major steps, they are Transcription and Translation.
-
-
-
-  
-
 
 
 **Plant cell**
@@ -1420,7 +1332,6 @@ to recognize core promoter. The two categories of regulatory elements are
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-19-1.jpg "")
 
 ![](botany_xii_pages_052-081-ch-03-19-3.jpg "")
@@ -1453,7 +1364,6 @@ to recognize core promoter. The two categories of regulatory elements are
 
 ![](botany_xii_pages_052-081-ch-03-19-102.jpg "")
   
-
 
 
 are also called the **heterogenous nuclear RNA** or hnRNA which are processed in the nucleus before they are transported into the cytoplasm.
@@ -1511,11 +1421,6 @@ tRNAs, 5S ribosomal RNA, snRNAs (small nuclear RNA)
 In eukaryotes three major types of RNA, mRNA, tRNA and rRNA are produced from a precursor RNA molecule termed as the primary transcript or preRNA. The RNA polymerase II transcribes the precursor of mRNA, which
 
 
-
-  
-
-
-
 or expressed sequences contain biological informations in the matured processed mRNA. **Introns** are intervening sequences, which are non-coding sequences (non-amino acid- coding sequences) that should be removed from a gene before the mRNA product is made. Introns do not code for any enzyme or structural protein or polypeptides. These exons and introns are known as Split Genes.
 
 ### RNA Splicing in plants
@@ -1545,11 +1450,6 @@ sequence is decoded into amino acid sequence of the protein which is catalyzed b
 A ribosome has one binding site for mRNA and two for tRNA. The two binding sites of tRNA are
 
 **i. P-Site – The peptidyl – tRNA binding site** is one of the tRNA binding site. At this site
-
-
-
-  
-
 
 
 tRNA is held and linked to the growing end of the polypeptide chain.
@@ -1647,11 +1547,6 @@ f
 **Figure: 3.21** Translation
 
 
-
-  
-
-
-
 ribosome by three bases. This expels deacylated / uncharged tRNA from P-site and moves peptidyl tRNA into the P-site and empties the A-site.This movement of tRNA from A-site to P-site is said to be translocation. The translocation requires the hydrolysis of GTP.
 
 **The ribosome (ribozyme - peptidyl transferase)** catalyses the formation of peptide bond by adding amino acid to the growing polypeptide chain.
@@ -1686,11 +1581,6 @@ Chemical modification such as base modification, nucleotide insertion or deletio
 **Figure: 3.22** Alternative splicing in plants
 
 
-
-  
-
-
-
 acids which include initiation and termination codon.
 
 2\. It regulates Organellar gene expression in plants.
@@ -1698,7 +1588,6 @@ acids which include initiation and termination codon.
 3\. RNA editing results in the restoration of codons for phylogenetically conserved amino acid residues.
 
 ### Jumping Genes
-
 
 **Figure: 3.24** Barbara McClintock **Have you heard of Jumping Genes or Hopping Genes?**
 
@@ -1756,10 +1645,8 @@ Mitochondria Inter-organelle signalsPlastids
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-24-1.jpg "")
   
-
 
 
 2\. It belongs to mustard family and it is the first flowering plant, where its entire genome is sequenced.
@@ -1805,11 +1692,6 @@ The five chromosomes of Arabidopsis thaliana (the region of chromosome 2 and 4
 coding for ribosomal RNA)
 
 Hetero chromatic region
-
-
-
-  
-
 
 
 **SUMMARY** Chromosomal theory of inheritance states that Mendelian factors have specific loci on chromosomes and they carry information from one generation to the next generation. Genes located close together on the same chromosome and inherited together are called linked genes the phenomenon is called Linkage. Two types of linkage are complete linkage and incomplete linkage. The groups of linearly arranged linked genes are called Linkage groups. Crossing over is a biological process that produces new combination of genes by inter-changing the corresponding segments between non-sister chromatids of homologous pair of chromosomes. In this segments of DNA are broken and recombined to produce new combinations of alleles a process is called Recombination. The diagrammatic representation of distances between the adjacent genes which is directly proportional to the frequency of recombination between them is called genetic mapping. When any of the three or more allelic forms of a gene occupy the same locus in a given pair of homologous chromosomes, they are said to be multiple alleles. They are m, M1 and M2 of a single gene. Mutational events that take place within individual genes are called gene mutations or point mutation, whereas the changes that occur in structure and number of chromosomes are called chromosomal mutation. The agents which are responsible for mutation is called mutagens.
@@ -1858,10 +1740,8 @@ a) A-i, B-iii, C-ii, D-iv b) A-ii, B-iii, C-iv, D-i c) A-ii, B-iii, C-i, D-iv d)
 
 
 
-
 ![](botany_xii_pages_052-081-ch-03-26-1.jpg "")
   
-
 
 
 2\. The linked genes exhibit some crossing over in complete linkage
@@ -1927,11 +1807,6 @@ a) Alpha strand b) Anti strand c) Template strand d) Coding strand
 18\. Which of the following correctly represents the flow of genetic information?
 
 a) DNA  RNA  Protein b) RNA  DNA  Protein c) RNA  Protein  DNA d) Protein  RNA  DNA
-
-
-
-  
-
 
 
 19\. Initiation codon is a) UUU b) UGA c) AUG d) UAG
@@ -2001,11 +1876,6 @@ d) The lagging strand away from replication fork
 i) What is the name of this phenomenon? ii) Draw the cross with suitable example. iii) Write the observed phenotypic ratio.
 
 33\. If you cross dominant genotype PV/PV male _Drosophila_ with double recessive female and obtain F1 hybrid. Now you cross F1 male with double recessive female.
-
-
-
-  
-
 
 
 i) What type of linkage is seen? ii) Draw the cross with correct genotype. iii) What is the possible genotype in F2
@@ -2097,11 +1967,6 @@ E Gene
 62\. Describe RNA editing in plants.
 
 
-
-  
-
-
-
 **Promoter: A specific nucleotide sequence to** which RNA polymerase attaches to initiate transcription of mRNA from a gene.
 
 **Self incompatibility:** A genetic mechanism which prevent self fertilization thus encourage outcross.
@@ -2145,6 +2010,5 @@ E Gene
 **Okazaki fragment:** A short segment of DNA produced by discontinuous replication elongating in the 5’ → 3’ direction away from the replication.
 
 **Primase:** It is a type of RNA polymerase an enzyme that catalyzes the polymerization of ribonucleotides to RNA. It creates a primer for DNA synthesis.
-
 
 

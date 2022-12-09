@@ -45,7 +45,6 @@ _Drosophila are ideal for the study of genetics and development_
 XII Std Zoology Chapter 4 EM.indd 45 18/12/2021 14:48:12
 
 
-![](chapter-4-1-1.jpg "")
   
 
 46Principles of Inheritance and Variation
@@ -181,7 +180,6 @@ X chromosomes are 165 Mb in size with about 1,000 genes.
 XII Std Zoology Chapter 4 EM.indd 48 18/12/2021 14:48:12
 
 
-![](chapter-4-4-1.jpg "")
   
 
 49 Principles of Inheritance and Variation
@@ -355,7 +353,6 @@ a complete set of chromosomes is separated
 XII Std Zoology Chapter 4 EM.indd 52 18/12/2021 14:48:13
 
 
-![](chapter-4-8-1.jpg "")
   
 
 53 Principles of Inheritance and Variation
@@ -483,7 +480,6 @@ The cytoplasmic extranuclear genes have a characteristic pattern of inheritance 
 XII Std Zoology Chapter 4 EM.indd 55 18/12/2021 14:48:14
 
 
-![](chapter-4-11-1.jpg "")
   
 
 56Principles of Inheritance and Variation
@@ -587,7 +583,6 @@ a) AB only **b) A, B and AB** c) A, B, AB and O d) A and B only
 XII Std Zoology Chapter 4 EM.indd 57 18/12/2021 14:48:14
 
 
-![](chapter-4-13-1.jpg "")
   
 
 58Principles of Inheritance and Variation

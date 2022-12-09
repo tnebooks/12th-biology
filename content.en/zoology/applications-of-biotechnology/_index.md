@@ -43,7 +43,6 @@ XII Std Zoology Chapter 10 EM.indd 157 18/12/2021 15:04:57
 
 ![](chapter-10-1-1.jpg "")
 
-![](chapter-10-1-2.jpg "")
   
 
 158Applications of Biotechnology
@@ -135,7 +134,6 @@ Recombinant bacteria multiplying and producing human insulin in fermentation tan
 XII Std Zoology Chapter 10 EM.indd 158 18/12/2021 15:04:58
 
 
-![](chapter-10-2-7.jpg "")
   
 
 159 Applications of Biotechnology
@@ -309,17 +307,14 @@ XII Std Zoology Chapter 10 EM.indd 162 18/12/2021 15:04:59
 
 ![](chapter-10-6-2.jpg "")
 
-![](chapter-10-6-3.jpg "")
 
 ![](chapter-10-6-4.jpg "")
 
 ![](chapter-10-6-5.jpg "")
 
-![](chapter-10-6-6.jpg "")
 
 ![](chapter-10-6-7.jpg "")
 
-![](chapter-10-6-8.jpg "")
 
 ![](chapter-10-6-9.jpg "")
 
@@ -375,33 +370,23 @@ XII Std Zoology Chapter 10 EM.indd 163 18/12/2021 15:05:00
 
 ![](chapter-10-7-2.jpg "")
 
-![](chapter-10-7-6.jpg "")
 
-![](chapter-10-7-9.jpg "")
 
-![](chapter-10-7-12.jpg "")
 
-![](chapter-10-7-13.jpg "")
 
 ![](chapter-10-7-16.jpg "")
 
-![](chapter-10-7-17.jpg "")
 
-![](chapter-10-7-18.jpg "")
 
 ![](chapter-10-7-19.jpg "")
 
-![](chapter-10-7-20.jpg "")
 
 ![](chapter-10-7-21.jpg "")
 
-![](chapter-10-7-22.jpg "")
 
 ![](chapter-10-7-24.jpg "")
 
-![](chapter-10-7-25.jpg "")
 
-![](chapter-10-7-26.jpg "")
   
 
 164Applications of Biotechnology
@@ -605,7 +590,6 @@ XII Std Zoology Chapter 10 EM.indd 166 18/12/2021 15:05:01
 
 ![](chapter-10-10-29.jpg "")
 
-![](chapter-10-10-30.jpg "")
   
 
 167 Applications of Biotechnology
@@ -705,7 +689,6 @@ XII Std Zoology Chapter 10 EM.indd 168 18/12/2021 15:05:02
 
 ![](chapter-10-12-2.jpg "")
 
-![](chapter-10-12-3.jpg "")
 
 ![](chapter-10-12-4.jpg "")
 
@@ -939,7 +922,6 @@ Genetically modified organisms can play a positive role in sustainable agricultu
 XII Std Zoology Chapter 10 EM.indd 173 18/12/2021 15:05:02
 
 
-![](chapter-10-17-1.jpg "")
   
 
 174Applications of Biotechnology
@@ -1039,7 +1021,6 @@ XII Std Zoology Chapter 10 EM.indd 175 18/12/2021 15:05:05
 
 ![](chapter-10-19-1.jpg "")
 
-![](chapter-10-19-3.jpg "")
 
 ![](chapter-10-19-4.jpg "")
 

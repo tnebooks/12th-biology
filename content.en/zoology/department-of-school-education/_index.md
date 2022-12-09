@@ -71,9 +71,7 @@ Chapter 13 Environmental Issues 219
 XII Std Zoology Introduction EM.indd 3 12/14/2021 10:56:05 AM
 
 
-![](introduction-3-1.jpg "")
 
-![](introduction-3-2.jpg "")
   
 
 Conceptual picture with caption relating to every chapter is given in this text book.
@@ -113,7 +111,6 @@ IV
 XII Std Zoology Introduction EM.indd 4 12/14/2021 10:56:06 AM
 
 
-![](introduction-4-1.jpg "")
 
 ![](introduction-4-10.jpg "")
   

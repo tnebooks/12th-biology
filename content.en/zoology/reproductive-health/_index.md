@@ -61,7 +61,6 @@ XII Std Zoology Chapter 3 EM.indd 32 18/12/2021 14:48:57
 
 ![](chapter-3-1-1.jpg "")
 
-![](chapter-3-1-2.jpg "")
   
 
 33 Reproductive Health
@@ -169,7 +168,6 @@ does free screening for cervical and breast cancer.
 XII Std Zoology Chapter 3 EM.indd 36 18/12/2021 14:48:58
 
 
-![](chapter-3-5-1.jpg "")
   
 
 37 Reproductive Health
@@ -335,7 +333,6 @@ stage is transferred to the fallopian tube by laparoscopy. The zygote continues 
 XII Std Zoology Chapter 3 EM.indd 39 18/12/2021 14:48:58
 
 
-![](chapter-3-8-1.jpg "")
   
 
 40Reproductive Health
@@ -389,11 +386,9 @@ Amniotic Fluid
 XII Std Zoology Chapter 3 EM.indd 40 18/12/2021 14:48:59
 
 
-![](chapter-3-9-1.jpg "")
 
 ![](chapter-3-9-2.jpg "")
 
-![](chapter-3-9-3.jpg "")
 
 ![](chapter-3-9-4.jpg "")
 
@@ -407,7 +402,6 @@ XII Std Zoology Chapter 3 EM.indd 40 18/12/2021 14:48:59
 
 ![](chapter-3-9-9.jpg "")
 
-![](chapter-3-9-10.jpg "")
 
 ![](chapter-3-9-11.jpg "")
 
@@ -423,17 +417,13 @@ XII Std Zoology Chapter 3 EM.indd 40 18/12/2021 14:48:59
 
 ![](chapter-3-9-17.jpg "")
 
-![](chapter-3-9-18.jpg "")
 
-![](chapter-3-9-19.jpg "")
 
-![](chapter-3-9-20.jpg "")
 
 ![](chapter-3-9-21.jpg "")
 
 ![](chapter-3-9-22.jpg "")
 
-![](chapter-3-9-23.jpg "")
 
 ![](chapter-3-9-24.jpg "")
 

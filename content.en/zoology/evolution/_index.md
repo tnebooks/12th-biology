@@ -75,7 +75,6 @@ XII Std Zoology Chapter 6 EM.indd 92 18/12/2021 14:52:42
 
 ![](chapter-6-1-1.jpg "")
 
-![](chapter-6-1-2.jpg "")
   
 
 93 Evolution
@@ -105,7 +104,6 @@ The Paleozoic era is characterized by abundance of fossils of marine invertebrat
 XII Std Zoology Chapter 6 EM.indd 93 18/12/2021 14:52:42
 
 
-![](chapter-6-2-1.jpg "")
   
 
 94Evolution
@@ -449,9 +447,7 @@ XII Std Zoology Chapter 6 EM.indd 98 18/12/2021 14:52:45
 
 ![](chapter-6-7-30.jpg "")
 
-![](chapter-6-7-31.jpg "")
 
-![](chapter-6-7-32.jpg "")
 
 ![](chapter-6-7-35.jpg "")
 
@@ -461,13 +457,9 @@ XII Std Zoology Chapter 6 EM.indd 98 18/12/2021 14:52:45
 
 ![](chapter-6-7-38.jpg "")
 
-![](chapter-6-7-39.jpg "")
 
-![](chapter-6-7-40.jpg "")
 
-![](chapter-6-7-41.jpg "")
 
-![](chapter-6-7-42.jpg "")
 
 ![](chapter-6-7-44.jpg "")
 
@@ -475,9 +467,7 @@ XII Std Zoology Chapter 6 EM.indd 98 18/12/2021 14:52:45
 
 ![](chapter-6-7-46.jpg "")
 
-![](chapter-6-7-47.jpg "")
 
-![](chapter-6-7-48.jpg "")
   
 
 99 Evolution
@@ -695,61 +685,38 @@ XII Std Zoology Chapter 6 EM.indd 102 18/12/2021 14:52:47
 
 ![](chapter-6-11-2.jpg "")
 
-![](chapter-6-11-3.jpg "")
 
-![](chapter-6-11-4.jpg "")
 
-![](chapter-6-11-5.jpg "")
 
-![](chapter-6-11-6.jpg "")
 
-![](chapter-6-11-7.jpg "")
 
-![](chapter-6-11-8.jpg "")
 
-![](chapter-6-11-9.jpg "")
 
-![](chapter-6-11-10.jpg "")
 
-![](chapter-6-11-11.jpg "")
 
-![](chapter-6-11-12.jpg "")
 
 ![](chapter-6-11-13.jpg "")
 
-![](chapter-6-11-14.jpg "")
 
-![](chapter-6-11-15.jpg "")
 
-![](chapter-6-11-16.jpg "")
 
-![](chapter-6-11-17.jpg "")
 
-![](chapter-6-11-19.jpg "")
 
-![](chapter-6-11-20.jpg "")
 
-![](chapter-6-11-21.jpg "")
 
-![](chapter-6-11-22.jpg "")
 
 ![](chapter-6-11-24.jpg "")
 
-![](chapter-6-11-26.jpg "")
 
-![](chapter-6-11-28.jpg "")
 
-![](chapter-6-11-31.jpg "")
 
 ![](chapter-6-11-32.jpg "")
 
 ![](chapter-6-11-33.jpg "")
 
-![](chapter-6-11-34.jpg "")
 
 ![](chapter-6-11-35.jpg "")
 
-![](chapter-6-11-36.jpg "")
   
 
 103 Evolution
@@ -969,7 +936,6 @@ Ramapithecus Homo sapiensNeanderthal manHomo erectusAustralopithecus Homo habili
 XII Std Zoology Chapter 6 EM.indd 106 18/12/2021 14:52:52
 
 
-![](chapter-6-15-1.jpg "")
 
 ![](chapter-6-15-2.jpg "")
   
@@ -1093,7 +1059,6 @@ characters d) Germplasm theory
 XII Std Zoology Chapter 6 EM.indd 109 18/12/2021 14:52:53
 
 
-![](chapter-6-18-1.jpg "")
   
 
 110Evolution

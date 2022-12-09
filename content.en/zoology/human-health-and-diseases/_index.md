@@ -49,7 +49,6 @@ abuse 7.4 Mental health – Depression 7.5 Lifestyle disorders in human beings
 XII Std Zoology Chapter 7 EM.indd 112 18/12/2021 14:53:38
 
 
-![](chapter-7-1-1.jpg "")
   
 
 113 Human Health and Diseases
@@ -745,7 +744,6 @@ a) CNS stimulant b) both a and b c) hallucinogenic **d) CNS depressants**
 XII Std Zoology Chapter 7 EM.indd 126 18/12/2021 14:53:42
 
 
-![](chapter-7-15-1.jpg "")
   
 
 127 Human Health and Diseases
