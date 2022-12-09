@@ -169,10 +169,21 @@ In Mendel’s monohybrid cross all the plants are tall in F1 generation. In F2 t
 
 ![Test Tall](homozygous-tall-test-cross.png "")
 
+### Back cross
+- Back cross is a cross of F1 hybrid with any
+one of the parental genotypes. The back cross is of two types; they are dominant back cross and recessive back cross.
 
-Phenotypes Tall Tall All tall plants
 
-**If homozygous tall test cross**
+- It involves the cross between the F1 offspring with either of the two parents.
+
+- When the F1offsprings are crossed with the dominant parents all the F2 develop dominant character and no recessive individuals are obtained in the progeny.
+
+- If the F1 hybrid is crossed with the recessive parent individuals of both the phenotypes appear in equal proportion and this cross is specified as test cross.
+
+- The recessive back cross helps to identify the heterozygosity of the hybrid.
+
+### Dihybrid cross
+ It is a genetic cross which involves individuals differing in two characters. Dihybrid inheritance is the inheritance of two separate genes each with two alleles.
 
 **Why Mendel’s pea plants are tall and dwarf? Find out the molecular explanation.**
 
@@ -182,44 +193,7 @@ The plant height is controlled by a single gene with two alleles. The reason for
 
 **Gene for plant height in Peas**
 
-(Le Le / Le le) (le le)
-
-**Tall pea plants Dwarf pea plant**
-
-Le allele codes for functional enzyme GA1
-
-le allele codes for nonfunctional enzyme
-
-Gibberellin
-
-Precursor molecule
-
-Gibberellins are not
-
-produced
-
-Gibberellin
-
-Precursor molecule
-
-GA1 Active
-
-gibberellins
-
-![Gene for plant height in Peas]( "")
-
-### Back cross
- • Back cross is a cross of F1 hybrid with any
-
-one of the parental genotypes. The back cross is of two types; they are dominant back cross and recessive back cross.
-- It involves the cross between the F1 offspring with either of the two parents.
-
-- When the F1offsprings are crossed with the dominant parents all the F2 develop dominant character and no recessive individuals are obtained in the progeny.
-- If the F1 hybrid is crossed with the recessive parent individuals of both the phenotypes appear in equal proportion and this cross is specified as test cross.
-- The recessive back cross helps to identify the heterozygosity of the hybrid.
-
-### Dihybrid cross
- It is a genetic cross which involves individuals differing in two characters. Dihybrid inheritance is the inheritance of two separate genes each with two alleles.
+![Gene for plant height in Peas](gene-for-plant-height-in-peas.png "")
 
 **Law of Independent Assortment** – When two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent to the other pair of characters. Genes that are located in different chromosomes assort independently during meiosis. Many possible combinations of factors can occur in the gametes.
 
