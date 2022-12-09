@@ -538,7 +538,6 @@ Phenotypic ratio
 
 
 
-![](botany_xii_pages_033-051-ch-02-10-3.jpg "")
   
 
 
@@ -556,7 +555,6 @@ Phenotypic ratio
 
 ![](botany_xii_pages_033-051-ch-02-11-4.jpg "")
 
-![](botany_xii_pages_033-051-ch-02-11-5.jpg "")
   
 
 
@@ -605,7 +603,6 @@ In the summer squash the fruit colour locus has a dominant allele ‘W’ for wh
 
 
 
-![](botany_xii_pages_033-051-ch-02-12-1.jpg "")
   
 
 
@@ -774,11 +771,8 @@ A group of genes that together determine (contribute) a characteristic of an org
 
 
 
-![](botany_xii_pages_033-051-ch-02-13-1.jpg "")
 
-![](botany_xii_pages_033-051-ch-02-13-2.jpg "")
 
-![](botany_xii_pages_033-051-ch-02-13-3.jpg "")
   
 
 
@@ -1004,9 +998,7 @@ Recently it has been discovered that cytoplasmic genetic male sterility is commo
 
 
 
-![](botany_xii_pages_033-051-ch-02-15-3.jpg "")
 
-![](botany_xii_pages_033-051-ch-02-15-4.jpg "")
   
 
 
@@ -1102,7 +1094,6 @@ a) Incomplete dominance b) Law of dominance c) Inheritance of one gene d) Co-dom
 
 
 
-![](botany_xii_pages_033-051-ch-02-17-1.jpg "")
   
 
 

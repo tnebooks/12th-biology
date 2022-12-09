@@ -247,9 +247,7 @@ Plants and Entrepreneurial Botany
 
 
 
-![](botany_xii_page-i-viii-front-7-1.jpg "")
 
-![](botany_xii_page-i-viii-front-7-2.jpg "")
   
 
 VIII

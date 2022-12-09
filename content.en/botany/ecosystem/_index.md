@@ -727,7 +727,6 @@ ecosystem (Some species indicate the health of the ecosystem: such species are c
 
 ![](botany_xii_pages_149-177-ch-07-14-1.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-14-2.jpg "")
   
 
 
@@ -1185,7 +1184,6 @@ Tamil Nadu has a rich biodiversity right from the Gulf of Mannar to Western Ghat
 
 
 
-![](botany_xii_pages_149-177-ch-07-20-1.jpg "")
   
 
 
@@ -1567,7 +1565,6 @@ a) 2 – 8% b) 2 – 10%
 
 
 
-![](botany_xii_pages_149-177-ch-07-26-1.jpg "")
   
 
 
@@ -1713,7 +1710,6 @@ Let us know about the **Ecosystem** in detail through this activity.
 
 ![](botany_xii_pages_149-177-ch-07-29-1.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-29-2.jpg "")
 
 ![](botany_xii_pages_149-177-ch-07-29-3.jpg "")
 

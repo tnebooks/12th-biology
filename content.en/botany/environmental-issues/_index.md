@@ -39,7 +39,7 @@ Now we are going to understand some of the environmental issues such as
 
 Environmental issues are the problems and harmful effects created by human’s unmindful activity and over utilisation of valuable resources obtained from the nature (environment). Student should understand not only the environmental issues we are facing now, but also find solutions to rectify or reduce these problems.
 
-![Environmental issues]( "")
+![Environmental issues](environmental-issues.png "")
 
 Water, energy, food scarcity
 
