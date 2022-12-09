@@ -234,7 +234,7 @@ In a **forest ecosystem** the pyramid of number is somewhat different in shape, 
 
 **A**
 
-![-C) Forest ecosystem,]( "")
+![-C) Forest ecosystem,](pyramid-of-number.png "")
 
 **Inverted**\-D) Parasite ecosystem
 
@@ -291,7 +291,7 @@ However, in **pond ecosystem**, the bottom of the pyramid is occupied by the pro
 
 A graphical representation of energy flow at each successive trophic level in an ecosystem is called pyramid of energy. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
 
-![Pyramids of energy( Kcal/unit area/unit time ) in any ecosystem]( "")
+![Pyramids of energy( Kcal/unit area/unit time ) in any ecosystem](pyramids-of-energy.png "")
 
 **Primary consumers**
 
@@ -382,7 +382,7 @@ Senescence
 
 **Leaching**
 
-![Diagrammatic representation – Process of decomposition and cycling of nutrients.]( "")
+![Diagrammatic representation – Process of decomposition and cycling of nutrients.](process-of-decomposition-and-cycling.png "")
 
 
 
@@ -412,7 +412,7 @@ The circulation of carbon between organisms and environment
 
 is known as the **carbon cycle**. Carbon is an inevitable part of all biomolecules and is substantially impacted by the change in global climate. Cycling of carbon between organisms and atmosphere is a consequence of two reciprocal processes of photosynthesis and respiration. The releasing of carbon in
 
-![Diagrammatic Sketch showing Carbon cycle]( "")
+![Diagrammatic Sketch showing Carbon cycle](carbon-cycle.png "")
 
 Peat Coal
 
@@ -446,7 +446,7 @@ Oil and Gas
 
 **Transport (DOM)**
 
-![Diagrammatic sketch showing Phosphorous cycle]( "")
+![Diagrammatic sketch showing Phosphorous cycle](phosphorous-cycle.png "")
 
 **Decomposition Mineralization**
 
@@ -542,7 +542,7 @@ bodies) Example: Pond
 
 and Lake
 
-![Types of Ecosystem Though there are many types of ecosystems as charted above. Only the pond ecosystem is detailed below.]( "")
+
 
 **Structure of Pond ecosystem**
 
@@ -556,7 +556,7 @@ Abiotic components
 
 **Mud**
 
-![Diagram shows structure of pond ecosystem with abiotic and biotic components.]( "")
+![Diagram shows structure of pond ecosystem with abiotic and biotic components.](abiotic-biotic.png "")
 
 It is a classical example for natural, aquatic, freshwater, lentic type of ecosystem. It helps us to understand the structure and function of an ecosystem. When rain water gathers in a shallow area, gradually over a period of time, different kinds of organisms (microbes, plants, animals) become part of this ecosystem. This pond ecosystem is a self sustaining and self regulatory fresh water ecosystem, which shows a complex interaction between the abiotic and biotic components in it.
 
@@ -608,7 +608,7 @@ compensation level
 
 BENTHIC ZONE
 
-![Diagrammatic sketch shows stratification of Pond ecosystem]( "")
+![Diagrammatic sketch shows stratification of Pond ecosystem](stratification-of-pond-ecosystem.png "")
 
 Based on the factors like distance from the shore, penetration of light, depth of water, types of plants and animals, there may be three zones, littoral, limnetic and profundal. The littoral zone, which is closest to the shore with shallow water region, allows easy penetration of light. It is warm and occupied by rooted plant species. The limnetic zone refers the open water of the pond with an effective penetration of light and domination of planktons. The deeper region of a pond below the limnetic zone is called profundal zone with no effective light penetration and predominance of heterotrophs. The bottom zone of a pond is termed benthic and is occupied by a community of organisms called benthos (usually decomposers).The primary productivity through photosynthesis of littoral and limnetic zone is more due to greater penetration of light than the profundal zone.
 
@@ -655,10 +655,6 @@ retention • Production of
 atmospheric oxygen • Water cycling
 
 **Regulating services** • Invasion resistance • Herbivory pollination • Seed dispersal • Climate regulation • Pest regulation • Disease regulation • Erosion regulation • Water purification • Natural hazard protection
-
-![Types of Ecosystem services]( "")
-
-
 
 ![](botany_xii_pages_149-177-ch-07-12-1.jpg "")
   
@@ -780,26 +776,8 @@ Intermediate Species
 
 Climax CommunityPioneer Species
 
-![Diagrammatic representation of secondary succession]( "")
+![Diagrammatic representation of secondary succession](secondary-succession.png "")
 
-
-
-![](botany_xii_pages_149-177-ch-07-15-1.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-2.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-3.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-4.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-6.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-7.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-8.jpg "")
-
-![](botany_xii_pages_149-177-ch-07-15-9.jpg "")
-  
 
 
 Primary succession Secondary succession 1 Developing in an
@@ -1274,7 +1252,6 @@ These forests are found at about 400 to 800 m MSL .These forests are found in th
 
 **FOREST TYPES OF INDIA Champion and Seth (1968)**
 
-![Map showing forest types of India. Champion and Seth (1968)]( "")
 
 _Bauhinia_ and _Zizyphus._ Some common Climbers are _Combretum, Hiptage_: herbs like _Abutilon, Achyranthes_ and Tribulus.These are found in Andhra Pradesh, Punjab, Uttar Pradesh, Bihar, Orissa, Madhya Pradesh and also found in all districts of Tamil Nadu at lower elevations.
 
@@ -1440,11 +1417,9 @@ S
 
 **a le**
 
-![Map showing forest types of Tamil Nadu.]( "")
 
 
-
-![](botany_xii_pages_149-177-ch-07-23-1.jpg "")
+![Map showing forest types of Tamil Nadu.](botany_xii_pages_149-177-ch-07-23-1.jpg "")
   
 
 
@@ -1527,17 +1502,11 @@ In Tamil Nadu, these are found in the Eastern Ghats .These are scattered and int
 
 **b. Higher altitude grasslands**
 
-This type of grasslands are found in altitude above 1000 m.The common plants species are _Chrysopogon, A r u n d i n e l l a , Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca,_ and _Agrostis._. It is spread over the southern slopes of Himalayas, sub-
-
-![Higher altitude grassland]( "")
+This type of grasslands are found in altitude above 1000 m.The common plants species are _Chrysopogon, A r u n d i n e l l a , Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca,_ and _Agrostis._. It is spread over the southern slopes of Himalayas, sub-vegetation, Riparian vegetation, Aquatic and semi aquatic vegetation). According to Champion and Seth (1968), forest vegetation of India and Tamil Nadu has been classified in to 16 and 9 types respectively.
 
 
+![Higher altitude grassland](botany_xii_pages_149-177-ch-07-25-1.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-25-1.jpg "")
-  
-
-
-vegetation, Riparian vegetation, Aquatic and semi aquatic vegetation). According to Champion and Seth (1968), forest vegetation of India and Tamil Nadu has been classified in to 16 and 9 types respectively.
 
 **Summary** The interaction between biotic and abiotic components in an environment is called ecosystem. Autotrophs and heterotrophs are the producers and consumers respectively. The function of ecosystem refers to creation of energy, flow of energy and cycling of nutrients. The amount of light available for photosynthesis is called Photo synthetically Active Radiation . It is essential for increase in the productivity of ecosystem. The rate of biomass production per unit area /time is called productivity. It is classified as primary productivity, secondary productivity and community productivity. The transfer of energy in an ecosystem can be termed as energy flow. It is explained through the food chain, food web , ecological pyramids ( pyramid of number, biomass and energy ) and biogeochemical cycle. Cycling of nutrients between abiotic and biotic components is evident in the pond ecosystem, making itself self sufficient and self regulating Ecosystem protected for the welfare of posterity is called ecosystem management.
 
