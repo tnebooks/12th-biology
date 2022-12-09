@@ -294,13 +294,6 @@ Since the white plants lack chlorophyll pigment, they will not survive. So the F
 
 ratio is modified into 1 : 2. In this case the homozygous recessive genotype (cc) is lethal.
 
-x
-
-x Cc Cc
-
-F1
-
-F2
 
 Heterozygote Antirrhinum aurea
 
@@ -308,7 +301,9 @@ Antirrhinum aurea
 
 1CC : 2 Cc : 1 cc Green Aurea White (lethal)
 
-**Figure: 2.15:** Lethal genes
+
+![**Figure: 2.15:** Lethal genes](lethal-genes.png "")
+
 
 The term “lethal” is applied to those changes in the genome of an organism which produces effects severe enough to cause death. Lethality is a condition in which the death of certain genotype occurs prematurely. The fully dominant or fully recessive lethal allele kills the carrier individual only in its homozygous condition. So the F2 genotypic ratio will be 2 : 1 or 1 : 2 respectively.
 
