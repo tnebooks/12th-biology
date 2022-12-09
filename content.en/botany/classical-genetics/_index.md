@@ -253,68 +253,9 @@ or allelic interactions • Intergenic gene interactions or inter allelic
 or non-allelic interactions 
 
 ### The Dihybrid test cross
-
-Heterozygous round peas
-
-Homozygous Wrinkled peas
-
-Parental (P) Phenotypes F1
-
-x
-
-x
-
-Gametes
-
-Genotypes
-
-RY Ry rY ry ry ry ry ry
-
-RrYy rryy
-
-Yellow cotyledon
-
-Green cotyledon
-
-The F1 hybrid plant (round yellow peas) is crossed with homozygous double recessive genotype, wrinkled green peas (rryy). This is called dihybrid test cross with the ratio of 1:1:1:1.
-
-Gametes RY Ry rY ry
-
-RrYy
-
-RrYy
-
-Rryy rrYy rryy
-
-Rryy rrYy rryy
-
-Round Round Wrinkled Wrinkled Yellow
-
-round Yellow
-
-round Green
-
-Wrinkled Yellow
-
-Wrinkled Green
-
-Green Yellow Green all ry
-
-Genotypes
-
-Genotypic ratio
-
-Phenotypes
-
-Phenotypic ratio
-
-1 : 1 : 1 : 1
-
-25% 25% 25% 25%
-
 **The Dihybrid test cross**
 
-![Dihybrid test cross]( "")
+![Dihybrid test cross](dihybrid-test-cross.png "")
 
 ### Extensions of Mendelian Genetics
  Apart from monohybrid, dihybrid and trihybrid crosses, there are exceptions to Mendelian principles, i.e. the occurrence of different phenotypic ratios. The more complex patterns of inheritance are the extensions of Mendelian Genetics. There are examples where phenotype of the organism is the result of the interactions among genes.
