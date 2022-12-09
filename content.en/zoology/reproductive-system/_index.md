@@ -53,7 +53,6 @@ _interspecific._
 XII Std Zoology Chapter 11 EM.indd 176 18/12/2021 15:07:09
 
 
-![](chapter-11-1-1.jpg "")
 
 ![](chapter-11-1-2.jpg "")
   
@@ -501,7 +500,6 @@ XII Std Zoology Chapter 11 EM.indd 186 18/12/2021 15:07:12
 
 ![](chapter-11-11-1.jpg "")
 
-![](chapter-11-11-3.jpg "")
   
 
 187 Organisms and Populations
@@ -553,7 +551,6 @@ stabilizers or balancers and the caudal fin helps in changing the direction as a
 XII Std Zoology Chapter 11 EM.indd 187 18/12/2021 15:07:12
 
 
-![](chapter-11-12-1.jpg "")
   
 
 188Organisms and Populations
@@ -835,7 +832,6 @@ XII Std Zoology Chapter 11 EM.indd 193 18/12/2021 15:07:12
 
 ![](chapter-11-18-1.jpg "")
 
-![](chapter-11-18-2.jpg "")
   
 
 194Organisms and Populations

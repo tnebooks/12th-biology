@@ -51,7 +51,6 @@ XII Std Zoology Chapter 12 EM.indd 197 18/12/2021 15:14:41
 
 ![](chapter-12-1-1.jpg "")
 
-![](chapter-12-1-2.jpg "")
   
 
 198Biodiversity and its Conservation
@@ -367,7 +366,6 @@ XII Std Zoology Chapter 12 EM.indd 204 18/12/2021 15:14:42
 
 ![](chapter-12-8-8.jpg "")
 
-![](chapter-12-8-9.jpg "")
 
 ![](chapter-12-8-10.jpg "")
 
@@ -647,7 +645,6 @@ Maximum protection of biodiversity hotspots regions with very high levels of spe
 XII Std Zoology Chapter 12 EM.indd 210 18/12/2021 15:14:43
 
 
-![](chapter-12-14-1.jpg "")
   
 
 211 Biodiversity and its Conservation
@@ -907,7 +904,6 @@ one such extinction in the near future. Enumerate the steps to be taken to preve
 XII Std Zoology Chapter 12 EM.indd 216 18/12/2021 15:14:43
 
 
-![](chapter-12-20-1.jpg "")
   
 
 217 Biodiversity and its Conservation
@@ -943,7 +939,6 @@ Gene banks
 XII Std Zoology Chapter 12 EM.indd 217 18/12/2021 15:14:44
 
 
-![](chapter-12-21-1.jpg "")
   
 
 218Biodiversity and its Conservation
@@ -979,7 +974,6 @@ XII Std Zoology Chapter 12 EM.indd 218 18/12/2021 15:14:46
 
 ![](chapter-12-22-1.jpg "")
 
-![](chapter-12-22-3.jpg "")
 
 ![](chapter-12-22-4.jpg "")
 

@@ -47,7 +47,6 @@ XII Std Zoology Chapter 5 EM.indd 61 18/12/2021 14:51:53
 
 ![](chapter-5-1-1.jpg "")
 
-![](chapter-5-1-2.jpg "")
   
 
 62Molecular Genetics
@@ -381,7 +380,6 @@ XII Std Zoology Chapter 5 EM.indd 70 18/12/2021 14:51:55
 
 ![](chapter-5-10-1.jpg "")
 
-![](chapter-5-10-2.jpg "")
   
 
 71 Molecular Genetics
@@ -501,7 +499,6 @@ Rho factor
 XII Std Zoology Chapter 5 EM.indd 73 18/12/2021 14:51:55
 
 
-![](chapter-5-13-1.jpg "")
   
 
 74Molecular Genetics
@@ -725,7 +722,6 @@ XII Std Zoology Chapter 5 EM.indd 78 18/12/2021 14:51:56
 
 ![](chapter-5-18-1.jpg "")
 
-![](chapter-5-18-2.jpg "")
   
 
 79 Molecular Genetics
@@ -977,13 +973,9 @@ DNA from individual (B) BAC
 XII Std Zoology Chapter 5 EM.indd 85 18/12/2021 14:51:58
 
 
-![](chapter-5-25-38.jpg "")
 
-![](chapter-5-25-39.jpg "")
 
-![](chapter-5-25-40.jpg "")
 
-![](chapter-5-25-41.jpg "")
   
 
 86Molecular Genetics
@@ -1089,7 +1081,6 @@ band.
 XII Std Zoology Chapter 5 EM.indd 87 18/12/2021 14:51:58
 
 
-![](chapter-5-27-1.jpg "")
   
 
 88Molecular Genetics
@@ -1245,7 +1236,6 @@ XII Std Zoology Chapter 5 EM.indd 91 18/12/2021 14:52:01
 
 ![](chapter-5-31-1.jpg "")
 
-![](chapter-5-31-3.jpg "")
 
 ![](chapter-5-31-4.jpg "")
 

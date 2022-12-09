@@ -65,7 +65,6 @@ CHAPTER
 XII Std Zoology Chapter 13 EM.indd 219 18/12/2021 15:19:14
 
 
-![](chapter-13-1-1.jpg "")
 
 ![](chapter-13-1-2.jpg "")
   
@@ -527,7 +526,6 @@ Pollutants from anthropogenic activities like effluents from the industries and 
 XII Std Zoology Chapter 13 EM.indd 228 18/12/2021 15:19:15
 
 
-![](chapter-13-10-1.jpg "")
 
 ![](chapter-13-10-2.jpg "")
   
@@ -779,7 +777,6 @@ Generation of municipal wastes and their safe disposal are major issues faced by
 XII Std Zoology Chapter 13 EM.indd 234 18/12/2021 15:19:16
 
 
-![](chapter-13-16-1.jpg "")
   
 
 235 Environmental Issues
