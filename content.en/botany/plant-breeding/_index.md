@@ -91,55 +91,13 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 **_Rhizobium_** Bio-fertilisers containing rhizobium bacteria are called _rhizobium_ bio-fertilizer culture. Symbiotic bacteria that reside inside the root nodules convert the atmospheric nitrogen into a bio available form to the plants. This nitrogen fixing bacterium when applied to the soil undergoes multiplication and fixes the atmospheric nitrogen in the soil. _Rhizobium_ is best suited for the paddy fields which increase the yield by 15 – 40%.
 
-**(a)(b)**
 
-![C.S. of Root nodule]( "")
+![C.S. of Root nodule](9.4.root-nodules-occur-on-root.png "")
 
 **_Azolla_** _Azolla is a free-floating water fern that fixes_ the atmospheric nitrogen in association with nitrogen fixing blue green alga Anabaena azollae. It is used as a bio-fertilizer for wetland rice cultivation and is known to contribute 40 – 60 kg/ha/crop. The agronomic potential of Azolla is quite significant particularly for increasing the yield of rice crop, as it quickly decompose in soil.
 
-**(b)**
 
-**(a)**
 
-![(b) _Azolla_]( "")
-
-**Arbuscular mycorrhizae** Arbuscular mycorrhizae (AM) is formed by
-
-the symbiotic association between certain phycomycetous fungi and angiosperm roots. They have the ability to dissolve the phosphates found in abundance in the soil.
-
-**No colonization**
-
-Zn2+
-
-Nutrient transfer via root hairs
-
-**AM-colonization**
-
-Nutrient transfer via AMF
-
-Increased resistance to heavy metal toxicity
-
-Phosphate depletion zone
-
-PO4 3-
-
-PO4 3-
-
-PO4 3-
-
-NH4 + NH4
-
-\+ H2O
-
-H2O
-
-Increased drought and salt tolerance
-
-Increased resistance to foliar pathogens
-
-Zn2+
-
-Local resistance to root pathogens
 
 ![Apart from increasing the availability of phosphorus, AM provides necessary strength to resist disease, germs and unfavourable weather conditions. It also assures water availability.]( "")
 
