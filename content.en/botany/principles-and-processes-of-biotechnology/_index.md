@@ -28,7 +28,7 @@ Biotechnology is the science of applied biological processes. In other words it 
 
 and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
 
-![_Karl Ereky_]( "")
+
 
 4.1 Development of Biotechnology
 
@@ -116,7 +116,7 @@ Sparger
 
 nutrient or inoculant
 
-![Bioreactor]( "")
+
 
 **Procedure of Fermentation** a. Depending upon the type of product,
 
@@ -172,7 +172,7 @@ a gene of interest that needs to be cloned. This is called an insert.
 - Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
 - Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
 
-![_Spirulina_ products]( "")
+
 
 
 
@@ -241,7 +241,7 @@ Gene used to alter bacteria for cleaning up toxic waste
 
 6
 
-![Steps involved in r-DNA Technology]( "")
+
 
 **Restriction enzyme**
 
@@ -378,7 +378,7 @@ Blunt ends
 
 **GGG CCC**
 
-![Sticky and Blunt ends]( "")
+
 
 Two other enzymes that play an important role in recombinant DNA technology are DNA ligase and alkaline phosphatase
 
@@ -423,7 +423,7 @@ PDNA strand DNA strand
 
 DNA strand
 
-![DNA ligase reaction]( "")
+
 
 ### Alkaline Phosphatase
  It is a DNA modifying enzyme and adds or removes specific phosphate group at 5’ terminus of double stranded DNA (dsDNA) or single stranded DNA (ssDNA) or RNA. Thus it prevents self ligation. This enzyme is purified from bacteria and calf intestine.
@@ -473,7 +473,7 @@ Recircularization of plasmid
 
 (Self ligation)
 
-![Action of Alkaline Phosphatase]( "")
+
 
 ### Vectors
  Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host. **Properties of Vectors** Vectors are able to replicate autonomously to produce multiple copies of them along with their DNA insert in the host cell. • It should be small in size and of low molecular
@@ -558,7 +558,7 @@ Selectable marker
 
 3\. A cloning vector needs a single cleavage site for each of one or more restriction enzyme used.
 
-![Properties of Vector]( "")
+
 
 2\. **Selectable marker**: In addition to **ori** the vector requires a selectable marker, which helps in identifying and eliminating non transformants and selectively permitting the growth of the transformants.
 
@@ -570,7 +570,7 @@ Selectable marker
 
 **pBR 322 Plasmid** pBR 322 plasmid is a reconstructed plasmid and most widely used as cloning vector; it contains 4361 base pairs. In pBR, **_p_** denotes plasmid, **_B_**and **_R_** respectively the names of scientist **B**oliver and **R**odriguez who developed this plasmid. The number 322 is the number of plasmid developed from their laboratory. It contains ampR and tetR two different antibiotic
 
-![Bacterial chromosome and plasmids]( "")
+
 
 NucleoidBacterial chromosome (circular)
 
@@ -578,7 +578,7 @@ Plasmids
 
 resistance genes and recognition sites for several restriction enzymes. (_Hind III, EcoRI, BamH I, Sal I, Pvu II, Pst I, Cla I_), ori and antibiotic resistance genes. Rop codes for the proteins involved in the replication of the plasmid.
 
-![pBR 322]( "")
+
 
 **Ti Plasmid** Ti plasmid is found in _Agrobacterium tumefaciens,_ a bacterium responsible for inducing tumours in several dicot plants. The plasmid carries transfer (tra) gene which help to transfer T- DNA from one bacterium to other bacterial or plant cell. It has Onc gene for oncogenecity, ori gene for origin for replication and inc gene for incompatibility. T-DNA of Ti-Plasmid is stably integrated with plant DNA. Agrobacterium plasmids have been used for introduction of genes of desirable traits into plants. **4.4.5 Competent Host (For Transformation with Recombinant DNA)** The propagation of the recombinant DNA molecules must occur inside a living system or host. Many types of host cells are available for gene cloning which includes _E.coli,_ yeast, animal or plant cells. The type of host cell depends upon the cloning experiment. _E.coli_ is the most widely used organism as its genetic make-up has been extensively studied, it is easy to handle and grow, can accept a range of vectors and has also been studied for safety. One more important feature of _E.coli_ to be preferred as a host cell is that under optimal growing conditions the cells divide every 20 minutes.
 
@@ -594,7 +594,7 @@ Orgin of Replication (ORI)
 
 Virulence Region
 
-![Ti Plasmid]( "")
+
 
 
 (PEG) and dextran sulphate induce DNA uptake into plant protoplasts.
@@ -665,7 +665,7 @@ Electric field induces a voltage across cell membrane
 
 Cell **heals** with gene/drug inside
 
-![Electroporation Methods of Gene Transfer]( "")
+
 
 d. **Liposome mediated method of Gene Transfer:** Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
 
@@ -698,7 +698,7 @@ or tissues are cultured on selected medium to regenerate plants from the transfo
 ### Indirect or Vector-Mediated Gene Transfer
  Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into
 
-![Liposome mediated method of Gene Transfer]( "")
+
 
 Cell membrane
 
@@ -742,7 +742,7 @@ DNA-pcoated gold particles
 
 Gene gun barrel
 
-![Gene gun method of Gene Transfer]( "")
+
 
 DNA containing gene for desired trait
 
@@ -780,7 +780,7 @@ cleavage site
 
 2 3 3
 
-![Agrobacterium mediated gene transfer in plants]( "")
+
 
 
 
@@ -838,7 +838,7 @@ Ori
 
 Multiple cloning site
 
-![a. Plasmid vector designed for blue-white screening b. Blue-white colony]( "")
+
 
 selection method Sterile velvet on a block Imprints of all colonies
 
@@ -854,7 +854,7 @@ Ampicillin sensitive colonies
 
 Lacks ampicillin
 
-![Replica plating technique]( "")
+
 
 
 **Southern Blotting Techniques - DNA** The transfer of denatured DNA from Agarose gel to Nitrocellulose Blotting or Filter Paper technique was introduced by Southern in 1975 and this technique is called Southern Blotting Technique. **Steps** The transfer of DNA from agarose gel to nitrocellulose filter paper is achieved by Capillary Action.
@@ -869,7 +869,7 @@ Autoradiography - A technique that captures the image formed in a photographic e
 
 from a few hundred to about 20000 base pairs. Polyacrylamide is preferred for the purification of smaller DNA fragments. The gel is complex network of polymeric molecules. DNA molecule is negatively charged molecule - under an electric field DNA molecule migrates through the gel. The electrophoresis is frequently performed with marker DNA fragments of known size which allow accurate size determination of an unknown DNA molecule by interpolation. The advantages of agarose gel electrophoresis are that the DNA bands can be readily detected at high sensitivity. The bands of DNA in the gel are stained with the dye **Ethidium Bromide** and DNA can be detected as visible fluorescence illuminated in UV light will give orange fluorescence, which can be photographed.
 
-![Gel Electrophoresis Instrument]( "")
+
 
 **a b**
 
@@ -902,7 +902,7 @@ Transfer buffer
 
 Support block
 
-![Diagrammatic representation of a typical blotting apparatus]( "")
+
 
 **Northern Blot** It was found that RNA is not binding to cellulose nitrate. Therefore, Alwin et al. (1979) devised a procedure in which RNA bands are transferred from the agarose gel into nitrocellulose filter paper. This transfer of RNA from gel to special filter paper is called Northern Blot hybridization. The filter paper used for Northern blot is Amino Benzyloxymethyl Paper which can be prepared from Whatman 540 paper. **Western Blot** Refers to the electrophoretic transfer of proteins to blotting papers. Nitrocellulose filter paper can be used for western blot technique. A particular protein is then identified by probing the blot with a radio-labelled antibody which binds on the specific protein to which the antibody was prepared.
 
@@ -937,7 +937,7 @@ Radioactive probe
 
 
 
-![Steps involved in southern blotting technique]( "")
+
 
 vectors are circular but during insertion, become linear. It leads to duplication of sequences adjacent to selectable markers.
 
@@ -1030,7 +1030,7 @@ Target mRNA
 
 Root-knot nematode
 
-![RNA Interference]( "")
+
 
 
 One strategy is to incorporate a soil bacterium gene that produces a glyphosate tolerant form of EPSPS. Another way is to incorporate a different soil bacterium gene that produces a glyphosate degrading enzyme.
@@ -1057,9 +1057,9 @@ aphids and whitefly. • Affects pollinating insects and thus yield.
 
 **ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal
 
-![Bt Cotton]( "")
 
-![Bt Brinjal]( "")
+
+
 
 
 
@@ -1084,15 +1084,15 @@ help in delaying the ripening process of tomato during long storage and transpor
 ### Golden rice - Biofortification
  Golden rice is a variety of _Oryza sativa_ (rice) produced through genetic engineering of biosynthesized beta-carotene, a precursor of Vitamin-A in the edible parts of rice developed by Ingo Potrykus and his group. The aim is to produce a fortified food to be grown and consumed in areas with a shortage of dietary Vitamin-A, Golden rice differs from its parental strain by the addition of three beta-carotene biosynthesis genes namely ‘psy’ (phytoene synthase) from daffodil plant Narcissus _pseudonarcissus_ and ‘crt-1’ gene from the soil bacterium _Erwinia auredorora_ and ‘lyc’ (lycopene cyclase) gene from wild-type rice endosperm. The endosperm of normal rice, does not contain beta-carotene. Golden-rice has been genetically altered so that the endosperm now accumulates Beta-carotene. This has been done using Recombinant DNA technology. Golden rice can control childhood blindness - Xerophthalmia.
 
-![• High yield without pest • 70% reduction of pesticide usage • Reduce soil pollution problem • Conserve microbial population in soil]( "")
+
 
 **Risks - believed to** • Affect liver, kidney function and cancer • Hormonal imbalance and physical disorder • Anaphylactic shock (sudden hypersensitive
 
 reaction) and allergies.
 
-![Dhara Mustard]( "")
 
-![FlavrSavr Tomato]( "")
+
+
 
 
 
@@ -1128,7 +1128,7 @@ nm). GFP refers to the protein first isolated from the jellyfish Aequorea victor
 as indicator species for bioremediation process.
 - Bioremediation with the addition of adapted or designed microbial inoculants.
 
-![Polylactic acid]( "")
+
 
 product
 
@@ -1178,7 +1178,7 @@ be transformed using bioremediation processes.
 
 **Existing Technology**
 
-![The biological hydrogen production with algae is a method of photo biological water splitting. In normal photosynthesis the alga, _Chlamydomonas reinhardtii_ releases oxygen. When it is deprived of sulfur, it switches to the production of hydrogen during photosynthesis and the electrons are transported to ferredoxins. \[Fe\]-hydrogenase enzymes combine them into the production of hydrogen gas.]( "")
+
 
 2H2O
 
@@ -1202,7 +1202,7 @@ O2 + 4H+ + 4e-
 
 PC
 
-![Hydrogen production by algae]( "")
+
 
 
 ### Bioprospecting Bioprospecting

@@ -113,7 +113,7 @@ CO2
 
 60% Others 6%
 
-![Relative contribution of green]( "")
+
 
 house gases
 
@@ -285,7 +285,7 @@ Case study
 
 **Tamil Nadu Afforestation Project (TAP)** With an aim of ecological restoration and biological up-gradation of degraded forests and other lands, the government of Tamil Nadu launched the project in 2 phases Tap I (1997-2005). It aimed to uplift the quality and life of villagers abutting forest areas and to resolve the degraded forests in Tamil Nadu. This is a massive Joint Forest Management Programme. TAP II (2005- 2013) had 2 main objectives. • To restore the ecological equilibrium of the forests, watersheds and adjacent villages of Tamil Nadu. • To improve the quality of the life of inhabitants through reforestation, water conservation and sustained community action.
 
-A. Check Dam B. Percolation pond ![Constructions under TAP]( "")
+A. Check Dam B. Percolation pond 
 
 A B
 
@@ -322,7 +322,7 @@ It has a negative impact on decomposition in the soils by causing stress to the 
 
 **_Eichhornia crassipes_** It is an invasive weed native to South America. It was introduced as aquatic ornamental plant, which grows faster throughout the year. Its widespread growth is
 
-![**_Eichhornia crassipes_**]( "")
+
 
 
 
@@ -349,11 +349,11 @@ It infests pastures and farmland causing often loss of yield. The plant produces
 
 **In-situ conservation** It means conservation and management of genetic resources in their natural habitats. Here the plant or animal species are protected within the existing habitat. Forest trees, medicinal and aromatic plants under threat are conserved by this method. This is carried out by the
 
-![_Lantana camara_]( "")
 
-![_Parthenium hysterophorus_]( "")
 
-![_Prosopis juliflora_]( "")
+
+
+
 
 
 
@@ -400,7 +400,7 @@ Reserves National parks Wildlife Sanctuaries
 
 Terrestial Marine
 
-![Flow chart on biodiversity conservation]( "")
+
 
 
 
@@ -447,7 +447,7 @@ Data Deficient (DD)
 
 Not evaluated (NE)
 
-![IUCN Red List categories]( "")
+
 
 **IUCN Red List categories Extint (EX)** A taxon is Extinct when there is no reasonable doubt on the death of the last individual. A taxon is presumed Extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historic range have failed to record an individual. Example: _Neuracanthus neesianus_.
 
@@ -512,7 +512,7 @@ Liana Khasi hills, Meghalaya
   
 
 
-![_Baccaurea courtallensis_]( "")
+
 
 **ba**
 
@@ -557,7 +557,7 @@ Highest carbon foot print.
 
 **car miles driven per 4oz(118.29 ml). consumed**
 
-![Carbon foot print]( "")
+
 
 **Carbon Sink** Any system having the capacity to accumulate more atmospheric carbon during a given time interval than releasing CO2. Example: forest, soil, ocean are natural sinks. Landfills are artificial sinks.
 
@@ -593,7 +593,7 @@ Water tank
 
 Well **Rainwater harvesting in individual house**
 
-![Pictures of Rain Water Harvesting Structures in Ooraniers]( "")
+
 
 **Water storage tank** The water is then supplied to flats, which can be used for domestic purposes
 
@@ -603,7 +603,7 @@ Well **Rainwater harvesting in individual house**
 
 **Suction tank** A filter placed in the tank clears the water of impurities
 
-![Rain Water Harvesting Structures in Water Supply sources]( "")
+
 
 
 
@@ -642,7 +642,7 @@ In terms of services lakes offer sustainable solutions to key issues of water ma
 
 **Important lakes in Tamil Nadu** Lakes are man-made surface water harvesting systems. They are useful for irrigation, drinking, fishing and recreation purposes. It is the responsibility of the individuals as well as communities collectively to maintain and manage water bodies. Understanding catchment areas help us to halt the degradation of water bodies and protecting it from getting polluted. **Sholavaram Lake :** I**t** is located in Ponneri Taluk of Thiruvallur District. It is one of the rain fed reservoir from where water is drawn for supply to Chennai city. The full capacity of the lake is 65.5 ft. Built in the British era this lake is responsible for treating the guests to water sports too. This lake is rich in varied species of flora and fauna. **Chembarampakkam Lake:** I**t** is located about 25 km. from Chennai. This lake is 500 yrs old. This lake is a rain fed water body which aids the Chennai City in its water supply. A river named Adyar also incepts from this lake which acts as the primary outflow for this reservoir. This lake is spread over an area of 15 square km. **Maduranthakam Lake:** It is located in Kancheepuram district and it is a man-made creation. An ideal spot for an evening picnic, the widespread pristine waters of the lake are an exceptionally calming sight. The full capacity of the reservoir is 23.3ft. Kiliyar is a small river that originates from Madhuranthagam reservoir. It spreads to an area of 2908 acres and was built by Uttama Chola and the boundaries (stretched upto 12960 feet) are strengthened by Britishers with a storing capacity of 690 million cu.feet. Rain water from Cheyyar, Thiruvannamalai and Vandavasi reaches this lake.
 
-![Chembarampakkam Lake]( "")
+
 
 
 
@@ -744,7 +744,7 @@ and implementation. It aims at ensuring development proposals which integrate bi
 
 **Biomonitoring** The act of observing and assessing the current state and ongoing changes in ecosystem, biodiversity components, landscape including natural habitats, populations and species. An agricultural drone is an unmanned aerial vehicle applied to farming in order to help increased crop production and monitor crop growth. Agricultural drones let farmers see their fields from the sky. This bird’s eye-view can reveal many issues such as irrigation problems, soil variation and pest and fungal infestations. It is also used for cost effective safe method of spraying pesticides and fertilizers, which proves very easy and non-harmful.
 
-![Agricultural drone]( "")
+
 
 **Bio-diversity impacts can be assessed by** • Change in land use and cover • Fragmentation and isolation • Extraction • External inputs such as emissions, effluents
 

@@ -114,7 +114,7 @@ Different DNA sequences
 
 Genes
 
-![Comparison of chromosome and gene behaviour]( "")
+
 
 **Table 3.1:** Parallelism between Mendelian factors and chromosomal behaviour.
 
@@ -162,7 +162,7 @@ Gene 1
 
 Gene 2
 
-![Arrangement of linked and unlinked genes on chromosome]( "")
+
 
 Genes located close together on the same chromosome and inherited together are called **linked genes.** But the two genes that are sufficiently far apart on the same chromosome are called **unlinked genes or syntenic genes** (Figure 3.3). Such condition is known as **synteny. It is to be differentiated by the value of** recombination frequency. If the recombination frequency value is more than 50 % the two genes show unlinked. when the recombination frequency value is less than 50 %, they show linked. Closely located genes show strong linkage, while genes widely located show weak linkages.
 
@@ -178,7 +178,7 @@ They lost their ability to make proteins. They tell the story of evolution throu
 
 **incomplete linkage. This was observed in** maize. It was reported by Hutchinson.
 
-![Alleles in coupling or cis configuration]( "")
+
 
 ### Linkage Groups
  The groups of linearly arranged linked genes on a chromosome are called **Linkage groups**. In any species the number of linkage groups corresponds to the number haploid set of chromosomes. Example:
@@ -186,7 +186,7 @@ They lost their ability to make proteins. They tell the story of evolution throu
 ### Coupling and Repulsion theory
  The two dominant alleles or recessive alleles occur in the same homologous chromosomes, tend to inherit together into same gamete are called coupling or cis configuration (Figure: 3.5 ). If dominant or recessive alleles are present on two different, but homologous chromosomes they inherit apart into different gamete are called **repulsion or trans configuration (Figure: 3. 6).**
 
-![_Cis-Trans_ arrangement of genes]( "")
+
 
 **_Cis_** AB/ab **_Trans_** Ab/aB
 
@@ -202,7 +202,7 @@ genes are not possible those genes always remain together as a result, only pare
 the chances of their separation are possible. As a result, parental and non-parental combinations are observed. The linked genes exhibit some crossing over. This phenomenon is called
 
 
-![Alleles in repulsion or trans configuration]( "")
+
 
 **Name of organism Linkage groups** _Mucor_ 2 _Drosophila_ 4 Sweet pea 7 _Neurospora_ 7 Maize 10
 
@@ -260,7 +260,7 @@ Synaptonemal complex
 
 Synaptonemal complex
 
-![Structure of Synaptonemal Complex]( "")
+
 
 **(iv) Terminalisation** After crossing over, chiasma starts to move towards the terminal end of chromatids. This is known as **terminalisation**. As a result, complete separation of homologous chromosomes occurs.
 
@@ -281,7 +281,7 @@ can be used in plant breeding. **3.3.3 Recombination** Crossing over results in 
 
 The percentage of recombinant progeny in a cross is called recombination frequency. The recombination frequency (cross over
 
-![Mechanism of crossing over]( "")
+
 
 
 
@@ -897,7 +897,7 @@ Pentasomy (2_n +_ 3_)_
 
 Nullisomy (2_n –_ 2_)_
 
-![Types of aneuploidy]( "")
+
 
 **(ii) Euploidy**
 
@@ -943,7 +943,7 @@ Double Tetrasomy (2n+2+2)
 
 Pentasomy (2n+3)
 
-![Types of Ploidy]( "")
+
 
 
 **Autotetraploids** have four copies of its own genome. They may be induced by doubling the chromosomes of a diploid species. Example: rye, grapes, alfalfa, groundnut, potato and coffee.
@@ -1010,7 +1010,7 @@ Polyploidy is the condition where an organism possesses more than two basic sets
 
 For example, they combine the high-protein content of wheat with rye’s high content of the amino acid lysine, which is low in wheat. It can be explained by chart below (Figure: 3.13).
 
-![Triticale]( "")
+
 
 **Colchicine** , an alkaloid is extracted from root and corms of **_Colchicum autumnale_**, when applied in low concentration to the growing tips of the plants it will induce polyploidy. Surprisingly it does not affect the source plant Colchicum, due to presence of anticolchicine.
 
@@ -1158,7 +1158,7 @@ C
 
 B
 
-![Duplication]( "")
+
 
 A
 
@@ -1212,7 +1212,7 @@ F G
 
 I H
 
-![Deletion]( "")
+
 
 
 **Recombination:** In cells the genetic information within and among DNA molecule are re-arranged by a process called genetic recombination. Recombination is the result of crossing over between the pairs of homologous chromosomes during meiosis. In earlier classes you have learnt chromosomal recombination. In molecular level it involves breakage and reunion of polynucleotides.

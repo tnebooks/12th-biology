@@ -426,7 +426,7 @@ The basic need of shelter is obtained from the timber trees. In this lesson we l
 
 Teak Botanical name : Tectona grandis Family: Lamiaceae Teak wood carving Rosewood
 
-![Timber](10.15.png "img-class")
+![Timber](10.15.wood-pulp.png "img-class")
 
 Coconut coir
 
@@ -470,7 +470,7 @@ The ability to perceive colour is a wonderful aspect of human eyes and dyes add 
 
 The earliest authentic records of dyeing were found in the tomb painting of ancient Egypt. Colourings on mummy cements (wrappin g) included saffron and indigo. They can also be seen in rock paintings in India. Indigo Botanical name : Indigofera Family : Fabaceae Origin and Area of cultivation: Indigofera tinctoria is native to India. It was grown in many states in India. Now it is grown limited states mainly in Tamil Nadu and Andhra Pradesh. Uses A brilliant dark blue dye ‘indigo’ was extracted from the leaves of several species of Indigofera. The people of Asia, especially India have known the dye for over 4, 00. years. It is also used in painting of murals. Indigofera have long been used in Southern India in temple arts and folk arts, popularly known as Kalamkari. Indigo used for dyeing and printing cotton, rayon and wool. Henna Botanical name : Lawsonia inermis Family : Lythraceae Origin and Area of cultivation: It is indigenous to North Africa and South-west Asia. It is grown mostly throughout India, especially in Gujarat, Madya Pradesh and Rajasthan. Indigo dye Henna d
 
-![Naturals Dy](10.18.png "img-class")
+![Naturals Dy](10.18.jasmine.png "img-class")
 
 Uses An orange dye ‘Henna’ is obtained from the leaves and young shoots of Lawsonia inermis. The principal colouring matter of leaves ‘lacosone” is harmless and causes no irritation to the skin. This dye has long been used to dye skin, hair and finger nails. It is used for colouring leather, for the tails of horses and in hair-dyes. Champaran Satyagraha Indigofera is a very important cash crop among plants cultivated in India during the British regime. Farmers were forced to cultivate Indigofera instead of food crops. Gandhi started satyagraha at Champaran, a village in Bihar in support of farmers. This was the first satyagraha in India by Gandhi. Government accepted ‘champaran farmers bill’. Gandhi’s first satyagraha in India achieved a great success. 10. 8. Cosmetics Traditionally in Southern India, people have been using turmeric, green gram powder, henna, sigaikai and usilai for their skin and hair care. These were mostly home prepared products that are used for grooming. Today, cosmetics have a high commercial value and have become chemical based industrial products. Providing personal care services has become a major industry. In recent years, people have realized the hazards of chemical- based cosmetics and are turning back to ye es 
 
