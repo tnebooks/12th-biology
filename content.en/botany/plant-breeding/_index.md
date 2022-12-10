@@ -50,13 +50,17 @@ From the very early times, human beings have co-existed with plants which played
 
 environments and a wider geographical range.
 
-• Simultaneous /uniform flowering and fruiting.
+- Simultaneous /uniform flowering and fruiting.
 
-• Lack of shattering or scattering of seeds.
+- Lack of shattering or scattering of seeds.
 
-• Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
+- Increased size of fruits and seeds. 
+- Change from a perennial to annual habit.
+- Change in breeding system. • Increased yield. 
+- Increased resistance for disease and pest. 
+- Developing seedless parthenocarpicfruit. 
 
-fruit. • Enhancing colour, appearance,
+- Enhancing colour, appearance,
 
 palatability and nutritional composition.
 
@@ -66,11 +70,12 @@ palatability and nutritional composition.
 The earlier Greek and Roman naturalists like Theophrastus, Dioscorides, Pliny the elder and Galen laid down the scientific foundation in understanding origin and domestication of cultivated plants.
 
 ## Organic Agriculture
- Organic farming is an alternative agricultural system which originated early in the twentieth century in reaction to rapidly changing farming practices. It is a production system that sustains the health of the soils, ecosystems and people. It relies on ecological processes, biodiversity and cycles adapted to local conditions rather than the use of inputs with adverse effects. **9.5.1. Biofertilizers** Biofertilizers are defined as preparations containing living cells or latent cells of efficient strains of microorganisms that help crop plants uptake of nutrients by their interactions in the rhizosphere when applied through seed or soil. Biofertilizers could be also called as microbial cultures, bioinoculants, bacterial inoculants or bacterial fertilizers.
+ Organic farming is an alternative agricultural system which originated early in the twentieth century in reaction to rapidly changing farming practices. It is a production system that sustains the health of the soils, ecosystems and people. It relies on ecological processes, biodiversity and cycles adapted to local conditions rather than the use of inputs with adverse effects. 
+ 
+ **9.5.1. Biofertilizers** Biofertilizers are defined as preparations containing living cells or latent cells of efficient strains of microorganisms that help crop plants uptake of nutrients by their interactions in the rhizosphere when applied through seed or soil. Biofertilizers could be also called as microbial cultures, bioinoculants, bacterial inoculants or bacterial fertilizers.
 
 They are efficient in fixing nitrogen, solubilising phosphate and decomposing cellulose. They are designed to improve the soil fertility, plant growth, and also the number and biological activity of beneficial microorganisms in the soil. They are eco-friendly organic agro inputs and are more efficient and cost effective than chemical fertilizers.
 
-figure 9.1
 
 **Indian Plant Breeders** a. **Dr. M. S. Swaminathan** –
 
@@ -90,6 +95,7 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 
 **_Rhizobium_** Bio-fertilisers containing rhizobium bacteria are called _rhizobium_ bio-fertilizer culture. Symbiotic bacteria that reside inside the root nodules convert the atmospheric nitrogen into a bio available form to the plants. This nitrogen fixing bacterium when applied to the soil undergoes multiplication and fixes the atmospheric nitrogen in the soil. _Rhizobium_ is best suited for the paddy fields which increase the yield by 15 – 40%.
+
 
 
 ![C.S. of Root nodule](9.4.root-nodules-occur-on-root.png "")
