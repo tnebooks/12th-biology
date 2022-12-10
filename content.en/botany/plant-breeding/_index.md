@@ -321,7 +321,8 @@ Resistance to yellow mosaic virus in bhindi (Abelmoschus escullentus) was transf
 
 Insect resistance in host crop plants may be due to morphological, biochemical or physiological characteristics. Hairy leaves in several plants are associated with resistance to insect pests. Example: resistance to jassids in cotton and cereal leaf beetle in wheat. In wheat, solid stems lead to non-preference by the stem sawfly and smooth leaves and nectar-less cotton varieties do not attract bollworms. High aspartic acid, low nitrogen and sugar content in maize leads to resistance to maize stem borers.
 
-9.8 Modern Plant Breeding
+### 9.8 Modern Plant Breeding
+
 In the milestones of plant breeding methods
 Genetic Engineering, Plant tissue culture,
 Protoplasmic fusion or somatic hybridisation,
@@ -335,343 +336,34 @@ New Plant Engineering Techniques / New
 Breeding Techniques (NBT)
 NBT are a collection of methods that could
 increase and accelerate the development of new
- 
+ traits in plant breeding. These techniques often
+involve genome editing, to modify DNA at
+specific locations within the plants to produce
+new traits in crop plants. The various methods
+of achieving these changes in traits include the
+following.
+
+- Cutting and modifying the genome
+during the repair process by tools like CRISPR
+/Cas.
+
+- Genome editing to introduce changes in
+few base pairs using a technique called
+Oligonucleotide-directed
+mutagenesis
+(ODM).
+
+- Transferring a gene from an identical or
+closely related species (cisgenesis)
+
+- Organising processes that alter gene
+activity without altering the DNA itself
+(epigenetic methods).
+
+
 **Summary** 
 
 Economic Botany deals with the
-
 relationship between people and economically important plants to fulfill the three basic needs of life such as food, clothing and shelter. Domestication, a term often used for a more intricate process, involves the genetic alteration of plants which did not appear at once, but rather over a substantial period of time, perhaps hundreds of years for some species. In the history of agriculture Vavilov has given the eight main centres of origin of plants were now divided into 12 centres of origin. In Organic agriculture biofertilizers are microbial inoculants which all ecofriendly, more effective even though cost effective than chemical fertilizers. _Rhizobium, Azolla,_ VAM and sea weeds are used as fertilizers which increase the crop yield many fold.
 
 Plant breeding is a purposeful manipulation of plant species in order to create desirable genotype and phenotype for the benefit of mankind. Plant introduction, selection, hybridization, heterosis, mutation breeding, polyploidy breeding and green revolution are the different methods of conventional breeding.
-
-
-5\. The quickest method of plant breeding is a) Introduction b) Selection c) Hybridization d) Mutation breeding
-
-6\. Desired improved variety of economically useful crops are raised by a) Natural Selection b) hybridization c) mutation d) biofertilisers
-
-7\. Plants having similar genotypes produced by plant breeding are called a) clone b) haploid c) autopolyploid d) genome
-
-8\. Importing better varieties and plants from outside and acclimatising them to local environment is called a) cloning b) heterosis c) selection d) introduction
-
-9\. Dwarfing gene of wheat is a) pal 1 b) Atomita 1 c) Norin 10 d) pelita 2
-
-10\. Crosses between the plants of the same variety are called a) interspecific b) inter varietal c) intra varietal d) inter generic
-
-11\. Progeny obtained as a result of repeat self pollination a cross pollinated crop to called a) pure line b) pedigree line c) inbreed line d) heterosis
-
-12\. Jaya and Ratna are the semi dwarf varieties of a) wheat b) rice c) cowpea d) mustard
-
-13\. Which one of the following are the species that are crossed to give sugarcane varieties with high sugar, high yield, thick stems and ability to grow in the sugarcane belt of North India? a) _Saccharum robustum_ and _Saccharum_
-
-_officinarum_ b) _Saccharum barberi_ and _Saccharum_
-
-_officinarum_ c) _Saccharum sinense_ and _Saccharum_
-
-_officinarum_ d) _Saccharum barberi_ and _Saccharum_
-
-_robustum_
-
-14\. Match column I (crop) with column II (Corresponding disease resistant variety) and select the correct option from the given codes. Column I Column II I) Cowpea i) Himgiri II) Wheat ii) Pusa komal III) Chilli iii) Pusa Sadabahar IV) Brassica iv) Pusa Swarnim I II III IV a) iv iii ii i b) ii i iii iv c) ii iv i iii d) i iii iv ii
-
-15\. A wheat variety, Atlas 66 which has been used as a donor for improving cultivated wheat, which is rich in a) iron b) carbohydrates c) proteins d) vitamins
-
-16\. Which one of the following crop varieties correct matches with its resistance to a disease?
-
-Variety Resistance to disease a) Pusa Komal Bacterial blight b) Pusa Sadabahar White rust c) Pusa Shubhra Chilli mosaic virus d) Brassica Pusa swarnim
-
-17\. Which of the following is incorrectly paired? a) Wheat - Himgiri b) Milch breed - Sahiwal c) Rice - Ratna d) Pusa Komal - Brassica
-
-18\. Match list I with list II
-
-**List I List II Biofertilizer Organisms**
-
-i) Free living N2 a) _Aspergillus_ ii) Symbiotic N2 b) _Amanita_ iii) P Solubilizing c) _Anabaena azollae_ iv) P Mobilizing d) _Azotobactor_
-
-a. ic, iia, iiib, ivd b. id, iic, iiia, ivb.
-
-c. ia, iic, iiib, ivd c. ib, iia, iiid, ivc.
-
-
-19\. List the ways by which seeds can be stored for longer duration.
-
-20\. Differentiate primary introduction from secondary introduction.
-
-21\. How are microbial innoculants used to increase the soil fertility?
-
-22\. Discuss the importance of neem in seed storage?
-
-23\. What are the different types of hybridization?
-
-24\. Explain the best suited type followed by plant breeders at present?
-
-25\. Write a note on heterosis.
-
-26\. List out the new breeding techniques involved in developing new traits in plant breeding.
-
-**Glossary**
-
-**Acclimatization : The adaptation of an** individual to a changed climate or the adjustment of a species or a population to
-
-**Vavilov’s Centre of Crop Origin Crops domesticated**
-
-1 China Foxtail millet, soybean, bamboo, onion, crucifers.
-
-2 India Rice, sugarcane, mango, orange, eggplant, sesame.
-
-2 a South East Asia Rice, banana, coconut, clove , hemp.
-
-3 Central East Wheat, pea, hemp, cotton etc.
-
-4 The Near East Wheat, rye, many subtropical and tropical fruits.
-
-5 Mediterranean Olive, vegetables, oil yielding plants, wheats
-
-6 Ethiopia (Abyssinian) Wheat, barley, sesame, castor, coffee.
-
-7 Mesoamerica (South Mexican & Central American Centre)
-
-Maize, bean, sweet potato, papaya, guava, tobacco.
-
-8 South America Tomato, pine-apple
-
-8 a The Chiloe Centre Potato
-
-8 b The Brazilian –Paraguayan Centre Groundnut, cashew nut, pine apple, peppers, rubber.
-
-**APPENDIX**
-
-a changed environment over a number of generations.
-
-**Agronomy :** Science of farming
-
-**Certified seed : Seed produced from the** foundation or certified seed under the regulation of a legally constituted agency.
-
-**Germplasm Collection : The entire collection** (of plants / seeds) having all the diverse alleles for all genes in a given crop is called **germplasm collection.**
-
-**Non recurrent parent : The parent of a hybrid** that is not again used as a parent in backcrossing
-
-**Pure-Line:** Progeny of a single self-fertilised homozygous individual.
-
-**Quarantine :** Strict isolation imposed to prevent the spread of disease
-
-**Strain :** A group of similar individuals from a common origin.
-
-
-**MILESTONES IN PLANT BREEDING**
-
-**Crop Domestication** Farmers select the best wild species to create crops
-
-**Mutagenesis** Developing new genetic diversity by exposing crop plants to chemical agents or radiation
-
-
-Understanding the structure of **DNA** James watson and Francis Crick identify the double helix of DNA
-
-
-Plant breeding Based on **Genetic information** Development of improved varieties by working directly with DNA
-
-Domestication of wheat
-
-More vigorous hybrid corn
-
-### BC
-
-**Hybrid breeding** Crossing two genetically different individuals to develop better performing hybrid
-
-Plant breeding based on **Cross breeding** Development of improved varieties by combining good characteristics from two parents
-
-**GMO** Introducing foreign genes into the DNA of a plant
-
-
-**Mendel's laws** Gregor Mendel describes the inheritance of traits from one generation to the next. His laws become the core of classical genetics
-
-**Marker-assisted Selection** Locating desirable traits in a plant for efficient selection and breeding
-
-### now
-
-Waxy corn
-
-**future**
-
-Insect - resistant cotton
-
-Barely resistant to yellow dwarf virus
-
-**Targeted Breeding** Using modern tools such as genome editing for more targeted breeding
-
-Blast-resistant rice
-
-For 10,000 years, farmers and breeders have been developing and improving crops
-
-For 150 years, plant scientists and breeders have improved plant breeding on a scientific basis
-
-Today, farmers feed at least 10 times more people using almost same amount of lands as 100 years ago
-
-By 2050, we will need 50% more food to feed the rapid growing population
-
-Milestones in Plant Breeding
-
-**Biofortification – breeding crops with higher levels of vitamins and minerals or higher protein** and healthier fats – is the most practical means to improve public health. Breeding for improved nutritional quality is undertaken with the objectives of improving
-- Protein content and quality • Oil content and quality • Vitamin content and • Micronutrient and mineral content
-
-In 2000, maize hybrids that had twice the amount of amino acids, lysine and tryptophan, compared to existing maize hybrids were developed. Wheat variety, Atlas 66 having a high protein content, has been used a donor for improving cultivated wheat. It has been possible to develop an iron fortified rice variety containing over five times as much iron as in commonly consumed varieties. The Indian Agricultural Research Institute, New Delhi has also released several vegetable crops that are rich in vitamins and minerals, example: vitamin A enriched carrots, spinach, pumpkin; vitamin C enriched bitter gourd, bathua, mustard, tomato; iron and calcium enriched spinach and protein enriched beans – broad, lablab, French garden peas.
-
-**Sugar cane:** _Saccharum bareri_ was originally grown in North India, but had poor sugar content and yield. Tropical canes grown in South India Saccharum officinarum had thicker stems and higher sugar content but did not grow well in North India. These two species were successfully crossed to get sugar cane varieties combining the desirable qualities of high yield, thick stems, high sugar and ability to grow in the sugarcane areas of North India.
-
-
-
-![](botany_xii_pages_199-215-ch-09-16-1.jpg "")
-
-
-
-
-
-
-
-
-
-  
-
-
-URL: **https://play.google.com/store/apps/details?id=com.dssoft.plantasmedicinales**
-
-**Plant Breeding**
-
-**Steps** • Type the URL or scan the QR code to open the activity page then Introduction page will open. • Click on ‘Plants’ it will display list of Medicinal Plants. • Click on each plants individually on the next screen it displays the description,
-
-harvesting and properties of the plants. • Click the option on the top left side of the front page to see the preparation of oils,
-
-Powder etc.,
-
-Let us know about the details of Medicinal Plants in detail.
-
-\* Pictures are indicative only
-
-**ICT Corner**
-
-**Step 3 Step 4Step 1 Step 2**
-
-**New generation plant breeding** Crops with improved characteristics produced by cross breeding plants with desired gene
-
-**TR AD**
-
-**IT IO**
-
-**NA L**
-
-**M ET**
-
-**HO D**
-
-**M O**
-
-**D ER**
-
-**N M**
-
-**ET H**
-
-**O D**
-
-Combines genes from different species
-
-**Bacteria**
-
-Chromosome
-
-Bacterial chromosome
-
-**1\. Plasmid:** Circular DNA molecule is removed from cell. This acts as **vector** to carry gene
-
-**3\. Vector:** Restriction enzyme cleaves plasmid. Second enzyme – **DNA ligase** – pastes gene into DNA molecule, making **recombinant vector**
-
-**NE W**
-
-**B RE**
-
-**ED IN**
-
-**G**
-
-**TE CH**
-
-**NI Q**
-
-**UE S** Plant with desired gene has gene pasted
-
-into all its chromosomes. Gene is transmitted to nearly all offspring
-
-**CRISPR/Cas9\*:** Precise gene-editing cuts DNA at specified sequence and enables introduction of replacement sequence
-
-Gene has 50-50 chance of being passed to offspring. Desired gene will take multiple generations to spread
-
-2\. DNA containing gene for desired trait is removed from chromosome. **Restriction enzyme** cuts gene from DNA
-
-4\. Vector inserts gene into chromosomes of plant cells
-
-\*Clustered Regularly Interspaced Short Palindromic Repeats. Cas9 is a cleaving protein.
-
-Gene Plant cell
-
-Sequential development of plant breeding techniques
-
-
-
-
-![](botany_xii_pages_199-215-ch-09-17-3.jpg "")
-
-
-
-![](botany_xii_pages_199-215-ch-09-17-14.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-17-25.jpg "")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](botany_xii_pages_199-215-ch-09-17-420.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-17-431.jpg "")
