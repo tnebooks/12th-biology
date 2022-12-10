@@ -163,11 +163,11 @@ Kodo millet is ground into flour and used to make pudding. Good diuretic and cur
 The word Pulse is derived from the Latin words ‘puls’ or ‘pultis’ meaning “thick soup”. Pulses are the edible seeds that are harvested from the fruits of Fabaceae. They provide vital source of plant-based protein, vitamins and minerals for people around the globe.  
 
 ### Black gram 
-*Botanical name : Vigna mungo *
+*Botanical name : Vigna mungo*
 
 **Origin and Area of cultivation** 
 
-`Black gram is native to India. Earliest archeobotanical evidences record the presence of black gram about 3, 50. years ago. It is cultivated as a rain fed crop in drier parts of India. India contributes to 80. of the global production of black gram. Important states growing black gram in India are Uttar Pradesh, Chattisgarh and Karnataka.
+Black gram is native to India. Earliest archeobotanical evidences record the presence of black gram about 3, 50. years ago. It is cultivated as a rain fed crop in drier parts of India. India contributes to 80. of the global production of black gram. Important states growing black gram in India are Uttar Pradesh, Chattisgarh and Karnataka.
 
 **Uses** 
  
