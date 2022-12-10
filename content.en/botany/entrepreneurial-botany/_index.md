@@ -4,87 +4,232 @@ weight: 11
 ---
 Unit X: Economic B Chapter
 
-1.  Economicall Useful Plants a Entrepreneurial B Learning Objectives The learner will be able to A cquire knowledge about origin, area of cultivation and uses of various food yielding plants.
+Learning Objectives 
 
-D escribe the different spices and condiments and their uses. E licit the uses of fibre, timbers, paper and dye yielding plants. A cquire knowledge about the active principles, chemical composition and medicinal uses of plants. D evelop skill of mushroom cultivation, knowledge of SCP production and sea weed liquid fertilizers G ains knowledge of organic farming- bio fertilisers and bio pest repellants. L earn to make terrarium and bonsai A cquires knowledge of cultivation of medicinal plants.
+The learner will be able to
 
+- Acquire knowledge about origin, area
+of cultivation and uses of various food
+yielding plants.
 
-otany y nd otany The land and water of the earth sustain a vast assemblage of plants upon which all other living forms are directly or indirectly dependent. Pre-historic humans lived on berries, tubers, herbage, and the wild game which they collected and hunted that occupied whole of their time. Domestication of plants and animals has led to the production of surplus food which formed the basis for civilizations. Early civilization in different parts of the world has domesticated different species of plants for various purposes. Based on their utility, the economically useful plants are classified into food plants, fodder plants, fibre plants, timber plants, medicinal plants, and plants used in paper industries, dyes and cosmetics. Selected examples of economically important plants for each category are discussed in this chapter.
+- Describe the different spices and
+condiments and their uses.
+
+- Elicit the uses of fibre, timbers, paper and
+dye yielding plants.
+
+- Acquire knowledge about the active
+principles, chemical composition and
+medicinal uses of plants.
+
+- Gains knowledge of organic farming- bio
+fertilisers and bio pest repellants.
+
+ The land and water of the earth sustain a vast assemblage of plants upon which all other living forms are directly or indirectly dependent. Pre-historic humans lived on berries, tubers, herbage, and the wild game which they collected and hunted that occupied whole of their time. Domestication of plants and animals has led to the production of surplus food which formed the basis for civilizations. Early civilization in different parts of the world has domesticated different species of plants for various purposes. Based on their utility, the economically useful plants are classified into food plants, fodder plants, fibre plants, timber plants, medicinal plants, and plants used in paper industries, dyes and cosmetics. Selected examples of economically important plants for each category are discussed in this chapter.
 
 ## Food plants
 
-Currently about 10, 00. food plants are being used of which only around 1, 50. species were brought under cultivation. However, food base of majority of the population depends only on three grass species namely rice, wheat and maize.
+Currently about 10, 00. food plants are being used of which only around 1,500 species were brought under cultivation. However, food base of majority of the population depends only on three grass species namely rice, wheat and maize.
 
 ### Cereals
 
 The word cereal is derived from Ceres, which according to the Roman mythology denotes “Goddess of agriculture”. All cereals are members of grass family (Poacea e) that are grown for their edible starchy seeds. The prominence of cereals as food plants is due to the following attributes:
 
-i. G reater adaptability and successful colonisation on every type of habitat.
-ii. The relative ease of cultivation
-iii. Tillering property that produce more branches which results in higher yield per unit area.
+- i. Greater adaptability and successful colonisation on every type of habitat.
 
-iv. Compact and dry grains that they can be easily handled, transported and stored without undergoing spoilage. v. High caloric value that provides energy. The nutrients provided by cereals include carbohydrates, proteins, fibres and a wide range of vitamins and minerals. Cereals can be classified into two different types based on their size namely Major Cereals and Minor Cereals.
+- ii. The relative ease of cultivation
 
-Major Cereals Rice / Paddy Botanical name : Oryza sativa Paddy is a semi-aquatic crop and is grown in standing water. It is an important food crop of the world, occupying the second position in terms of area under cultivation and production, next to wheat. Rice is the chief source of carbohydrate. Origin and Area of cultivation South East Asia is considered as the center of origin of rice. Earliest evidences of rice cultivation have been found in China, India and Thailand. It is mainly cultivated in Delta and irrigated regions of Tamil Nadu. Uses Rice is the easily digestible calorie rich cereal food which is used as a staple food in Southern and North East India. Various Rice Wheat
+- iii. Tillering property that produce more branches which results in higher yield per unit area.
+
+- iv. Compact and dry grains that they can be easily handled, transported and stored without undergoing spoilage. 
+
+- v. High caloric value that provides energy. The nutrients provided by cereals include carbohydrates, proteins, fibres and a wide range of vitamins and minerals. Cereals can be classified into two different types based on their size namely Major Cereals and Minor Cereals.
+
+## Major Cereals 
+
+### Rice / Paddy 
+Botanical name : *Oryza sativa* 
+
+Paddy is a semi-aquatic crop and is grown in standing water. It is an important food crop of the world, occupying the second position in terms of area under cultivation and production, next to wheat. Rice is the chief source of carbohydrate.
+
+ **Origin and Area of cultivation** 
+ 
+ South East Asia is considered as the center of origin of rice. Earliest evidences of rice cultivation have been found in China, India and Thailand. It is mainly cultivated in Delta and irrigated regions of Tamil Nadu. 
+ 
+ **Uses** 
+ 
+ **Rice** is the easily digestible calorie rich cereal food which is used as a staple food in Southern and North East India. Various Rice Wheat
+rice products such as **Flaked rice** (Aval), **Puffed rice / parched rice** (Pori) are used as breakfast cereal or as snack food in different parts of India.
+
+**Rice bran oil**  obtained from the rice bran is used in culinary and industrial purposes. 
+
+**Husks** are used as fuel, and in the manufacture of packing material and fertilizer. 
 
 ![Major Cerals](major-cereals.png "")
 
-rice products such as Flaked rice (Aval), Puffed rice / parched rice (Pori) are used as breakfast cereal or as snack food in different parts of India.
+**Wheat**
 
-Rice bran oil obtained from the rice bran is used in culinary and industrial purposes. Husks are used as fuel, and in the manufacture of packing material and fertilizer. International Rice Research Institute (IRRI) International Rice Research Institute (IRRI) is located in Los Banos, Manila the capital city of Philippines. This is the only institute in the world which exclusively carries out research as on rice. IRRI aims to improve livelihoods and nutrition, abolishing poverty, hunger, and malnutrition. Whatever IR rice varieties available in the world are developed through rice breeding programme and released by IRRI. Till date IRRI has produced 84. rice varieties that have been released in 7. countries. IR8 is a high-yielding semi-dwarf rice variety developed by IRRI in the early 1960. and it is called as miracle rice, much celebrated for fighting famine. Another variety to mention is IR 3. which is a semi-dwarf variety that proved highly resistant to a number of insect pests and diseases that raised farmers’ rice yields and brought down the prices of the staple food in Asian families. The International Rice Gene bank of IRRI has a collection of more than 11.
+Botanical name : *Triticum aestivum*
 
-0.  types of rice, comprising of modern and traditional varieties including wild relatives of Paddy.
+**Origin and Area of cultivation**
 
-Maize ajor Cereals 
+Earliest evidence for wheat cultivation
+comes from Fertile Crescent region. The
+common cultivated wheat, Triticum aestivum
+is cultivated for about 7,500 years. Wheat is
+mostly cultivated in the North Indian states
+such as Uttar Pradesh, Punjab, Haryana,
+Rajasthan, Madhya Pradesh and Bihar.
 
-Wheat Botanical name : Triticum aestivum Origin and Area of cultivation Earliest evidence for wheat cultivation comes from Fertile Crescent region. The common cultivated wheat, Triticum aestivum is cultivated for about 7, 50. years. Wheat is mostly cultivated in the North Indian states such as Uttar Pradesh, Punjab, Haryana, Rajasthan, Madhya Pradesh and Bihar. Uses Wheat is the staple food in Northern India. Wheat flour is suitable to make bread and other bakery products. Processed wheat flour, that has little fibre, is called Maida which is used extensively in making parota, naan and bakery products. Malted wheat is a major raw material for producing alcoholic beverages and nutritive drinks.
+**Uses**
 
-Maize / Corn Botanical name : Zea mays Origin and Area of Cultivation Maize is the only cereal that has originated and domesticated from the New World. Madhya Pradesh, Himachal Pradesh and Punjab are the major maize producing states of India. Why do popcorn pops? Endosperm in corn consists of two type namely soft and hard. In popcorn soft endosperm constitutes most part of the grain surrounded by thin layer of hard endosperm. When heated, the internal starch and protein are converted into gelatinous substances and when pressure mount further, the soft endosperm expands and explodes reversing the grain and the gelatinous starch are converted into foam, which readily solidifies outside and convert into crispy, tasty popcorn.
+Wheat is the staple food in Northern India.
+Wheat flour is suitable to make bread and other
+bakery products. Processed wheat flour, that
+has little fibre, is called Maida which is used
+extensively in making parota, naan and bakery
+products. Malted wheat is a major raw material
+for producing alcoholic beverages and nutritive
+drinks.
 
+![PSEUDO-CEREAL](pseudocereal.png  "") 
 
+**Uses**
 
-Whereas Perambalur, Ariyalur, Cuddalore, Dindigul and Tirupur are the major maize growing belts in Tamil Nadu. PSEUDO-CEREAL The term pseudo-cereal is used to describe foods that are prepared and eaten as a whole grain, but are botanical outliers from grasses. Example: quinoa. It is actually a seed from Pseudo cereal - the Chenopodium Chenopodium quinoa quinoa plant belongs to the family Amaranthaceae. It is a gluten-free, whole-grain carbohydrate, as well as a whole protein (meaning it contains all nine essential amino acids) and have been eaten for 6, 00. years in Andes hill region. Uses Most of the corn produced is used as fodder than food. Corn syrup is used in the manufacture of infant foods. Corn is a raw material in the industrial production of alcohol and alcoholic beverages.
+Most of the corn produced is used as
+fodder than food. Corn syrup is used in
+the manufacture of infant foods. Corn is a
+raw material in the industrial production of
+alcohol and alcoholic beverages.
 
 ### Millets (Siru Thaniyangal)
 
-The term millet is applied to a variety of very small seeds originally cultivated by ancient people in Africa and Asia. They are gluten free and have less glycemic index. Pearl Millet Botanical name: Pennisetum americanum It is one of the millets introduced in India and Africa. Pearl Millet is rich in fibre, iron and minerals, stable food grain in many parts of India, especially in Gujarat and Rajasthan. Uses It is commonly used to make flat bread, gluten free cereal based products, porridge (Kambang kooz h) , biscuits, pasta and non- dairy probiotic beverages.
+The term millet is applied to a variety of very small seeds originally cultivated by ancient people in Africa and Asia. They are gluten free and have less glycemic index. 
 
-Pearl Millet Finger Millet Figure 10.
+![Millets](10.2.millets.png  "")
 
-Finger Millet – Ragi Botanical name : Eleusine coracana Finger millet is the crop of early introduction from East Africa into India. Ragi is rich in calcium. Uses It is used as a staple food in many southern hilly regions of India. Ragi grains are made into porridge and gruel. Ragi malt is the popular nutrient drink. It is used as a source of fermented beverages. Sorghum Botanical name : Sorghum vulgare Sorghum is native to Africa. It is one of the major millets in the world and is rich in calcium and iron. Uses It is fed to poultry, birds, pigs and cattle and a source of fermented alcoholic beverage
+### Finger Millet – Ragi
+
+*Botanical name : Eleusine coracana* 
+
+Finger millet is the crop of early introduction from East Africa into India. Ragi is rich in calcium. 
+
+**Uses** 
+
+It is used as a staple food in many southern hilly regions of India. Ragi grains are made into porridge and gruel. Ragi malt is the popular nutrient drink. It is used as a source of fermented beverages. 
+
+### Sorghum 
+
+*Botanical name : Sorghum vulgare* 
+
+Sorghum is native to Africa. It is one of the major millets in the world and is rich in calcium and iron. 
+
+**Uses** 
+
+It is fed to poultry, birds, pigs and cattle and a source of fermented alcoholic beverage
 
 ### Minor Millets
 
-Little Millet Botanical name- Panicum sumatrense This is one of the oldest millets and is native to India. The species name is based on a specimen collected from Sumatra. It is rich in iron and fibre than rice that makes it best for diabetes.  
-Uses It is cooked like rice and also milled and baked. It cures anaemic condition, constipation and other gastrological problems. Little Millet Foxtail Millet
+![Minor Millets](10.3.minor-millets.png "img-class")
 
-![M](10.3.png "img-class")
 
-Sorghum
+### Foxtail Millet
+*Botanical name : Setaria italica*
 
-2.  Millets Foxtail Millet Botanical name : Setaria italica This is one of the oldest millet used traditionally in India. Which is domesticated first in China about
-3.  years. Rich in protein, carbohydrate, vitamin B and C, Potassium and Calcium.
+This is one of the oldest millet used
+traditionally in India. Which is domesticated
+first in China about 6000 years. Rich in protein,
+carbohydrate, vitamin B and C, Potassium and
+Calcium.
 
-Uses It supports in strengthening of heart and improves eye sight. Thinai porridge is given to lactating mother.
+**Uses**
 
-Kodo Millet Botanical name : Paspalum scrobiculatum Kodo millet is originated from West Africa, which is rich in fibre, protein and minerals. Uses Kodo millet is ground into flour and used to make pudding. Good diuretic and cures constipation. Helps to reduce obesity, blood sugar and blood pressure.
+It supports in strengthening of heart and
+improves eye sight. Thinai porridge is given to
+lactating mother.
+
+### Kodo Millet 
+
+*Botanical name : Paspalum scrobiculatum* 
+
+Kodo millet is originated from West Africa, which is rich in fibre, protein and minerals. 
+
+**Uses** 
+
+Kodo millet is ground into flour and used to make pudding. Good diuretic and cures constipation. Helps to reduce obesity, blood sugar and blood pressure.
 
 ### Pulses
 
-The word Pulse is derived from the Latin words ‘puls’ or ‘pultis’ meaning “thick soup”. Pulses are the edible seeds that are harvested from the fruits of Fabaceae. They provide vital source of plant-based protein, vitamins and minerals for people around the globe. Kodo Millet inor Millets 
+The word Pulse is derived from the Latin words ‘puls’ or ‘pultis’ meaning “thick soup”. Pulses are the edible seeds that are harvested from the fruits of Fabaceae. They provide vital source of plant-based protein, vitamins and minerals for people around the globe.  
 
-Black gram Sprouted green gram Figure 10.
+### Black gram 
+*Botanical name : Vigna mungo *
 
-Black gram Botanical name : Vigna mungo Origin and Area of cultivation Black gram is native to India. Earliest archeobotanical evidences record the presence of black gram about 3, 50. years ago. It is cultivated as a rain fed crop in drier parts of India. India contributes to 80. of the global production of black gram. Important states growing black gram in India are Uttar Pradesh, Chattisgarh and Karnataka. Uses Black gram is eaten whole or split, boiled or roasted or ground into flour. Black gram batter is a major ingredients for the preparation of popular Southern Indian breakfast dishes. Split pulse is used in seasoning Indian curries. Red gram / Pigeon pea Botanical name : Cajanus cajan Origin and Area of cultivation: It is the only pulse native to Southern India. It is mainly grown in the states of Maharashtra, Andhra Pradesh, Madhya Pradesh, Karnataka and Gujarat. Uses Red gram is a major ingredient of sambar, a characteristic dish of Southern India. Roasted seeds are consumed either salted or unsalted as a popular snack. Young pods are cooked and consumed.
+**Origin and Area of cultivation** 
 
-Green gram Botanical name : Vigna radiata Origin and Area of cultivation Green gram is a native of India and the earliest archaeological evidences are found in the state of Maharashtra. It is cultivated in the states of Madhya Pradesh, Karnataka and Tamil Nadu.
+`Black gram is native to India. Earliest archeobotanical evidences record the presence of black gram about 3, 50. years ago. It is cultivated as a rain fed crop in drier parts of India. India contributes to 80. of the global production of black gram. Important states growing black gram in India are Uttar Pradesh, Chattisgarh and Karnataka.
+
+**Uses** 
+ 
+Black gram is eaten whole or split, boiled or roasted or ground into flour. Black gram batter is a major ingredients for the preparation of popular Southern Indian breakfast dishes. Split pulse is used in seasoning Indian curries. 
 
 
+![Pulses](10.4.pulses.png "img-class")
 
-Red gram Chick pea
+### Red gram / Pigeon pea 
 
-4.  Pulses Uses It can be used as roasted cooked and sprouted pulse. Green gram is one of the ingredients of pongal, a popular breakfast dish in Tamil Nadu. Fried dehulled and broken or whole green gram is used as popular snack. The flour is traditionally used as a cosmetic, especially for the skin. Chick pea / Bengal gram Botanical name : Cicer arietinum Origin and Area of cultivation: It has originated in West Asia and was known in cultivation for more than 4,
-5.  years in India. It is mainly grown in the states of Madhya Pradesh, Uttar Pradesh and Rajasthan. Uses Chick pea protein is rated high in terms of amino acid content and digestibility. Infant food formulae uses malted chick pea as an ingredient. Chick pea seed flour is a prime constituent of many forms of Indian confectionary. Roasted and salted, whole or split gram forms the popular snacks of middle class.
+*Botanical name : Cajanus cajan* 
+
+**Origin and Area of cultivation:** 
+
+It is the only pulse native to Southern India. It is mainly grown in the states of Maharashtra, Andhra Pradesh, Madhya Pradesh, Karnataka and Gujarat. 
+
+**Uses** 
+
+Red gram is a major ingredient of sambar, a characteristic dish of Southern India. Roasted seeds are consumed either salted or unsalted as a popular snack. Young pods are cooked and consumed.
+
+### Green gram 
+
+Botanical name : Vigna radiata 
+
+Origin and Area of cultivation Green gram is a native of India and the earliest archaeological evidences are found in the state of Maharashtra. It is cultivated in the states of Madhya Pradesh, Karnataka and Tamil Nadu.
+
+
+### Red gram / Pigeon pea
+*Botanical name : Cajanus cajan*
+
+**Origin and Area of cultivation:** 
+
+It is the only
+pulse native to Southern India. It is mainly grown
+in the states of Maharashtra, Andhra Pradesh,
+Madhya Pradesh, Karnataka and Gujarat.
+
+**Uses**
+
+Red gram is a major ingredient of sambar, a
+characteristic dish of Southern India. Roasted
+seeds are consumed either salted or unsalted
+as a popular snack. Young pods are cooked and
+consumed.
+
+### Green gram
+
+*Botanical name : Vigna radiata*
+
+Origin and Area of cultivation
+Green gram is a native of India and the earliest
+archaeological evidences are found in the state
+of Maharashtra. It is cultivated in the states of
+Madhya Pradesh, Karnataka and Tamil Nadu.
+Uses
+It can be used as roasted cooked and sprouted
+pulse. Green gram is one of the ingredients of
+pongal, a popular breakfast dish in Tamil Nadu.
+Fried dehulled and broken or whole green gram
+is used as popular snack. The flour is traditionally
+used as a cosmetic, especially for the skin.
+
 
 ### Vegetables
 
