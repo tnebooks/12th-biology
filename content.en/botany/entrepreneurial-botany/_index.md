@@ -4,12 +4,29 @@ weight: 11
 ---
 Unit X: Economic B Chapter
 
-1.  Economicall Useful Plants a Entrepreneurial B Learning Objectives The learner will be able to A cquire knowledge about origin, area of cultivation and uses of various food yielding plants.
+##Learning Objectives 
 
-D escribe the different spices and condiments and their uses. E licit the uses of fibre, timbers, paper and dye yielding plants. A cquire knowledge about the active principles, chemical composition and medicinal uses of plants. D evelop skill of mushroom cultivation, knowledge of SCP production and sea weed liquid fertilizers G ains knowledge of organic farming- bio fertilisers and bio pest repellants. L earn to make terrarium and bonsai A cquires knowledge of cultivation of medicinal plants.
+* Acquire knowledge about origin, area
+of cultivation and uses of various food
+yielding plants.
+
+* Describe the different spices and
+condiments and their uses.
+
+* Elicit the uses of fibre, timbers, paper and
+dye yielding plants.
+
+* Acquire knowledge about the active
+principles, chemical composition and
+medicinal uses of plants.
+
+* Gains knowledge of organic farming- bio
+fertilisers and bio pest repellants.
 
 
-otany y nd otany The land and water of the earth sustain a vast assemblage of plants upon which all other living forms are directly or indirectly dependent. Pre-historic humans lived on berries, tubers, herbage, and the wild game which they collected and hunted that occupied whole of their time. Domestication of plants and animals has led to the production of surplus food which formed the basis for civilizations. Early civilization in different parts of the world has domesticated different species of plants for various purposes. Based on their utility, the economically useful plants are classified into food plants, fodder plants, fibre plants, timber plants, medicinal plants, and plants used in paper industries, dyes and cosmetics. Selected examples of economically important plants for each category are discussed in this chapter.
+
+
+The land and water of the earth sustain a vast assemblage of plants upon which all other living forms are directly or indirectly dependent. Pre-historic humans lived on berries, tubers, herbage, and the wild game which they collected and hunted that occupied whole of their time. Domestication of plants and animals has led to the production of surplus food which formed the basis for civilizations. Early civilization in different parts of the world has domesticated different species of plants for various purposes. Based on their utility, the economically useful plants are classified into food plants, fodder plants, fibre plants, timber plants, medicinal plants, and plants used in paper industries, dyes and cosmetics. Selected examples of economically important plants for each category are discussed in this chapter.
 
 ## Food plants
 
@@ -19,7 +36,7 @@ Currently about 10, 00. food plants are being used of which only around 1, 50. s
 
 The word cereal is derived from Ceres, which according to the Roman mythology denotes “Goddess of agriculture”. All cereals are members of grass family (Poacea e) that are grown for their edible starchy seeds. The prominence of cereals as food plants is due to the following attributes:
 
-i. G reater adaptability and successful colonisation on every type of habitat.
+i. Greater adaptability and successful colonisation on every type of habitat.
 ii. The relative ease of cultivation
 iii. Tillering property that produce more branches which results in higher yield per unit area.
 
@@ -35,7 +52,7 @@ Rice bran oil obtained from the rice bran is used in culinary and industrial pur
 
 0.  types of rice, comprising of modern and traditional varieties including wild relatives of Paddy.
 
-Maize ajor Cereals 
+## Major Cereals 
 
 Wheat Botanical name : Triticum aestivum Origin and Area of cultivation Earliest evidence for wheat cultivation comes from Fertile Crescent region. The common cultivated wheat, Triticum aestivum is cultivated for about 7, 50. years. Wheat is mostly cultivated in the North Indian states such as Uttar Pradesh, Punjab, Haryana, Rajasthan, Madhya Pradesh and Bihar. Uses Wheat is the staple food in Northern India. Wheat flour is suitable to make bread and other bakery products. Processed wheat flour, that has little fibre, is called Maida which is used extensively in making parota, naan and bakery products. Malted wheat is a major raw material for producing alcoholic beverages and nutritive drinks.
 
