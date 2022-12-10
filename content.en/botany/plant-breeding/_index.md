@@ -266,6 +266,7 @@ Some crop varieties bred by hybridization and selection, for disease resistance 
 **Table 9.1** Disease resistance varieties Resistance to yellow mosaic virus in bhindi
 
 
+
 **Plant Breeding for Developing Resistance to Insect Pests**
 
 Insect resistance in host crop plants may be due to morphological, biochemical or physiological characteristics. Hairy leaves in several plants are associated with resistance to insect pests. Example: resistance to jassids in cotton and cereal leaf beetle in wheat. In wheat, solid stems lead to non-preference by the stem sawfly and smooth leaves and nectar-less cotton varieties do not attract bollworms. High aspartic acid, low nitrogen and sugar content in maize leads to resistance to maize stem borers.
@@ -300,153 +301,48 @@ during the repair process by tools like CRISPR /Cas.
 
 
 **Norman E. Borlaug: The plant pathologist** plant breeder devoted his life at the International Maize and Wheat improvement centre at Sonord in Mexico. He developed a new high yielding, rust resistant, non-lodging dwarf wheat varieties like Norin-10, Sonora-64, Lerma rojo-64, etc. which are now being cultivated in many countries. This formed the base for ‘green revolution’. He was awarded a Nobel prize for Peace in 1970.
+![Norman E.Borlaug](norman.jpg "")
+
 
 **Dr. M. S. Swaminathan:** He is a pioneer mutation breeder. He has produced Sharbati Sonora, is the amber grain coloured variety of wheat by mutation, which is responsible for green revolution in India.
-
 Dr. Swaminathan is called “Father of green revolution in India”.
 
-**Nel Jayaraman:** Mr. Jayaraman, hails from
+![swaminathan](swaminathan.jpg  "")
 
+**Nel Jayaraman:** Mr. Jayaraman, hails from
 Adirangam village in Tiruvarur district. He was a disciple of Dr.Nammalvar and state co- ordinator of ‘Save our rice campaign, Tamil Nadu. He strived hard for conservation of traditional rice varieties. He had trained a team of farmers and regularly update them on the current issues that affect them.
+
+![NelJayaraman](neljeyaraman.jpg "")
 
 In 2005, he organized a first ever traditional paddy seed festival in his farm as an individual. The seed festival in May 2016 at Adhirangam was 10th in a row and in which 156 different traditional varieties were distributed to more than 7000 farmers across Tamil Nadu. He was invited by the Philippines Government to give a talk at the International Rice Research Institute (IRRI) on his work and mission. In 2011, he received the State Award for best organic farmer for his contribution to organic farming, and in the year 2015, he received the National Award for best Genome Savior.
 
+Resistance to yellow mosaic virus in bhindi (Abelmoschus escullentus) was transferred from a wild species and resulted in a new variety of A. Escullentus called Parbharni kranti. 
+**Plant Breeding for Developing Resistance to Insect Pests** 
+
+Insect resistance in host crop plants may be due to morphological, biochemical or physiological characteristics. Hairy leaves in several plants are associated with resistance to insect pests. Example: resistance to jassids in cotton and cereal leaf beetle in wheat. In wheat, solid stems lead to non-preference by the stem sawfly and smooth leaves and nectar-less cotton varieties do not attract bollworms. High aspartic acid, low nitrogen and sugar content in maize leads to resistance to maize stem borers.
+
+9.8 Modern Plant Breeding
+In the milestones of plant breeding methods
+Genetic Engineering, Plant tissue culture,
+Protoplasmic fusion or somatic hybridisation,
+Molecular marking and DNA finger printing are
+some of the modern plant breeding tools used
+to improve the crop varieties. We have already
+discussed about the various techniques and
+application of the above mentioned concepts in
+Unit VIII.
+New Plant Engineering Techniques / New
+Breeding Techniques (NBT)
+NBT are a collection of methods that could
+increase and accelerate the development of new
  
+**Summary** 
 
-duration in proper ratio (Seed : Solution) and shade drying to bring back the seed to original moisture content.
-
-**Benefits:** • It increases the yield, root growth and
-
-vigour of seed germination • The uniformity of seedling emergence. • Flowering occurs 2-3 days earlier • Uniform seed set and maturity • Exposes the seed to drought tolerance.
-
-**3\. Seed Pelleting** The process of enclosing seed in a filter inert material using an adhesive with bioactive chemicals. Seed pelleting increases the weight, size and shape of seeds by allowing percale maturing and spacing of seed in the field.
-
-**4\. Seed coating** Seed coating is a thicker form of covering of seed and may contain fertilizer, growth promoters, rhizobium inoculum, nutritional elements and repulsive agents. Chemical, pesticides added to the seed by adhesive agents cause increased seed performance and seed germination.
-
-**5\. Bio Priming of Seeds** Bio-Priming is a process of biological seed treatment that refers to combination of seed hydration (physiological aspect of disease control) and inoculation (biological aspect of disease control) of seed with beneficial organism to protect seed. It is an ecological approach using selected fungal antagonists against the soil and seed borne pathogens. This seed treatments may provide an alternative to chemical control.
-
-## Seed Storage
- Storage starts in the mother plant itself when it attains physiological maturity. Storage may be defined as the preservation of viable seeds from the time of collection until they are required for sowing. After harvesting the seeds are either stored in ware houses or in transit or in retail shop.
-
-role in improving the establishment of healthy crops. Protection and storage of seeds can be done by traditional and modern methods.
-
-**9.9.1. Traditional methods of Seed Protection**
-- In traditional method seeds are coated with fine red soil, Guntur Chilli Powder, Neem leaf Powder, Powder of Bittergourd, Drumstick extract, Pongamia leaf extract and stored for short duration.
-- Paddy Seeds are immersed in salt water in the ratio of 1:10 to remove the floating chaffy seed and then dried in shade for one -two years of storage.
-- Sorghum seeds were treated with lime water (1 kg of lime in 10 litres of H20) for 10 days and then the seeds are dried and stored.
-- Chickpea were treated with citronella leaf oil, cotton seed oil, soya bean oil, castor seed oil (500 ml of oil for 100 kg of seed).
-- Sunflower seeds were kept inside the dried fruit of sponge gourd after removing the seeds. These fruits were kept in an airtight container.
-
-**9.9.2. Modern Methods of Seed Protection** The various modern methods of seed protection are as follows:
-
-**1\. Seed Treatment** In agriculture and horticulture, seed treatment or seed dressing is a chemical, typically antimicrobial or antifungal, with which seeds are treated (or dressed) prior to planting.
-
-**Benefits of seed treatment** • Prevents spread of plant disease. • Protects seed from seedling blights. • Improves germination. • Provides protection from storage insects. • Controls soil insects.
-
-**2\. Seed Hardening** Seed hardening is a physiological preconditioning of the seed by soaking of seed in water or chemical solution for definite
-
-
-purpose, but is useful to store the valuable germplasm for use in future which cannot be preserved by conventional methods.
-
-**b. Seed storage in gene bank:** In gene bank, seed storage is the preservation of seed under controlled environmental condition which will prolong the viability of the seeds for long periods. The temperature, relative humidity and seed moisture content. Containers and distribution a r r a n g e m e n t vary for each and every type of seed.
-
-**c. S v a l b a r d seed bank:**
-
-The seeds are stored in four ply sealed envelopes, and then placed into plastic tote containers on metal shelving racks. The storage rooms are kept at -18oC. The low temperature and limited access to O2 will ensure low metabolic activity and delayed seed ageing. The permafrost surrounding will help to maintain low temperature of the seed when the electricity supply fails.
-
-**Nanotechnology in Agriculture:** Currently nanotechnology provides different nano
-
-devices and nano material that have a unique role in agriculture. For example Nano biosensors to detect moisture content and nutrient status in the soil. Nanotechnology can offer Nano-fertilizers for efficient nutrient management, Nano- herbicides for selective weed control in crop field, Nanonutrient particles to increase seed vigor, Nano-pesticides for efficient pest management. Hence, nanotechnology have greater role in crop production with environmental safety, ecological sustainability and economic stability.
-
-**9.10.1. Classification of seeds based on storage**
-
-**SEED STORAGE** Roberts (1973) classified seeds based on physiological behaviour during storing
-
-**ORTHODOX SEED** Seeds dried to low
-
-moisture of 5% (wet basis) and
-
-stored at low or Sub- freezing temperature
-
-for long period. Example:Cereals,
-
-pulses and oil seeds.
-
-**RECALCITRANT SEED**
-
-Seeds dried to high moisture of 20 - 50% (wet basis) and which cannot be successfully stored for long period. Example: Mango, Jack
-
-fruit, Coconut etc
-
-**SEED STORAGE** Ewart (1908) classified seeds into 3 categories
-
-based on life span or longitivity
-
-**Micro biotic:** Seed life span not exceeding 3 years.
-
-**Mesobiotic:** Seed life span not exceeding from 3 to 15 years.
-
-**Macrobiotic:** Seed life span not exceeding from 15 years to over
-
-1000 years.
-
-**9.10.2. Methods of Seed Storage**
-
-**i. Conventional Methods of Seed Storage** Conventional storage includes storage in Bamboo structure, mud and earthen structure, wooden structure and underground structure. In village level storage is done in large level in concrete/ cement silos, Metal or plastic drums and metal silos. Improved rural level storage structure includes storage in coal tar drum, udaipur bin, bamboo bin, pusa bin and metal bins.
-
-**ii. Modern Methods of Seed Storage a. Seed storage in cryopreservation:** It is the technique of germplasm conservation (storage of cells, tissue, embryo or seeds) by ultra-low temperature in liquid nitrogen at -196oC. It is not practical for commercial seed storage
-
-![seed bank]( "")
-
-
-
-![](botany_xii_pages_199-215-ch-09-12-1.jpg "")
-  
-
-
-in concrete / cement silos or metal or plastic drums. In modern methods of storage we have cryo preservation, gene bank and Svalbard seed bank for long time seed storage.
-
-**Evaluation 1. Assertion:** Genetic
-
-variation provides the raw material for selection
-
-**Reason:** Genetic variations are differences in genotypes of the individuals. a) Assertion is right and reason is wrong.
-
-b) Assertion is wrong and reason is right. c) Both reason and assertion is right. d) Both reason and assertion is wrong.
-
-2\. While studying the history of domestication of various cultivated plants \_\_\_\_\_\_\_ were recognized earlier a) Centres of origin b) Centres of domestication c) Centres of hybrid d) Centres of variation
-
-3\. Pick out the odd pair. a) Mass selection - Morphological
-
-characters b) Purline selection - Repeated self
-
-pollination c) Clonal selection - Sexually propagated d) Natural selection - Involves nature
-
-4\. Match Column I with Column II
-
-Column I Column II i) William S. Gaud I) Heterosis ii) Shull II) Mutation breeding iii) Cotton Mather III) Green revolution iv) Muller and Stadler IV) Natural
-
-hybridization a) i – I, ii – II, iii – III, iv – IV
-
-b) i – III, ii – I, iii – IV, iv – II
-
-c) i – IV, ii – II, iii – I, iv – IV
-
-d) i – II, ii – IV, iii – III, iv – I
-
-**9.10.3. Seed Certification** Seed certification is a legally sanctioned system for quality control of seed multiplication and production. The purpose of this certification is to maintain the seeds and make them available to the public. Through certification, high quality seeds and propagating materials of notified kind and variety are grown and distributed to ensure genetic identity and purity.
-
-**Summary** Economic Botany deals with the
+Economic Botany deals with the
 
 relationship between people and economically important plants to fulfill the three basic needs of life such as food, clothing and shelter. Domestication, a term often used for a more intricate process, involves the genetic alteration of plants which did not appear at once, but rather over a substantial period of time, perhaps hundreds of years for some species. In the history of agriculture Vavilov has given the eight main centres of origin of plants were now divided into 12 centres of origin. In Organic agriculture biofertilizers are microbial inoculants which all ecofriendly, more effective even though cost effective than chemical fertilizers. _Rhizobium, Azolla,_ VAM and sea weeds are used as fertilizers which increase the crop yield many fold.
 
 Plant breeding is a purposeful manipulation of plant species in order to create desirable genotype and phenotype for the benefit of mankind. Plant introduction, selection, hybridization, heterosis, mutation breeding, polyploidy breeding and green revolution are the different methods of conventional breeding.
-
-Seed is an important part of the plant as it gives the food for future generation, so it should be carefully protected and stored. Seed hardening, seed treatment, seed pelleting, seed coating and bio priming of seeds are the modern methods of seed protection. Seeds are stored in bamboo structure, mud or earthen structure in conventional method of storage. In villages, the farmers store the entire seeds
-
-
-
-  
 
 
 5\. The quickest method of plant breeding is a) Introduction b) Selection c) Hybridization d) Mutation breeding
