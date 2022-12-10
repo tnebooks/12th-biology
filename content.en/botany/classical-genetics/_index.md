@@ -53,12 +53,12 @@ Within a population there are some characteristics which show a limited form of 
 
 This variation may be due to the combining effects of environmental and genetic factors. In a population most of the characteristics exhibit a complete gradation, from one extreme to the other without any break. Inheritance of phenotype is determined by the combined effects of many genes, (polygenes) and environmental factors. This is also known as quantitative inheritance. Example: Human height and skin color.
 
-**Importance of variations** • Variations make some individuals better
+**Importance of variations** 
 
-fitted in the struggle for existence.
-- They help the individuals to adapt themselves to the changing environment.
-- It provides the genetic material for natural selection
-- Variations allow breeders to improve better yield, quicker growth, increased resistance and lesser input.
+- Variations make some individuals better fitted in the struggle for existence.
+- They help the individuals to adapt themselves to the changing environment.
+- It provides the genetic material for natural selection
+- Variations allow breeders to improve better yield, quicker growth, increased resistance and lesser input. 
 - They constitute the raw materials for evolution.
 
 ## Mendelism
@@ -68,7 +68,7 @@ fitted in the struggle for existence.
 
 The first Geneticist, Gregor Johann Mendel unraveled the mystery of heredity. He was born on 22nd July 1822 in Heinzendorf Silesia (now Hyncice, C z e c h o s l o v a k i a ) , Austria. After school education, later he studied botany, physics and mathematics at the University of Vienna.He then entered a monastery of St.Thomas at Brunn in Austria and continued his interest in plant hybridization. In 1849 Mendel got a temporary position in a school as a teacher and he performed a series of elegant experiments with pea plants in his garden. In 1856, he started his historic studies on pea plants. 1856 to 1863 was the period of Mendel’s hybridization experiments on pea plants. Mendel discovered the principles of heredity by studying the inheritance of seven pairs of contrasting traits of pea plant in his garden. Mendel crossed and catalogued 24,034
 
-![](gregormendel.jpg "")
+![Gregor Johann Mendel (1822 – 1884)](gregormendel.jpg "")
   
 
 
@@ -246,7 +246,6 @@ Interlocus interactions
 
 (Non-allelic interactions)
 
-![]( "")
 
 or allelic interactions • Intergenic gene interactions or inter allelic
 
