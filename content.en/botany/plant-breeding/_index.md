@@ -134,68 +134,25 @@ soil. These polymers improve the crumbing in the soil, swell up when they get we
 The green manuring can be practised as Green in-situ manuring or Green leaf manuring. Green in-situ manuring refers to the growing of green manuring crops in the border rows or as intercrops along with the main crops. Example: Sun hemp, Cowpea, Green gram etc. whereas green leaf manuring is the application of green leaves and twigs of trees, shrubs, plants growing in wastelands and field bunds. The important plant species useful for green leaf manure are _Cassia fistula_, _Sesbania grandiflora, Azadirachta indica, Delonix regia, Pongamia pinnata_ etc.,
 
 ## Plant Breeding
- Plant breeding is the science of improvement of crop varieties with higher yield, better quality, resistance to diseases and shorter durations which are suitable
+ Plant breeding is the science of improvement of crop varieties with higher yield, better quality, resistance to diseases and shorter durations which are suitable to particular environment. In other words, it is a purposeful manipulation of plant species in order to create desired genotype and phenotype for the benefit of humans. In early days, plant breeding activities were based mainly on skills and ability of person involved. But as the principles of genetics and cytogenetics have elucidated breeding methods such as selection, introduction, hybridization, ploidy, mutation, tissue culture and biotechnology techniques were designed to develop improved crop varieties.
 
+**9.6.1. Objectives of Plant Breeding** 
 
+- To increase yield, vigour and fertility of the crop 
 
-![](botany_xii_pages_199-215-ch-09-4-1.jpg "")
+- To increase tolerance to environmental condition, salinity, temperature and drought.
 
-![](botany_xii_pages_199-215-ch-09-4-2.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-4-3.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-4-4.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-4-5.jpg "")
-
-  
-
-
-to particular environment. In other words, it is a purposeful manipulation of plant species in order to create desired genotype and phenotype for the benefit of humans. In early days, plant breeding activities were based mainly on skills and ability of person involved. But as the principles of genetics and cytogenetics have elucidated breeding methods such as selection, introduction, hybridization, ploidy, mutation, tissue culture and biotechnology techniques were designed to develop improved crop varieties.
-
-**9.6.1. Objectives of Plant Breeding** • To increase yield, vigour and fertility of
-
-the crop • To increase tolerance to environmental
-
-condition, salinity, temperature and drought.
 - To prevent the premature falling of buds, fruits etc.
+
 - To improve synchronous maturity. • To develop resistance to pathogens and
+pests. 
 
-pests. • To develop photosensitive and thermos-
-
-sensitive varieties.
+- To develop photosensitive and thermos-sensitive varieties.
 
 **9.6.2. Steps in Plant Breeding** The main steps in plant breeding are given below
 
-![Steps in Plant Breeding]( "")
+![Steps in Plant Breeding](steps-in-plant-breeding.png "")
 
-Creation of Genetic
-
-Variation
-
-Germplasm collection
-
-Plant introduction
-
-Domestication
-
-Hybridization
-
-Mutation
-
-Polyploidy
-
-Tissue culture
-
-Genetic Engineering
-
-Selection
-
-Evaluation and Release as a
-
-variety
-
-Seed multiplication and distribution
 
 ## Conventional Plant Breeding Methods
 
@@ -207,7 +164,12 @@ the species. In this chapter we will discuss about some of the conventional meth
 
 The newly introduced plant has to adapt itself to the new environment. This adjustment or adaptation of the introduced plant in the changed environment is called **acclimatization.** All the introductions must be free from presence of weeds, insects and disease causing organisms. This has to be carefully examined by the process called **quarantine**, a strict isolation imposed to prevent the spread of disease.
 
-Introduction may be classified as Primary introduction and Secondary introduction (1) **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype. (2) **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. Example : Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. **9.7.2. Selection** Selection is the choice of certain individuals from a mixed population for a one or more desirable traits. Selection is the oldest and basic method of plant breeding. There are two main types of Selection.
+Introduction may be classified as Primary introduction and Secondary introduction (1) **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype. (2) **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. Example : Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. 
+
+
+**9.7.2. Selection** 
+
+Selection is the choice of certain individuals from a mixed population for a one or more desirable traits. Selection is the oldest and basic method of plant breeding. There are two main types of Selection.
 
 **i. Natural Selection: This is a rule in nature and** results in evolution reflected in the Darwinian principle “survival of the fittest”. It takes longer time in bringing about desired variation.
 
