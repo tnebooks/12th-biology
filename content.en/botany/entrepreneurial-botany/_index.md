@@ -327,22 +327,34 @@ Nuts contain about 45. oil. The kernels are also rich sources of phosphorous and
 
 **Uses**
 
-Sesame oil is used for mostly culinary purposes in India. Lower grades are used in manufacture of soaps, in paint industries, as a lubricant and as an illuminant. In India, the oil is the basis of most of the scented oils used in perfumes. Sesame seed snacks are popular throughout India. Coconut Botanical name : Cocos nucifera Family : Arecaceae Origin and Area of cultivation: The origin of coconut is Pacific island region. Kerala and Tamil Nadu are the leading producers in India.
-
-Groundnut Sesame Figure ## Uses Coconut oil is classified as edible-industrial oil. Soaps obtained from coconut oil lathers well in soft and hard water. It is used in manufacture of rubber, synthetic resins, lubricants, brake fluids for aeroplanes and detergents. It is used as major hair oil and a base for applying medicinal powders.
+Sesame oil is used for mostly culinary purposes in India. Lower grades are used in manufacture of soaps, in paint industries, as a lubricant and as an illuminant. In India, the oil is the basis of most of the scented oils used in perfumes. Sesame seed snacks are popular throughout India.
+ 
+![Oil Seeds](10.8.oilseeds.png "img-class")
 
 ### Beverages
 
-How about a cup of coffee or tea? We always entertain our guests with this offer. Children exchange chocolates during their birthdays. All non-alcoholic beverages contain alkaloids that stimulate central nervous system and also possess mild diuretic properties. In this part of chapter, we learn about three popular non- alcoholic beverages namely tea, coffee and cocoa. Tea Botanical name : Camellia sinensis Family : Theaceae Origin and Area of cultivation: Tea is native of China.Assam is the top tea producer in India, followed by Kerala and Tamil Nadu. Uses Tea is the most popular beverage among all sections of people in India. Regular consumption of green tea is believed to lowers the bad cholesterol and increases the good cholesterol. Coffee Botanical name : Cof﻿fea arabica Family : Rubiaceae Tea plantation Coffee Figure 10.11
+**How about a cup of coffee or tea? We always entertain our guests with this offer.**
 
-Coconut : Oil Seeds Why does a student or a driver prefer tea or coffee during night work? Origin and Area of cultivation: Cof﻿fea arabica is the prime source of commercial coffee which is native to the tropical Ethiopia An Indian Muslim saint, Baba Budan introduced coffee from Yemen to Mysore.Karnataka is the largest coffee producing state in India followed by Tamil Nadu and Kerala. Tamil Nadu is the largest consumer of coffee in India. Uses Drinking coffee in moderation provides the following health benefits: Caffeine enhances release of acetylcholine in brain, which in turn enhances efficiency. It can lower the incidence of fatty liver diseases, cirrhosis and cancer. It may reduce the risk of type 2 diabetes. Cocoa Botanical name: Theobroma cacao Family : Malvaceae Origin and Area of cultivation: Cocoa is native of Tropical American region. The word Theobroma (Theos means god, broma means foo d) means ‘food of the Gods’. Kerala is the largest producer of Cocoa in India followed by Karnataka. Uses Cocoa is mainly used in confectionaries and forms an important ingredient in nutritive drinks. Cocoa products are rich in fibres, minerals and antioxidants, thus preventing cancer, cardiovascular diseases, premature ageing. Cocoa : Beverages 
+All non-alcoholic beverages contain alkaloids that stimulate central nervous system and also possess mild diuretic properties. 
 
-11.  Spices and Condiments “Aroma attracts everyone” History: Spices were used extensively throughout the world for several thousands of years. Records of use of garlic and onion dates back
-12.  years. Majority of the spices are native to Mediterranean region, India and South East Asian countries. Spices, especially pepper triggered the search for sea route to India and paved way for the exploratory voyages by Spanish and Portuguese. Spices are accessory foods mainly used for flavouring during food preparation to improve their palatability. Spices are aromatic plant products and are characterized by sweet or bitter taste. Spices are added in minimal quantities during the cooking process. For example black pepper. Condiments, on the other hand, are flavouring substances having a sharp taste and are usually added to food after cooking. For example, curry leaves. The following spices and condiment are discussed in detail. Spices Cardamom Botanical name : Elettaria cardamomum Family : Zingiberaceae Origin and Area of cultivation: It is indigenous to Southern India and Sri Lanka. Cardamom is called as “Queen of Spices”. In India it is one of the main cash crops cultivated in the Western Ghats, and North Eastern India Cardamom Black Pepper Figure 10.1
+### Coffee
+*Botanical name : Coffea arabica*
+Family : Rubiaceae
 
+Why does a student or a driver prefer tea or coffee during night work? 
 
+Origin and Area Coffee of cultivation:
 
-Uses The seeds have a pleasing aroma and a characteristic warm, slightly pungent taste. It is used for flavouring confectionaries, bakery products and beverages. The seeds are used in the preparation of curry powder, pickles and cakes. Medicinally, it is employed as a stimulant and carminative. It is also chewed as a mouth freshener. Black Pepper Botanical name : Piper nigrum Family : Piperaceae Origin and Area of cultivation: It is indigenous to Western Ghats of India. Pepper is one of the most important Indian spices referred to as the “King of Spices” and also termed as “Black Gold of India”. Kerala, Karnataka and Tamil Nadu are the top producers in India. The characteristic pungency of the pepper is due to the presence of alkaloid Piperine. There are two types of pepper available in the market namely black and white pepper. Uses It is used for flavouring in the preparation of sauces, soups, curry powder and pickles. It is used in medicine as an aromatic stimulant for enhancing salivary and gastric secretions and also as a stomachic. Pepper also enhances the bio-absorption of medicines. Turmeric Botanical name : Curcuma longa Family : Zingiberaceae Origin and Area of cultivation: It is indigenous to Southern Asia India is the largest producer, consumer and exporter of Turmeric Chillies
+ **Coffea arabica** is the prime source of commercial coffee which is native to the tropical Ethiopia An Indian Muslim saint, Baba Budan introduced coffee from Yemen to Mysore.Karnataka is the largest coffee producing state in India followed by Tamil Nadu and Kerala. Tamil Nadu is the largest consumer of coffee in India.
+
+**Uses**
+
+Drinking coffee in moderation provides the
+following health benefits:
+
+Caffeine enhances release of acetylcholine
+in brain, which in turn enhances efficiency. It can lower the incidence of fatty liver diseases, cirrhosis
+and cancer. It may reduce the risk of type 2 diabetes.
 
 2.  Spices
 
