@@ -356,15 +356,40 @@ Caffeine enhances release of acetylcholine
 in brain, which in turn enhances efficiency. It can lower the incidence of fatty liver diseases, cirrhosis
 and cancer. It may reduce the risk of type 2 diabetes.
 
-2.  Spices
+### Spices and Condiments
+“Aroma attracts everyone”
 
-turmeric. Erode in Tamil Nadu is the World’s largest wholesale turmeric market. Uses Turmeric is one of the most important and ancient Indian spices and used traditionally over thousands of years for culinary, cosmetic, dyeing and for medicinal purposes. It is an important constituent of curry powders. Turmeric is used as a colouring agent in pharmacy, confectionery and food industry. Rice coloured with turmeric (yellow) is considered sacred and auspicious which is used in ceremonies. It is also used for dyeing leather, fibre, paper and toys. Curcumin extracted from turmeric is responsible for the yellow colour. Curcumin is a very good anti-oxidant which may help fight various kinds of cancer. It has anti-inflammatory, anti-diabetic, anti-bacterial, anti-fungal and anti- viral activities. It stops platelets from clotting in arteries, which leads to heart attack. Chillies / Red Pepper Botanical name : Capsicum annuum, C. frutescens.
+**History:**
 
-Family : Solanaceae Origin and Area of cultivation: Capsicum is native to South America and is popularly known as chillies or red pepper in English. India is leading producer and exporter. C. annuum and C. frutescens are important cultivated species of chillies. Uses The fruits of C.annuum are less pungent than the Table ## : Other commo S. No Common Name Tamil Name 1 Coriander க�ொத்துமல்லி Cor 2 Cumin சீர�ம் Cum 3 Fenugreek கெந்த்ம் Trig 4 Cloves இலெங�ம் Eug 5 Asafoetidia கபருங�ொ்ம் Feru 6 Onion கெங�ொ்ம் Alli
+Spices were used extensively throughout the world for several thousands of years. Records of use of garlic and onion dates back 2500 years.
 
-fruits of C.frutescens. C.annum includes large, sweet bell peppers. Long fruit cultivars of this species are commercially known as ‘Cayenne pepper’ which are crushed, powdered and used as condiment. Chillies are used in manufacture of sauces, curry powders and preparation of pickles. Capsaicin is an active component of chillies. It has pain relieving properties and used in pain relieving balms. Chillies are a good source of Vitamin C, A and E. Capsaicin is responsible for the pungency or spicy taste of chillies. Pungency of Chillies is measured in Scoville Heat Units (SHU). World’s hottest chilli, Carolina reaper pepper measures 2,200, 00. SHU. Naga viper chilli is the hottest in India that measures
 
-### SHU. Commonly used cayenne
+Majority of the spices are native to Mediterranean region, India and South East Asian countries. Spices, especially pepper triggered the search for sea route to India and paved way for the exploratory voyages by Spanish and Portuguese.
+
+Spices are accessory foods mainly used for flavouring during food preparation to improve their palatability. Spices are aromatic plant products and are characterized by sweet or bitter taste. Spices are added in minimal quantities during the cooking process. For example black pepper.
+
+Condiments, on the other hand, are flavouring substances having a sharp taste and are usually added to food after cooking. For example, curry leaves.
+
+The following spices and condiment are discussed in detail.
+
+
+### Spices
+
+**Cardamom**
+*Botanical name : Elettaria cardamomum*
+Family : Zingiberaceae
+
+**Origin and Area of cultivation:** It is indigenous to Southern India and Sri Lanka. Cardamom is called as “Queen of Spices”. In India it is one of the main cash crops cultivated in the Western Ghats, and North Eastern India
+
+**Uses**
+
+The seeds have a pleasing aroma and a characteristic warm, slightly pungent taste. It is used for flavouring confectionaries, bakery products and beverages. The seeds are used in the preparation of curry powder, pickles and cakes. Medicinally, it is employed as a stimulant and carminative. It is also chewed as a mouth freshener.
+
+### Black Pepper
+*Botanical name : Piper nigrum*
+Family : Piperaceae
+
+
 
 pepper measures 30, 00. to ### SHU. Condiment Tamarind Botanical name :Tamarindus indica Family : Fabaceae-Caesalpinioideae Origin and Area of cultivation: Tamarind is native of tropical African region and was introduced into India several thousand years Figure 10.
 
