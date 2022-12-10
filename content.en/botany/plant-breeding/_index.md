@@ -223,42 +223,37 @@ plants, the hybridization is divided into.
 **iv. Intergeneric hybridization – The crosses** are made between the plants belonging to two different genera. The disadvantages are hybrid sterility, time consuming and expensive procedure. **Example:** _Raphanobrassica, Triticale._ (Refer chapter 4 for detailed illustration)
 
 **9.7.4. Heterosis** Heterosis (hetero- different; sis - condition) G.H. Shull was the first scientist to use the term heterosis in 1912. The superiority of the F1 hybrid in performance over its parents is called heterosis or hybrid vigour. Vigour refers to increase in growth, yield, greater adaptability of resistance to diseases, pest and drought. Vegetative propagation is the best suited measure
+for maintaining hybrid vigour, since the desired characters are not lost and can persist over a period of time. Many breeders believe that the magnitude of heterosis is directly related to the degree of genetic diversity between the two parents. Depending on the nature, origin, adaptability and reproducing ability heterosis can be classified as: 
+**i. Euheterosis-** 
+This is the true heterosis which is inherited and is further classified as: 
 
-
-
-for maintaining hybrid vigour, since the desired characters are not lost and can persist over a period of time. Many breeders believe that the magnitude of heterosis is directly related to the degree of genetic diversity between the two parents. Depending on the nature, origin, adaptability and reproducing ability heterosis can be classified as: **i. Euheterosis- This is the true heterosis which**
-
-is inherited and is further classified as: **a. Mutational Euheterosis** - Simplest type of
-
-euheterosis and results from the sheltering or eliminating of the deleterious, unfavourable often lethal, recessive, mutant genes by their adaptively superior dominant alleles in cross pollinated crops.
+**a. Mutational Euheterosis** - Simplest type of euheterosis and results from the sheltering or eliminating of the deleterious, unfavourable often lethal, recessive, mutant genes by their adaptively superior dominant alleles in cross pollinated crops.
 
 **b. Balanced Euheterosis** – Well balanced gene combination which is more adaptive to environmental conditions and agricultural usefulness.
 
 **ii.** **Pseudoheterosis** – Also termed as luxuriance. Progeny possess superiority over parents in vegetative growth but not in yield and adaptation, usually sterile or poorly fertile.
 
-**9.7.5. Mutation Breeding** Muller and Stadler (1927- 1928) coined the term mutation breeding. It represents a new method of conventional breeding procedures as they have the advantage of improving the defect without losing agronomic and quality character in agriculture and crop improvement. Mutation means the sudden heritable changes in the genotype or phenotype of an organism. Gene mutations are of considerable importance in plant breeding as they provide essential inputs for evolution as well as for re-combination and selection. It is the only method for improving seedless crops.
+**9.7.5. Mutation Breeding** 
+Muller and Stadler (1927- 1928) coined the term mutation breeding. It represents a new method of conventional breeding procedures as they have the advantage of improving the defect without losing agronomic and quality character in agriculture and crop improvement. Mutation means the sudden heritable changes in the genotype or phenotype of an organism. Gene mutations are of considerable importance in plant breeding as they provide essential inputs for evolution as well as for re-combination and selection. It is the only method for improving seedless crops.
 
 Radiation such as UV short wave, X-ray, Alpha (α), Beta (β), Gamma waves and many chemicals such as cesium, EMS (ethyl methane sulfonate), nitromethylurea induce mutation to develop new varieties of crops. **Example:** Triple gene dwarf wheat with increase in
 
-yield and height. Atomita 2 - rice with salinity tolerance and pest resistance. **9.7.6. Polyploid Breeding** Majority of flowering plants are diploid (2n). The plants which possess more than two sets of chromosome are called polyploids. Polyploidy is a major force in the evolution of both wild and cultivated plants. Polyploidy often exhibits increased hybrid vigour, increased heterozygosity, increase tolerance to both biotic and abiotic stresses, buffering of deleterious mutations. In addition, polyploidy often results in reduced fertility due to meiotic error allowing the production of seedless varieties.
+yield and height. Atomita 2 - rice with salinity tolerance and pest resistance. 
 
-When chromosome number is doubled by itself in the same plant, is called autopolyploidy. Example: A triploid condition in sugarbeets, apples and pear has resulted in the increase in vigour and fruit size, large root size, large leaves, flower, more seeds and sugar content in them. It also resulted in seedless tomato, apple, watermelon and orange. Polyploidy can be induced by the use of colchicine to double the chromosome number. Allopolyploids are produced by multiplication of chromosome sets that are initially derived from two different species. Example: _Triticale (Triticum durum x secale cereale) Raphanobrassica (Brassica oleraceae x Raphanus sativus)_.
+**9.7.6. Polyploid Breeding** Majority of flowering plants are diploid (2n). The plants which possess more than two sets of chromosome are called polyploids. Polyploidy is a major force in the evolution of both wild and cultivated plants. Polyploidy often exhibits increased hybrid vigour, increased heterozygosity, increase tolerance to both biotic and abiotic stresses, buffering of deleterious mutations. In addition, polyploidy often results in reduced fertility due to meiotic error allowing the production of seedless varieties.
 
-**9.7.7. Green Revolution** Green revolution the term was coined by William
-
-**Gamma Garden or Atomic Garden**: Is a form of mutation breeding where plants are exposed to radioactive sources
-
+**Do you know = Gamma Garden or Atomic Garden**: Is a form of mutation breeding where plants are exposed to radioactive sources
 typically cobalt-60 or caesium-137 in order to generate desirable mutation in crop plants. The first Gamma garden in India is Bose Research Institute at Calcutta in 1959 and the second is IARI in 1960 which produced large variation in short type.
 
+When chromosome number is doubled by itself in the same plant, is called autopolyploidy. Example: A triploid condition in sugarbeets, apples and pear has resulted in the increase in vigour and fruit size, large root size, large leaves, flower, more seeds and sugar content in them. It also resulted in seedless tomato, apple, watermelon and orange. Polyploidy can be induced by the use of colchicine to double the chromosome number. Allopolyploids are produced by multiplication of chromosome sets that are initially derived from two different species. Example: _Triticale (Triticum durum x secale cereale) Raphanobrassica (Brassica oleraceae x Raphanus sativus).
 
-S.Gaud in (1968). It is defined as the cumulative result of a series of research, development, innovation and technology transfer initiatives. Agricultural production (especially wheat and rice) manifolds worldwide particularly in the developing countries between the 1940’s and the late 1960’s.
+**9.7.7. Green Revolution** Green revolution the term was coined by William S.Gaud in (1968). It is defined as the cumulative result of a series of research, development, innovation and technology transfer initiatives. Agricultural production (especially wheat and rice) manifolds worldwide particularly in the developing countries between the 1940’s and the late 1960’s.
 
 The Green revolution or third Agricultural Revolution is the intensive plan of 1960’s to increase crop yield in developing countries by introducing the high yielding, resistant varieties, increased irrigation facilities, fertilizer application and better agricultural management.
 
 In 1963 semi-dwarf wheat of Mexico was introduced from which India got five prolonged strategies for breeding a wide range of high varieties like Sonora 64, Sonalika and Kalyansona possessing a broad spectrum of resistance to major biotic and abiotic condition. Same as wheat M.S.Swaminathan produced the first semi-dwarf fertiliser responsive hybrid variety of rice TNI (Taichung Native-1) in 1956 from Taiwan. The derivatives were introduced in 1966. Later better yielding semi dwarf varieties of rice Jaya and Ratna developed in India.
 
-NORIN 10 – The cultivars found that Norin 10 dwarfing genes have high photosynthetic rate per unit
-
+**NORIN 10 –** The cultivars found that Norin 10 dwarfing genes have high photosynthetic rate per unit
 leaf area and increase respiratory activity. Gonjiro Inazuka selected the semi-dwarf wheat variety that became Norin 10. He would have never thought that the semi dwarf genes would not only revolutionize the world of wheat but also helped to save more than one billion lives from hunger and starvation.
 
 **Plant Breeding for Developing Resistance to diseases**
@@ -267,23 +262,9 @@ Some crop varieties bred by hybridization and selection, for disease resistance 
 
 **Crop Variety Resistance to diseases**
 
-Wheat Himgiri Leaf and Stripe rust, hill bunt
-
-Brassica Pusa swarnim (Kara rai)
-
-White rust
-
-Cauliflower Pusa Shubhra, Pusa snowball K-1
-
-Black rot and curl blight black rot
-
-Cowpea Pusa Komal Bacterial blight Chilli Pusa
-
-Sadabahar Chilly mosaic virus, Tobacco mosaic virus and Leaf curl.
 
 **Table 9.1** Disease resistance varieties Resistance to yellow mosaic virus in bhindi
 
-_(Abelmoschus escullentus)_ was transferred from a wild species and resulted in a new variety of _A. Escullentus_ called Parbharni kranti.
 
 **Plant Breeding for Developing Resistance to Insect Pests**
 
@@ -316,8 +297,7 @@ during the repair process by tools like CRISPR /Cas.
 - Transferring a gene from an identical or closely related species (cisgenesis)
 - Organising processes that alter gene activity without altering the DNA itself (epigenetic methods).
 
-## Seed Protection
- Seed is one of the most crucial elements in the livelihoods of agricultural communities. It is the repository of the genetic information of crop species and their varieties resulting from the continuous improvement and selection over the time. The potential benefits of seed to crop productivity and food security can be enormous. Crop protection products can be applied during the growth of the crop or added to the seed. Seed protection play a significant
+
 
 **Norman E. Borlaug: The plant pathologist** plant breeder devoted his life at the International Maize and Wheat improvement centre at Sonord in Mexico. He developed a new high yielding, rust resistant, non-lodging dwarf wheat varieties like Norin-10, Sonora-64, Lerma rojo-64, etc. which are now being cultivated in many countries. This formed the base for ‘green revolution’. He was awarded a Nobel prize for Peace in 1970.
 
@@ -331,16 +311,7 @@ Adirangam village in Tiruvarur district. He was a disciple of Dr.Nammalvar and s
 
 In 2005, he organized a first ever traditional paddy seed festival in his farm as an individual. The seed festival in May 2016 at Adhirangam was 10th in a row and in which 156 different traditional varieties were distributed to more than 7000 farmers across Tamil Nadu. He was invited by the Philippines Government to give a talk at the International Rice Research Institute (IRRI) on his work and mission. In 2011, he received the State Award for best organic farmer for his contribution to organic farming, and in the year 2015, he received the National Award for best Genome Savior.
 
-
-
-![](botany_xii_pages_199-215-ch-09-10-1.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-10-2.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-10-3.jpg "")
-
-  
-
+ 
 
 duration in proper ratio (Seed : Solution) and shade drying to bring back the seed to original moisture content.
 
