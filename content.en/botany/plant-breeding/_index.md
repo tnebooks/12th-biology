@@ -3,29 +3,7 @@ title: 'Plant Breeding'
 weight: 10
 ---
 
-
-<<<<<<< HEAD
 **Learning Objectives**
-=======
-Economic botany is the study of the relationship between people and economically important plants. It explores the ways by which humans use plants for food, medicines and other uses. Economic botany intersects many fields including established disciplines such as agronomy, anthropology, archaeology, chemistry, trade and commerce.
-
-## Relationship between humans and plants
-
-From the very early times, human beings have co-existed with plants which played a vital role in their survival. Through a long process of trial and error, our ancestors have selected hundreds of wild plants from the various parts of the world for their specific use. The knowledge of the plants and its applications have led to the development of the humans and their civilization in many ways.
-
-## Domestication of plants
- Domestication is the process of bringing a plant species under the control of humans and gradually changing it through careful selection, genetic alteration and handling so that it is more useful to people. The domesticated species are renewable sources that have provided food and other benefits to human. The possible changes in the plant species due to domestication are listed below; • Adaptation to a greater diversity of
-
-environments and a wider geographical range.
-- Simultaneous /uniform flowering and fruiting.
-- Lack of shattering or scattering of seeds.
-
-**Plant Breeding**
-
-**Unit X: Economic Botany** Chapter
-
-**9 Learning Objectives**
->>>>>>> refs/remotes/origin/main
 
 The learner will be able to Appreciate the relationship between
 
@@ -64,7 +42,6 @@ Economic botany is the study of the relationship between people and economically
 
 ## Relationship between humans and plants
 
-<<<<<<< HEAD
 
 From the very early times, human beings have co-existed with plants which played a vital role in their survival. Through a long process of trial and error, our ancestors have selected hundreds of wild plants from the various parts of the world for their specific use. The knowledge of the plants and its applications have led to the development of the humans and their civilization in many ways.
 
@@ -78,12 +55,6 @@ environments and a wider geographical range.
 • Lack of shattering or scattering of seeds.
 
 • Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
-=======
-
-  
-
-- Increased size of fruits and seeds. • Change from a perennial to annual habit. • Change in breeding system. • Increased yield. • Increased resistance for disease and pest. • Developing seedless parthenocarpic
->>>>>>> refs/remotes/origin/main
 
 fruit. • Enhancing colour, appearance,
 
@@ -174,14 +145,9 @@ Local resistance to root pathogens
 
 **Seaweed** **Liquid Fertilizer** Seaweed liquid f e r t i l i z e r **(**SLF) contains c y t o k i n i n , g i b b e r e l l i n s and auxin apart from macro and micro n u t r i e n t s . Most seaweed based fertilizers are made from kelp(brown algae) which grows to length of 150 metres. Liquid seaweed fertilizer is not only organic but also eco-friendly. The alginates in the seaweed that reacts with metals in the soil and form long, cross-linked polymers in the
 
-<<<<<<< HEAD
 **Figure 9.5: Seaweed** – Kelp
 
   
-=======
-![– Kelp]( "")
-
->>>>>>> refs/remotes/origin/main
 
 
 ![](botany_xii_pages_199-215-ch-09-3-1.jpg "")
