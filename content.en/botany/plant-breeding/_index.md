@@ -164,85 +164,32 @@ the species. In this chapter we will discuss about some of the conventional meth
 
 The newly introduced plant has to adapt itself to the new environment. This adjustment or adaptation of the introduced plant in the changed environment is called **acclimatization.** All the introductions must be free from presence of weeds, insects and disease causing organisms. This has to be carefully examined by the process called **quarantine**, a strict isolation imposed to prevent the spread of disease.
 
-Introduction may be classified as Primary introduction and Secondary introduction (1) **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype. (2) **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. Example : Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. 
+Introduction may be classified as Primary introduction and Secondary introduction 
+
+(1) **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype.
+
+(2) **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. Example : Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. 
 
 
 **9.7.2. Selection** 
 
 Selection is the choice of certain individuals from a mixed population for a one or more desirable traits. Selection is the oldest and basic method of plant breeding. There are two main types of Selection.
 
-**i. Natural Selection: This is a rule in nature and** results in evolution reflected in the Darwinian principle “survival of the fittest”. It takes longer time in bringing about desired variation.
+**i. Natural Selection:**
+This is a rule in nature and results in evolution reflected in the Darwinian principle “survival of the fittest”. It takes longer time in bringing about desired variation.
 
 
 **ii. Artificial Selection: It is a human involved** process in having better crop from a mixed population where the individuals differ in character. The following are the three main types of artificial selection.
 
 a. **Mass Selection:** In mass selection a large number of plants of similar phenotype or morphological characters are selected and their seeds are mixed together to constitute a new variety. The population obtained from the selected plants would be more uniform than the original population and are not individually tested. After repeated selection for about five to six years, selected seeds are multiplied and distributed to the farmers. The only disadvantage of mass selection is that it is difficult to distinguish the hereditary variation from environmental variation.
 
-**Mass Selection vs. Pure LineSelection**
-
-**Mass Selection**
-
-Cultivar register and marketing
-
-Heterogenous cultivars Homogenous cultivars
-
-Bulk of phenotypically similar plants
-
-**Pure Line Selection**
-
-**Line mixture**
-
-Single plant offspring
-
-L1 L3........ LNL2
-
-Register and market the best pure lines
-
-![selection vs Pureline selection]( "")
+![selection vs Pureline selection](mass-selection-vs-pureline-selection.png  "")
 
 **b. Pureline selection:** Johannsen in 1903 coined the word pureline. It is a collection of plants obtained as a result of repeated self-pollination from a single homozygous individual. Hence, a variety formed by this method shows more homozygosity with respect to all genes. The disadvantage of this type is that the new genotypes are never created and they are less adaptable and less stable to the environmental fluctuations.
 
 **c. Clonal Selection:** In asexually propagated crop, progenies derived from a plant resemble in genetic constitution with the parent plant as they are mitotically divided. Based on their phenotypic appearance, clonal selection is employed to select improved variety from a mixed population (clones). The selected plants are multiplied through vegetative propagation to give rise to a clone. The genotype of a clone remains unchanged for a long period of time.
 
-![Clonal Selection]( "")
-
-**1st**
-
-**Year Mixture of clones**
-
-Few to several hundred superior plants selected.
-
-**2nd**
-
-**Year Clones from Selected plants**
-
-(i) Clones from the selected plants grown seprately. (ii) Desirable clones selected.
-
-**3rd**
-
-**Year Preliminary Yield trail**
-
-(i) Preliminary yield trail with standard checks. (ii) Selection for quality, disease resistance etc, (iii) Few outstanding clones selected.
-
-**4th-6th**
-
-**Year Multilocation**
-
-**Yield trail**
-
-(i) Multilocation yield trails with standard checks. (ii) Best clone identified for release as a new variety
-
-**5th**
-
-**Year Seed**
-
-**multiplication**
-
-(i) Multilocation yield trails with standard checks. (ii) Best clone identified for release as a new variety
-
-National Bureau of plant Genetic Resources (NBPGR) The Bureau is responsible for
-
-introduction and maintenance of germ plasm of various agricultural and horticultural station in our country. It is also responsible for maintenance of plant materials of botanical and medicinal interest. It is located at Rangpuri, New Delhi and has four regional plant quarantine stations at Amristsar, Kolkata, Mumbai and Chennai at Meenambakkam
+![Clonal Selection](clonal-selection.png "")
 
 
 **9.7.3. Hybridization** Hybridization is the method of producing new crop varieties in which two or more plants of unlike genetically constitution all crossed together that result in a progeny called hybrid. Hybridization offers improvement in crop and is the only effective means of combining together the desirable characters of two or more varieties or species. The first natural hybridization was observed by Cotton Mather in maize. **Steps in Hybridization** Steps involved in hybridization are as follows. 1. **Selection of Parents:** Male and female
