@@ -106,23 +106,23 @@ Micronucleus dividing mitotically
 XII Std Zoology Chapter 1 EM.indd 2 18/12/2021 14:50:06
 
 
-![](chapter-1-2-33.jpg "")
 
-![](chapter-1-2-34.jpg "")
 
-![](chapter-1-2-36.jpg "")
 
-![](chapter-1-2-37.jpg "")
 
-![](chapter-1-2-38.jpg "")
 
-![](chapter-1-2-39.jpg "")
 
-![](chapter-1-2-40.jpg "")
 
-![](chapter-1-2-42.jpg "")
 
-![](chapter-1-2-44.jpg "")
+
+
+
+
+
+
+
+
+
   
 
 3 Reproduction in Organisms
@@ -330,7 +330,7 @@ leads an independent life
 XII Std Zoology Chapter 1 EM.indd 5 18/12/2021 14:50:09
 
 
-![](chapter-1-5-32.jpg "")
+
   
 
 6Reproduction in Organisms
@@ -364,7 +364,7 @@ c) **Hologamy-** Lower organisms, sometimes the entire mature organisms do not f
 XII Std Zoology Chapter 1 EM.indd 6 18/12/2021 14:50:09
 
 
-![](chapter-1-6-1.jpg "")
+
 
   
 

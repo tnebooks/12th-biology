@@ -66,7 +66,7 @@ XII Std Zoology Chapter 13 EM.indd 219 18/12/2021 15:19:14
 
 
 
-![](chapter-13-1-2.jpg "")
+
   
 
 220Environmental Issues
@@ -112,7 +112,7 @@ Oil & Gas
 XII Std Zoology Chapter 13 EM.indd 220 18/12/2021 15:19:14
 
 
-![](chapter-13-2-1.jpg "")
+
   
 
 221 Environmental Issues
@@ -318,11 +318,11 @@ Sources of water pollution can also be classified in three ways. They are munici
 XII Std Zoology Chapter 13 EM.indd 224 18/12/2021 15:19:14
 
 
-![](chapter-13-6-1.jpg "")
 
-![](chapter-13-6-2.jpg "")
 
-![](chapter-13-6-3.jpg "")
+
+
+
   
 
 225 Environmental Issues
@@ -366,7 +366,7 @@ methods before discharge to municipal treatment sources.
 XII Std Zoology Chapter 13 EM.indd 225 18/12/2021 15:19:14
 
 
-![](chapter-13-7-1.jpg "")
+
   
 
 226Environmental Issues
@@ -488,17 +488,17 @@ respiratory problems.
 XII Std Zoology Chapter 13 EM.indd 227 18/12/2021 15:19:15
 
 
-![](chapter-13-9-1.jpg "")
 
-![](chapter-13-9-2.jpg "")
 
-![](chapter-13-9-3.jpg "")
 
-![](chapter-13-9-4.jpg "")
 
-![](chapter-13-9-5.jpg "")
 
-![](chapter-13-9-6.jpg "")
+
+
+
+
+
+
   
 
 228Environmental Issues
@@ -527,7 +527,7 @@ XII Std Zoology Chapter 13 EM.indd 228 18/12/2021 15:19:15
 
 
 
-![](chapter-13-10-2.jpg "")
+
   
 
 229 Environmental Issues
@@ -613,11 +613,11 @@ solvents, radioactive materials, e-waste and plastics are mixed up with paper an
 XII Std Zoology Chapter 13 EM.indd 230 18/12/2021 15:19:15
 
 
-![](chapter-13-12-1.jpg "")
 
-![](chapter-13-12-2.jpg "")
 
-![](chapter-13-12-3.jpg "")
+
+
+
   
 
 231 Environmental Issues
@@ -653,7 +653,7 @@ Solid Waste management includes the activities and actions required to manage wa
 XII Std Zoology Chapter 13 EM.indd 231 18/12/2021 15:19:15
 
 
-![](chapter-13-13-1.jpg "")
+
   
 
 232Environmental Issues
@@ -739,7 +739,7 @@ Used electronics which are destined for reuse, resale, salvage, recycling, or di
 XII Std Zoology Chapter 13 EM.indd 233 18/12/2021 15:19:16
 
 
-![](chapter-13-15-1.jpg "")
+
   
 
 234Environmental Issues

@@ -54,7 +54,7 @@ XII Std Zoology Chapter 11 EM.indd 176 18/12/2021 15:07:09
 
 
 
-![](chapter-11-1-2.jpg "")
+
   
 
 177 Organisms and Populations
@@ -116,15 +116,15 @@ for the survival of the species/organisms. Organisms which can survive a wide ra
 XII Std Zoology Chapter 11 EM.indd 178 18/12/2021 15:07:10
 
 
-![](chapter-11-3-1.jpg "")
 
-![](chapter-11-3-2.jpg "")
 
-![](chapter-11-3-3.jpg "")
 
-![](chapter-11-3-4.jpg "")
 
-![](chapter-11-3-5.jpg "")
+
+
+
+
+
   
 
 179 Organisms and Populations
@@ -298,21 +298,21 @@ Ice
 XII Std Zoology Chapter 11 EM.indd 182 18/12/2021 15:07:11
 
 
-![](chapter-11-7-1.jpg "")
 
-![](chapter-11-7-2.jpg "")
 
-![](chapter-11-7-3.jpg "")
 
-![](chapter-11-7-4.jpg "")
 
-![](chapter-11-7-5.jpg "")
 
-![](chapter-11-7-6.jpg "")
 
-![](chapter-11-7-7.jpg "")
 
-![](chapter-11-7-8.jpg "")
+
+
+
+
+
+
+
+
   
 
 183 Organisms and Populations
@@ -364,9 +364,9 @@ and snow zone) includes in the descending order, a sub-snow zone immediately bel
 XII Std Zoology Chapter 11 EM.indd 183 18/12/2021 15:07:11
 
 
-![](chapter-11-8-1.jpg "")
 
-![](chapter-11-8-2.jpg "")
+
+
   
 
 184Organisms and Populations
@@ -416,7 +416,7 @@ be a lush landscape with river flowing through it. Accordingly, appropriate faun
 XII Std Zoology Chapter 11 EM.indd 184 18/12/2021 15:07:11
 
 
-![](chapter-11-9-1.jpg "")
+
   
 
 185 Organisms and Populations
@@ -498,7 +498,7 @@ instinctive or learned. Animals develop certain behavioural traits or adaptation
 XII Std Zoology Chapter 11 EM.indd 186 18/12/2021 15:07:12
 
 
-![](chapter-11-11-1.jpg "")
+
 
   
 
@@ -796,9 +796,9 @@ Parasites may be permanent or temporary. Temporary parasites spend only a part o
 XII Std Zoology Chapter 11 EM.indd 192 18/12/2021 15:07:12
 
 
-![](chapter-11-17-1.jpg "")
 
-![](chapter-11-17-2.jpg "")
+
+
   
 
 193 Organisms and Populations
@@ -830,7 +830,7 @@ Population ecology is an important area of ecology. A population is a group of i
 XII Std Zoology Chapter 11 EM.indd 193 18/12/2021 15:07:12
 
 
-![](chapter-11-18-1.jpg "")
+
 
   
 

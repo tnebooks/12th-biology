@@ -73,7 +73,7 @@ _"Each has his own tree of ancestors, but at the top of all sits probably arbore
 XII Std Zoology Chapter 6 EM.indd 92 18/12/2021 14:52:42
 
 
-![](chapter-6-1-1.jpg "")
+
 
   
 
@@ -331,31 +331,31 @@ Structures which are similar in origin but perform different functions are calle
 XII Std Zoology Chapter 6 EM.indd 97 18/12/2021 14:52:43
 
 
-![](chapter-6-6-1.jpg "")
 
-![](chapter-6-6-2.jpg "")
 
-![](chapter-6-6-3.jpg "")
 
-![](chapter-6-6-4.jpg "")
 
-![](chapter-6-6-5.jpg "")
 
-![](chapter-6-6-6.jpg "")
 
-![](chapter-6-6-7.jpg "")
 
-![](chapter-6-6-8.jpg "")
 
-![](chapter-6-6-9.jpg "")
 
-![](chapter-6-6-10.jpg "")
 
-![](chapter-6-6-11.jpg "")
 
-![](chapter-6-6-12.jpg "")
 
-![](chapter-6-6-13.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 98Evolution
@@ -391,81 +391,81 @@ possessor, and are not necessary for their existence are called vestigial organs
 XII Std Zoology Chapter 6 EM.indd 98 18/12/2021 14:52:45
 
 
-![](chapter-6-7-1.jpg "")
-
-![](chapter-6-7-2.jpg "")
-
-![](chapter-6-7-3.jpg "")
-
-![](chapter-6-7-4.jpg "")
-
-![](chapter-6-7-5.jpg "")
-
-![](chapter-6-7-6.jpg "")
-
-![](chapter-6-7-7.jpg "")
-
-![](chapter-6-7-8.jpg "")
-
-![](chapter-6-7-9.jpg "")
-
-![](chapter-6-7-10.jpg "")
-
-![](chapter-6-7-11.jpg "")
-
-![](chapter-6-7-12.jpg "")
-
-![](chapter-6-7-13.jpg "")
-
-![](chapter-6-7-14.jpg "")
-
-![](chapter-6-7-15.jpg "")
-
-![](chapter-6-7-16.jpg "")
-
-![](chapter-6-7-17.jpg "")
-
-![](chapter-6-7-18.jpg "")
-
-![](chapter-6-7-19.jpg "")
-
-![](chapter-6-7-20.jpg "")
-
-![](chapter-6-7-21.jpg "")
-
-![](chapter-6-7-22.jpg "")
-
-![](chapter-6-7-23.jpg "")
-
-![](chapter-6-7-24.jpg "")
-
-![](chapter-6-7-27.jpg "")
-
-![](chapter-6-7-28.jpg "")
-
-![](chapter-6-7-29.jpg "")
-
-![](chapter-6-7-30.jpg "")
-
-
-
-![](chapter-6-7-35.jpg "")
-
-![](chapter-6-7-36.jpg "")
-
-![](chapter-6-7-37.jpg "")
-
-![](chapter-6-7-38.jpg "")
 
 
 
 
 
-![](chapter-6-7-44.jpg "")
 
-![](chapter-6-7-45.jpg "")
 
-![](chapter-6-7-46.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
@@ -681,9 +681,6 @@ Large ground finch (_Geospiza magnirostris_)
 XII Std Zoology Chapter 6 EM.indd 102 18/12/2021 14:52:47
 
 
-![](chapter-6-11-1.jpg "")
-
-![](chapter-6-11-2.jpg "")
 
 
 
@@ -695,7 +692,6 @@ XII Std Zoology Chapter 6 EM.indd 102 18/12/2021 14:52:47
 
 
 
-![](chapter-6-11-13.jpg "")
 
 
 
@@ -705,17 +701,21 @@ XII Std Zoology Chapter 6 EM.indd 102 18/12/2021 14:52:47
 
 
 
-![](chapter-6-11-24.jpg "")
 
 
 
 
-![](chapter-6-11-32.jpg "")
-
-![](chapter-6-11-33.jpg "")
 
 
-![](chapter-6-11-35.jpg "")
+
+
+
+
+
+
+
+
+
 
   
 
@@ -937,7 +937,7 @@ XII Std Zoology Chapter 6 EM.indd 106 18/12/2021 14:52:52
 
 
 
-![](chapter-6-15-2.jpg "")
+
   
 
 107 Evolution

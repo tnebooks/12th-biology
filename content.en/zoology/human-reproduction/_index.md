@@ -61,7 +61,7 @@ _➢ Understands the events in pregnancy and foetal development._
 XII Std Zoology Chapter 2 EM.indd 11 18/12/2021 14:50:57
 
 
-![](chapter-2-1-1.jpg "")
+
 
   
 
@@ -100,9 +100,9 @@ The stratified epithelium of the seminiferous tubule is made of two types of cel
 XII Std Zoology Chapter 2 EM.indd 12 18/12/2021 14:50:58
 
 
-![](chapter-2-2-1.jpg "")
 
-![](chapter-2-2-2.jpg "")
+
+
   
 
 13 Human Reproduction
@@ -150,17 +150,17 @@ Vasa efferentia
 XII Std Zoology Chapter 2 EM.indd 13 18/12/2021 14:50:58
 
 
-![](chapter-2-3-1.jpg "")
 
-![](chapter-2-3-2.jpg "")
 
-![](chapter-2-3-3.jpg "")
 
-![](chapter-2-3-4.jpg "")
 
-![](chapter-2-3-5.jpg "")
 
-![](chapter-2-3-6.jpg "")
+
+
+
+
+
+
   
 
 14Human Reproduction
@@ -188,9 +188,9 @@ strongest muscles of the human body.
 XII Std Zoology Chapter 2 EM.indd 14 18/12/2021 14:50:59
 
 
-![](chapter-2-4-1.jpg "")
 
-![](chapter-2-4-2.jpg "")
+
+
   
 
 15 Human Reproduction
@@ -218,30 +218,30 @@ Vagina is a large fibromuscular tube that extends from the cervix to the exterio
 XII Std Zoology Chapter 2 EM.indd 15 18/12/2021 14:51:00
 
 
-![](chapter-2-5-1.jpg "")
-
-![](chapter-2-5-2.jpg "")
-
-![](chapter-2-5-3.jpg "")
-
-![](chapter-2-5-4.jpg "")
-
-![](chapter-2-5-5.jpg "")
-
-![](chapter-2-5-6.jpg "")
-
-![](chapter-2-5-7.jpg "")
-
-![](chapter-2-5-8.jpg "")
-
-![](chapter-2-5-9.jpg "")
-
-![](chapter-2-5-10.jpg "")
-
-![](chapter-2-5-11.jpg "")
 
 
-![](chapter-2-5-13.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 16Human Reproduction
@@ -267,39 +267,39 @@ Normal development of the breast begins at puberty and progresses with changes d
 XII Std Zoology Chapter 2 EM.indd 16 18/12/2021 14:51:01
 
 
-![](chapter-2-6-2.jpg "")
 
-![](chapter-2-6-3.jpg "")
 
-![](chapter-2-6-5.jpg "")
 
-![](chapter-2-6-6.jpg "")
 
-![](chapter-2-6-7.jpg "")
 
-![](chapter-2-6-10.jpg "")
 
-![](chapter-2-6-12.jpg "")
 
-![](chapter-2-6-13.jpg "")
 
-![](chapter-2-6-18.jpg "")
 
-![](chapter-2-6-19.jpg "")
 
-![](chapter-2-6-20.jpg "")
 
-![](chapter-2-6-21.jpg "")
 
-![](chapter-2-6-22.jpg "")
 
-![](chapter-2-6-23.jpg "")
 
-![](chapter-2-6-24.jpg "")
 
-![](chapter-2-6-25.jpg "")
 
-![](chapter-2-6-27.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 17 Human Reproduction
@@ -325,9 +325,9 @@ Interstitial cell
 XII Std Zoology Chapter 2 EM.indd 17 18/12/2021 14:51:01
 
 
-![](chapter-2-7-1.jpg "")
 
-![](chapter-2-7-2.jpg "")
+
+
   
 
 18Human Reproduction
@@ -369,13 +369,13 @@ Mitochondria
 XII Std Zoology Chapter 2 EM.indd 18 18/12/2021 14:51:02
 
 
-![](chapter-2-8-1.jpg "")
 
-![](chapter-2-8-2.jpg "")
 
-![](chapter-2-8-3.jpg "")
 
-![](chapter-2-8-4.jpg "")
+
+
+
+
   
 
 19 Human Reproduction
@@ -407,25 +407,25 @@ of the Graafian follicle is transformed into a transitory endocrine gland called
 XII Std Zoology Chapter 2 EM.indd 19 18/12/2021 14:51:03
 
 
-![](chapter-2-9-1.jpg "")
 
-![](chapter-2-9-2.jpg "")
 
-![](chapter-2-9-3.jpg "")
 
-![](chapter-2-9-4.jpg "")
 
-![](chapter-2-9-5.jpg "")
 
-![](chapter-2-9-6.jpg "")
 
-![](chapter-2-9-7.jpg "")
 
-![](chapter-2-9-8.jpg "")
 
-![](chapter-2-9-9.jpg "")
 
-![](chapter-2-9-10.jpg "")
+
+
+
+
+
+
+
+
+
+
   
 
 20Human Reproduction
@@ -491,12 +491,12 @@ In the absence of Fertilization, the corpus luteum degenerates completely and le
 XII Std Zoology Chapter 2 EM.indd 20 18/12/2021 14:51:03
 
 
-![](chapter-2-10-1.jpg "")
-
-![](chapter-2-10-2.jpg "")
 
 
-![](chapter-2-10-4.jpg "")
+
+
+
+
   
 
 21 Human Reproduction
@@ -570,11 +570,11 @@ XII Std Zoology Chapter 2 EM.indd 22 18/12/2021 14:51:04
 
 
 
-![](chapter-2-12-14.jpg "")
 
-![](chapter-2-12-15.jpg "")
 
-![](chapter-2-12-16.jpg "")
+
+
+
   
 
 23 Human Reproduction
@@ -608,60 +608,60 @@ The inner cell mass in the blastula is differentiated into epiblast and hypoblas
 XII Std Zoology Chapter 2 EM.indd 23 18/12/2021 14:51:05
 
 
-![](chapter-2-13-1.jpg "")
-
-![](chapter-2-13-2.jpg "")
 
 
-![](chapter-2-13-4.jpg "")
-
-![](chapter-2-13-5.jpg "")
-
-![](chapter-2-13-6.jpg "")
-
-![](chapter-2-13-7.jpg "")
-
-![](chapter-2-13-8.jpg "")
-
-![](chapter-2-13-9.jpg "")
-
-![](chapter-2-13-10.jpg "")
-
-![](chapter-2-13-11.jpg "")
-
-![](chapter-2-13-12.jpg "")
-
-![](chapter-2-13-13.jpg "")
-
-![](chapter-2-13-14.jpg "")
-
-![](chapter-2-13-15.jpg "")
-
-![](chapter-2-13-16.jpg "")
-
-![](chapter-2-13-17.jpg "")
-
-![](chapter-2-13-18.jpg "")
-
-![](chapter-2-13-19.jpg "")
 
 
-![](chapter-2-13-21.jpg "")
-
-![](chapter-2-13-22.jpg "")
-
-![](chapter-2-13-23.jpg "")
-
-![](chapter-2-13-24.jpg "")
-
-![](chapter-2-13-25.jpg "")
-
-![](chapter-2-13-26.jpg "")
 
 
-![](chapter-2-13-28.jpg "")
 
-![](chapter-2-13-29.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 24Human Reproduction
@@ -748,7 +748,6 @@ XII Std Zoology Chapter 2 EM.indd 24 18/12/2021 14:51:07
 
 
 
-![](chapter-2-14-102.jpg "")
 
 
 
@@ -758,18 +757,19 @@ XII Std Zoology Chapter 2 EM.indd 24 18/12/2021 14:51:07
 
 
 
-![](chapter-2-14-247.jpg "")
 
 
 
 
-![](chapter-2-14-270.jpg "")
 
 
 
-![](chapter-2-14-371.jpg "")
 
-![](chapter-2-14-374.jpg "")
+
+
+
+
+
 
 
 
@@ -852,18 +852,18 @@ XII Std Zoology Chapter 2 EM.indd 25 18/12/2021 14:51:08
 
 
 
-![](chapter-2-15-247.jpg "")
 
 
 
 
-![](chapter-2-15-270.jpg "")
 
 
 
-![](chapter-2-15-371.jpg "")
 
-![](chapter-2-15-374.jpg "")
+
+
+
+
 
 
 
@@ -1082,17 +1082,17 @@ a. FSH b. LH c. hCG d. hPL
 XII Std Zoology Chapter 2 EM.indd 29 18/12/2021 14:51:09
 
 
-![](chapter-2-19-1.jpg "")
 
-![](chapter-2-19-2.jpg "")
 
-![](chapter-2-19-3.jpg "")
 
-![](chapter-2-19-4.jpg "")
 
-![](chapter-2-19-5.jpg "")
 
-![](chapter-2-19-6.jpg "")
+
+
+
+
+
+
   
 
 30Human Reproduction
@@ -1134,13 +1134,13 @@ HUMAN REPRODUCTION URL: http://www.glencoe.com/sites/common\_assets/science/virt
 XII Std Zoology Chapter 2 EM.indd 31 18/12/2021 14:51:11
 
 
-![](chapter-2-21-1.jpg "")
 
 
-![](chapter-2-21-8.jpg "")
 
-![](chapter-2-21-9.jpg "")
 
-![](chapter-2-21-10.jpg "")
 
-![](chapter-2-21-11.jpg "")
+
+
+
+
+

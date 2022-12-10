@@ -41,7 +41,7 @@ _"Our world is built on biology"_
 XII Std Zoology Chapter 10 EM.indd 157 18/12/2021 15:04:57
 
 
-![](chapter-10-1-1.jpg "")
+
 
   
 
@@ -303,22 +303,22 @@ ADA gene to cells
 XII Std Zoology Chapter 10 EM.indd 162 18/12/2021 15:04:59
 
 
-![](chapter-10-6-1.jpg "")
-
-![](chapter-10-6-2.jpg "")
 
 
-![](chapter-10-6-4.jpg "")
-
-![](chapter-10-6-5.jpg "")
 
 
-![](chapter-10-6-7.jpg "")
 
 
-![](chapter-10-6-9.jpg "")
 
-![](chapter-10-6-10.jpg "")
+
+
+
+
+
+
+
+
+
   
 
 163 Applications of Biotechnology
@@ -366,25 +366,25 @@ discovered by **Eva Engvall** and **Peter Perlmann (1971)** to detect the presen
 XII Std Zoology Chapter 10 EM.indd 163 18/12/2021 15:05:00
 
 
-![](chapter-10-7-1.jpg "")
-
-![](chapter-10-7-2.jpg "")
 
 
 
 
 
-![](chapter-10-7-16.jpg "")
 
 
 
-![](chapter-10-7-19.jpg "")
 
 
-![](chapter-10-7-21.jpg "")
 
 
-![](chapter-10-7-24.jpg "")
+
+
+
+
+
+
+
 
 
   
@@ -426,7 +426,7 @@ During denaturation the reaction mixture is heated to 950 C for a short time to 
 XII Std Zoology Chapter 10 EM.indd 164 18/12/2021 15:05:00
 
 
-![](chapter-10-8-5.jpg "")
+
   
 
 165 Applications of Biotechnology
@@ -538,57 +538,57 @@ gene expression and developmental processes in higher organisms.
 XII Std Zoology Chapter 10 EM.indd 166 18/12/2021 15:05:01
 
 
-![](chapter-10-10-1.jpg "")
 
-![](chapter-10-10-2.jpg "")
 
-![](chapter-10-10-3.jpg "")
 
-![](chapter-10-10-4.jpg "")
 
-![](chapter-10-10-5.jpg "")
 
-![](chapter-10-10-6.jpg "")
 
-![](chapter-10-10-7.jpg "")
 
-![](chapter-10-10-8.jpg "")
 
-![](chapter-10-10-9.jpg "")
 
-![](chapter-10-10-10.jpg "")
 
-![](chapter-10-10-11.jpg "")
 
-![](chapter-10-10-12.jpg "")
 
-![](chapter-10-10-13.jpg "")
 
-![](chapter-10-10-14.jpg "")
 
-![](chapter-10-10-15.jpg "")
 
-![](chapter-10-10-16.jpg "")
 
-![](chapter-10-10-17.jpg "")
 
-![](chapter-10-10-18.jpg "")
 
-![](chapter-10-10-19.jpg "")
 
-![](chapter-10-10-21.jpg "")
 
-![](chapter-10-10-24.jpg "")
 
-![](chapter-10-10-25.jpg "")
 
-![](chapter-10-10-26.jpg "")
 
-![](chapter-10-10-27.jpg "")
 
-![](chapter-10-10-28.jpg "")
 
-![](chapter-10-10-29.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
@@ -685,26 +685,26 @@ drugs, better friuts and vegetables, pest resistant crops, indigenious cure to d
 XII Std Zoology Chapter 10 EM.indd 168 18/12/2021 15:05:02
 
 
-![](chapter-10-12-1.jpg "")
-
-![](chapter-10-12-2.jpg "")
 
 
-![](chapter-10-12-4.jpg "")
 
-![](chapter-10-12-5.jpg "")
 
-![](chapter-10-12-6.jpg "")
 
-![](chapter-10-12-7.jpg "")
 
-![](chapter-10-12-8.jpg "")
 
-![](chapter-10-12-9.jpg "")
 
-![](chapter-10-12-10.jpg "")
 
-![](chapter-10-12-11.jpg "")
+
+
+
+
+
+
+
+
+
+
+
   
 
 169 Applications of Biotechnology
@@ -1019,13 +1019,13 @@ Applications of Biotechnology URL: http://media.hhmi.org/biointeractive/vlabs/tr
 XII Std Zoology Chapter 10 EM.indd 175 18/12/2021 15:05:05
 
 
-![](chapter-10-19-1.jpg "")
 
 
-![](chapter-10-19-4.jpg "")
 
-![](chapter-10-19-5.jpg "")
 
-![](chapter-10-19-6.jpg "")
 
-![](chapter-10-19-7.jpg "")
+
+
+
+
+

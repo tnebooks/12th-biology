@@ -67,9 +67,9 @@ All types of pollution
 
 
 
-![](botany_xii_pages_178-198-ch-08-1-1.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-1-2.jpg "")
+
+
 
   
 
@@ -153,7 +153,7 @@ colour view of total ozone
 
 
 
-![](botany_xii_pages_178-198-ch-08-3-2.jpg "")
+
   
 
 
@@ -294,9 +294,9 @@ A B
 
 
 
-![](botany_xii_pages_178-198-ch-08-7-1.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-7-2.jpg "")
+
+
   
 
 
@@ -326,7 +326,7 @@ It has a negative impact on decomposition in the soils by causing stress to the 
 
 
 
-![](botany_xii_pages_178-198-ch-08-8-1.jpg "")
+
   
 
 
@@ -357,11 +357,11 @@ It infests pastures and farmland causing often loss of yield. The plant produces
 
 
 
-![](botany_xii_pages_178-198-ch-08-9-1.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-9-2.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-9-3.jpg "")
+
+
+
   
 
 
@@ -563,11 +563,11 @@ Highest carbon foot print.
 
 
 
-![](botany_xii_pages_178-198-ch-08-13-1.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-13-2.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-13-25.jpg "")
+
+
+
   
 
 
@@ -607,15 +607,15 @@ Well **Rainwater harvesting in individual house**
 
 
 
-![](botany_xii_pages_178-198-ch-08-14-1.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-14-2.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-14-3.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-14-5.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-14-6.jpg "")
+
+
+
+
+
 
   
 
@@ -646,7 +646,7 @@ In terms of services lakes offer sustainable solutions to key issues of water ma
 
 
 
-![](botany_xii_pages_178-198-ch-08-15-1.jpg "")
+
   
 
 
@@ -702,27 +702,27 @@ Secondary treatment
 
 
 
-![](botany_xii_pages_178-198-ch-08-16-1.jpg "")
-
-![](botany_xii_pages_178-198-ch-08-16-2.jpg "")
-
-
-
-![](botany_xii_pages_178-198-ch-08-16-13.jpg "")
 
 
 
 
-![](botany_xii_pages_178-198-ch-08-16-24.jpg "")
 
 
-![](botany_xii_pages_178-198-ch-08-16-31.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-32.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-33.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-16-34.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
@@ -758,7 +758,7 @@ fauna.
 
 
 
-![](botany_xii_pages_178-198-ch-08-17-1.jpg "")
+
   
 
 
@@ -949,13 +949,13 @@ Let us know about the Environmental issues using the **EARTH NOW** app through t
 
 
 
-![](botany_xii_pages_178-198-ch-08-21-1.jpg "")
 
 
-![](botany_xii_pages_178-198-ch-08-21-6.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-21-7.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-21-8.jpg "")
 
-![](botany_xii_pages_178-198-ch-08-21-9.jpg "")
+
+
+
+
+

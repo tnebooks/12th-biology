@@ -388,13 +388,13 @@ that is caused by an abnormality in an individual DNA. Abnormalities can range f
 XII Std Zoology Chapter 4 EM.indd 53 18/12/2021 14:48:14
 
 
-![](chapter-4-9-1.jpg "")
 
-![](chapter-4-9-2.jpg "")
 
-![](chapter-4-9-3.jpg "")
 
-![](chapter-4-9-4.jpg "")
+
+
+
+
   
 
 54Principles of Inheritance and Variation

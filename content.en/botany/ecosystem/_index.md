@@ -16,7 +16,7 @@ weight: 8
 - Classify vegetation types of India and Tamil Nadu
 ```
 
-![](botany_xii_pages_149-177-ch-07-1-1.jpg "")
+
 
 Have you seen lakes, ponds and pools in your surroundings? They are all called water bodies with many components in them. Can you list out the things which are found in water bodies? Mud, nutrients, clay, dissolved gases, planktons, microorganisms, plants like algae, _Hydrilla, Nelumbo, Nymphaea_ and animals like snake, small fish, large fish, frog, tortoise and crane are the components of the water bodies which constitutes **ecosystem**. Further, we all know that plants and animals are prominent living components in the environment. They interact with space components such as air, water, soil, sunlight, etc. For example, you have studied in class XI, one of the life processes, photosynthesis which utilizes sunlight , water, carbondioxide, nutrients from the soil and release oxygen to the atmosphere. From this, we understand that the exchange of materials takes place between living and space components. Likewise, you can study the structure, function and types of ecosystem in this chapter. The term ‘ecosystem’ was proposed by A.G. Tansley (1935), who defined it as ‘the system resulting from the **integration of all the living and nonliving factors of the environment’**. Whereas, Odum (1962) defined ecosystem ‘as the structural and **functional unit of ecology’.**
 
@@ -386,15 +386,15 @@ Senescence
 
 
 
-![](botany_xii_pages_149-177-ch-07-8-1.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-8-2.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-8-3.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-8-4.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-8-5.jpg "")
+
+
+
+
+
   
 
 
@@ -492,9 +492,9 @@ Po = Organic phosphates PI = Inorganic phosphates
 
 
 
-![](botany_xii_pages_149-177-ch-07-9-1.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-9-2.jpg "")
+
+
   
 
 
@@ -570,7 +570,7 @@ Collect few living and nonliving components from any water body found near by.
 
 
 
-![](botany_xii_pages_149-177-ch-07-10-1.jpg "")
+
   
 
 
@@ -656,7 +656,7 @@ atmospheric oxygen • Water cycling
 
 **Regulating services** • Invasion resistance • Herbivory pollination • Seed dispersal • Climate regulation • Pest regulation • Disease regulation • Erosion regulation • Water purification • Natural hazard protection
 
-![](botany_xii_pages_149-177-ch-07-12-1.jpg "")
+
   
 
 
@@ -721,7 +721,7 @@ ecosystem (Some species indicate the health of the ecosystem: such species are c
 
 
 
-![](botany_xii_pages_149-177-ch-07-14-1.jpg "")
+
 
   
 
@@ -1030,7 +1030,7 @@ ag e
 
 
 
-![](botany_xii_pages_149-177-ch-07-18-1.jpg "")
+
   
 
 
@@ -1126,7 +1126,7 @@ e
 
 
 
-![](botany_xii_pages_149-177-ch-07-19-1.jpg "")
+
   
 
 
@@ -1419,7 +1419,7 @@ S
 
 
 
-![Map showing forest types of Tamil Nadu.](botany_xii_pages_149-177-ch-07-23-1.jpg "")
+
   
 
 
@@ -1505,7 +1505,7 @@ In Tamil Nadu, these are found in the Eastern Ghats .These are scattered and int
 This type of grasslands are found in altitude above 1000 m.The common plants species are _Chrysopogon, A r u n d i n e l l a , Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca,_ and _Agrostis._. It is spread over the southern slopes of Himalayas, sub-vegetation, Riparian vegetation, Aquatic and semi aquatic vegetation). According to Champion and Seth (1968), forest vegetation of India and Tamil Nadu has been classified in to 16 and 9 types respectively.
 
 
-![Higher altitude grassland](botany_xii_pages_149-177-ch-07-25-1.jpg "")
+
 
 
 **Summary** The interaction between biotic and abiotic components in an environment is called ecosystem. Autotrophs and heterotrophs are the producers and consumers respectively. The function of ecosystem refers to creation of energy, flow of energy and cycling of nutrients. The amount of light available for photosynthesis is called Photo synthetically Active Radiation . It is essential for increase in the productivity of ecosystem. The rate of biomass production per unit area /time is called productivity. It is classified as primary productivity, secondary productivity and community productivity. The transfer of energy in an ecosystem can be termed as energy flow. It is explained through the food chain, food web , ecological pyramids ( pyramid of number, biomass and energy ) and biogeochemical cycle. Cycling of nutrients between abiotic and biotic components is evident in the pond ecosystem, making itself self sufficient and self regulating Ecosystem protected for the welfare of posterity is called ecosystem management.
@@ -1677,13 +1677,13 @@ Let us know about the **Ecosystem** in detail through this activity.
 
 
 
-![](botany_xii_pages_149-177-ch-07-29-1.jpg "")
 
 
-![](botany_xii_pages_149-177-ch-07-29-3.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-29-4.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-29-5.jpg "")
 
-![](botany_xii_pages_149-177-ch-07-29-13.jpg "")
+
+
+
+
+

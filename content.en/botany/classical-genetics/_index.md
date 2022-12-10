@@ -2,7 +2,7 @@
 title: 'Classical Genetics'
 weight: 3
 ---
-![](botany_xii_pages_033-051-ch-02-1-1.jpg "")
+
 
 
 Genetics – The Science of heredity (Inheritance) - “Genetics” is the branch of biological science which deals with the mechanism of transmission of characters from parents to offsprings. The term **Genetics** was introduced by **W. Bateson** in 1906. The four major subdisciplines of genetics are 1. **Transmission Genetics / Classical Genetics**

@@ -574,7 +574,7 @@ Apospory
 
 
 
-![](botany_xii_pages_001-032-ch-01-17-2.jpg "")
+
 
 
 

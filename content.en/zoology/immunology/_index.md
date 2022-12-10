@@ -166,11 +166,11 @@ The process of production of blood cells in the bone marrow is called **haematop
 XII Std Zoology Chapter 8 EM.indd 131 18/12/2021 14:58:24
 
 
-![](chapter-8-3-1.jpg "")
 
-![](chapter-8-3-2.jpg "")
 
-![](chapter-8-3-3.jpg "")
+
+
+
   
 
 132Immunology
@@ -252,15 +252,15 @@ Bursa of Fabricius is a primary lymphoid organ of birds. It is attached to the d
 XII Std Zoology Chapter 8 EM.indd 133 18/12/2021 14:58:24
 
 
-![](chapter-8-5-1.jpg "")
 
-![](chapter-8-5-2.jpg "")
 
-![](chapter-8-5-3.jpg "")
 
-![](chapter-8-5-4.jpg "")
 
-![](chapter-8-5-5.jpg "")
+
+
+
+
+
   
 
 134Immunology
@@ -376,7 +376,7 @@ Dendritic cells are called so because its covered with long, thin membrane exten
 XII Std Zoology Chapter 8 EM.indd 136 18/12/2021 14:58:25
 
 
-![](chapter-8-8-1.jpg "")
+
 
   
 
@@ -536,13 +536,13 @@ XII Std Zoology Chapter 8 EM.indd 139 18/12/2021 14:58:25
 
 
 
-![](chapter-8-11-11.jpg "")
-
-![](chapter-8-11-12.jpg "")
 
 
 
-![](chapter-8-11-16.jpg "")
+
+
+
+
 
 
 
@@ -704,7 +704,7 @@ find number of employment opportunities in Government as well as private hospita
 XII Std Zoology Chapter 8 EM.indd 143 18/12/2021 14:58:26
 
 
-![](chapter-8-15-1.jpg "")
+
   
 
 144Immunology
@@ -1253,13 +1253,13 @@ start the test.
 XII Std Zoology Chapter 8 EM.indd 147 18/12/2021 14:58:29
 
 
-![](chapter-8-19-1.jpg "")
 
 
-![](chapter-8-19-4.jpg "")
 
-![](chapter-8-19-5.jpg "")
 
-![](chapter-8-19-6.jpg "")
 
-![](chapter-8-19-7.jpg "")
+
+
+
+
+

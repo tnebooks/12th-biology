@@ -59,7 +59,7 @@ India is amongst the first few countries in the world to initiate the **‘Famil
 XII Std Zoology Chapter 3 EM.indd 32 18/12/2021 14:48:57
 
 
-![](chapter-3-1-1.jpg "")
+
 
   
 
@@ -387,47 +387,47 @@ XII Std Zoology Chapter 3 EM.indd 40 18/12/2021 14:48:59
 
 
 
-![](chapter-3-9-2.jpg "")
-
-
-![](chapter-3-9-4.jpg "")
-
-![](chapter-3-9-5.jpg "")
-
-![](chapter-3-9-6.jpg "")
-
-![](chapter-3-9-7.jpg "")
-
-![](chapter-3-9-8.jpg "")
-
-![](chapter-3-9-9.jpg "")
-
-
-![](chapter-3-9-11.jpg "")
-
-![](chapter-3-9-12.jpg "")
-
-![](chapter-3-9-13.jpg "")
-
-![](chapter-3-9-14.jpg "")
-
-![](chapter-3-9-15.jpg "")
-
-![](chapter-3-9-16.jpg "")
-
-![](chapter-3-9-17.jpg "")
 
 
 
 
-![](chapter-3-9-21.jpg "")
-
-![](chapter-3-9-22.jpg "")
 
 
-![](chapter-3-9-24.jpg "")
 
-![](chapter-3-9-25.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 41 Reproductive Health
@@ -555,7 +555,7 @@ pediculosis
 XII Std Zoology Chapter 3 EM.indd 42 18/12/2021 14:48:59
 
 
-![](chapter-3-11-1.jpg "")
+
   
 
 43 Reproductive Health

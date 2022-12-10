@@ -45,7 +45,7 @@ _➢ Illustrates the applications of DNA finger printing technique._
 XII Std Zoology Chapter 5 EM.indd 61 18/12/2021 14:51:53
 
 
-![](chapter-5-1-1.jpg "")
+
 
   
 
@@ -98,7 +98,7 @@ to identify the nature of the transforming substance responsible for converting 
 XII Std Zoology Chapter 5 EM.indd 63 18/12/2021 14:51:54
 
 
-![](chapter-5-3-1.jpg "")
+
   
 
 64Molecular Genetics
@@ -138,7 +138,7 @@ After centrifugation Radioactive Phosphorus (32 P) detected in cells.
 XII Std Zoology Chapter 5 EM.indd 64 18/12/2021 14:51:54
 
 
-![](chapter-5-4-1.jpg "")
+
   
 
 65 Molecular Genetics
@@ -222,9 +222,9 @@ direct duplications. Proteins fail to fulfill this criteria.
 XII Std Zoology Chapter 5 EM.indd 67 18/12/2021 14:51:54
 
 
-![](chapter-5-7-1.jpg "")
 
-![](chapter-5-7-2.jpg "")
+
+
   
 
 68Molecular Genetics
@@ -378,7 +378,7 @@ to mutation. However replication errors are corrected by repair enzymes such as 
 XII Std Zoology Chapter 5 EM.indd 70 18/12/2021 14:51:55
 
 
-![](chapter-5-10-1.jpg "")
+
 
   
 
@@ -431,7 +431,7 @@ Before starting transcription, RNA polymerase binds to the promoter, a recogniti
 XII Std Zoology Chapter 5 EM.indd 72 18/12/2021 14:51:55
 
 
-![](chapter-5-12-1.jpg "")
+
   
 
 73 Molecular Genetics
@@ -662,9 +662,9 @@ In the above example though the codon and the anti codon do not match perfectly,
 XII Std Zoology Chapter 5 EM.indd 76 18/12/2021 14:51:56
 
 
-![](chapter-5-16-1.jpg "")
 
-![](chapter-5-16-2.jpg "")
+
+
   
 
 77 Molecular Genetics
@@ -720,7 +720,7 @@ One of the alternative ways of dividing up a sequence of bases in DNA or RNA int
 XII Std Zoology Chapter 5 EM.indd 78 18/12/2021 14:51:56
 
 
-![](chapter-5-18-1.jpg "")
+
 
   
 
@@ -743,7 +743,7 @@ The assembly of ribosomal subunits, mRNA and tRNA represent the initiation compl
 XII Std Zoology Chapter 5 EM.indd 79 18/12/2021 14:51:57
 
 
-![](chapter-5-19-1.jpg "")
+
   
 
 80Molecular Genetics
@@ -763,7 +763,7 @@ Once the charged tRNA molecule is positioned at the A site, the enzyme peptidyl 
 XII Std Zoology Chapter 5 EM.indd 80 18/12/2021 14:51:57
 
 
-![](chapter-5-20-1.jpg "")
+
   
 
 81 Molecular Genetics
@@ -791,7 +791,7 @@ is organized into genes, how genes store genetic information, and how this infor
 XII Std Zoology Chapter 5 EM.indd 81 18/12/2021 14:51:57
 
 
-![](chapter-5-21-1.jpg "")
+
   
 
 82Molecular Genetics
@@ -1234,13 +1234,13 @@ MOLECULAR GENETICS
 XII Std Zoology Chapter 5 EM.indd 91 18/12/2021 14:52:01
 
 
-![](chapter-5-31-1.jpg "")
 
 
-![](chapter-5-31-4.jpg "")
 
-![](chapter-5-31-5.jpg "")
 
-![](chapter-5-31-6.jpg "")
 
-![](chapter-5-31-7.jpg "")
+
+
+
+
+

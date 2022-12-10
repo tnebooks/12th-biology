@@ -45,33 +45,33 @@ and their significance. **3.6** DNA Metabolism in Plants 3.7 Protein synthesis i
 
 
 
-![](botany_xii_pages_052-081-ch-03-1-149.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-230.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-231.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-232.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-234.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-257.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-264.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-516.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-517.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-524.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-530.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-538.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-958.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-1-965.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -172,7 +172,7 @@ They lost their ability to make proteins. They tell the story of evolution throu
 
 
 
-![](botany_xii_pages_052-081-ch-03-3-1.jpg "")
+
   
 
 
@@ -285,55 +285,55 @@ The percentage of recombinant progeny in a cross is called recombination frequen
 
 
 
-![](botany_xii_pages_052-081-ch-03-6-1.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-6.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-7.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-8.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-9.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-10.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-11.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-12.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-14.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-16.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-21.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-24.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-26.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-28.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-40.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-43.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-44.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-45.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-46.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-50.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-51.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-52.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-53.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-54.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-6-56.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -472,57 +472,57 @@ Inflorescence of Zea mays
 
 
 
-![](botany_xii_pages_052-081-ch-03-8-1.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-3.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-4.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-12.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-14.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-17.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-31.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-84.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-85.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-87.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-105.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-106.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-113.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-114.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-154.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-155.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-158.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-161.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-162.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-166.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-180.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-182.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-188.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-224.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-235.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-8-246.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -696,9 +696,9 @@ AT TA
 
 
 
-![](botany_xii_pages_052-081-ch-03-9-1.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-9-2.jpg "")
+
+
   
 
 - Mutations affecting single base or base pair of DNA are called point mutation
@@ -996,15 +996,15 @@ Polyploidy is the condition where an organism possesses more than two basic sets
 
 
 
-![](botany_xii_pages_052-081-ch-03-14-1.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-14-2.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-14-7.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-14-9.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-14-10.jpg "")
+
+
+
+
+
   
 
 
@@ -1041,13 +1041,13 @@ When two plants (A and B) belonging to the same genus but different species are 
 
 
 
-![](botany_xii_pages_052-081-ch-03-15-1.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-15-2.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-15-3.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-15-4.jpg "")
+
+
+
+
   
 
 
@@ -1332,37 +1332,37 @@ to recognize core promoter. The two categories of regulatory elements are
 
 
 
-![](botany_xii_pages_052-081-ch-03-19-1.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-3.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-14.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-16.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-17.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-38.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-39.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-40.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-41.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-42.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-43.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-44.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-69.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-80.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-91.jpg "")
 
-![](botany_xii_pages_052-081-ch-03-19-102.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -1645,7 +1645,7 @@ Mitochondria Inter-organelle signalsPlastids
 
 
 
-![](botany_xii_pages_052-081-ch-03-24-1.jpg "")
+
   
 
 
@@ -1740,7 +1740,7 @@ a) A-i, B-iii, C-ii, D-iv b) A-ii, B-iii, C-iv, D-i c) A-ii, B-iii, C-i, D-iv d)
 
 
 
-![](botany_xii_pages_052-081-ch-03-26-1.jpg "")
+
   
 
 

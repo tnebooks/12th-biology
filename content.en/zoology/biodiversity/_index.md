@@ -49,7 +49,7 @@ _due to hunting and poaching_
 XII Std Zoology Chapter 12 EM.indd 197 18/12/2021 15:14:41
 
 
-![](chapter-12-1-1.jpg "")
+
 
   
 
@@ -90,7 +90,7 @@ Community and ecosystem diversity across the landscape of an entire region
 XII Std Zoology Chapter 12 EM.indd 198 18/12/2021 15:14:41
 
 
-![](chapter-12-2-1.jpg "")
+
   
 
 199 Biodiversity and its Conservation
@@ -128,7 +128,7 @@ The distribution of plants and animals is not uniform around the world. Organism
 XII Std Zoology Chapter 12 EM.indd 199 18/12/2021 15:14:41
 
 
-![](chapter-12-3-1.jpg "")
+
   
 
 200Biodiversity and its Conservation
@@ -170,7 +170,7 @@ As we travel by train we notice names of stations on big yellow signboards on wh
 XII Std Zoology Chapter 12 EM.indd 200 18/12/2021 15:14:41
 
 
-![](chapter-12-4-1.jpg "")
+
   
 
 201 Biodiversity and its Conservation
@@ -350,38 +350,38 @@ Semi arid Zones
 XII Std Zoology Chapter 12 EM.indd 204 18/12/2021 15:14:42
 
 
-![](chapter-12-8-1.jpg "")
-
-![](chapter-12-8-2.jpg "")
-
-![](chapter-12-8-3.jpg "")
-
-![](chapter-12-8-4.jpg "")
-
-![](chapter-12-8-5.jpg "")
-
-![](chapter-12-8-6.jpg "")
-
-![](chapter-12-8-7.jpg "")
-
-![](chapter-12-8-8.jpg "")
 
 
-![](chapter-12-8-10.jpg "")
 
-![](chapter-12-8-11.jpg "")
 
-![](chapter-12-8-12.jpg "")
 
-![](chapter-12-8-13.jpg "")
 
-![](chapter-12-8-14.jpg "")
 
-![](chapter-12-8-15.jpg "")
 
-![](chapter-12-8-16.jpg "")
 
-![](chapter-12-8-17.jpg "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 205 Biodiversity and its Conservation
@@ -559,7 +559,7 @@ of its members are alive anywhere in the world. If individuals of a species rema
 XII Std Zoology Chapter 12 EM.indd 208 18/12/2021 15:14:43
 
 
-![](chapter-12-12-1.jpg "")
+
   
 
 209 Biodiversity and its Conservation
@@ -842,7 +842,7 @@ The younger generation should be made to realize the critical state of biodivers
 XII Std Zoology Chapter 12 EM.indd 215 18/12/2021 15:14:43
 
 
-![](chapter-12-19-1.jpg "")
+
   
 
 216Biodiversity and its Conservation
@@ -972,13 +972,13 @@ BIO DIVERSITY AND ITS CONSERVATION URL: http://www.species-in-pieces.com/
 XII Std Zoology Chapter 12 EM.indd 218 18/12/2021 15:14:46
 
 
-![](chapter-12-22-1.jpg "")
 
 
-![](chapter-12-22-4.jpg "")
 
-![](chapter-12-22-5.jpg "")
 
-![](chapter-12-22-6.jpg "")
 
-![](chapter-12-22-7.jpg "")
+
+
+
+
+

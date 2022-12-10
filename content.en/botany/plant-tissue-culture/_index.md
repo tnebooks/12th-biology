@@ -15,11 +15,11 @@ weight: 6
 - Acquire the knowledge of patenting Biosafety and Bioethics.
 ```
 
-![](botany_xii_pages_110-122-ch-05-1-2.jpg "")
+
 
 Growing plant protoplasts, cells, tissues or organs away from their natural or normal environment, under artificial condition, is known as Tissue Culture. It is also known as _in vitro_ (_In vitro_ is a Latin word, it means that - in glass or in test-tube) growth of plant protoplasts, cells, tissues and organs. A single explant can be multiplied into several thousand plants in a short duration and space under controlled conditions.
 
-![Gottlieb Haberlandt](botany_xii_pages_110-122-ch-05-1-1.jpg "")
+
 
 Tissue culture techniques are often used for commercial production of plants as well as for plant research. Plant tissue culture serves as an indispensable tool for regeneration of transgenic plants. Apart from this some of the main applications of Plant tissue culture are clonal propagation of elite varieties, conservation of endangered plants, production of virus-free plants, germplasm preservation, industrial production of secondary metabolites. etc., In this chapter let us discuss the history , techniques, types , applications of plant tissue culture and get awareness on ethical issues.
 
@@ -50,7 +50,7 @@ Plant tissue culture is used to describe the _in vitro_ and aseptic growth of an
 
 ### Laboratory Facilities for PTC
 
-![Tissue culture lab ](botany_xii_pages_110-122-ch-05-2-1.jpg "")
+
 
 For PTC, the laboratory must have the following facilities:
 
@@ -223,7 +223,7 @@ The field grown plants like perennial crops, usually are infected by variety of 
 
 Shoot meristem tip culture is the method to produce virus-free plants, because the shoot meristem tip is always free from viruses.
 
-![Shoot tip - Apical Meristem](botany_xii_pages_110-122-ch-05-8-3.jpg "")
+
 
 ## Conservation of plant genetic resources
 
@@ -235,9 +235,9 @@ Germplasm conservation resources is a part of collection of seeds and pollen tha
 ### Cryopreservation (–195.C)
  Cryopreservation, also known as Cryo-conservation, is a process by which protoplasts, cells, tissues, organelles, organs, extracellular matrix, enzymes or any other biological materials are subjected to preservation by cooling to very low temperature of –196°C using liquid nitrogen. At this extreme low temperature any enzymatic or chemical activity of the biological material will be totally stopped and this leads to preservation of material in dormant status. Later these materials can be activated by bringing to room temperature slowly for any experimental work.
 
-![Seed bank](botany_xii_pages_110-122-ch-05-8-4.jpg "")
 
-![Cryopreservation](botany_xii_pages_110-122-ch-05-8-5.jpg "")
+
+
 
 
 Protective agents like dimethyl sulphoxide, glycerol or sucrose are added before cryopreservation process. These protective agents are called cryoprotectants, since they protect the cells, or tissues from the stress of freezing temperature.

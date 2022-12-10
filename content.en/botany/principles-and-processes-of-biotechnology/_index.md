@@ -52,9 +52,9 @@ and bounds during the past century and it's development can be well understood u
 
 
 
-![](botany_xii_pages_082-109-ch-04-1-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-1-2.jpg "")
+
+
 
   
 
@@ -176,7 +176,7 @@ a gene of interest that needs to be cloned. This is called an insert.
 
 
 
-![](botany_xii_pages_082-109-ch-04-4-1.jpg "")
+
   
 
 - The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
@@ -882,9 +882,9 @@ Agricultural diagnostics refers to a variety of tests that are used for detectio
 
 
 
-![](botany_xii_pages_082-109-ch-04-12-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-12-2.jpg "")
+
+
   
 
 
@@ -981,7 +981,7 @@ reveal the identity of the book or item as well the details like prize. Similari
 
 
 
-![](botany_xii_pages_082-109-ch-04-14-1.jpg "")
+
 
   
 
@@ -1063,9 +1063,9 @@ aphids and whitefly. • Affects pollinating insects and thus yield.
 
 
 
-![](botany_xii_pages_082-109-ch-04-16-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-16-2.jpg "")
+
+
   
 
 
@@ -1096,13 +1096,13 @@ reaction) and allergies.
 
 
 
-![](botany_xii_pages_082-109-ch-04-17-1.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-17-2.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-17-3.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-17-4.jpg "")
+
+
+
+
   
 
 - Adverse effect in immune system because of bacterial protein.
@@ -1134,7 +1134,7 @@ product
 
 
 
-![](botany_xii_pages_082-109-ch-04-18-1.jpg "")
+
   
 
 - Use of plants for bioremediation - green technology.
@@ -1545,13 +1545,13 @@ Let us know about the information Bio Technology through this activity.
 
 
 
-![](botany_xii_pages_082-109-ch-04-28-1.jpg "")
 
 
-![](botany_xii_pages_082-109-ch-04-28-6.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-28-7.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-28-8.jpg "")
 
-![](botany_xii_pages_082-109-ch-04-28-9.jpg "")
+
+
+
+
+

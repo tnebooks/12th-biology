@@ -45,7 +45,7 @@ energy generation 9.4 Microbes in the production of biogas 9.5 Bioremediation
 XII Std Zoology Chapter 9 EM.indd 148 18/12/2021 14:59:09
 
 
-![](chapter-9-1-1.jpg "")
+
 
   
 
@@ -132,11 +132,11 @@ develop the ability to defeat the drug designed to kill or inhibit their growth.
 XII Std Zoology Chapter 9 EM.indd 150 18/12/2021 14:59:10
 
 
-![](chapter-9-3-1.jpg "")
 
-![](chapter-9-3-3.jpg "")
 
-![](chapter-9-3-4.jpg "")
+
+
+
 
   
 
@@ -243,9 +243,9 @@ produced by the breakdown of organic matter in the absence of oxygen. Biogas can
 XII Std Zoology Chapter 9 EM.indd 153 18/12/2021 14:59:12
 
 
-![](chapter-9-6-1.jpg "")
 
-![](chapter-9-6-2.jpg "")
+
+
   
 
 154Microbes in Human Welfare
@@ -309,12 +309,6 @@ _Nitrosomonas europaea_ is also capable of degrading benzene and a variety of ha
 XII Std Zoology Chapter 9 EM.indd 154 18/12/2021 14:59:12
 
 
-![](chapter-9-7-1.jpg "")
-
-
-![](chapter-9-7-3.jpg "")
-
-![](chapter-9-7-4.jpg "")
 
 
 
@@ -323,14 +317,20 @@ XII Std Zoology Chapter 9 EM.indd 154 18/12/2021 14:59:12
 
 
 
-![](chapter-9-7-16.jpg "")
 
 
-![](chapter-9-7-19.jpg "")
 
-![](chapter-9-7-20.jpg "")
 
-![](chapter-9-7-23.jpg "")
+
+
+
+
+
+
+
+
+
+
   
 
 155 Microbes in Human Welfare
@@ -415,5 +415,5 @@ MICROBES IN HUMAN WELFARE URL: http://www.bch.cuhk.edu.hk/vlab2/animation/fermen
 XII Std Zoology Chapter 9 EM.indd 156 18/12/2021 14:59:13
 
 
-![](chapter-9-9-1.jpg "")
+
 

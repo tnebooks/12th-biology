@@ -296,11 +296,11 @@ virus strain. Symptoms include fever, cough, sore throat, chills, weakness and b
 XII Std Zoology Chapter 7 EM.indd 116 18/12/2021 14:53:39
 
 
-![](chapter-7-5-1.jpg "")
 
-![](chapter-7-5-2.jpg "")
 
-![](chapter-7-5-3.jpg "")
+
+
+
   
 
 117 Human Health and Diseases
@@ -342,11 +342,11 @@ The parasite first enters the human blood stream through the bite of an infected
 XII Std Zoology Chapter 7 EM.indd 117 18/12/2021 14:53:39
 
 
-![](chapter-7-6-1.jpg "")
 
-![](chapter-7-6-2.jpg "")
 
-![](chapter-7-6-3.jpg "")
+
+
+
   
 
 118Human Health and Diseases
@@ -374,21 +374,21 @@ nausea and muscular pain. The classic symptoms first develop with the synchroniz
 XII Std Zoology Chapter 7 EM.indd 118 18/12/2021 14:53:40
 
 
-![](chapter-7-7-1.jpg "")
 
-![](chapter-7-7-2.jpg "")
 
-![](chapter-7-7-3.jpg "")
 
-![](chapter-7-7-4.jpg "")
 
-![](chapter-7-7-5.jpg "")
 
-![](chapter-7-7-6.jpg "")
 
-![](chapter-7-7-7.jpg "")
 
-![](chapter-7-7-8.jpg "")
+
+
+
+
+
+
+
+
   
 
 119 Human Health and Diseases
@@ -418,9 +418,9 @@ Ringworm is one of the most common fungal disease in humans **(Fig. 7.4)**. Appe
 XII Std Zoology Chapter 7 EM.indd 119 18/12/2021 14:53:40
 
 
-![](chapter-7-8-1.jpg "")
 
-![](chapter-7-8-2.jpg "")
+
+
   
 
 120Human Health and Diseases
@@ -470,13 +470,13 @@ Anus
 XII Std Zoology Chapter 7 EM.indd 120 18/12/2021 14:53:41
 
 
-![](chapter-7-9-1.jpg "")
 
-![](chapter-7-9-2.jpg "")
 
-![](chapter-7-9-3.jpg "")
 
-![](chapter-7-9-4.jpg "")
+
+
+
+
   
 
 121 Human Health and Diseases
@@ -524,9 +524,9 @@ Bhang (Marijuana), Ganja, Charas Stimulating action on the CNS and affects the c
 XII Std Zoology Chapter 7 EM.indd 121 18/12/2021 14:53:42
 
 
-![](chapter-7-10-1.jpg "")
 
-![](chapter-7-10-2.jpg "")
+
+
   
 
 122Human Health and Diseases
@@ -560,9 +560,9 @@ Repeated use of drugs and alcohol may affect the tolerance level of the receptor
 XII Std Zoology Chapter 7 EM.indd 122 18/12/2021 14:53:42
 
 
-![](chapter-7-11-1.jpg "")
 
-![](chapter-7-11-2.jpg "")
+
+
   
 
 123 Human Health and Diseases
@@ -682,7 +682,7 @@ _8\. Zika virus_ could become a surgical weapon against brain cancer.
 XII Std Zoology Chapter 7 EM.indd 125 18/12/2021 14:53:42
 
 
-![](chapter-7-14-2.jpg "")
+
   
 
 126Human Health and Diseases
