@@ -104,6 +104,11 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 ![Azolla in paddy field](azolla-in-paddy-field.png "")
 
+
+**Arbuscular mycorrhizae** Arbuscular mycorrhizae (AM) is formed by the symbiotic association between certain phycomycetous fungi and angiosperm roots.
+They have the ability to dissolve the phosphates
+found in abundance in the soil.
+
 ![](benefits-of-am-colonisation.png "")
 
 Apart from increasing the availability of
