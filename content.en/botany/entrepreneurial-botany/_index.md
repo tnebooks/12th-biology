@@ -391,8 +391,6 @@ Family : Piperaceae
 
 
 
-pepper measures 30, 00. to ### SHU. Condiment Tamarind Botanical name :Tamarindus indica Family : Fabaceae-Caesalpinioideae Origin and Area of cultivation: Tamarind is native of tropical African region and was introduced into India several thousand years Figure 10.
-
 1.  : Tamarind before. It is cultivated in India, Myanmar, south asian countries and several African and Central American countries. n spices and condiments Botanical Name Family iandrum sativum. L Apiaceae inum cyminum. L Apiaceae onella foenum graecum. L Fabaceae enia aromaticum Myrtaceae la asafoetida.L Umbelliferae (Apiacea e) um cepa Amarillidaceae 
 
 Tamarind has long been used in Africa and in Southern Asia. The name tamarindus is of Arabian origin, which means “dates of India”. (tamar – dates; Indus – Indi a) . Uses It is used in flavouring sauces in the United States and Mexico. In India, the fruit pulp is major ingredients for many culinary preparations. Sweet tamarinds are sold as table fruits in India imported from Thailand and Malaysia. Sambar – The World Inside When we see the bowl of sambar, we can see the world inside. Mustard, Cumin and Coriander from Mediterranean, pepper from Western Ghats of India, turmeric from Southern Asia, chilly from South America, onion from Afganisthan, tamarind from Tropical Africa, tomato from South America, potato from Peru and Bolivia, lady’s-finger from Africa, and redgram from South India make the Sambar as a global dish.
