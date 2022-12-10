@@ -200,35 +200,17 @@ Origin and Area of cultivation Green gram is a native of India and the earliest 
 
 **Origin and Area of cultivation:** 
 
-It is the only
-pulse native to Southern India. It is mainly grown
-in the states of Maharashtra, Andhra Pradesh,
-Madhya Pradesh, Karnataka and Gujarat.
+It is the only pulse native to Southern India. It is mainly grown in the states of Maharashtra, Andhra Pradesh, Madhya Pradesh, Karnataka and Gujarat.
 
 **Uses**
 
-Red gram is a major ingredient of sambar, a
-characteristic dish of Southern India. Roasted
-seeds are consumed either salted or unsalted
-as a popular snack. Young pods are cooked and
-consumed.
+Red gram is a major ingredient of sambar, a characteristic dish of Southern India. Roasted seeds are consumed either salted or unsalted as a popular snack. Young pods are cooked and consumed.
 
 ### Green gram
 
 *Botanical name : Vigna radiata*
 
-Origin and Area of cultivation
-Green gram is a native of India and the earliest
-archaeological evidences are found in the state
-of Maharashtra. It is cultivated in the states of
-Madhya Pradesh, Karnataka and Tamil Nadu.
-Uses
-It can be used as roasted cooked and sprouted
-pulse. Green gram is one of the ingredients of
-pongal, a popular breakfast dish in Tamil Nadu.
-Fried dehulled and broken or whole green gram
-is used as popular snack. The flour is traditionally
-used as a cosmetic, especially for the skin.
+Origin and Area of cultivation Green gram is a native of India and the earliest archaeological evidences are found in the state of Maharashtra. It is cultivated in the states of Madhya Pradesh, Karnataka and Tamil Nadu. Uses It can be used as roasted cooked and sprouted pulse. Green gram is one of the ingredients of pongal, a popular breakfast dish in Tamil Nadu. Fried dehulled and broken or whole green gram is used as popular snack. The flour is traditionally used as a cosmetic, especially for the skin.
 
 
 ### Vegetables
@@ -263,27 +245,60 @@ Edible fruits are fleshy structures with a pleasant aroma and flavours. Fruits a
 
 The mango is the native to Southern Asia, especially Burma and Eastern India. It is the National fruit of India. Major mango producing States are Andhra Pradesh, Bihar, Figure 10. 5. Mango Gujarat and Karnataka. Salem, Krishnagiri, Dharmapuri are the major mango producing districts of Tamil Nadu. Some of the major cultivars of mango in India are Alphonsa, Banganapalli, neelam and malgova. 
 
+![Mango](10.5.mango.png "img-class")
+
 **Uses**
 
 Mango is the major table fruit of India, which is rich in beta carotenes. It is utilized in many ways, as dessert, canned, dried and preserves in Indian cuisine. Sour, unripe mangoes are used in chutneys, pickles, side dishes, or may be eaten raw with salt and chili. Mango pulp is made into jelly. Aerated and non-aerated fruit juice is a popular soft drink. 
 
 ### Nuts
 
-Nuts are simple dry fruits composed of a hard shell and an edible kernel. They are packed with a good source of healthy fats, fibre, protein, vitamins, minerals and antioxidants. Some of the important nuts are discussed below. Cashew nut Botanical name : Anacardium occidentale Family: Anacardiaceae Origin and Area of cultivation Cashew has originated in Brazil and made its way to India in the 16th century through Portuguese sailors. Cashew is grown in Kerala, Karnataka, Goa, Maharashtra, Tamil Nadu, and Orissa. Uses Cashews are commonly used for garnishing sweets or curries, or ground into a paste that forms a base of sauces for curries or some sweets. Roasted and raw kernels are used as snacks. common fruits e Family Edible part a Myrtaceae Mesocarp and Endocarp Caricaceae Mesocarp m Punicaceae Aril Moraceae Fleshy receptacle fera Arecaceae Pericarp
+Nuts are simple dry fruits composed of a hard shell and an edible kernel. They are packed with a good source of healthy fats, fibre, protein, vitamins, minerals and antioxidants.
 
-Cashew Almond
+**Cashew nut**
+*Botanical name : Anacardium* occidentale
+Family: Anacardiaceae
 
-![Nuts](10.8.png "img-class")
+**Origin and Area of cultivation**
 
-Almond Botanical name : Prunus dulcis Family: Rosaceae Origin and Area of cultivation Almond is a tree native to Mediterranean regions of the Middle East. Almond is cultivated in Kashmir, Himachal Pradesh and Uttar Pradesh. Uses Almonds are often eaten raw or roasted and are available as whole, sliced (flake d) , and as flour. Almond oil is made into almond butter or almond milk, which are used in sweet and savoury dishes. Almond helps in promoting HDL (High Density Lipids)
+Cashew has originated in Brazil and made its way
+to India in the 16th century through Portuguese
+sailors. Cashew is grown in Kerala, Karnataka,
+Goa, Maharashtra, Tamil Nadu, and Orissa.
+
+![Nuts](10.6.nuts.png "img-class")
+
+**Uses**
+
+Cashews are commonly used for garnishing sweets or curries, or Cashew Figure 10.6: Nuts ground into a paste that forms a base of sauces for curries or some sweets. Roasted and raw kernels are used as snacks
+
 
 ### Sugars
 
-We experienced sweetness while eating the stems of sugarcane, roots of sugar beet, fruits of apple and while drinking palmyra sap. This is due to the different proportions of sugars found in it. Sugar is the generic name for sweet tasting soluble carbohydrate, which are used in foods and beverages. Sugars found in sugarcane and palmyra make them ideal for efficient extraction to make commercial sugar. Sugarcane Botanical name : Saccharum officinarum Family : Poaceae Sugarcane products Stevia leaves Figure 1
+We experienced sweetness while eating the stems of sugarcane, roots of sugar beet, fruits of apple and while drinking palmyra sap. This is due to the different proportions of sugars found in it. Sugar is the generic name for sweet tasting soluble carbohydrate, which are used in foods and beverages. Sugars found in sugarcane and palmyra make them ideal for efficient extraction to make commercial sugar. 
 
-Origin and Area of cultivation The cultivated Saccharum officinarum has evolved by repeated back crossing of S.officinarum of New Guinea with wild S.spontaneum of India to improve the quality. All districts except Kanyakumari and Nilgiris of Tamil Nadu cultivate Sugarcane. Uses Sugar cane is the raw material for extracting white sugar. Sugarcane supports large number of industries like sugar mills producing refined sugars, distilleries producing liquor grade ethanol and millions of jaggery manufacturing units. Fresh sugarcane juice is a refreshing drink. Molasses is the raw material for the production of ethyl alcohol. Stevia /Sweet leaf Botanical name : Stevia rebaudiana Family: Asteraceae Stevia is a sweetener and a sugar substitute, extracted from the leaves of Stevia rebaudiana. It has no calories and is 20. times sweeter than sugar. The Steveocide is the chemical that is responsible for sweetness in Stevia. Origin and Area of cultivation Stevia is a native to Brazil and Paraguay. It is cultivated in the states of Himachal Pradesh, Gujarat and Tamil Nadu. Uses This is the most popular natural sweetener and is a substitute for white sugar, hence it is extensively used by diabetic patients and health conscious people. Palmyra tree and Palm Jaggery 0. 9. Sugars 
+### Sugarcane 
+*Botanical name : Saccharum* officinarum Family : Poaceae 
+Sugarcane products Stevia leaves 
 
-Palmyra (State tree of Tamil Nadu) Botanical name : Borassus flabellifer Family: Arecaceae Origin and Area of cultivation Palmyra is native to tropical regions of Africa, Asia and New Guinea. Palmyra grows all over Tamil Nadu, especially in coastal districts. Uses Exudate from inflorescence axis is collected for preparing palm sugar. Inflorescence is tapped for its sap which is used as health drink. Sap is processed to get palm jaggery or fermented to give toddy. Endosperm is used as a refreshing summer food. Germinated seeds have an elongated embryo surrounded by fleshy scale leaf which is edible.
+**Origin and Area of cultivation**
+
+The cultivated Saccharum officinarum has evolved by repeated back crossing of S.officinarum of New Guinea with wild S.spontaneum of India to improve the quality. All districts except Kanyakumari and Nilgiris of Tamil Nadu cultivate Sugarcane. 
+
+**Uses** 
+
+Sugar cane is the raw material for extracting white sugar. Sugarcane supports large number of industries like sugar mills producing refined sugars, distilleries producing liquor grade 
+
+![Sugars](10.7.sugars.png "img-class")
+
+ethanol and millions of jaggery manufacturing units. Fresh sugarcane juice is a refreshing drink. Molasses is the raw material for the production of ethyl alcohol.
+
+
+**Palmyra** (State tree of Tamil Nadu) 
+*Botanical name : Borassus flabellifer*
+Family: Arecaceae 
+
+Origin and Area of cultivation Palmyra is native to tropical regions of Africa, Asia and New Guinea. Palmyra grows all over Tamil Nadu, especially in coastal districts. Uses Exudate from inflorescence axis is collected for preparing palm sugar. Inflorescence is tapped for its sap which is used as health drink. Sap is processed to get palm jaggery or fermented to give toddy. Endosperm is used as a refreshing summer food. Germinated seeds have an elongated embryo surrounded by fleshy scale leaf which is edible.
 
 ### Oil Seeds
 
@@ -291,7 +306,28 @@ Why fried foods are tastier than boiled foods? There are two kinds of oils namel
 
 
 
-Let us know about few oil seeds Groundnut / Peanut Botanical name : Arachis hypogaea Family : Fabaceae Origin and Area of Cultivation: Groundnut is native of Brazil. Portuguese introduced groundnut into Africa. The Spanish took it to the South East Asia and India via Philippines. In India Gujarat, Andhra Pradesh and Rajasthan are top producers. Uses Nuts contain about 45. oil. The kernels are also rich sources of phosphorous and vitamins, particularly thiamine, riboflavin and niacin. It is premium cooking oil because it does not smoke. Lower grade oil is used in manufacture of soaps and lubricants. Sesame / Gingelly Botanical name : Sesamum indicum Family : Pedaliaceae Origin and Area of cultivation: Sesamum indicum has originated from Africa.. Sesame is cultivated as a dry land crop. West Bengal and Madhya Pradesh are the top producers in India during 2017- 18. It is considered as a healthy oil in Southern Indian culture. Uses Sesame oil is used for mostly culinary purposes in India. Lower grades are used in manufacture of soaps, in paint industries, as a lubricant and as an illuminant. In India, the oil is the basis of most of the scented oils used in perfumes. Sesame seed snacks are popular throughout India. Coconut Botanical name : Cocos nucifera Family : Arecaceae Origin and Area of cultivation: The origin of coconut is Pacific island region. Kerala and Tamil Nadu are the leading producers in India.
+Let us know about few oil seeds
+
+### Groundnut / Peanut 
+*Botanical name : Arachis hypogaea*
+Family : Fabaceae 
+ 
+**Origin and Area of Cultivation:**
+
+Groundnut is native of Brazil. Portuguese introduced groundnut into Africa. The Spanish took it to the South East Asia and India via Philippines. In India Gujarat, Andhra Pradesh and Rajasthan are top producers. 
+
+ **Uses** 
+Nuts contain about 45. oil. The kernels are also rich sources of phosphorous and vitamins, particularly thiamine, riboflavin and niacin. It is premium cooking oil because it does not smoke. Lower grade oil is used in manufacture of soaps and lubricants. 
+ 
+ ### Sesame / Gingelly 
+ 
+*Botanical name : Sesamum indicum* Family : Pedaliaceae 
+ 
+**Origin and Area of cultivation:** Sesamum indicum has originated from Africa.. Sesame is cultivated as a dry land crop. West Bengal and Madhya Pradesh are the top producers in India during 2017- 18. It is considered as a healthy oil in Southern Indian culture. 
+
+**Uses**
+
+Sesame oil is used for mostly culinary purposes in India. Lower grades are used in manufacture of soaps, in paint industries, as a lubricant and as an illuminant. In India, the oil is the basis of most of the scented oils used in perfumes. Sesame seed snacks are popular throughout India. Coconut Botanical name : Cocos nucifera Family : Arecaceae Origin and Area of cultivation: The origin of coconut is Pacific island region. Kerala and Tamil Nadu are the leading producers in India.
 
 Groundnut Sesame Figure ## Uses Coconut oil is classified as edible-industrial oil. Soaps obtained from coconut oil lathers well in soft and hard water. It is used in manufacture of rubber, synthetic resins, lubricants, brake fluids for aeroplanes and detergents. It is used as major hair oil and a base for applying medicinal powders.
 
