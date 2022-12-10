@@ -235,29 +235,37 @@ used as a cosmetic, especially for the skin.
 
 While walking through a market filled with fresh vegetables like stacks of lady’s finger, mountains of potatoes, pyramids of brinjal, tomatoes, cucurbits, we learn to choose the vegetables that is fresh, tender, ripe and those suit the family taste through experience and cultural practices. Why do we need to eat vegetables and what do they provide us? Vegetables are the important part of healthy eating and provide many nutrients, including potassium, fiber, folic acid and vitamins A, E and C. The nutrients in vegetables are vital for maintenance of our health.
 
-Potato 
-Botanical name : Solanum tuberosum 
-Family: Solanaceae 
+### Lady’s finger / Okra
+*Botanical name : Abelmoschus esculentus*
+Family: Malvaceae
 
-Origin and Area of cultivation Potato has originated from the highlands of Peru and Bolivia. It is cultivated in Uttar Pradesh, West Bengal and Bihar are the major potato cultivating states of India. Nilgiri and Palani hills also contribute to the potato cultivation in Southern Indian hills. Uses Potato tubers are used in a variety of ways like boiled, steamed, fried, baked, roasted or as an ingredient in soup, stews, pies and other dishes. It is the major raw material for the chips industry, brewing industry and in the manufacture of products used for microbiological and clinical applications. Lady’s finger / Okra Botanical name : Abelmoschus esculentus Family: Malvaceae Origin and Area of cultivation Lady’s finger is a native of the Tropical Africa. Assam, Maharashtra and Gujarat are the important states where Lady’s finger is grown in abundance. Coimbatore, Dharmapuri and Vellore are the major cultivating regions of Tamil Nadu. Uses The fresh and green tender fruits are used as a vegetable. Often they are sliced and dehydrated to conserve them for later use. It has most important nutrients. Cucumber Botanical name : Cucumis sativus Family: Cucurbitaceae The cucurbits are the vining plants of the family Cucurbitaceae, which include cucumbers, squash, pumpkins, melons and gourds. Origin and Area of Cultivation The cucumber is an important summer vegetable in all parts of India. It is originated in India. It has been cultivated for at least
+**Origin and Area of cultivation**
 
-three thousand years. Cucumber is commonly cultivated throughout India. Uses Depending on the species immature or mature fruit are consumed as fresh or cooked vegetables. It is used in the preparation of salad and pickle. Oil obtained from cucumber seed is good for the brain and the body and the kernels are used in confectionaries.
+Lady’s finger is a native of the Tropical Africa.
+Assam, Maharashtra and Gujarat are the
+important states where Lady’s finger is grown in
+abundance. Coimbatore, Dharmapuri and Vellore
+are the major cultivating regions of Tamil Nadu.
+
+**Uses**
+
+The fresh and green tender fruits are used
+as a vegetable. Often they are sliced and
+dehydrated to conserve them for later use. It
+has most important nutrients.
 
 ### Fruits
 
 Edible fruits are fleshy structures with a pleasant aroma and flavours. Fruits are sources of many nutrients including potassium, dietary fiber, folic acid and vitamins.Depending on the climatic region in which fruit crops grow, they can be classified into temperate(apple, pear, plum) and tropical fruits (mango, jack, banan a) . In this chapter we will study some examples of tropical fruits.
 
-Mango (National fruit of Indi a) Botanical name : Mangifera indica Family: Anacardiaceae Origin and Area of cultivation The mango is the native to Southern Asia, especially Burma and Eastern India. It is the National fruit of India. Major mango producing States are Andhra Pradesh, Bihar, Figure 10. 5. Mango Gujarat and Karnataka. Salem, Krishnagiri, Dharmapuri are the major mango producing districts of Tamil Nadu. Some of the major cultivars of mango in India are Alphonsa, Banganapalli, neelam and malgova. Uses Mango is the major table fruit of India, which is rich in beta carotenes. It is utilized in many ways, as dessert, canned, dried and preserves in Indian cuisine. Sour, unripe mangoes are used in chutneys, pickles, side dishes, or may be eaten raw with salt and chili. Mango pulp is 
+**Mango (National fruit of India)** *Botanical name : Mangifera indica* Family: Anacardiaceae 
+**Origin and Area of cultivation**
 
-made into jelly. Aerated and non-aerated fruit juice is a popular soft drink. Banana Botanical name : Musa x paradisiaca Family: Musaceae Origin and Area of cultivation Bananas were domesticated in South East Asia.
+The mango is the native to Southern Asia, especially Burma and Eastern India. It is the National fruit of India. Major mango producing States are Andhra Pradesh, Bihar, Figure 10. 5. Mango Gujarat and Karnataka. Salem, Krishnagiri, Dharmapuri are the major mango producing districts of Tamil Nadu. Some of the major cultivars of mango in India are Alphonsa, Banganapalli, neelam and malgova. 
 
-Tamil Nadu is the world’s No. 1 banana producer. Theni, Figure 10. 6. Banana Trichy, Erode, Thoothukudi, Coimbatore, Kanyakumari, Thanjavur and Dindigul are the prominent regions in Tamil Nadu where the crop is being cultivated. Major cultivars of banana are Chevazhai, Nentheran, Karpooravalli, Poovan and Peyan.
+**Uses**
 
-Uses The banana fruit is loaded with potassium and essential vitamins, which can be eaten raw or cooked (deep fried, dehydrated, baked or steame d) . The fruit can be processed into flour and can be fermented for the production of beverages such as banana juice, beer, vinegar and vine. Jack fruit (State fruit of Tamil Nadu) Botanical name : Artocarpus heterophyllus Family: Moraceae Origin and Area of cultivation The jackfruit has originated in the Western Ghats of India and it is the state fruit of Tamil Nadu. The major Jack fruit cultivating Table ## : Other S.No Common Tamil Name Botanical nam Name 1 Guava க�ொய்ொ Psidium guajav 2 Papaya பபபொளி Carica papaya 3 Pomegranate மொதுளை Punica granatu 4 Fig அத்தி Ficus carica 5 Date Palm பபரீச்சம் Phoenix dactyli
-
-
-
-areas of Tamil Nadu are Cuddalore, Kanyakumari, Dindigul, Pudukottai, Namakkal, Tirunelveli and Nilgiris. Figure 10. 7. Jackfruit Panruti and Coimbatore districts are the major marketing centres. Uses The fruit can be eaten raw or cooked. Unripe flake slices are deep-fried to make crispy chips. The seeds are either boiled or roasted and eaten. Unripe fruits are used as vegetables.
+Mango is the major table fruit of India, which is rich in beta carotenes. It is utilized in many ways, as dessert, canned, dried and preserves in Indian cuisine. Sour, unripe mangoes are used in chutneys, pickles, side dishes, or may be eaten raw with salt and chili. Mango pulp is made into jelly. Aerated and non-aerated fruit juice is a popular soft drink. 
 
 ### Nuts
 
