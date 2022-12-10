@@ -98,41 +98,24 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 
 
-![C.S. of Root nodule](9.4.root-nodules-occur-on-root.png "")
+![C.S. of Root nodule](root-nodules-occur-on-root.png "")
 
 **_Azolla_** _Azolla is a free-floating water fern that fixes_ the atmospheric nitrogen in association with nitrogen fixing blue green alga Anabaena azollae. It is used as a bio-fertilizer for wetland rice cultivation and is known to contribute 40 – 60 kg/ha/crop. The agronomic potential of Azolla is quite significant particularly for increasing the yield of rice crop, as it quickly decompose in soil.
 
+![Azolla in paddy field](azolla-in-paddy-field.png "")
 
+![](benefits-of-am-colonisation.png "")
 
-
-![Apart from increasing the availability of phosphorus, AM provides necessary strength to resist disease, germs and unfavourable weather conditions. It also assures water availability.]( "")
+Apart from increasing the availability of
+phosphorus, AM provides necessary strength to
+resist disease, germs and unfavourable weather
+conditions. It also assures water availability.
 
 **Seaweed** **Liquid Fertilizer** Seaweed liquid f e r t i l i z e r **(**SLF) contains c y t o k i n i n , g i b b e r e l l i n s and auxin apart from macro and micro n u t r i e n t s . Most seaweed based fertilizers are made from kelp(brown algae) which grows to length of 150 metres. Liquid seaweed fertilizer is not only organic but also eco-friendly. The alginates in the seaweed that reacts with metals in the soil and form long, cross-linked polymers in the
 
-**Figure 9.5: Seaweed** – Kelp
-
-  
+![](seaweed-kelp.png "")
 
 
-![](botany_xii_pages_199-215-ch-09-3-1.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-3-2.jpg "")
-
-
-
-![](botany_xii_pages_199-215-ch-09-3-7.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-3-8.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-3-9.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-3-10.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-3-12.jpg "")
-
-
-
-  
 
 
 soil. These polymers improve the crumbing in the soil, swell up when they get wet and retain moisture for a long time. They are especially useful in organic gardening which provides carbohydrates for plants. Seaweed has more than 70 minerals, vitamins and enzymes. It promotes vigorous growth. Improves resistance of plants to frost and disease. Seeds soaked in seaweed extract germinate much rapidly and develop a better root system.
