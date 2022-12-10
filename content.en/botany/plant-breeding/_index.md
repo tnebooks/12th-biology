@@ -192,48 +192,38 @@ a. **Mass Selection:** In mass selection a large number of plants of similar phe
 ![Clonal Selection](clonal-selection.png "")
 
 
-**9.7.3. Hybridization** Hybridization is the method of producing new crop varieties in which two or more plants of unlike genetically constitution all crossed together that result in a progeny called hybrid. Hybridization offers improvement in crop and is the only effective means of combining together the desirable characters of two or more varieties or species. The first natural hybridization was observed by Cotton Mather in maize. **Steps in Hybridization** Steps involved in hybridization are as follows. 1. **Selection of Parents:** Male and female
+**9.7.3. Hybridization** Hybridization is the method of producing new crop varieties in which two or more plants of unlike genetically constitution all crossed together that result in a progeny called hybrid. Hybridization offers improvement in crop and is the only effective means of combining together the desirable characters of two or more varieties or species. The first natural hybridization was observed by Cotton Mather in maize.
+
+ **Steps in Hybridization** Steps involved in hybridization are as follows. 1. **Selection of Parents:** Male and female
 
 plants of the desired characters are selected. It should be tested for their homozygosity.
 
-2\. **Emasculation:** It is a process of removal of anthers to prevent self pollination before dehiscence of anther.
+2. **Emasculation:** It is a process of removal of anthers to prevent self pollination before dehiscence of anther.
 
-3\. Bagging: The stigma of the flower is protected against any undesirable pollen grains, by covering it with a bag .
+3. **Bagging:** The stigma of the flower is protected against any undesirable pollen grains, by covering it with a bag .
 
-![a & b]( ""): Emasculation and Bagging (Wheat)
+![Emasculation and Bagging (Wheat)](emasculation-and-bagging.png ""): 
 
-4\. **Crossing:** Transfer of pollen grains from selected male flower to the stigma of the female emasculated flower.
+4. **Crossing:** Transfer of pollen grains from selected male flower to the stigma of the female emasculated flower.
 
-5\. Harvesting seeds and raising plants: The pollination leads to fertilization and finally seed formation takes place. The seeds are grown into new generation which are called hybrids.
+5. **Harvesting seeds and raising plants:** The pollination leads to fertilization and finally seed formation takes place. The seeds are grown into new generation which are called hybrids.
 
 **Types of Hybridization** According to the relationship between
+plants, the hybridization is divided into. 
 
-plants, the hybridization is divided into. i. Intravarietal hybridization - The cross
+**i. Intravarietal hybridization** - The cross between the plants of same variety. Such crosses are useful only in self-pollinated crops.
 
-between the plants of same variety. Such crosses are useful only in self-pollinated crops.
+**ii. Intervarietal hybridization** - The cross between the plants belonging to two different varieties of the same species and is also known as intraspecific hybridization. This technique has been the basis of improving self-pollinated as well as cross pollinated crops
 
-ii. Intervarietal hybridization - The cross between the plants belonging to two different varieties of the same species and is also known as intraspecific hybridization. This technique has been the basis of improving self-pollinated as well as cross pollinated crops
+**iii. Interspecific hybridization** - The cross between the plants belonging to different species belonging to the same genus is also called intragenic hybridization. It is commonly used for transferring the genes of disease, insect, pest and drought resistance from one species to another.
+ **Example:** Gossypium hirsutum x Gossypium arboreum – Deviraj.
 
-iii. Interspecific hybridization - The cross between the plants belonging to different species belonging to the same genus is also called intragenic hybridization. It is commonly used for transferring the genes of disease, insect, pest and drought resistance from one species to another. **Example:** Gossypium hirsutum x Gossypium arboreum – Deviraj.
-
-![- (a) _G. hirsutum_ (b) _G. arboreum_]( "")
-
-**(a) (b)**
+![Figure 9.15 Flower -(a) G. hirsutum (b) G. arboreum](flower.png  "")
 
 **iv. Intergeneric hybridization – The crosses** are made between the plants belonging to two different genera. The disadvantages are hybrid sterility, time consuming and expensive procedure. **Example:** _Raphanobrassica, Triticale._ (Refer chapter 4 for detailed illustration)
 
 **9.7.4. Heterosis** Heterosis (hetero- different; sis - condition) G.H. Shull was the first scientist to use the term heterosis in 1912. The superiority of the F1 hybrid in performance over its parents is called heterosis or hybrid vigour. Vigour refers to increase in growth, yield, greater adaptability of resistance to diseases, pest and drought. Vegetative propagation is the best suited measure
 
-
-
-![](botany_xii_pages_199-215-ch-09-7-1.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-7-2.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-7-3.jpg "")
-
-![](botany_xii_pages_199-215-ch-09-7-4.jpg "")
-  
 
 
 for maintaining hybrid vigour, since the desired characters are not lost and can persist over a period of time. Many breeders believe that the magnitude of heterosis is directly related to the degree of genetic diversity between the two parents. Depending on the nature, origin, adaptability and reproducing ability heterosis can be classified as: **i. Euheterosis- This is the true heterosis which**
