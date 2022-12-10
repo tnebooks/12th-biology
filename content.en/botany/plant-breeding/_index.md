@@ -116,31 +116,18 @@ conditions. It also assures water availability.
 ![](seaweed-kelp.png "")
 
 
-
-
 soil. These polymers improve the crumbing in the soil, swell up when they get wet and retain moisture for a long time. They are especially useful in organic gardening which provides carbohydrates for plants. Seaweed has more than 70 minerals, vitamins and enzymes. It promotes vigorous growth. Improves resistance of plants to frost and disease. Seeds soaked in seaweed extract germinate much rapidly and develop a better root system.
 
 **Bio-Pesticides** Bio-pesticides are biological agents used for the control of plant pests. They are in high use due to their non-toxic, cheaper and eco-friendly characteristics as compared to chemical or synthetic pesticides. Bio- pesticides have become an integral component of pest management in terms of the environmental and health issues attributed to the use of chemicals in agriculture.
 
 **_Trichoderma_** species are free-living fungi that are common in soil and root ecosystem. They have been recognized as bio-control agent for (1) the control of plant disease (2) ability to enhance root growth development (3) crop productivity (4) resistance to abiotic stress and (5) uptake and use of nutrients.
 
-![(b) Biopesticide]( "")
+![(b) Biopesticide](trichoderma-fungai-biopesticide.png "")
 
-**TRICHODERMA VIRIDE** A Potential bio-control agent for
-
-soil borne diseases
-
-![(a) _Trichoderma_ fungi]( "")
 
 **_Beauveria_** species is an entomo-pathogenic fungus that grows naturally in soils throughout the world. It acts as a parasite on various arthropod species causing white muscardine disease without affecting the plant health and growth. It also controls damping off of tomato caused by _Rhizoctonia solani_.
 
-![(a) _Beauveria_ Fungi (b) _Beauveria_ sps infected insect on green plant]( "")
-
-(c)Entomopathogenic fungi on insets
-
-**(a) (b)**
-
-**(c)**
+![(b) Biopesticide](beauveria-fungi.png "")
 
 **Green Manuring** Green manuring is defined as the growing of green manure crops and use of these crops directly in the field by ploughing. One of the main objectives of the green manuring is to increase the content of nitrogen in the soil. Also it helps in improving the structure and physical properties of the soil. The most important green manure crops are _Crotalaria juncea, Tephrosia purpurea, Indigofera tinctoria_
 
