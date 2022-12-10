@@ -27,7 +27,7 @@ iv. Compact and dry grains that they can be easily handled, transported and stor
 
 Major Cereals Rice / Paddy Botanical name : Oryza sativa Paddy is a semi-aquatic crop and is grown in standing water. It is an important food crop of the world, occupying the second position in terms of area under cultivation and production, next to wheat. Rice is the chief source of carbohydrate. Origin and Area of cultivation South East Asia is considered as the center of origin of rice. Earliest evidences of rice cultivation have been found in China, India and Thailand. It is mainly cultivated in Delta and irrigated regions of Tamil Nadu. Uses Rice is the easily digestible calorie rich cereal food which is used as a staple food in Southern and North East India. Various Rice Wheat
 
-![M](10.1.png "img-class")
+![Major Cerals](major-cereals.png "")
 
 rice products such as Flaked rice (Aval), Puffed rice / parched rice (Pori) are used as breakfast cereal or as snack food in different parts of India.
 
