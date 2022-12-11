@@ -49,7 +49,7 @@ XII Std Zoology Chapter 1 EM.indd 1 18/12/2021 14:50:06
 
   
 
-2Reproduction in Organisms
+Reproduction in Organisms
 
 in multicellular organisms with relatively simpler organisation. The offsprings show “uniparental inheritance” without any genetic variation. The different modes of asexual reproduction seen in animals are fission, budding, fragmentation and regeneration.
 
