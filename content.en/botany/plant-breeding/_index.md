@@ -71,7 +71,7 @@ The earlier Greek and Roman naturalists like Theophrastus, Dioscorides, Pliny th
 
 ## Organic Agriculture
  Organic farming is an alternative agricultural system which originated early in the twentieth century in reaction to rapidly changing farming practices. It is a production system that sustains the health of the soils, ecosystems and people. It relies on ecological processes, biodiversity and cycles adapted to local conditions rather than the use of inputs with adverse effects. 
- 
+
  **9.5.1. Biofertilizers** Biofertilizers are defined as preparations containing living cells or latent cells of efficient strains of microorganisms that help crop plants uptake of nutrients by their interactions in the rhizosphere when applied through seed or soil. Biofertilizers could be also called as microbial cultures, bioinoculants, bacterial inoculants or bacterial fertilizers.
 
 They are efficient in fixing nitrogen, solubilising phosphate and decomposing cellulose. They are designed to improve the soil fertility, plant growth, and also the number and biological activity of beneficial microorganisms in the soil. They are eco-friendly organic agro inputs and are more efficient and cost effective than chemical fertilizers.
@@ -268,6 +268,16 @@ Some crop varieties bred by hybridization and selection, for disease resistance 
 **Crop Variety Resistance to diseases**
 
 
+
+| Crop        | Variety                        | Resistance to diseases                                       |
+| ----------- | ------------------------------ | ------------------------------------------------------------ |
+| Wheat       | Himgiri                        | Leaf and Stripe rust, hill bunt                              |
+| Brassica    | Pusa swarnim (Kara rai)        | White rust                                                   |
+| Cauliflower | Pusa Shubhra,Pusa snowball K-1 | Black rot and curl blight black rot                          |
+| Cowpea      | Pusa Komal                     | Bacterial blight                                             |
+| Chilli      | Pusa<br/>Sadabahar             | Chilly mosaic<br/>virus, Tobacco<br/>mosaic virus and Leaf curl. |
+
+
 **Table 9.1** Disease resistance varieties Resistance to yellow mosaic virus in bhindi
 
 
@@ -315,11 +325,11 @@ Dr. Swaminathan is called “Father of green revolution in India”.
 ![swaminathan](swaminathan.jpg  "")
 
 **Nel Jayaraman:** Mr. Jayaraman, hails from
-Adirangam village in Tiruvarur district. He was a disciple of Dr.Nammalvar and state co- ordinator of ‘Save our rice campaign, Tamil Nadu. He strived hard for conservation of traditional rice varieties. He had trained a team of farmers and regularly update them on the current issues that affect them.
+Adirangam village in Tiruvarur district. He was a disciple of Dr. Nammalvar and state co- ordinator of ‘Save our rice campaign, Tamil Nadu. He strived hard for conservation of traditional rice varieties. He had trained a team of farmers and regularly update them on the current issues that affect them.
 
 ![NelJayaraman](neljeyaraman.jpg "")
 
-In 2005, he organized a first ever traditional paddy seed festival in his farm as an individual. The seed festival in May 2016 at Adhirangam was 10th in a row and in which 156 different traditional varieties were distributed to more than 7000 farmers across Tamil Nadu. He was invited by the Philippines Government to give a talk at the International Rice Research Institute (IRRI) on his work and mission. In 2011, he received the State Award for best organic farmer for his contribution to organic farming, and in the year 2015, he received the National Award for best Genome Savior.
+In 2005, he organized a first ever traditional paddy seed festival in his farm as an individual. The seed festival in May 2016 at Adhirangam was 10th in a row and in which 156 different traditional varieties were distributed to more than 7000 farmers across Tamilnadu. He was invited by the Philippines Government to give a talk at the International Rice Research Institute (IRRI) on his work and mission. In 2011, he received the State Award for best organic farmer for his contribution to organic farming, and in the year 2015, he received the National Award for best Genome Savior.
 
 Resistance to yellow mosaic virus in bhindi (Abelmoschus escullentus) was transferred from a wild species and resulted in a new variety of A. Escullentus called Parbharni kranti. 
 **Plant Breeding for Developing Resistance to Insect Pests** 
