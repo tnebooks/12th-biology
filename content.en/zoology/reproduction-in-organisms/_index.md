@@ -4,8 +4,6 @@ weight: 2
 ---
   
 
-
-
 in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.
 
 **1.1. Modes of reproduction** All modes of reproduction have some
