@@ -1,5 +1,5 @@
 ---
-title: 'BOTANY_XII_TM_PAGES_213-230  CH 09'
+title: 'பயிர்‌ பெருக்கம்‌'
 weight: 10
 ---
 \[க இனை

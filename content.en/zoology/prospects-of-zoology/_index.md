@@ -1,5 +1,5 @@
 ---
-title: 'Department of School Education'
+title: 'Prospects of Zoology'
 weight: 1
 ---
   
