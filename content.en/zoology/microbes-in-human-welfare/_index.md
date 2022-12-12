@@ -2,29 +2,18 @@
 title: 'Microbes in Human Welfare'
 weight: 10
 ---
+
   
 
 148
 
-Microbes such as bacteria, fungi, protozoa, certain algae, viruses, viroids and prions are some of the major components of the biological system on Earth. Several microorganisms are beneficial and contribute to human welfare. Microbes are present everywhere – in soil, water, air and within bodies of animals and plants. Microbes like bacteria and fungi can be grown on nutritive media to form colonies which can be visibly seen. Some of the microbes useful to human welfare are discussed here.
-
-**9.1 Microbes in household products** In every day life, microbes and their
-
-products are used in the preparation of idli, dosa, cheese, curd, yogurt, dough, bread, vinegar, etc., Bacteria like _Lactobacillus acidophilus, L. lactis_ and _Streptococcus lactis_ commonly called **lactic acid bacteria** (LAB) are probiotics which check the growth of pathogenic microbes in the stomach and other parts of the digestive tract.
-
-The LAB bacteria grows in milk and convert it into curd, thereby digesting the milk protein casein. A small amount of curd added to fresh milk as a starter or inoculum contains millions of _Lactobacilli_, which under suitable
-
 UNIT - III
 
-**Microbes in Human Welfare**
+**Microbes in Human Welfar**
 
 CHAPTER
 
-9 _Saccharomyces cerevisiae, a species of yeast_
-
-_used in baking and brewing industry._
-
-9.1 Microbes in household products 9.2 Microbes in industrial products 9.3 Microbes in sewage treatment and
+9 9.1 Microbes in household products 9.2 Microbes in industrial products 9.3 Microbes in sewage treatment and
 
 energy generation 9.4 Microbes in the production of biogas 9.5 Bioremediation
 
@@ -40,16 +29,24 @@ energy generation 9.4 Microbes in the production of biogas 9.5 Bioremediation
 
 ➢ _Realizes the importance of microbes in sewage treatment and energy generation._
 
-➢ _Realizes the applications of microbes in bio-remediation._
+➢ _Realizes the applications of microbes in bio-remediation._  
 
-XII Std Zoology Chapter 9 EM.indd 148 18/12/2021 14:59:09
+Microbes such as bacteria, fungi, protozoa, certain algae, viruses, viroids and prions are some of the major components of the biological system on Earth. Several microorganisms are beneficial and contribute to human welfare. Microbes are present everywhere – in soil, water, air and within bodies of animals and plants. Microbes like bacteria and fungi can be grown on nutritive media to form colonies which can be visibly seen. Some of the microbes useful to human welfare are discussed here.
+
+**9.1 Microbes in household products** In every day life, microbes and their
+
+products are used in the preparation of idli, dosa, cheese, curd, yogurt, dough, bread, vinegar, etc., Bacteria like _Lactobacillus acidophilus, L. lactis_ and _Streptococcus lactis_ commonly called **lactic acid bacteria** (LAB) are probiotics which check the growth of pathogenic microbes in the stomach and other parts of the digestive tract.
+
+The LAB bacteria grows in milk and convert it into curd, thereby digesting the milk protein casein. A small amount of curd added to fresh milk as a starter or inoculum contains millions of _Lactobacilli_, which under suitable
+
+**e** _Saccharomyces cerevisiae, a species of yeast_
+
+_used in baking and brewing industry._
 
 
 
 
   
-
-149 Microbes in Human Welfare
 
 temperature (≤40oC) multiply and convert milk into curd. Curd is more nutritious than milk as it contains a number of organic acids and vitamins.
 
@@ -61,7 +58,9 @@ Yogurt is produced by bacterial fermentation of milk, and lactic acid is produce
 
 Cheese is a dairy product produced in a wide range of flavours, textures and is formed by coagulation of the milk protein, casein. During cheese production, milk is usually acidified and the enzyme rennet is added to cause coagulation. The solids are separated and pressed to form cheese. Most cheese are made with a starter bacteria, _Lactococcus_, _Lactobacillus_ or _Streptococcus._
 
-Paneer (cottage cheese) is fresh cheese common in South Asia, especially in India. It is made by curdling milk with lemon juice, vinegar and other edible acids. Large holes in Swiss cheese is due to the production of large amount of carbon-di-oxide by the bacterium _Propionibacterium shermanii._ The dough used in the preparation of idlis and dosas are fermented by the bacteria _Leuconostoc mesenteroides_ whereas the dough used in bread making is fermented by _Saccharomyces cerevisiae_ (Baker’s Yeast). Fermentation of glucose mainly forms ethyl alcohol and carbon-
+Paneer (cottage cheese) is fresh cheese common in South Asia, especially in India. It is made by curdling milk with lemon juice, vinegar and other edible acids. Large holes in Swiss cheese is due to the production of large amount of carbon-di-oxide by the bacterium _Propionibacterium shermanii._ The dough used in the preparation of idlis and dosas are fermented by the bacteria _Leuconostoc mesenteroides_ whereas the dough used in bread making is fermented by _Saccharomyces cerevisiae_ (Baker’s Yeast). Fermentation of glucose mainly forms ethyl alcohol and carbon-  
+
+149 Microbes in Human Welfare
 
 di-oxide, which is responsible for leavening of dough. When leavened dough is baked, both carbon-di-oxide and ethyl alcohol evaporate making the bread porous and soft.
 
@@ -79,7 +78,8 @@ produced by microorganisms which can kill or retard the growth of other disease 
 
 While working on _Staphylococci_ bacteria, Alexander Fleming observed a green mould growing in one of his unwashed culture plates around which _Staphylococci_ could not grow. He
 
-XII Std Zoology Chapter 9 EM.indd 149 18/12/2021 14:59:09
+
+
 
   
 
@@ -117,7 +117,7 @@ OH O
 
  
 
-**Fig. 9.1 Discovery of penicillin**
+**Fig. 9.1 Discovery of penicillin**  
 
 Hypersensitivity reaction is a major problem with the use of penicillin, resulting in nausea, vomiting, wheezing and
 
@@ -129,28 +129,10 @@ ultimately cardiovascular collapse. To check the sensitivity reaction, doctors u
 
 develop the ability to defeat the drug designed to kill or inhibit their growth. It is one of the most acute threat to public health. Antibiotic resistance is accelerated by the misuse and over use of antibiotics, as well as poor infection prevention control. Antibiotics should be used only when prescribed by a certified health professional. When the bacteria become resistant, antibiotics cannot fight against them and the bacteria multiply. Narrow spectrum antibiotics are preferred over broad spectrum antibiotics. They effectively and accurately target specific pathogenic organisms and are less likely to cause resistance. "**Superbug"** is a term used to
 
-XII Std Zoology Chapter 9 EM.indd 150 18/12/2021 14:59:10
-
-
-
-
-
 
 
 
   
-
-151 Microbes in Human Welfare
-
-**Alcohol content in various beverages** • Beer contains 3 to 5 percent of alcohol. • Wine contains 9 to 14 percent alcohol.
-
-Wine coolers are made of wine mixed with carbonated water and flavourings. Wine coolers have about 4 to 6 percent alcohol.
-
-• Distilled spirits such as whiskey, gin, scotch and vodka usually contain 35 to 50 percent alcohol.
-
-In some parts of South India, a traditional drink called **pathaneer** is obtained from fermenting sap of palms and coconut trees. A common source is tapping of unopened spadices of coconut. It is a refreshing drink, which on boiling produces jaggery or palm sugar. When pathaneer is left undisturbed for few hours it gets fermented to form **toddy** with the help of naturally occurring yeast, to form a beverage that contains 4 percent alcohol. After 24 hours **toddy** becomes unpalatable and is used for the production of vinegar.
-
-_Saccharomyces cerevisiae_ is the major producer of ethanol (C2H5OH). It is used for industrial, laboratory and fuel purposes. So ethanol is referred to as **industrial alcohol**. Bacteria such as _Zymomonas mobilis_ and _Sarcina ventriculi_ are also involved in ethanol production. The principal substrates for the commercial production of industrial alcohol include molasses or corn, potatoes and wood wastes. The process of ethanol production starts by milling a feed stock followed by the addition of dilute or fungal **amylase (enzyme)** from _Aspergillus_ to break down the starch into fermentable sugars. Yeast is then added to convert the sugars to ethanol which is then distilled off to obtain ethanol which is upto 96 percent in concentration. The two most common type of biofuels in use today are ethanol and biodiesel, both of them represent the first generation of biofuel technology. Ethanol is often used as a fuel, mainly as a biofuel additive for gasoline.
 
 describe strains of bacteria that are resistant to the majority of antibiotics commonly used today.
 
@@ -164,23 +146,26 @@ The Pasteur effect is the inhibiting effect of oxygen on the fermentation proces
 
 **Oenology** is the science and study of **wine** and wine making. Wine is made from the fermentation of grape juice. Grape juice is fermented by various strains of S_accharomyces cerevisiae_ into alcohol. Grape wine is of two types, red wine and white wine. For red wine, black grapes are used including skins and sometimes the stems also are used. In contrast white wine is produced only from the juice of either white or red grapes without their skin and stems.
 
-**Beer** is produced from germinated barley malt grain by S_accharomyces carlsbergensis_ or _Saccharomyces cerevisiae_. **Rum** is made from fermented sugarcane or molasses or directly from sugarcane juice by S_accharomyces cerevisiae_. **Whisky** is a type of distilled alcoholic beverage made from fermented grain mash by _Saccharomyces cerevisiae_.
+**Beer** is produced from germinated barley malt grain by S_accharomyces carlsbergensis_ or _Saccharomyces cerevisiae_. **Rum** is made from fermented sugarcane or molasses or directly from sugarcane juice by S_accharomyces cerevisiae_. **Whisky** is a type of distilled alcoholic beverage made from fermented grain mash by _Saccharomyces cerevisiae_.  
 
-XII Std Zoology Chapter 9 EM.indd 151 18/12/2021 14:59:10
+151 Microbes in Human Welfare
+
+**Alcohol content in various beverages** • Beer contains 3 to 5 percent of alcohol. • Wine contains 9 to 14 percent alcohol.
+
+Wine coolers are made of wine mixed with carbonated water and flavourings. Wine coolers have about 4 to 6 percent alcohol.
+
+• Distilled spirits such as whiskey, gin, scotch and vodka usually contain 35 to 50 percent alcohol.
+
+In some parts of South India, a traditional drink called **pathaneer** is obtained from fermenting sap of palms and coconut trees. A common source is tapping of unopened spadices of coconut. It is a refreshing drink, which on boiling produces jaggery or palm sugar. When pathaneer is left undisturbed for few hours it gets fermented to form **toddy** with the help of naturally occurring yeast, to form a beverage that contains 4 percent alcohol. After 24 hours **toddy** becomes unpalatable and is used for the production of vinegar.
+
+_Saccharomyces cerevisiae_ is the major producer of ethanol (C2H5OH). It is used for industrial, laboratory and fuel purposes. So ethanol is referred to as **industrial alcohol**. Bacteria such as _Zymomonas mobilis_ and _Sarcina ventriculi_ are also involved in ethanol production. The principal substrates for the commercial production of industrial alcohol include molasses or corn, potatoes and wood wastes. The process of ethanol production starts by milling a feed stock followed by the addition of dilute or fungal **amylase (enzyme)** from _Aspergillus_ to break down the starch into fermentable sugars. Yeast is then added to convert the sugars to ethanol which is then distilled off to obtain ethanol which is upto 96 percent in concentration. The two most common type of biofuels in use today are ethanol and biodiesel, both of them represent the first generation of biofuel technology. Ethanol is often used as a fuel, mainly as a biofuel additive for gasoline.
+
+
+
 
   
 
 152Microbes in Human Welfare
-
-removing clots from the blood vessels of patients who have undergone myocardial infarction.
-
-**Cyclosporin A,** an immunosuppressant used in organ transplantation is produced from the fungus _Trichoderma polysporum._ It is also used for its anti-inflammatory, anti- fungal and anti-parasitic properties. **Statins** produced by the yeast _Monascus purpureus_ have been used to lower blood cholesterol levels. It acts by competitively inhibiting the enzyme responsible for the synthesis of cholesterol. Recombinant **human insulin** has been produced predominantly using _E. coli_ and _Saccharomyces cerevisiae_ for therapeutic use in human. **9.3 Microbes in sewage**
-
-**treatment and energy generation** Sewage is the waste generated every day
-
-in cities and towns containing human excreta. It contains large amounts of organic matter and microbes, which are pathogenic to humans and are bio-degradable pollutants. Domestic waste consists of approximately 99 percent water, suspended solids and other soluble organic and inorganic substances. Sewage should not be discharged directly into natural water bodies like rivers and streams. Before disposal, sewage should be treated in sewage treatment plants to make it less polluting.
-
-Microbes(mass of bacteria floc) are allowed to grow in aerated water (secondary treatment). They consume major part of organic matter in the effluent and reduce the BOD in the waste water( The details on waste water treatment are discussed in chapter 13).
 
 C6H12O6 Yeast 2C2H5OH + 2CO2↑ (Glucose) (Ethanol)Fermentation
 
@@ -194,23 +179,26 @@ Microbes are not only used for commercial and industrial production of alcohol, 
 
 Yeast (_Saccharomyces cerevisiae_) and bacteria are used for commercial production of enzymes. Lipases are used in detergent formulations and are used for removing oily stains from the laundry. Bottled juices are clarified by the use of **pectinase, protease** and **cellulase**. Rennet can also be used to separate milk into solid curds for cheese making. Streptokinase produced by the bacterium _Streptococcus_ and genetically engineered _Streptococci_ are used as “**clot buster**” for
 
-**Biodiesel** is a fuel made from vegetable oils, fats or greases. Biodiesel fuel can be used in diesel engines without altering the engine. Pure biodiesel is non-toxic, biodegradable and produces lower level of air pollutants than petroleum-based diesel fuel. The Government of India approved the National Policy on Biofuels in December 2009 and identified _Jatropha curcas _as the most suitable oilseed for biodiesel production. _Pongamia_ species is also a suitable choice for production of biodiesel.
+**Biodiesel** is a fuel made from vegetable oils, fats engines without altering the engine. Pure biodi lower level of air pollutants than petroleum-b approved the National Policy on Biofuels in De the most suitable oilseed for biodiesel producti for production of biodiesel.  
 
-XII Std Zoology Chapter 9 EM.indd 152 18/12/2021 14:59:10
+removing clots from the blood vessels of patients who have undergone myocardial infarction.
+
+**Cyclosporin A,** an immunosuppressant used in organ transplantation is produced from the fungus _Trichoderma polysporum._ It is also used for its anti-inflammatory, anti- fungal and anti-parasitic properties. **Statins** produced by the yeast _Monascus purpureus_ have been used to lower blood cholesterol levels. It acts by competitively inhibiting the enzyme responsible for the synthesis of cholesterol. Recombinant **human insulin** has been produced predominantly using _E. coli_ and _Saccharomyces cerevisiae_ for therapeutic use in human. **9.3 Microbes in sewage**
+
+**treatment and energy generation** Sewage is the waste generated every day
+
+in cities and towns containing human excreta. It contains large amounts of organic matter and microbes, which are pathogenic to humans and are bio-degradable pollutants. Domestic waste consists of approximately 99 percent water, suspended solids and other soluble organic and inorganic substances. Sewage should not be discharged directly into natural water bodies like rivers and streams. Before disposal, sewage should be treated in sewage treatment plants to make it less polluting.
+
+Microbes(mass of bacteria floc) are allowed to grow in aerated water (secondary treatment). They consume major part of organic matter in the effluent and reduce the BOD in the waste water( The details on waste water treatment are discussed in chapter 13).
+
+or greases. Biodiesel fuel can be used in diesel esel is non-toxic, biodegradable and produces
+
+ased diesel fuel. The Government of India cember 2009 and identified _Jatropha curcas _as on. _Pongamia_ species is also a suitable choice
+
+
+
 
   
-
-153 Microbes in Human Welfare
-
-Biogas is devoid of smell and burns with a blue flame without smoke. The Methanogens are also present in anaerobic sludge and rumen of cattle. In rumen, these bacteria help in the breakdown of cellulose. The excreta of cattle called dung is commonly called “**Gobar**”. Gobar gas is generated by the anaerobic decomposition of cattle dung. It consists of methane, CO2 with some hydrogen, nitrogen and other gases in trace amounts.
-
-**Fig. 9.3 Biogas Unit**
-
-In a biogas plant, anaerobic digestion is carried out in an air tight cylindrical tank known as digester **(Fig. 9.3)**. It is made up of concrete bricks and cement or steel. Bio-wastes are collected and slurry of dung is fed into this digester. It has a side opening into which organic materials for digestion are incorporated for microbial activity. Anaerobic digestion is accomplished in three stages: solubilisation, acidogenesis and methanogenisis. The outlet is connected to a pipe to supply biogas. The slurry is drained through another outlet and is used as fertilizer. Biogas is used for cooking and lighting. The technology of biogas production was developed in India mainly due to the efforts of Indian Agricultural Research Institute (IARI) and Khadi and Village Industries Commission (KVIC).
-
-**9.5 Bioremediation** The use of
-
-naturally occurring or genetically engineered microorganisms to reduce or degrade pollutants is
 
 **9.3.1 Microbial Fuel Cell (MFC)** A Microbial Fuel Cell is a bio-electrochemical
 
@@ -238,35 +226,32 @@ H+H+
 
 **9.4 Microbes in the production of biogas** Biogas is a mixture of different gases
 
-produced by the breakdown of organic matter in the absence of oxygen. Biogas can be produced from raw materials such as agricultural wastes, manure, municipal wastes, plant material, sewage, food waste, etc., Biogas is produced under anaerobic condition, when the organic materials are converted through microbiological reactions into gas and organic fertilizer. Biogas primarily consists of methane (63 percent), along with CO2 and hydrogen. Methane producing bacteria are called **methanogens** and one such common bacterium is _Methanobacterium_.
+produced by the breakdown of organic matter in the absence of oxygen. Biogas can be produced from raw materials such as agricultural wastes, manure, municipal wastes, plant material, sewage, food waste, etc., Biogas is produced under anaerobic condition, when the organic materials are converted through microbiological reactions into gas and organic fertilizer. Biogas primarily consists of methane (63 percent), along with CO2 and hydrogen. Methane producing bacteria are called **methanogens** and one such common bacterium is _Methanobacterium_.  
 
-XII Std Zoology Chapter 9 EM.indd 153 18/12/2021 14:59:12
+153 Microbes in Human Welfare
+
+Biogas is devoid of smell and burns with a blue flame without smoke. The Methanogens are also present in anaerobic sludge and rumen of cattle. In rumen, these bacteria help in the breakdown of cellulose. The excreta of cattle called dung is commonly called “**Gobar**”. Gobar gas is generated by the anaerobic decomposition of cattle dung. It consists of methane, CO2 with some hydrogen, nitrogen and other gases in trace amounts.
+
+**Fig. 9.3 Biogas Unit**
+
+In a biogas plant, anaerobic digestion is carried out in an air tight cylindrical tank known as digester **(Fig. 9.3)**. It is made up of concrete bricks and cement or steel. Bio-wastes are collected and slurry of dung is fed into this digester. It has a side opening into which organic materials for digestion are incorporated for microbial activity. Anaerobic digestion is accomplished in three stages: solubilisation, acidogenesis and methanogenisis. The outlet is connected to a pipe to supply biogas. The slurry is drained through another outlet and is used as fertilizer. Biogas is used for cooking and lighting. The technology of biogas production was developed in India mainly due to the efforts of Indian Agricultural Research Institute (IARI) and Khadi and Village Industries Commission (KVIC).
+
+**9.5 Bioremediation** The use of
+
+naturally occurring or genetically engineered microorganisms to reduce or degrade pollutants is
 
 
 
 
+
+
+
+|------|------|------|
+| Cathode |
 
   
 
 154Microbes in Human Welfare
-
-_chrysosporium_ an anaerobic fungus exhibits strong potential for bioremediation of pesticides, polyaromatic hydrocarbons, dyes, trinitrotoluene, cyanides, carbon tetrachloride, etc., _Dehalococcoides_ species are responsible for anaerobic bioremediation of toxic trichloroethene to non-toxic ethane. _Pestalotiopsis microspora_ is a species of endophytic fungus capable of breaking down and digesting polyurethane. This makes the fungus a potential candidate for bioremediation projects involving large quantities of plastics.
-
-_Ideonella sakaiensis_ adhere to PET film
-
-PET Bottle
-
-Eats the terephthalic
-
-acid & ethylene glycol
-
-Breaks down PET into
-
-terephthalic acid & ethylene glycol
-
-**Fig. 9.6 Actions of _Ideonella sakaiensis_**
-
-**Summary** All microbes are not pathogenic, many of them are beneficial to human beings. We use microbes and their derived products almost every day. Lactic acid bacteria convert milk into curd. _Saccharomyces cerevisiae_ (yeast) is used in bread making. Idly and dosa are made from dough fermented by microbes. Bacteria and fungi are used in cheese making. Industrial products like lactic acid, acetic acid and alcohol are produced by microbes. Antibiotics are produced from useful microbes to kill the disease causing harmful microbes. For more than a hundred years, microbes are being used to treat sewage by the process of activated sludge formation. Bio-gas produced by microbes is used as a source of energy in rural areas. In bio-remediation naturally occurring or genetically engineered microorganisms are used to reduce or degrade pollutants.
 
 called bioremediation. Bioremediation is less expensive and more sustainable than other remediations available. It is grouped into **_in situ_** bioremediation (treatment of contaminated soil or water in the site) and **_ex situ_** bioremediation (treatment of contaminated soil or water that is removed from the site and treated).
 
@@ -304,34 +289,50 @@ O
 
 _Nitrosomonas europaea_ is also capable of degrading benzene and a variety of halogenated organic compounds including trichloroethylene and vinyl chloride. _Ideonella sakaiensis_ is currently tried for recycling of PET plastics **(Fig. 9.6). These bacteria use PETase and** MHETase enzymes to breakdown PET plastic into terephthalic acid and ethylene glycol.
 
-**Anaerobic** **microbes** degrade the pollutants in the absence of oxygen. _Dechloromonas aromatica_ has the ability to degrade benzene anaerobically and to oxidize toluene and xylene. _Phanerochaete_
+**Anaerobic** **microbes** degrade the pollutants in the absence of oxygen. _Dechloromonas aromatica_ has the ability to degrade benzene anaerobically and to oxidize toluene and xylene. _Phanerochaete_  
 
-XII Std Zoology Chapter 9 EM.indd 154 18/12/2021 14:59:12
+_chrysosporium_ an anaerobic fungus exhibits strong potential for bioremediation of pesticides, polyaromatic hydrocarbons, dyes, trinitrotoluene, cyanides, carbon tetrachloride, etc., _Dehalococcoides_ species are responsible for anaerobic bioremediation of toxic trichloroethene to non-toxic ethane. _Pestalotiopsis microspora_ is a species of endophytic fungus capable of breaking down and digesting polyurethane. This makes the fungus a potential candidate for bioremediation projects involving large quantities of plastics.
 
+_Ideonella sakaiensis_ adhere to PET film
 
+PET Bottle
 
+Eats the terephthalic
 
+acid & ethylene glycol
 
+Breaks down PET into
 
+terephthalic acid & ethylene glycol
 
+**Fig. 9.6 Actions of _Ideonella sakaiensis_**
 
-
-
-
-
-
-
-
-
-
-
-
-
+**Summary** All microbes are not pathogenic, many of them are beneficial to human beings. We use microbes and their derived products almost every day. Lactic acid bacteria convert milk into curd. _Saccharomyces cerevisiae_ (yeast) is used in bread making. Idly and dosa are made from dough fermented by microbes. Bacteria and fungi are used in cheese making. Industrial products like lactic acid, acetic acid and alcohol are produced by microbes. Antibiotics are produced from useful microbes to kill the disease causing harmful microbes. For more than a hundred years, microbes are being used to treat sewage by the process of activated sludge formation. Bio-gas produced by microbes is used as a source of energy in rural areas. In bio-remediation naturally occurring or genetically engineered microorganisms are used to reduce or degrade pollutants.
 
 
 
 
   
+
+**Evaluation** 1\. Which of the following
+
+microorganism is used for production of citric acid in industries?
+
+a) _Lactobacillus bulgaris_ b) _Penicillium citrinum_ **_c) Aspergillus niger_** d) _Rhizopus nigricans_
+
+2\. Which of the following pair is correctly matched for the product produced by them?
+
+a) _Acetobacter aceti_ - Antibiotics b) _Methanobacterium_ - Lactic acid c) _Penicilium notatum_ - Acetic acid **_d) Saccharomyces cerevisiae_ \- Ethanol**
+
+3\. The most common substrate used in distilleries for the production of ethanol is\_\_\_\_\_\_\_\_\_
+
+a) Soyameal b) Groundgram **c) Molasses** d) Corn meal
+
+4\. Cyclosporin – A is an immunosuppressive drug produced from \_\_\_\_\_\_\_
+
+a) _Aspergillus niger_ b) _Manascus purpureus_ c) _Penicillium notatum_ **_d) Trichoderma polysporum_**
+
+5\. CO2 is not released during a) Alcoholic fermentation **b) Lactate fermentation** c) Aerobic respiration in animals d) Aerobic respiration in plants  
 
 155 Microbes in Human Welfare
 
@@ -363,56 +364,51 @@ a) Antibiotics b) Zymology c) Superbug
 
 15\. What is bioremediation?
 
-**Evaluation** 1\. Which of the following
 
-microorganism is used for production of citric acid in industries?
-
-a) _Lactobacillus bulgaris_ b) _Penicillium citrinum_ **_c) Aspergillus niger_** d) _Rhizopus nigricans_
-
-2\. Which of the following pair is correctly matched for the product produced by them?
-
-a) _Acetobacter aceti_ - Antibiotics b) _Methanobacterium_ - Lactic acid c) _Penicilium notatum_ - Acetic acid **_d) Saccharomyces cerevisiae_ \- Ethanol**
-
-3\. The most common substrate used in distilleries for the production of ethanol is\_\_\_\_\_\_\_\_\_
-
-a) Soyameal b) Groundgram **c) Molasses** d) Corn meal
-
-4\. Cyclosporin – A is an immunosuppressive drug produced from \_\_\_\_\_\_\_
-
-a) _Aspergillus niger_ b) _Manascus purpureus_ c) _Penicillium notatum_ **_d) Trichoderma polysporum_**
-
-5\. CO2 is not released during a) Alcoholic fermentation **b) Lactate fermentation** c) Aerobic respiration in animals d) Aerobic respiration in plants
-
-XII Std Zoology Chapter 9 EM.indd 155 18/12/2021 14:59:12
 
 
   
 
 156Microbes in Human Welfare
 
-**Concept Map**
+**Concep**
 
 How the fermentation takes place? Let us experiment it virtually
 
-MICROBES IN HUMAN WELFARE URL: http://www.bch.cuhk.edu.hk/vlab2/animation/fermentation/
+MICROBES IN HUMAN WELFARE URL: http://www.bch.cuhk.edu.hk/vlab2/animati
 
 **_ICT CORNER_**
 
 **Procedure :**
 
-**Step -1:** Type the **URL** or scan the **QR** code to open the activity page and click **“START”** to begin the fermentation experiment.
+**Step -1:** Type the **URL** or scan the **QR** code to ope the fermentation experiment.
 
-**Step -2: Click “next” for all the flasks combination.**
+**Step -2: Click “next” for all the flasks combinatio**
 
-**Step -3:** When the **“Matching Game”** starts to know the result, **“Drag and place”** the combination perfectly to their respective flasks.
+**Step -3:** When the **“Matching Game”** starts to kno perfectly to their respective flasks.
 
-**Step – 4 :** Go on through the other tests, explanations and the principle involved in the fermentation process.
+**Step – 4 :** Go on through the other tests, explanatio process.
 
 \*Pictures are indicative only \*Allow flash player
 
-**MICROBES IN HUMAN WELFARE**
+**MICROBES IN HU**  
 
-XII Std Zoology Chapter 9 EM.indd 156 18/12/2021 14:59:13
+**t Map**
+
+on/fermentation/
+
+n the activity page and click **“START”** to begin
+
+n.
+
+w the result, **“Drag and place”** the combination
+
+ns and the principle involved in the fermentation
+
+**MAN WELFARE**
+
+
+
 
 
 

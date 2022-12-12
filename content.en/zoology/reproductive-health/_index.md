@@ -2,6 +2,7 @@
 title: 'Reproductive Health'
 weight: 4
 ---
+
   
 
 32
@@ -12,11 +13,9 @@ UNIT - I
 
 CHAPTER
 
-3 _Safe motherhood begins before conception with healthy lifestyle and proper nutrition._
+3 3.1. Need for reproductive health Problems
 
-3.1. Need for reproductive health Problems and strategies
-
-3.2. Amniocentesis and its statutory ban 3.3. Social impact of sex ratio,
+and strategies 3.2. Amniocentesis and its statutory ban 3.3. Social impact of sex ratio,
 
 female foeticide and infanticide 3.4. Population explosion and birth control 3.5. Medical termination of pregnancy (MTP) 3.6. Sexually transmitted diseases (STD) 3.7. Infertility 3.8. Assisted reproductive technologyes (ART) 3..9. Detection of foetal disorders during early
 
@@ -40,7 +39,9 @@ _➢ Explains the reasons of transmission and prevention of STDs._
 
 _➢ Highlights the reasons of infertility. ➢ Develops a positive and healthy attitude_
 
-_towards reproductive life._
+_towards reproductive life._  
+
+_Safe motherhood begins before conception with healthy lifestyle and proper nutrition._
 
 Reproductive health represents a society with people having physically and functionally
 
@@ -55,15 +56,7 @@ India is amongst the first few countries in the world to initiate the **‘Famil
 • Introducing sex education in schools to provide information about adolescence and adolescence related changes.
 
 • Educating couples and those in the marriageable age groups about the available birth control methods and family planning norms.
-
-XII Std Zoology Chapter 3 EM.indd 32 18/12/2021 14:48:57
-
-
-
-
   
-
-33 Reproductive Health
 
 • Creating awareness about care for pregnant women, post-natal care of mother and child and the importance of breast feeding.
 
@@ -75,6 +68,12 @@ Health care programmes such as massive child immunization, supply of nutritional
 
 Due to small family norms and the skewed choice for a male child, female population is decreasing at an alarming rate. Amniocentesis is a prenatal technique used to detect any chromosomal abnormalities in the foetus and it is being often misused to determine the sex of
 
+Globally, about 800 women die every day of preventable causes related to pregnancy
+
+and childbirth; 20 per cent of these women are from India. Similarly India's infant mortality rate was 44 per 1,000 live. Although, India has witnessed dramatic growth over the last two decades, maternal mortality still remains high as in comparison to many developing nations. **_source:_** _http://unicef.in_  
+
+33 Reproductive Health
+
 the foetus. Once the sex of the foetus is known, there may be a chance of female foeticide. Hence, a statutory ban on amniocentesis is imposed.
 
 **3.3. Social impact of sex ratio, female foeticide and infanticide**
@@ -85,11 +84,8 @@ The sex ratio is the ratio of males to the females in a population. In India, th
 
 In order to prevent female foeticide and infanticide, Government of India has taken various steps like **PCPNDT Act** (Pre-Conception and Pre-Natal Diagnostic Technique Act-1994) enacted to ban the identification of sex and to prevent the use of prenatal diagnostic techniques for selective abortion. Various measures are taken by the Government to ensure survival, provision of better nutrition, education, protection and empowerment of girls by eliminating the differences in the sex ratio, infant mortality rate and improving their nutritional and educational status. **POCSO Act** (Prevention Of Children from Sexual Offences), **Sexual harassment at workplace** (Prevention, prohibition and redressal) Act and the changes in the Criminal law based
 
-Globally, about 800 women die every day of preventable causes related to pregnancy
 
-and childbirth; 20 per cent of these women are from India. Similarly India's infant mortality rate was 44 per 1,000 live. Although, India has witnessed dramatic growth over the last two decades, maternal mortality still remains high as in comparison to many developing nations. **_source:_** _http://unicef.in_
 
-XII Std Zoology Chapter 3 EM.indd 33 18/12/2021 14:48:57
 
   
 
@@ -103,7 +99,7 @@ Increased health facilities and better living conditions have enhanced longevity
 
 The voluntary use of contraceptive procedures to prevent fertilization or prevent implantation of a fertilized egg in the uterus is termed as birth control. **An ideal contraceptive should be** user friendly, easily available, with least side effects and should not interfere with sexual drive. The contraceptive methods are of two types – **temporary** and **permanent.** Natural, chemical, mechanical and hormonal barrier methods are the temporary birth control methods.
 
-**1\. Natural method** is used to prevent meeting of sperm with ovum. i.e., Rhythm method (safe period), coitus interruptus, continuous abstinence and lactational amenorrhoea.
+**1\. Natural method** is used to prevent meeting of sperm with ovum. i.e., Rhythm method (safe period), coitus interruptus, continuous abstinence and lactational amenorrhoea.  
 
 **a. Periodic abstinence/rhythm method** Ovulation occurs at about the 14th day of the menstrual cycle. Ovum survives for about two days and sperm remains alive for about 72 hours in the female reproductive tract. Coitus is to be avoided during this time. **b. Continuous abstinence** is the simplest and most reliable way to avoid pregnancy is not to have coitus for a defined period that facilitates conception. **c. Coitus interruptus** is the oldest family planning method. The male partner withdraws his penis before ejaculation, thereby preventing deposition of semen into the vagina. **d. Lactational amenorrhoea** Menstrual cycles resume as early as 6 to 8 weeks from parturition. However, the reappearance of normal ovarian cycles may be delayed for six months during breast- feeding. This delay in ovarian cycles is called **lactational amenorrhoea.** It serves as a natural, but an unreliable form of birth control. Suckling by the baby during breast-feeding stimulates the pituitary to secrete increased prolactin hormone in order to increase milk production. This high prolactin concentration in the mother’s blood may prevent menstrual cycle by suppressing the release of GnRH (Gonadotropin Releasing Hormone) from hypothalamus and gonadotropin secretion from the pituitary.
 
@@ -113,9 +109,12 @@ The voluntary use of contraceptive procedures to prevent fertilization or preven
 
 **b. Mechanical barrier** Condoms are a thin sheath used to cover the penis in
 
-XII Std Zoology Chapter 3 EM.indd 34 18/12/2021 14:48:57
+
+
 
   
+
+male whereas in female it is used to cover vagina and cervix just before coitus so as to prevent the entry of ejaculated semen into the female reproductive tract. This can prevent conception. Condoms should be discarded after a single use. Condom also safeguards the user from AIDS and STDs. Condoms are made of polyurethane, latex and lambskin. **Diaphragms, cervical caps and vaults** are made of rubber and are inserted into the female reproductive tract to cover the cervix before coitus in order to prevent the sperms from entering the uterus. **c. Hormonal barrier** It prevents the ovaries from releasing the ova and thickens the cervical fluid which keeps the sperm away from ovum. **Oral contraceptives —** Pills are used to prevent ovulation by inhibiting the secretion of FSH and LH hormones. A combined pill is the most commonly used birth control pill. It contains synthetic progesterone and estrogen hormones. **Saheli,** contraceptive pill by Central Drug Research Institute (CDRI) in Lucknow, India contains a non-steroidal preparation called **Centchroman**. **d. Intrauterine Devices** (IUDs) Intrauterine devices are inserted by medical experts in the uterus through the vagina. These devices are available as copper releasing IUDs, hormone releasing IUDs and non-medicated IUDs. IUDs increase phagocytosis of sperm within the uterus. IUDs are the ideal contraceptives for females who want to delay pregnancy. It is one of the popular methods of contraception in India and has a success rate of 95 to 99%. **Copper releasing IUDs** differ from each other by the amount of copper. Copper  
 
 35 Reproductive Health
 
@@ -129,13 +128,26 @@ IUDs such as **Cu T-380 A, Nova T, Cu 7, Cu T 380 Ag, Multiload 375, etc.** rele
 
 voluntary or intentional termination of pregnancy in a non-surgical or non-invasive way. Early medical termination is extremely safe upto 12 weeks (the first trimester) of
 
-male whereas in female it is used to cover vagina and cervix just before coitus so as to prevent the entry of ejaculated semen into the female reproductive tract. This can prevent conception. Condoms should be discarded after a single use. Condom also safeguards the user from AIDS and STDs. Condoms are made of polyurethane, latex and lambskin. **Diaphragms, cervical caps and vaults** are made of rubber and are inserted into the female reproductive tract to cover the cervix before coitus in order to prevent the sperms from entering the uterus. **c. Hormonal barrier** It prevents the ovaries from releasing the ova and thickens the cervical fluid which keeps the sperm away from ovum. **Oral contraceptives —** Pills are used to prevent ovulation by inhibiting the secretion of FSH and LH hormones. A combined pill is the most commonly used birth control pill. It contains synthetic progesterone and estrogen hormones. **Saheli,** contraceptive pill by Central Drug Research Institute (CDRI) in Lucknow, India contains a non-steroidal preparation called **Centchroman**. **d. Intrauterine Devices** (IUDs) Intrauterine devices are inserted by medical experts in the uterus through the vagina. These devices are available as copper releasing IUDs, hormone releasing IUDs and non-medicated IUDs. IUDs increase phagocytosis of sperm within the uterus. IUDs are the ideal contraceptives for females who want to delay pregnancy. It is one of the popular methods of contraception in India and has a success rate of 95 to 99%. **Copper releasing IUDs** differ from each other by the amount of copper. Copper
 
-XII Std Zoology Chapter 3 EM.indd 35 18/12/2021 14:48:58
+
 
   
 
 36Reproductive Health
+
+pregnancy and generally has no impact on a women’s fertility. Abortion during the second trimester is more risky as the foetus becomes intimately associated with the maternal tissue. Government of India legalized MTP in 1971 for medical necessity and social consequences with certain restrictions like sex discrimination and illegal female foeticides to avoid its misuse. MTP performed illegally by unqualified quacks is unsafe and could be fatal. MTP of the first conception may have serious psychological consequences
+
+**3.6. Sexually Transmitted Diseases (STD)**
+
+Sexually transmitted diseases (STD) or Venereal diseases (VD) or Reproductive tract infections (RTI) are called as Sexually transmitted infections (STI). Normally STI are transmitted from person to person during intimate sexual contact with an infected partner. Infections like **Hepatitis-B** and **HIV** are transmitted sexually as well as by sharing
+
+Approximately half of uni failure, largely owing to in methods. The effectivene
+
+(intrauterine devices and contraceptive implan patch, or ring and is not altered in adolescents about the usage of intrauterine devices and reduce the number of unintended pregnancies
+
+According to World Health Organization (WHO), 2017 more than one million people globally acquires a sexually
+
+transmitted infection every day. India has the third largest HIV epidemic in the world, with 2.1 million people living with HIV.  
 
 of infusion needles, surgical instruments, etc with infected people, blood transfusion or from infected mother to baby. People in the age of 15 to 24 years are prone to these infections. The bacterial STI are gonorrhoea, syphilis, chancroid, chlamydiasis and lymphogranuloma venereum. The viral STI are genital herpes, genital warts, Hepatitis-B and AIDS**.** Trichomoniasis is a protozoan STI, and candidiasis is a fungal STI**.** STI caused by bacteria, fungi and protozoa or parasites, can be treated with antibiotics or other medicines, whereas STI caused by virus cannot be treated but the symptoms can be controlled by antiviral medications. Latex condoms usage greatly reduces the risk, but does not completely eliminate the risk of transmission of STI.
 
@@ -147,120 +159,150 @@ b. Use condoms.
 
 c. In case of doubt, consult a doctor for diagnosis and get complete treatment.
 
-pregnancy and generally has no impact on a women’s fertility. Abortion during the second trimester is more risky as the foetus becomes intimately associated with the maternal tissue. Government of India legalized MTP in 1971 for medical necessity and social consequences with certain restrictions like sex discrimination and illegal female foeticides to avoid its misuse. MTP performed illegally by unqualified quacks is unsafe and could be fatal. MTP of the first conception may have serious psychological consequences
+ntended pregnancies are due to contraceptive consistent or incorrect use of contraceptive
 
-**3.6. Sexually Transmitted Diseases (STD)**
+ss of **long-acting reversible contraception** ts) is superior to that of contraceptive pills,
 
-Sexually transmitted diseases (STD) or Venereal diseases (VD) or Reproductive tract infections (RTI) are called as Sexually transmitted infections (STI). Normally STI are transmitted from person to person during intimate sexual contact with an infected partner. Infections like **Hepatitis-B** and **HIV** are transmitted sexually as well as by sharing
-
-Approximately half of unintended pregnancies are due to contraceptive failure, largely owing to inconsistent or incorrect use of contraceptive methods. The effectiveness of **long-acting reversible contraception**
-
-(intrauterine devices and contraceptive implants) is superior to that of contraceptive pills, patch, or ring and is not altered in adolescents and young women. Educating young women about the usage of intrauterine devices and contraceptive implants would dramatically reduce the number of unintended pregnancies among women seeking family planning.
-
-According to World Health Organization (WHO), 2017 more than one million people globally acquires a sexually
-
-transmitted infection every day. India has the third largest HIV epidemic in the world, with 2.1 million people living with HIV.
+and young women. Educating young women contraceptive implants would dramatically among women seeking family planning.
 
 **TNHSP** (Tamilnadu health systems project), a unit of the Health and family welfare department of the Government of Tamilnadu
 
 does free screening for cervical and breast cancer.
 
-XII Std Zoology Chapter 3 EM.indd 36 18/12/2021 14:48:58
+
 
 
   
 
-37 Reproductive Health
+**Name of the Disease Causative agent Sym**
 
-**Name of the Disease Causative agent Symptom Incubation**
-
-**period**
-
-**Bacterial STI**
+**Bacteri**
 
 **Gonorrhoea** _Neisseria gonorrhoeae_
 
-Affects the urethra, rectum and throat and in females the cervix also get affected.
+Affe and affe
 
-Pain and pus discharge in the genital tract and burning sensation during urination.
-
-2 to 5 days
+Pain and
 
 **Syphilis** _Treponema pallidum_
 
-**Primary stage** Formation of painless ulcer on the external genitalia. **Secondary stage** Skin lesions, rashes, swollen joints and fever and hair loss. **Tertiary stage** Appearance of chronic ulcers on nose, lower legs and palate. Loss of movement, mental disorder, visual impairment, heart problems, gummas (soft non-cancerous growths) etc.,
+**Prim** Form exte **Seco** Skin feve **Tert** App lowe men prob grow
 
-10 to 90 days
+**Chlamydiasis** _Chlamydia trachomatis_ Trac colu trac
 
-**Chlamydiasis** _Chlamydia trachomatis_ Trachoma , affects the cells of the columnar epithelium in the urinogenital tract, respiratory tract and conjunctiva. 2 to 3 weeks
+**Lymphogranuloma venereum** _Chlamydia trachomatis_
 
-or upto 6 weeks**Lymphogranuloma**
+Cuta urith Loca elep
 
-**venereum** _Chlamydia trachomatis_
-
-Cutaneous or mucosal genital damage, urithritis and endocervicitis. Locally harmful ulcerations and genital elephantiasis.
-
-**Viral STI**
+**Viral**
 
 **Genital herpes** Herpes simplex virus
 
-Sores in and around the vulva, vagina, urethra in female or sores on or around the penis in male.
+Sore uret the p
 
-Pain during urination, bleeding between periods.
+Pain betw
 
-Swelling in the groin nodes.
-
-2- 21 days (average 6 days)
+Swe
 
 **Genital warts** Human papilloma virus (HPV)
 
-Hard outgrowths (Tumour) on the external genitalia, cervix and perianal region.
-
-1-8 months
+Har the e peri
 
 **Hepatitis-B** Hepatitis B virus(HBV)
 
-Fatigue, jaundice, fever, rashes and stomach pain.
+Fati stom
 
-Liver cirrhosis and liver failure occur in the later stage.
-
-30-80 days
+Live the
 
 **AIDS** Human immunodeficiency virus(HIV)
 
-Enlarged lymph nodes, prolonged fever, prolonged diarrhoea, weight reduction, night sweating.
+Enla prol nigh
+
+**Table 3.1. STD and their symptoms**  
+
+37 Reproductive Health
+
+**ptom Incubation period**
+
+**al STI** cts the urethra, rectum and throat
+
+in females the cervix also get cted.
+
+and pus discharge in the genital tract burning sensation during urination.
+
+2 to 5 days
+
+**ary stage** ation of painless ulcer on the
+
+rnal genitalia. **ndary stage** lesions, rashes, swollen joints and r and hair loss. **iary stage** earance of chronic ulcers on nose, r legs and palate. Loss of movement, tal disorder, visual impairment, heart lems, gummas (soft non-cancerous ths) etc.,
+
+10 to 90 days
+
+homa , affects the cells of the mnar epithelium in the urinogenital t, respiratory tract and conjunctiva. 2 to 3 weeks
+
+or upto 6 weeks
+
+neous or mucosal genital damage, ritis and endocervicitis. lly harmful ulcerations and genital
+
+hantiasis.
+
+**STI** s in and around the vulva, vagina, hra in female or sores on or around enis in male.
+
+during urination, bleeding een periods.
+
+lling in the groin nodes.
+
+2- 21 days (average 6 days)
+
+d outgrowths (Tumour) on xternal genitalia, cervix and
+
+anal region. 1-8 months
+
+gue, jaundice, fever, rashes and ach pain.
+
+r cirrhosis and liver failure occur in later stage.
+
+30-80 days
+
+rged lymph nodes, prolonged fever, onged diarrhoea, weight reduction, t sweating.
 
 2 to 6 weeks even more than 10 years
 
-**Table 3.1. STD and their symptoms**
 
-XII Std Zoology Chapter 3 EM.indd 37 18/12/2021 14:48:58
 
+
+
+
+| Name of the Disease |Causative agent |Symptom |Incubationperiod |
+|------|------|------|------|
+| Bacterial STI |
+| Gonorrhoea |Neisseria gonorrhoeae |Af fe c ts t he ur et hra, r e c tum a nd t hr o atand in f em a les t he cer v ix a ls o g etaf fe c te d.Pain and pus discharge in the genital tract and burning sensation during urination. |2 to 5 days |
+| Syphilis |Treponema pallidum |Primar y stageFormation of painless ulcer on the external genitalia. Secondar y stageSkin lesions, rashes, swollen joints and fever and hair loss.Tertiary stageAppearance of chronic ulcers on nose,lower legs and palate. Loss of movement,mental disorder, visual impairment, heartproblems, gummas (so non-cancerousgrowths) etc., |10 to 90 days |
+| Chlamydiasis |Chlamydia trachomatis |Trachoma , aects the cells of the columnar epithelium in the urinogenital tract, respirator y tract and conjunctiva. |2 to 3 weeks or upto 6 weeks |
+| Lymphogranulomavenereum |Chlamydia trachomatis |Cutaneous or mucosal genital damage, urithritis and  endocer vicitis. Locally harmful ulcerations and genital elephantiasis. |
+| Viral STI |
+| Genital herpes |Herpes simplex virus |Sores in and around the vulva, vagina, urethra in female or sores on or around the penis in male. Pain during urination, bleedingbetween periods.Swelling in the groin nodes. |2- 21 days (average 6 days) |
+| Genital warts |Human papilloma virus (HPV) |Hard outgrowths  (Tumour) onthe external genitalia, cer vix andperianal region. |1-8 months |
+| Hepatitis-B |Hepatitis B virus (HBV) |Fat igue , j aun dice , f e ver, ra shes a ndstomac h p ain.Liver cirrhosis and liver failure occur in the  later stage. |30-80 days |
   
 
 38Reproductive Health
 
-**Name of the Disease Causative agent Symptom Incubation**
+**Name of the Disease Causative agent Sym**
 
-**period**
-
-**Fungal STI**
+**Funga**
 
 **Candidiasis** _Candida albicans_
 
-Attacks mouth, throat, intestinal tract and vagina.
+Atta and
 
-Vaginal itching or soreness, abnormal vaginal discharge and pain during urination.
+Vag vagi urin
 
-\_
-
-**Protozoan STI**
+**Protozo**
 
 **Trichomoniasis** _Trichomonas vaginalis_
 
-Vaginitis , greenish yellow vaginal discharge, itching and burning sensation, urethritis, epididymitis and prostatitis
-
-4-28 days
+Vag disc sens pros
 
 **Cervical cancer** Cervical cancer is caused by a sexually
 
@@ -272,7 +314,19 @@ The most common symptoms and signs of cervical cancer are pelvic pain, increased
 
 Cervical cancer can be diagnosed by a Papanicolaou smear (PAP smear) combined with an HPV test. X-Ray, CT scan, MRI and a PET scan may also be used to determine the stage of cancer. The treatment options for cervical cancer include radiation therapy, surgery and chemotherapy.
 
-Modern screening techniques can detect precancerous changes in the cervix. Therefore screening is recommended for women above 30 years once in a year. Cervical cancer can be prevented with vaccination. Primary prevention begins with HPV vaccination of girls aged 9 – 13 years, before they become sexually active. Modification in lifestyle can also help in preventing cervical cancer. Healthy diet, avoiding tobacco usage, preventing early marriages, practicing monogamy and regular exercise minimize the risk of cervical cancer.
+Modern screening techniques can detect precancerous changes in the cervix. Therefore screening is recommended for women above 30 years once in a year. Cervical cancer can be prevented with vaccination. Primary prevention begins with HPV vaccination of girls aged 9 – 13 years, before they become sexually active. Modification in lifestyle can also help in preventing cervical cancer. Healthy diet, avoiding tobacco usage, preventing early marriages, practicing monogamy and regular exercise minimize the risk of cervical cancer.  
+
+**ptom Incubation period**
+
+**l STI** cks mouth, throat, intestinal tract vagina.
+
+inal itching or soreness, abnormal nal discharge and pain during ation.
+
+\_
+
+**an STI** initis , greenish yellow vaginal harge, itching and burning ation, urethritis, epididymitis and tatitis
+
+4-28 days
 
 **3.7. Infertility** Inability to conceive or produce children
 
@@ -288,11 +342,15 @@ fibroids and endometriosis are the most common causes of infertility in women.
 
 • Undescended testes and swollen veins (varicocoele) in scrotum.
 
-XII Std Zoology Chapter 3 EM.indd 38 18/12/2021 14:48:58
 
+
+
+
+
+| Name of the Disease |Causative agent |Symptom |Incubationperiod |
+|------|------|------|------|
+| Fungal STIAttacks mouth, throat, intestinal tract and vagina.Candidiasis Candida albicans Vaginal itching or soreness, abnormal  _vaginal discharge and pain during Protozurin oa an Stion. TIVaginitis , greenish yellow vaginal discharge,  itching and burning Trichomoniasis Trichomonas vaginalis 4-28 dayssensation, urethritis, epididymitis and prostatitis |
   
-
-39 Reproductive Health
 
 • Tight clothing in men may raise the temperature in the scrotum and affect sperm production.
 
@@ -314,7 +372,9 @@ with low sperm count. The semen is collected either from the husband or from a h
 
 **_In Vitro_ Fertilization (IVF) or Test tube baby**
 
-In this technique, sperm and eggs are allowed to unite outside the body in a laboratory. One or more fertilized eggs may be
+In this technique, sperm and eggs are allowed to unite outside the body in a laboratory. One or more fertilized eggs may be  
+
+39 Reproductive Health
 
 transferred into the woman’s uterus, where they may implant in the uterine lining and develop. Excess embryos may be cryopreserved (frozen) for future use. Initially, IVF was used to treat women with blocked, damaged, or absent fallopian tubes. Today, IVF is used to treat many causes of infertility. The basic steps in an IVF treatment cycle are ovarian stimulation, egg retrieval, fertilization, embryo culture, and embryo transfer.
 
@@ -330,7 +390,7 @@ transfer. Embryo cryopreservation can provide an additional opportunity for preg
 
 stage is transferred to the fallopian tube by laparoscopy. The zygote continues its natural divisions and migrates towards the uterus where it gets implanted.
 
-XII Std Zoology Chapter 3 EM.indd 39 18/12/2021 14:48:58
+
 
 
   
@@ -357,7 +417,7 @@ reproduction or agreement whereby a woman agrees to carry a pregnancy for anothe
 
 spermatozoa in the ejaculate semen on atleast two occasions and is observed approximately in 1% of the population.
 
-**Micro-Testicular Sperm Extraction (TESE)** Microsurgical sperm retrieval from the testicle involves a small midline incision in the scrotum, through which one or both testicles can be seen. Under the microscope, the seminiferous tubules are dilated and small amount of testicular tissue in areas of active sperm production are removed and improved for sperm yield compared to traditional biopsy techniques.
+**Micro-Testicular Sperm Extraction (TESE)** Microsurgical sperm retrieval from the testicle involves a small midline incision in the scrotum, through which one or both testicles can be seen. Under the microscope, the seminiferous tubules are dilated and small amount of testicular tissue in areas of active sperm production are removed and improved for sperm yield compared to traditional biopsy techniques.  
 
 **3.9. Detection of foetal disorders during early pregnancy**
 
@@ -383,54 +443,10 @@ Amniotic Fluid
 
 **Fig. 3.1 Amniocentesis**
 
-XII Std Zoology Chapter 3 EM.indd 40 18/12/2021 14:48:59
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
   
-
-41 Reproductive Health
 
 Amniocentesis is generally performed in a pregnant woman between the 15th and 20th weeks of pregnancy by inserting a long, thin needle through the abdomen into the amniotic sac to withdraw a small sample of amniotic fluid. The amniotic fluid contains cells shed from the foetus.
 
@@ -439,6 +455,24 @@ Amniocentesis is generally performed in a pregnant woman between the 15th and 20
 **Foetoscope** Foetoscope is used to monitor the foetal
 
 heart rate and other functions during late pregnancy and labour. The average foetal heart rate is between 120 and 160 beats per minute. An abnormal foetal heart rate or pattern may mean that the foetus is not getting enough oxygen and it indicates other problems.
+
+BREAST SELF EXAMINATION AND EARLY DIAGNOSIS OF CANCER 1. Breast is divided
+
+into 4 quadrants and the center (Nipple) which is the 5th quadrant.
+
+2\. Each quadrant of the breast is felt for lumps using the palm of the opposite hand.
+
+3\. The examination is done in both lying down and standing positions, monthly once after the 1st week of menstrual cycle.
+
+This way if there are lumps or any deviation of the nipple to one side or any blood discharge from the nipple we can identify cancer at an early stage. Mammograms are usually done for women above the age of 40 years and for young girls and women below 40 years, ultrasound of the breast aids in early diagnosis of breast cancer.
+
+1 2
+
+3 4
+
+5  
+
+41 Reproductive Health
 
 A hand-held doppler device is often used during prenatal visits to count the foetal heart rate. During labour, continuous electronic foetal monitoring is often used.
 
@@ -460,27 +494,38 @@ An overall improvement in reproductive health has taken place in our country as 
 
 • Syphilis and gonorrhoea are commonly called as international diseases.
 
-BREAST SELF EXAMINATION AND EARLY DIAGNOSIS OF CANCER 1. Breast is divided
 
-into 4 quadrants and the center (Nipple) which is the 5th quadrant.
 
-2\. Each quadrant of the breast is felt for lumps using the palm of the opposite hand.
-
-3\. The examination is done in both lying down and standing positions, monthly once after the 1st week of menstrual cycle.
-
-This way if there are lumps or any deviation of the nipple to one side or any blood discharge from the nipple we can identify cancer at an early stage. Mammograms are usually done for women above the age of 40 years and for young girls and women below 40 years, ultrasound of the breast aids in early diagnosis of breast cancer.
-
-1 2
-
-3 4
-
-5
-
-XII Std Zoology Chapter 3 EM.indd 41 18/12/2021 14:48:59
 
   
 
 42Reproductive Health
+
+requirements for reproductive health, one is adviced to use them to avoid pregnancy or to delay or space pregnancy.
+
+Diseases or infections transmitted through coitus are called Sexually transmitted infections (STIs). Pelvic inflammatory diseases (PIDs), still birth, infertility are some of the complications of STDs. Early detection facilitates better cure of these diseases. Avoiding coitus with unknown/ multiple partners, use of condoms during coitus are some of the simple precautions to avoid contracting STIs. Inability to conceive or produce children even after unprotected sexual cohabitation is called infertility. Various methods are now available to help such couples. _In vitro_ fertilization followed by transfer of embryo into the female genital tract is one such method.
+
+**Evaluation** 1\. Which of the following
+
+is correct regarding HIV, hepatitis B, gonorrhoea and trichomoniasis? (a) Gonorrhoea is a STD whereas
+
+others are not. (b) Trichomoniasis is a viral disease
+
+whereas others are bacterial. **(c) HIV is a pathogen whereas others**
+
+**are diseases.** (d) Hepatitis B is eradicated completely
+
+whereas others are not.
+
+2\. Which one of the following groups includes sexually transmitted diseases caused by bacteria only?
+
+(a) Syphilis, gonorrhoea and candidiasis **(b) Syphilis, chlamydiasis and**
+
+**gonorrhoea** (c) Syphilis, gonorrhoea and
+
+trichomoniasis (d) Syphilis, trichomoniasis and
+
+pediculosis  
 
 3\. Identify the correct statements from the following
 
@@ -526,71 +571,17 @@ Increases phagocytosis of sperms, suppresses sperm motility and fertilizing capa
 
 (a) Both statements 1 and 2 are correct and statement 2 is the correct explanation of statement 1.
 
-requirements for reproductive health, one is adviced to use them to avoid pregnancy or to delay or space pregnancy.
-
-Diseases or infections transmitted through coitus are called Sexually transmitted infections (STIs). Pelvic inflammatory diseases (PIDs), still birth, infertility are some of the complications of STDs. Early detection facilitates better cure of these diseases. Avoiding coitus with unknown/ multiple partners, use of condoms during coitus are some of the simple precautions to avoid contracting STIs. Inability to conceive or produce children even after unprotected sexual cohabitation is called infertility. Various methods are now available to help such couples. _In vitro_ fertilization followed by transfer of embryo into the female genital tract is one such method.
-
-**Evaluation** 1\. Which of the following
-
-is correct regarding HIV, hepatitis B, gonorrhoea and trichomoniasis? (a) Gonorrhoea is a STD whereas
-
-others are not. (b) Trichomoniasis is a viral disease
-
-whereas others are bacterial. **(c) HIV is a pathogen whereas others**
-
-**are diseases.** (d) Hepatitis B is eradicated completely
-
-whereas others are not.
-
-2\. Which one of the following groups includes sexually transmitted diseases caused by bacteria only?
-
-(a) Syphilis, gonorrhoea and candidiasis **(b) Syphilis, chlamydiasis and**
-
-**gonorrhoea** (c) Syphilis, gonorrhoea and
-
-trichomoniasis (d) Syphilis, trichomoniasis and
-
-pediculosis
-
-XII Std Zoology Chapter 3 EM.indd 42 18/12/2021 14:48:59
 
 
 
+
+
+| (a) |Hormonalcontraceptive |Prevents entr y of sperms, prevent ovulation and fertilization |
+|------|------|------|
+| (b) |Vasectomy |Prevents spermatogenesis |
+| (c) |Barriermethod |Prevents fertilization |
+| (d) |Intra uterine device |Increases phagocytosis of sperms, suppresses sperm motility and fertilizing capacity of sperms |
   
-
-43 Reproductive Health
-
-10\. Correct the following statements
-
-a) Transfer of an ovum collected from donor into the fallopian tube is called ZIFT.
-
-b) Transfering of an embryo with more than 8 blastomeres into uterus is called GIFT.
-
-c) Multiload 375 is a hormone releasing IUD.
-
-11\. Which method do you suggest the couple to have a baby, if the male partner fails to inseminate the female or due to very low sperm count in the ejaculate?
-
-12\. Expand the following a) ZIFT b) ICSI
-
-13\. What are the strategies to be implemented in India to attain total reproductive health?
-
-14\. Differentiate foeticide and infanticide.
-
-15\. Describe the major STDs and their symptoms.
-
-16\. How are STDs transmitted?
-
-17\. Write the preventive measures of STDs.
-
-18\. The procedure of GIFT involves the transfer of female gametes into the fallopain tube, can gametes be transferred to the uterus to achieve the same result? Explain.
-
-19\. Amniocentesis, the foetal sex determination test, is banned in our country, Is it necessary? Comment.
-
-20\. Explain the various barrier methods to control human population.
-
-21\. Open Book Assessment
-
-‘Healthy reproduction, legally checked birth control measures and proper family planning programmes are essential for the survival of mankind’ Justify.
 
 (b) Both statements 1 and 2 are correct but statement 2 is not the correct explanation of statement 1.
 
@@ -648,9 +639,64 @@ C. Non medicated IUD (iii) Saheli D. Mini pills (iv) Multiload-375
 
 **IUDs**
 
-(Barriers, Lactational amenorrhoea, CuT, Tubectomy)
+(Barriers, Lactational amenorrhoea, CuT, Tubectomy)  
 
-XII Std Zoology Chapter 3 EM.indd 43 18/12/2021 14:48:59
+43 Reproductive Health
+
+10\. Correct the following statements
+
+a) Transfer of an ovum collected from donor into the fallopian tube is called ZIFT.
+
+b) Transfering of an embryo with more than 8 blastomeres into uterus is called GIFT.
+
+c) Multiload 375 is a hormone releasing IUD.
+
+11\. Which method do you suggest the couple to have a baby, if the male partner fails to inseminate the female or due to very low sperm count in the ejaculate?
+
+12\. Expand the following a) ZIFT b) ICSI
+
+13\. What are the strategies to be implemented in India to attain total reproductive health?
+
+14\. Differentiate foeticide and infanticide.
+
+15\. Describe the major STDs and their symptoms.
+
+16\. How are STDs transmitted?
+
+17\. Write the preventive measures of STDs.
+
+18\. The procedure of GIFT involves the transfer of female gametes into the fallopain tube, can gametes be transferred to the uterus to achieve the same result? Explain.
+
+19\. Amniocentesis, the foetal sex determination test, is banned in our country, Is it necessary? Comment.
+
+20\. Explain the various barrier methods to control human population.
+
+21\. Open Book Assessment
+
+‘Healthy reproduction, legally checked birth control measures and proper family planning programmes are essential for the survival of mankind’ Justify.
+
+
+
+
+
+
+| C olumn I |C olumn II |
+|------|------|
+| A. Copper releasing IUD |(i) LNG-20 |
+| B. Hormone releasing |(ii) Lippes loop IUD |
+| C. Non medicated IUD |(iii) Saheli |
+| D. Mini pills |(iv) Multiload-375 |
+
+
+
+|------|
+
+
+
+
+|------|
+
+
 
   
 
@@ -662,5 +708,12 @@ XII Std Zoology Chapter 3 EM.indd 43 18/12/2021 14:48:59
 
 **M ap**
 
-XII Std Zoology Chapter 3 EM.indd 44 18/12/2021 14:49:00
+
+
+
+
+
+| barrier Condom Diaphragm,Mechanical |
+
+
 

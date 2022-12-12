@@ -131,7 +131,7 @@ _Bacillus._
 
 _Pseudomonas fluorescence_
 
-![: Classification of Biofertilizers**](9.1.png "img-class")
+
 
 **Indian Plant Breeders** a. **Dr. M. S. Swaminathan** –
 
@@ -153,7 +153,7 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 **(a)(b)**
 
-![ (a)** : Root nodules occur on root **(b)** C.S. of Root nodule](9.2.png "img-class")
+![ (a)** : Root nodules occur on root **(b)** C.S. of Root nodule](root-nodules-occur-on-root.png "img-class")
 
 **_Azolla_** _Azolla is a free-floating water fern that fixes_ the atmospheric nitrogen in association with nitrogen fixing blue green alga Anabaena azollae. It is used as a bio-fertilizer for wetland rice cultivation and is known to contribute 40 – 60 kg/ha/crop. The agronomic potential of Azolla is quite significant particularly for increasing the yield of rice crop, as it quickly decompose in soil.
 
@@ -161,7 +161,7 @@ g. **Choudhary Ram Dhan** – Wheat breeder, who is famous for C-591 variety of 
 
 **(a)**
 
-![: (a) Azolla in paddy field** (b) _Azolla_](9.3.png "img-class")
+![: (a) Azolla in paddy field** (b) _Azolla_](azolla-in-paddy-field.png "img-class")
 
 **Arbuscular mycorrhizae** Arbuscular mycorrhizae (AM) is formed by
 
@@ -201,11 +201,11 @@ Zn2+
 
 Local resistance to root pathogens
 
-![ Benefits of AM colonisation** Apart from increasing the availability of phosphorus, AM provides necessary strength to resist disease, germs and unfavourable weather conditions. It also assures water availability.](9.4.png "img-class")
+![ Benefits of AM colonisation** Apart from increasing the availability of phosphorus, AM provides necessary strength to resist disease, germs and unfavourable weather conditions. It also assures water availability.](benefits-of-am-colonisation.png "img-class")
 
 **Seaweed** **Liquid Fertilizer** Seaweed liquid f e r t i l i z e r **(**SLF) contains c y t o k i n i n , g i b b e r e l l i n s and auxin apart from macro and micro n u t r i e n t s . Most seaweed based fertilizers are made from kelp(brown algae) which grows to length of 150 metres. Liquid seaweed fertilizer is not only organic but also eco-friendly. The alginates in the seaweed that reacts with metals in the soil and form long, cross-linked polymers in the
 
-![: Seaweed** – Kelp](9.5.png "img-class")
+![: Seaweed** – Kelp](seaweed-kelp.png "img-class")
 
 soil. These polymers improve the crumbing in the soil, swell up when they get wet and retain moisture for a long time. They are especially useful in organic gardening which provides carbohydrates for plants. Seaweed has more than 70 minerals, vitamins and enzymes. It promotes vigorous growth. Improves resistance of plants to frost and disease. Seeds soaked in seaweed extract germinate much rapidly and develop a better root system.
 
@@ -213,17 +213,16 @@ soil. These polymers improve the crumbing in the soil, swell up when they get we
 
 **_Trichoderma_** species are free-living fungi that are common in soil and root ecosystem. They have been recognized as bio-control agent for (1) the control of plant disease (2) ability to enhance root growth development (3) crop productivity (4) resistance to abiotic stress and (5) uptake and use of nutrients.
 
-![:** (b) Biopesticide](9.6.png "img-class")
 
 **TRICHODERMA VIRIDE** A Potential bio-control agent for
 
 soil borne diseases
 
-![:** (a) _Trichoderma_ fungi](9.6.png "img-class")
+![:** (a) _Trichoderma_ fungi](trichoderma-fungai-biopesticide.png "img-class")
 
 **_Beauveria_** species is an entomo-pathogenic fungus that grows naturally in soils throughout the world. It acts as a parasite on various arthropod species causing white muscardine disease without affecting the plant health and growth. It also controls damping off of tomato caused by _Rhizoctonia solani_.
 
-![:** (a) _Beauveria_ Fungi (b) _Beauveria_ sps infected insect on green plant](9.7.png "img-class")
+
 
 (c)Entomopathogenic fungi on insets
 
@@ -257,7 +256,7 @@ condition, salinity, temperature and drought.
 ### Steps in Plant Breeding
  The main steps in plant breeding are given below
 
-![:** Steps in Plant Breeding](9.8.png "img-class")
+![:** Steps in Plant Breeding](steps-in-plant-breeding.png "img-class")
 
 Creation of Genetic
 
@@ -326,7 +325,7 @@ L1 L3........ LNL2
 
 Register and market the best pure lines
 
-![: Mass** selection vs Pureline selection](9.9.png "img-class")
+![: Mass** selection vs Pureline selection](mass-selection-vs-pureline-selection.png "img-class")
 
 National Bureau of plant Genetic Resources (NBPGR) The Bureau is responsible for
 
@@ -336,7 +335,7 @@ introduction and maintenance of germ plasm of various agricultural and horticult
 
 **c. Clonal Selection:** In asexually propagated crop, progenies derived from a plant resemble in genetic constitution with the parent plant as they are mitotically divided. Based on their phenotypic appearance, clonal selection is employed to select improved variety from a mixed population (clones). The selected plants are multiplied through vegetative propagation to give rise to a clone. The genotype of a clone remains unchanged for a long period of time.
 
-![** Clonal Selection](9.10.png "img-class")
+![** Clonal Selection](clonal-selection.png "img-class")
 
 **1st**
 
@@ -385,7 +384,7 @@ plants of the desired characters are selected. It should be tested for their hom
 
 3. Bagging: The stigma of the flower is protected against any undesirable pollen grains, by covering it with a bag .
 
-![ a & b**: Emasculation and Bagging (Wheat)](9.11.png "img-class")
+![ a & b**: Emasculation and Bagging (Wheat)](emasculation-and-bagging.png "img-class")
 
 
 4. **Crossing:** Transfer of pollen grains from selected male flower to the stigma of the female emasculated flower.
@@ -404,7 +403,7 @@ ii. Intervarietal hybridization - The cross between the plants belonging to two 
 
 iii. Interspecific hybridization - The cross between the plants belonging to different species belonging to the same genus is also called intragenic hybridization. It is commonly used for transferring the genes of disease, insect, pest and drought resistance from one species to another. **Example:** Gossypium hirsutum x Gossypium arboreum – Deviraj.
 
-![ Flower** - (a) _G. hirsutum_ (b) _G. arboreum_](9.12.png "img-class")
+
 
 **(a) (b)**
 
@@ -592,7 +591,6 @@ The seeds are stored in four ply sealed envelopes, and then placed into plastic 
 
 devices and nano material that have a unique role in agriculture. For example Nano biosensors to detect moisture content and nutrient status in the soil. Nanotechnology can offer Nano-fertilizers for efficient nutrient management, Nano- herbicides for selective weed control in crop field, Nanonutrient particles to increase seed vigor, Nano-pesticides for efficient pest management. Hence, nanotechnology have greater role in crop production with environmental safety, ecological sustainability and economic stability.
 
-![ Svalbard** seed bank](9.13.png "img-class")
 
 ### Seed Certification
 Seed certification is a legally sanctioned system for quality control of seed multiplication and production. The purpose of this certification is to maintain the seeds and make them available to the public. Through certification, high quality seeds and propagating materials of notified kind and variety are grown and distributed to ensure genetic identity and purity.

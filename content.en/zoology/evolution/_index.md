@@ -2,15 +2,10 @@
 title: 'Evolution'
 weight: 7
 ---
+
   
 
 92
-
-The term evolution is used to describe heritable changes in one or more
-
-characteristics of a population of species from one generation to the other. The present state of mankind on earth is the outcome of three kinds of evolution - chemical, organic and social or cultural evolution.
-
-Radiometric dating of meteorites yields an estimated age for the solar system and for earth as around 4.5 – 4.6 billion years. The new born earth remained inhospitable for at least few hundred millions years. At first it was too hot. This is because the collisions of the planetesimals that coalesced to form earth released much heat to melt the entire planet. Eventually outer surface of the earth cooled and solidified to form a crust. Water vapour released from the planet’s interior cooled and condensed to form oceans. Hence origin of life can be reconstructed using indirect evidences. Consequently, biologists have turned to gather disparate bits of information and filling them together like pieces of jig saw puzzle. Many theories have been proposed to explain the origin of life. Few have been discussed in this chapter.
 
 UNIT - II
 
@@ -66,18 +61,20 @@ _➢ Studies the geological time scale._
 
 _➢ Understands the importance of isolating_
 
-_mechanisms in speciation._
+_mechanisms in speciation._  
+
+The term evolution is used to describe heritable changes in one or more
+
+characteristics of a population of species from one generation to the other. The present state of mankind on earth is the outcome of three kinds of evolution - chemical, organic and social or cultural evolution.
+
+Radiometric dating of meteorites yields an estimated age for the solar system and for earth as around 4.5 – 4.6 billion years. The new born earth remained inhospitable for at least few hundred millions years. At first it was too hot. This is because the collisions of the planetesimals that coalesced to form earth released much heat to melt the entire planet. Eventually outer surface of the earth cooled and solidified to form a crust. Water vapour released from the planet’s interior cooled and condensed to form oceans. Hence origin of life can be reconstructed using indirect evidences. Consequently, biologists have turned to gather disparate bits of information and filling them together like pieces of jig saw puzzle. Many theories have been proposed to explain the origin of life. Few have been discussed in this chapter.
 
 _"Each has his own tree of ancestors, but at the top of all sits probably arboreal"_
-
-XII Std Zoology Chapter 6 EM.indd 92 18/12/2021 14:52:42
 
 
 
 
   
-
-93 Evolution
 
 **6.1 Origin of life – Evolution of life forms Theory of special creation** states that
 
@@ -91,7 +88,9 @@ According to **the theory of spontaneous generation** or Abiogenesis, living org
 
 According to the **theory of biogenesis** life arose from pre-existing life. The term biogenesis also refers to the biochemical process of production of living organisms This term was coined by Henry Bastian.
 
-According to the **theory of chemical evolution** primitive organisms in the primordial environment of the earth evolved spontaneously from inorganic substances and
+According to the **theory of chemical evolution** primitive organisms in the primordial environment of the earth evolved spontaneously from inorganic substances and  
+
+93 Evolution
 
 physical forces such, as lightning, UV radiations, volcanic activities, etc.,., Oparin (1924) suggested that the organic compounds could have undergone a series of reactions leading to more complex molecules. He proposed that the molecules formed colloidal aggregates or ‘coacervates’ in an aqueous environment. The coacervates were able to absorb and assimilate organic compounds from the environment. Haldane (1929) proposed that the primordial sea served as a vast chemical laboratory powered by solar energy. The atmosphere was oxygen free and the combination of CO2, NH3 and UV radiations gave rise to organic compounds. The sea became a ‘hot’ dilute soup containing large populations of organic monomers and polymers. They envisaged that groups of monomers and polymers acquired lipid membranes and further developed into the first living cell. Haldane coined the term prebiotic soup and this became the powerful symbol of the Oparin-Haldane view on the origin of life (1924-1929).
 
@@ -101,7 +100,7 @@ The duration of the earth’s history has been divided into **eras** that includ
 
 The Paleozoic era is characterized by abundance of fossils of marine invertebrates. Towards the later half, other vertebrates (marine and terrestrial) except birds and mammals
 
-XII Std Zoology Chapter 6 EM.indd 93 18/12/2021 14:52:42
+
 
 
   
@@ -110,7 +109,7 @@ XII Std Zoology Chapter 6 EM.indd 93 18/12/2021 14:52:42
 
 ER A YEARS IN
 
-MILLION PERIOD EPOCH FAUNA FLORA
+MILLION PERIOD EPOCH
 
 C en
 
@@ -120,19 +119,13 @@ c
 
 1 Quaternary
 
-Recent (Holocene) Age of Mammals Angiosperms
+Recent (Holocene)
 
-Monocotyledons 6 Pleistocene Age of Human beings
-
-Age of Angiosperms - Dicotyledons
-
-10
+6 Pleistocene 10
 
 Tertiary
 
-Pliocene Human evolution 15 Miocene
-
-Mammals and birds 20 Oligocene
+Pliocene 15 Miocene 20 Oligocene
 
 100 Eocene
 
@@ -146,11 +139,7 @@ c
 
 125 Cretaceous
 
-(Golden age of Reptiles) Rise of Dinesurs
-
-Sphenopsides, Ginkgos, Gnetales, (Dicotyledons)
-
-150 Jurassic Herbaceous lycopods, Ferns, Conifers, Cycads
+150 Jurassic
 
 180 Triassic
 
@@ -160,23 +149,21 @@ oz oi
 
 c
 
-205 Permian Mammal like reptiles Arborescent lycopods
+205 Permian
 
 230 Carboniferous
 
-Pennsylvanian Earliest reptiles Seed ferns and Bryophytes
+Pennsylvanian
 
-255 Mississippian Earliest Amphibians and abundant Echinoderms
+255 Mississippian
 
-315 Devonian Age of fishes Progymnosperms
+315 Devonian
 
-350 Silurian Earliest fishes and land invertebrates Zosterophyllum
+350 Silurian
 
-430 Ordovician Dominance of invertebrates
+430 Ordovician
 
-Appearance of first land plants
-
-510 Cambrian Fossil invertebrates Origin of algae
+510 Cambrian
 
 Pr ec
 
@@ -186,23 +173,96 @@ ia n
 
 3000
 
-Upper Multicellular organisms
+Upper
 
-Middle Appearance of eukaryotes
+Middle
 
-Lower Planktons prokaryotes
+Lower
 
 **Table 6.1 Geological Time Scale**
 
-appeared. The six periods of Paleozoic era in order from oldest to the youngest are Cambrian (Age of invertebrates), Ordovician (fresh water fishes, Ostracoderms, various types of Molluscs), Silurian (origin of fishes), Devonian (Age of fishes, many types of fishes such as lung fishes, lobe finned fishes and
+appeared. The six periods of Paleozoic era in order from oldest to the youngest are Cambrian (Age of invertebrates), Ordovician (fresh water fishes, Ostracoderms, various types of Molluscs), Silurian (origin of fishes), Devonian (Age of fishes, many types of fishes such as lung fishes, lobe finned fishes and  
+
+FAUNA FLORA
+
+Age of Mammals Angiosperms Monocotyledons
+
+Age of Human beings
+
+Age of Angiosperms - Dicotyledons
+
+Human evolution
+
+Mammals and birds
+
+(Golden age of Reptiles) Rise of Dinesurs
+
+Sphenopsides, Ginkgos, Gnetales, (Dicotyledons)
+
+Herbaceous lycopods, Ferns, Conifers, Cycads
+
+Mammal like reptiles Arborescent lycopods
+
+Earliest reptiles Seed ferns and Bryophytes
+
+Earliest Amphibians and abundant Echinoderms Age of fishes Progymnosperms Earliest fishes and land invertebrates Zosterophyllum
+
+Dominance of invertebrates
+
+Appearance of first land plants
+
+Fossil invertebrates Origin of algae
+
+Multicellular organisms
+
+Appearance of eukaryotes Planktons prokaryotes
 
 ray finned fishes), Mississippian (earliest amphibians, Echinoderms), Pennsylvanian (earliest reptiles), Permian (mammal like reptiles).
 
 **Mesozoic era** (dominance of reptiles) called the **Golden age of reptiles**, is divided into three periods namely, Triassic (origin of egg laying mammals),
 
-XII Std Zoology Chapter 6 EM.indd 94 18/12/2021 14:52:42
 
+
+
+
+
+| AER |YEARS  INMILLI ON |PERI OD |EPO CH |FAU NA |F L OR A |
+|------|------|------|------|------|------|
+| cioozenC |1 |Quaternar y |R e cen t(Holo cen e) |Age o f M amm a ls |Ang ios p er msMono co t y le do ns |
+| 6 |Plei sto cen e |Age o f H um an b ein gs |Age  o f Ang ios p er ms -Dico t y le do ns |
+| 10 |Tertiar y |Plio cen e |Hu man  e volut i on |
+| 15 |Mio cen e |Mamm a ls a nd b ir ds |
+| 20 |Olig o cen e |
+| 100 |E o cen e |
+| Pa le o cen e |
+| icozsoMe |125 |Cretaceous |(G olden a ge o f R ep t i les)R is e o f Din es ur s |Sphen opsides,Gin kg os, G net a les,(Dico t y le do ns) |
+| 150 |Jurassic |Herb ace ouslyco p o ds, F er ns,C onif er s, C yc ad s |
+| 180 |Triassic |
+| icozoleaP |205 |Permian |Mamm a l li ke r ep t i les |Arb ores cen tlyc opod s |
+| 230 |Carboniferous |Pennsylvanian |E arlies t r ep t i les |S e e d f er ns a ndBr yo phy te s |
+| 255 |
+| Miss iss ippi an |E arlies t A mphi bi ans a ndabun d ant E chin o der ms |
+
+| 315 |Devonian |Age o f f ishes |Prog y mn os p er ms |
+| 350 |Silurian |E arlies t f ishes a nd l andinver tebra tes |Z os ter ophy l lum |
+| 430 |Ordovician |D omin ance o finver tebra tes |App e ara nce o ff ir st l and p l ants |
+| 510 |Cambrian |Fos si l in ver tebra tes |Or ig in o f a lgae |
+| niarbmacPre |3000 |Upper |Mu lt ice l lu l ar o rga ni sm s |
+| Middle |App e ara nce o f eu ka r yotes |
+| Lower |Pl an ktons proka r yotes |
   
+
+Jurassic (Dinosaurs were dominant on the earth, fossil bird – **_Archaeopteryx_**) and Cretaceous (extinction of toothed birds and dinosaurs, emergence of modern birds).
+
+**Cenozoic era** (Age of mammals) is subdivided into two periods namely Tertiary and Quaternary. Tertiary period is characterized by abundant mammalian fauna. This period is subdivided into five epochs namely, Paleocene (placental mammals, Eocene (Monotremes except duck billed _Platypus_ and _Echidna,_ hoofed mammals and carnivores), Oligocene (higher placental mammals appeared), Miocene (origin of first man like apes) and Pliocene (origin of man from man like apes).Quaternary period witnessed decline of mammals and beginning of human social life.
+
+The age of fossils can be determined using two methods namely, relative dating and absolute dating. **Relative dating** is used to determine a fossil by comparing it to similar rocks and fossils of known age. **Absolute dating** is used to determine the precise age of a fossil by using radiometric dating to measure the decay of isotopes.
+
+**6.3 Biological evolution Formation of protobionts**
+
+Abiotically produced molecules can spontaneously self assemble into droplets that enclose a watery solution and maintain a chemical environment different from their surroundings. Scientists call these spheres as ‘protobionts’. Liposomes are lipids in a solution that can self assemble into a lipid bilayer. Some of the proteins inside the liposomes acquired the properties of enzymes resulting in fast multiplication of molecules.
+
+The coacervates with nucleoprotein and nutrients had a limiting surface membrane that had the characters of a virus or free living genes. Sub sequently number of genes united to form ‘proto viruses’ somewhat similar to present day  
 
 95 Evolution
 
@@ -216,23 +276,42 @@ The atmospheric oxygen combined with methane and ammonia to form CO2 and free ni
 
 **Urey and Miller (1953)**, paved way for understanding the possible synthesis of organic compounds that led to the appearance of living organisms is depicted in the **Fig. 6.1.** In their experiment, a mixture of gases was allowed to circulate over electric discharge from an tungsten electrode. A small flask was kept boiling and the steam emanating from it was made to mix with the mixture of gases (ammonia, methane and hydrogen) in the large chamber that was connected to the boiling water. The steam condensed to form water
 
-Jurassic (Dinosaurs were dominant on the earth, fossil bird – **_Archaeopteryx_**) and Cretaceous (extinction of toothed birds and dinosaurs, emergence of modern birds).
 
-**Cenozoic era** (Age of mammals) is subdivided into two periods namely Tertiary and Quaternary. Tertiary period is characterized by abundant mammalian fauna. This period is subdivided into five epochs namely, Paleocene (placental mammals, Eocene (Monotremes except duck billed _Platypus_ and _Echidna,_ hoofed mammals and carnivores), Oligocene (higher placental mammals appeared), Miocene (origin of first man like apes) and Pliocene (origin of man from man like apes).Quaternary period witnessed decline of mammals and beginning of human social life.
 
-The age of fossils can be determined using two methods namely, relative dating and absolute dating. **Relative dating** is used to determine a fossil by comparing it to similar rocks and fossils of known age. **Absolute dating** is used to determine the precise age of a fossil by using radiometric dating to measure the decay of isotopes.
-
-**6.3 Biological evolution Formation of protobionts**
-
-Abiotically produced molecules can spontaneously self assemble into droplets that enclose a watery solution and maintain a chemical environment different from their surroundings. Scientists call these spheres as ‘protobionts’. Liposomes are lipids in a solution that can self assemble into a lipid bilayer. Some of the proteins inside the liposomes acquired the properties of enzymes resulting in fast multiplication of molecules.
-
-The coacervates with nucleoprotein and nutrients had a limiting surface membrane that had the characters of a virus or free living genes. Sub sequently number of genes united to form ‘proto viruses’ somewhat similar to present day
-
-XII Std Zoology Chapter 6 EM.indd 95 18/12/2021 14:52:42
 
   
 
 96Evolution
+
+which ran down the ‘U’ tube. Experiment was conducted continuously for a week and the liquid was analysed. Glycine, alanine, beta alanine and aspartic acid were identified. Thus Miller’s experiments had an insight as to the possibility of abiogenetic synthesis of large amount of variety of organic compounds in nature from a mixture of sample gases in which the only source of carbon was methane. Later in similar experiments, formation of all types of amino acids, and nitrogen bases were noticed.
+
+**6.4 Evidences for biological evolution**
+
+**6.4.1 Paleontological evidences** Paleontology is the study of prehistoric
+
+life through fossils. Fossils are described as the true witnesses of evolution or documents
+
+Boiling water
+
+Tungs
+
+Spark
+
+Flask
+
+Gaseo (CH4 +
+
+Water out
+
+Conde
+
+Cold water i
+
+Aqueo contai compo
+
+Tap fo withdr sampl
+
+**Fig. 6.1 Diagrammatic representation of Urey-Mi experiment**  
 
 of various geological strata of evolution. Fossilization is the process by which plant and animal remains are preserved in sedimentary rocks. They fall under three main categories.
 
@@ -246,39 +325,50 @@ which gushed out from Mount Vesuvius.
 
 **iii) Natural moulds and casts** – Even after disintegration, the body of an animal might leave indelible impression on the soft mud which later becomes hardened into stones. Such impressions are called moulds. The cavities of the moulds may get filled up
 
-which ran down the ‘U’ tube. Experiment was conducted continuously for a week and the liquid was analysed. Glycine, alanine, beta alanine and aspartic acid were identified. Thus Miller’s experiments had an insight as to the possibility of abiogenetic synthesis of large amount of variety of organic compounds in nature from a mixture of sample gases in which the only source of carbon was methane. Later in similar experiments, formation of all types of amino acids, and nitrogen bases were noticed.
+ten electrode
 
-**6.4 Evidences for biological evolution**
+discharge
 
-**6.4.1 Paleontological evidences** Paleontology is the study of prehistoric
+us mixture NH3 + H2 + H2O)
 
-life through fossils. Fossils are described as the true witnesses of evolution or documents
+nser
 
-Boiling water
+n
 
-Tungsten electrode
+us medium ning organic unds
 
-Spark discharge
+r awing e
 
-Flask
+**ller’s**
 
-Gaseous mixture (CH4 + NH3 + H2 + H2O)
 
-Water out
 
-Condenser
-
-Cold water in
-
-Aqueous medium containing organic compounds
-
-Tap for withdrawing sample
-
-**Fig. 6.1 Diagrammatic representation of Urey-Miller’s experiment**
-
-XII Std Zoology Chapter 6 EM.indd 96 18/12/2021 14:52:42
 
   
+
+by hard minerals and get fossilized, which are called casts. Hardened faecal matter termed as coprolites occur as tiny pellets. Analysis of the coprolites enables us to understand the nature of diet the pre-historic animals thrived on.
+
+Visit any museum nearer to your school with your teacher and identify the bones of different animals including mammals. The famous Egmore Museum is in Chennai.
+
+**6.4.2 Evidences from comparative anatomy**
+
+Similarities in structure between groups of organisms are accepted as indicators of relationship. For example, a comparative study of the forelimbs of different vertebrates exhibits a fundamental plan of similarity in structure. These relationships can be studied under homologous organs, analogous organs, vestigial organs, connecting links and atavistic organs.
+
+**Homologous structures** In vertebrates, comparative anatomical
+
+studies reveal a basic plan in various structures such as fore limbs and hind limbs. Fore limbs of vertebrates exhibit anatomical similarity with each other and is made of similar bones such as humerus, radius, ulna, carpals, metacarpals and phalanges.
+
+Carpals PhalangesUlna RadiusHumerus
+
+Whale Cat Horse
+
+Human
+
+BatBird
+
+**Fig. 6.2 Forelimbs of terrestrial vertebrates to show homology**
+
+Structures which are similar in origin but perform different functions are called  
 
 97 Evolution
 
@@ -304,61 +394,20 @@ Hindwing
 
 Other examples of analogous organs include the eyes of the Octopus and of
 
-by hard minerals and get fossilized, which are called casts. Hardened faecal matter termed as coprolites occur as tiny pellets. Analysis of the coprolites enables us to understand the nature of diet the pre-historic animals thrived on.
-
-Visit any museum nearer to your school with your teacher and identify the bones of different animals including mammals. The famous Egmore Museum is in Chennai.
-
-**6.4.2 Evidences from comparative anatomy**
-
-Similarities in structure between groups of organisms are accepted as indicators of relationship. For example, a comparative study of the forelimbs of different vertebrates exhibits a fundamental plan of similarity in structure. These relationships can be studied under homologous organs, analogous organs, vestigial organs, connecting links and atavistic organs.
-
-**Homologous structures** In vertebrates, comparative anatomical
-
-studies reveal a basic plan in various structures such as fore limbs and hind limbs. Fore limbs of vertebrates exhibit anatomical similarity with each other and is made of similar bones such as humerus, radius, ulna, carpals, metacarpals and phalanges.
-
-Carpals PhalangesUlna RadiusHumerus
-
-Whale Cat Horse
-
-Human
-
-BatBird
-
-**Fig. 6.2 Forelimbs of terrestrial vertebrates to show homology**
-
-Structures which are similar in origin but perform different functions are called
-
-XII Std Zoology Chapter 6 EM.indd 97 18/12/2021 14:52:43
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
   
 
 98Evolution
+
+mammals and the flippers of Penguins and Dolphins. Root modification in sweet potato and stem modification in potato are considered as analogous organs. Both of these plants have a common function of storage of food.
+
+**Vestigial organs** Structures that are of no use to the
+
+possessor, and are not necessary for their existence are called vestigial organs. Vestigial organs may be considered as remnants of structures which were well developed and functional in the ancestors, but disappeared in course of evolution due to their non- utilization. Human appendix is the remnant of caecum which is functional in the digestive tract of herbivorous animals like rabbit. Cellulose digestion takes place in the caecum of these animals. Due to change in the diet containing less cellulose, caecum in human became functionless and is reduced to a vermiform appendix, which is vestigial. Other examples of vestigial organs in human beings
+
+**Fig 6.4 Embryological evidences**  
 
 include coccyx, wisdom teeth, ear muscles, body hair, mammae in male, nictitating membrane of the eye, etc.,
 
@@ -380,97 +429,10 @@ pair of tubular structures that later develop into two chambered heart in fishes
 
 Hence scientists in the 19th century concluded that higher animals during their embryonic development pass through stages of lower animals (ancestors). **Ernst Von Haeckel**, propounded the **“biogenetic law** or
 
-mammals and the flippers of Penguins and Dolphins. Root modification in sweet potato and stem modification in potato are considered as analogous organs. Both of these plants have a common function of storage of food.
-
-**Vestigial organs** Structures that are of no use to the
-
-possessor, and are not necessary for their existence are called vestigial organs. Vestigial organs may be considered as remnants of structures which were well developed and functional in the ancestors, but disappeared in course of evolution due to their non- utilization. Human appendix is the remnant of caecum which is functional in the digestive tract of herbivorous animals like rabbit. Cellulose digestion takes place in the caecum of these animals. Due to change in the diet containing less cellulose, caecum in human became functionless and is reduced to a vermiform appendix, which is vestigial. Other examples of vestigial organs in human beings
-
-**Fig 6.4 Embryological evidences**
-
-XII Std Zoology Chapter 6 EM.indd 98 18/12/2021 14:52:45
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
   
-
-99 Evolution
 
 **theory of recapitulation”** which states that the life history of an individual (ontogeny) briefly repeats or recapitulates the evolutionary history of the race (phylogeny). In other words **“Ontogeny recapitulates Phylogeny”.** The embryonic stages of a higher animal resemble the adult stage of its ancestors. Appearance of pharyngeal gill slits, yolk sac and the appearance of tail in human embryos are some of the examples **(Fig. 6.4).** The biogenetic law is not universal and it is now thought that animals do not recapitulate the adult stage of any ancestors. The human embryo recapitulates the embryonic history and not the adult history of the organisms.
 
@@ -480,7 +442,9 @@ The comparative study of the embryo of different animals shows structural simila
 
 of change in the sequence composition of molecules such as DNA, RNA and proteins across generations. It uses principles of evolutionary biology and population genetics to explain patterns in the changes of molecules.
 
-One of the most useful advancement in the development of molecular biology is proteins and other molecules that control life processes are conserved among species. A slight change that occurs over time in these conserved molecules (DNA, RNA and protein) are often called molecular clocks. Molecules that have been used to study evolution are cytochrome c (respiratory pathway) and rRNA (protein synthesis).
+One of the most useful advancement in the development of molecular biology is proteins and other molecules that control life processes are conserved among species. A slight change that occurs over time in these conserved molecules (DNA, RNA and protein) are often called molecular clocks. Molecules that have been used to study evolution are cytochrome c (respiratory pathway) and rRNA (protein synthesis).  
+
+99 Evolution
 
 **6.5 Theories of biological evolution**
 
@@ -500,7 +464,8 @@ was disproved by **August Weismann** who conducted experiments on mice for twent
 
 (Neo-Lamarckists) like **Cope, Osborn, Packard** and **Spencer** tried to explain Lamarck’s theory on a more scientific basis. They considered that adaptations are universal. Organisms acquire new structures due to their adaptations to the changed environmental conditions. They argued that external conditions stimulate the somatic cells to produce certain ‘secretions’ which reach the sex cells through the blood and bring about variations in the offspring.
 
-XII Std Zoology Chapter 6 EM.indd 99 18/12/2021 14:52:46
+
+
 
   
 
@@ -524,7 +489,7 @@ Inter specific struggle with different species for food and space.
 
 Struggle with the environment to cope with the climatic variations, flood, earthquakes, drought, etc., **3\. Universal occurrence of variations**
 
-No two individuals are alike. There are variations even in identical twins. Even the children born of the same parents differ in colour, height, behavior, etc., The useful variations
+No two individuals are alike. There are variations even in identical twins. Even the children born of the same parents differ in colour, height, behavior, etc., The useful variations  
 
 found in an organism help them to overcome struggle and such variations are passed on to the next generation. **4\. Origin of species by Natural Selection**
 
@@ -546,11 +511,10 @@ According to Darwin, nature is the most powerful selective force. He compared or
 
 of Darwinian evolution through Natural Selection as it has been modified since it was proposed. New facts and discoveries about evolution have led to modifications of Darwinism and is supported by **Wallace, Heinrich, Haeckel, Weismann** and **Mendel**. This theory emphasizes the change in the frequency of genes in population arises due to mutation, variation, isolation and Natural selection.
 
-XII Std Zoology Chapter 6 EM.indd 100 18/12/2021 14:52:46
+
+
 
   
-
-101 Evolution
 
 **6.5.3 Mutation theory Hugo de Vries** put forth the Mutation
 
@@ -576,7 +540,9 @@ selection.
 
 **Dobzhansky, Simpson and Haeckel** explained Natural Selection in the light of Post-Darwinian discoveries. According to this theory gene mutations, chromosomal mutations, genetic recombinations, natural selection and reproductive isolation are the five basic factors involved in the process of organic evolution. **i. Gene mutation** refers to the changes in the
 
-structure of the gene. It is also called gene/ point mutation. It alters the phenotype of an organism and produces variations in their offspring.
+structure of the gene. It is also called gene/ point mutation. It alters the phenotype of an organism and produces variations in their offspring.  
+
+101 Evolution
 
 **ii. Chromosomal mutation** refers to the changes in the structure of chromosomes due to deletion, addition, duplication, inversion or translocation. This too alters the phenotype of an organism and produces variations in their offspring.
 
@@ -590,17 +556,12 @@ structure of the gene. It is also called gene/ point mutation. It alters the phe
 
 **Natural selection** can be explained clearly through industrial melanism. Industrial melanism is a classical case of Natural selection exhibited by the peppered moth, _Biston betularia_. These were available in two colours, white and black. Before industrialization peppered moth both white and black coloured were common in England. Pre-industrialization witnessed white coloured background of the wall of the buildings hence the white coloured moths escaped from their predators. Post industrialization, the tree trunks became dark due to smoke and soot let out from the industries. The black moths camouflaged on the dark bark of the trees and the white moths were easily identified by their predators. Hence the dark coloured moth population was selected and their number increased when compared to the white moths. Nature offered positive selection pressure to the
 
-XII Std Zoology Chapter 6 EM.indd 101 18/12/2021 14:52:46
+
+
 
   
 
 102Evolution
-
-that time, Darwin's finches have evolved into 14 recognized species differing in body size, beak shape and feeding behavior. Changes in the size and form of the beak have enabled different species to utilize different food resources such as insects, seeds, nectar from cactus flowers and blood from iguanas, all driven by Natural selection. **Fig. 6.5** represents some of the finches observed by Darwin. Genetic variation in the ALX1 gene in the DNA of Darwin finches is associated with variation in the beak shape. Mild mutation in the ALX1 gene leads to phenotypic change in the shape of the beak of the Darwin finches.
-
-Marsupials in Australia and placental mammals in North America are two subclasses of mammals they have adapted in similar way to a particular food resource, locomotory skill or climate. They were separated from the common ancestor more than 100 million year ago and each lineage continued to evolve independently. Despite temporal and geographical separation, marsupials in Australia and placental mammals in North America have produced varieties of species living in similar habitats with similar ways of life. Their overall resemblance in shape, locomotory mode, feeding and foraging are superimposed upon different modes of reproduction. This feature reflects their distinctive evolutionary relationships.
-
-Over 200 species of marsupials live in Australia along with many fewer species of placental mammals. The marsupials have undergone adaptive radiation to occupy the diverse habitats in Australia, just as the placental mammals have radiated across North America.
 
 black coloured moths. The above proof shows that in a population, organisms that can adapt will survive and produce more progenies resulting in increase in population through natural selection.
 
@@ -636,9 +597,7 @@ Warbler finch (_Certhidea olivacea_)
 
 Woodpecker finch (_Cactospiza pallida_)
 
-Cactus ground finch (_Geospiza scandens_)
-
-Sharp-beaked ground finch (_Geospiza difficilis_)
+Cactus (_Geosp_
 
 Small insectivorous tree finch
 
@@ -668,64 +627,30 @@ Bud eater
 
 Parrot-like bill
 
+Seed eaters
+
+**Fig 6.5 Darwin’s finches**  
+
+that time, Darwin's finches have evolved into 14 recognized species differing in body size, beak shape and feeding behavior. Changes in the size and form of the beak have enabled different species to utilize different food resources such as insects, seeds, nectar from cactus flowers and blood from iguanas, all driven by Natural selection. **Fig. 6.5** represents some of the finches observed by Darwin. Genetic variation in the ALX1 gene in the DNA of Darwin finches is associated with variation in the beak shape. Mild mutation in the ALX1 gene leads to phenotypic change in the shape of the beak of the Darwin finches.
+
+Marsupials in Australia and placental mammals in North America are two subclasses of mammals they have adapted in similar way to a particular food resource, locomotory skill or climate. They were separated from the common ancestor more than 100 million year ago and each lineage continued to evolve independently. Despite temporal and geographical separation, marsupials in Australia and placental mammals in North America have produced varieties of species living in similar habitats with similar ways of life. Their overall resemblance in shape, locomotory mode, feeding and foraging are superimposed upon different modes of reproduction. This feature reflects their distinctive evolutionary relationships.
+
+Over 200 species of marsupials live in Australia along with many fewer species of placental mammals. The marsupials have undergone adaptive radiation to occupy the diverse habitats in Australia, just as the placental mammals have radiated across North America.
+
+ground finch _iza scandens_)
+
+Sharp-beaked ground finch (_Geospiza difficilis_)
+
 Small ground finch (_Geospiza fuliginosa_)
 
-Medium ground finch (_Geospiza_ _fortis_)Seed
-
-eaters
+Medium ground finch (_Geospiza_ _fortis_)
 
 Large ground finch (_Geospiza magnirostris_)
-
-**Fig 6.5 Darwin’s finches**
-
-XII Std Zoology Chapter 6 EM.indd 102 18/12/2021 14:52:47
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
   
-
-103 Evolution
-
-environment (Fig. 6.7a). The organisms with average phenotypes survive whereas the extreme individuals from both the ends are eliminated. There is no speciation but the phenotypic stability is maintained within the population over generation. For example, measurements of sparrows that survived the storm clustered around the mean, and the sparrows that failed to survive the storm clustered around the extremes of the variation showing stabilizing selection.
-
-**ii. Directional Selection: The environment** which undergoes gradual change is subjected to directional selection (Fig. 6.7b). This type of selection removes the individuals from one end towards the other end of phenotypic distribution. For example, size differences between male and female sparrows. Both male and female look alike externally but differ in body weight. Females show directional selection in relation to body weight.
-
-**iii. Disruptive Selection (centrifugal selection):** When homogenous environment changes into heterogenous environment this type of selection is operational (Fig. 6.7c). The organisms of both the extreme phenotypes are selected whereas individuals with average phenotype are eliminated. This results in splitting of the population into
 
 **6.6 Mechanism of evolution** Microevolution (evolution on a
 
@@ -743,21 +668,45 @@ selection
 
 **i. Stabilising Selection (centipetal selection):** This type of selection operates in a stable
 
-If ‘X’ is eaten by birds then only
+If ‘X’ is e birds th
 
-survivors reproduce
+survivors r
 
-Dark rock environment
+Dark rock en
 
-light grey beetles are spotted and eaten
+light grey are spotted a
 
-by birds more often than dark ones
-
-Next generation
+by birds mo than dark
 
 Aa
 
 Aa Aa
+
+Aa aa
+
+aa aa
+
+aa aa
+
+AA
+
+**Fig 6.6 Natur**  
+
+103 Evolution
+
+environment (Fig. 6.7a). The organisms with average phenotypes survive whereas the extreme individuals from both the ends are eliminated. There is no speciation but the phenotypic stability is maintained within the population over generation. For example, measurements of sparrows that survived the storm clustered around the mean, and the sparrows that failed to survive the storm clustered around the extremes of the variation showing stabilizing selection.
+
+**ii. Directional Selection: The environment** which undergoes gradual change is subjected to directional selection (Fig. 6.7b). This type of selection removes the individuals from one end towards the other end of phenotypic distribution. For example, size differences between male and female sparrows. Both male and female look alike externally but differ in body weight. Females show directional selection in relation to body weight.
+
+**iii. Disruptive Selection (centrifugal selection):** When homogenous environment changes into heterogenous environment this type of selection is operational (Fig. 6.7c). The organisms of both the extreme phenotypes are selected whereas individuals with average phenotype are eliminated. This results in splitting of the population into
+
+aten by en only eproduce
+
+vironment
+
+beetles nd eaten re often ones
+
+Next generation
 
 Aa
 
@@ -773,29 +722,18 @@ AA
 
 Aa
 
-Aa aa
-
-aa aa
-
-aa aa aa
+aa
 
 aa
 
-AA
+**al selection**
 
-**Fig 6.6 Natural selection**
 
-XII Std Zoology Chapter 6 EM.indd 103 18/12/2021 14:52:48
+
 
   
 
 104Evolution
-
-**6.6.3 Genetic drift / Sewall Wright Effect**
-
-Genetic drift is a mechanism of evolution in which allele frequencies of a population change over generation due to chance (sampling error). Genetic drift occurs in all population sizes, but its effects are strong in a small population **(Fig. 6.9).** It may result in a loss of some alleles (including beneficial ones) and fixation of other alleles. Genetic drift can have major effects, when the population is reduced in size by natural disaster due to bottle neck effect or when a small group of population splits from the main population to form a new colony due to founder’s effect.
-
-**Fig 6.9 Genetic drift**
 
 sub population/species. This is a rare form of selection but leads to formation of two or more different species. It is also called adaptive radiation. E.g. Darwin's finches- beak size in relation to seed size inhabiting Galapagos islands. Group selection and sexual selection are
 
@@ -827,12 +765,6 @@ AA
 
 Peak shifts in one direction
 
-(b)
-
-Medium-sized individuals
-
-are favoured
-
 N um
 
 be r o
@@ -857,15 +789,64 @@ Peak gets higher and narrower
 
 (a)
 
+**Fig 6.7 Operation of natural selection on different tra**  
+
+**6.6.3 Genetic drift / Sewall Wright Effect**
+
+Genetic drift is a mechanism of evolution in which allele frequencies of a population change over generation due to chance (sampling error). Genetic drift occurs in all population sizes, but its effects are strong in a small population **(Fig. 6.9).** It may result in a loss of some alleles (including beneficial ones) and fixation of other alleles. Genetic drift can have major effects, when the population is reduced in size by natural disaster due to bottle neck effect or when a small group of population splits from the main population to form a new colony due to founder’s effect.
+
+**Fig 6.9 Genetic drift**
+
+(b)
+
+Medium-sized individuals
+
+are favoured
+
 Two peaks form
 
 (c)
 
-**Fig 6.7 Operation of natural selection on different traits (a) Stabilising (b) Directional and (c) Disruptive**
+**its (a) Stabilising (b) Directional and (c) Disruptive**
 
-XII Std Zoology Chapter 6 EM.indd 104 18/12/2021 14:52:51
+
+
+
+
+
+| Phenotypesfavouredby naturale selectionwith phenotypNumber of individuals |Medium-sizedindividualsare favoured |
+|------|------|------|
+
+
+
+
+
+| Two peaks form |
+|------|------|------|
+
+
+
+
+| Peak gets higherand narrower |
+
+
+| Peak shifts inone direction |
+|------|------|
+
 
   
+
+**6.6.4 Mutation** Although mutation is the original source
+
+of all genetic variation, mutation rate for most organisms is low. Hence new mutations on an allele frequencies from one generation to the next is usually not large.
+
+**6.7 Hardy - Weinberg Principle** In nature, populations are usually
+
+evolving such as the grass in an open meadow, wolves in a forest and bacteria in a person’s body are all natural populations. All of these populations are likely to be evolving some of their genes. Evolution does not mean that the population is moving towards perfection rather the population is changing its genetic makeup over generations. For example in a wolf population, there may be a shift in the frequency of a gene variant for black fur than grey fur. Sometimes, this type of change is due to natural selection or due to migration or due to random events.
+
+First we will see the set of conditions required for a population not to evolve. Hardy of UK and Weinberg of Germany stated that **the allele frequencies in a population are stable and are constant from generation to generation in the absence of gene flow, genetic drift, mutation, recombination and natural selection.** If a population is in a state of Hardy Weinberg equilibrium, the frequencies of alleles and genotypes or sets of alleles in that population will remain same over generations. Evolution is a change in the allele frequencies in a population over time. Hence population in Hardy Weinberg is not evolving.
+
+Suppose we have a large population of beetles, (infinitely large) and appear in two colours dark grey (black) and light grey, and their colour is determined by ‘A’ gene. ‘AA’ and ‘Aa’ beetles are dark grey and ‘aa’ beetles are light grey. In a population let’s say that ‘A’ allele has frequency (p) of 0.3 and ‘a’ allele has a frequency (q ) of 0.7. Then p+q=1.  
 
 105 Evolution
 
@@ -891,19 +872,8 @@ If we assume that the beetles mate randomly (selection of male gamete and female
 
 **Hardy Weinberg’s assumptions include No mutation** – No new alleles are generated by mutation nor the genes get duplicated or deleted. **Random mating** – Every organism gets a chance to mate and the mating is random with each other with no preferences for a particular genotype. **No gene flow** - Neither individuals nor their gametes enter (immigration) or exit (emigration) the population. **Very large population size** - The population should be infinite in size.
 
-**6.6.4 Mutation** Although mutation is the original source
 
-of all genetic variation, mutation rate for most organisms is low. Hence new mutations on an allele frequencies from one generation to the next is usually not large.
 
-**6.7 Hardy - Weinberg Principle** In nature, populations are usually
-
-evolving such as the grass in an open meadow, wolves in a forest and bacteria in a person’s body are all natural populations. All of these populations are likely to be evolving some of their genes. Evolution does not mean that the population is moving towards perfection rather the population is changing its genetic makeup over generations. For example in a wolf population, there may be a shift in the frequency of a gene variant for black fur than grey fur. Sometimes, this type of change is due to natural selection or due to migration or due to random events.
-
-First we will see the set of conditions required for a population not to evolve. Hardy of UK and Weinberg of Germany stated that **the allele frequencies in a population are stable and are constant from generation to generation in the absence of gene flow, genetic drift, mutation, recombination and natural selection.** If a population is in a state of Hardy Weinberg equilibrium, the frequencies of alleles and genotypes or sets of alleles in that population will remain same over generations. Evolution is a change in the allele frequencies in a population over time. Hence population in Hardy Weinberg is not evolving.
-
-Suppose we have a large population of beetles, (infinitely large) and appear in two colours dark grey (black) and light grey, and their colour is determined by ‘A’ gene. ‘AA’ and ‘Aa’ beetles are dark grey and ‘aa’ beetles are light grey. In a population let’s say that ‘A’ allele has frequency (p) of 0.3 and ‘a’ allele has a frequency (q ) of 0.7. Then p+q=1.
-
-XII Std Zoology Chapter 6 EM.indd 105 18/12/2021 14:52:52
 
   
 
@@ -921,6 +891,10 @@ The earliest fossils of the prehistoric man like _Ramapithecus_ and _Sivapithecu
 
 _Australopithecus_ lived in East African grasslands about 5 mya and was called the
 
+**Fig 6.10 Evolu**
+
+Ramapithecus HomAustralopithecus Homo habilis  
+
 Australian ape man. He was about 1.5 meters tall with bipedal locomotion, omnivorous, semi erect, and lived in caves. Low forehead, brow ridges over the eyes, protruding face, lack of chin, low brain capacity of about 350 – 450 cc, human like dentition, lumbar curve in the vertebral column were his distinguishing features.
 
 _Homo habilis lived about 2 mya. Their_ brain capacity was between 650 – 800cc, and was probably vegetarian. They had bipedal locomotion and used tools made of chipped stones.
@@ -929,16 +903,28 @@ _Homo erectus the first human like being was_ around 1.7 mya and was much closer
 
 Neanderthal human was found in Neander Valley, Germany with a brain size of 1400 cc and lived between 34,000 - 1,00,000 years ago. They differ from the modern human in having semierect posture, flat cranium, sloping forehead, thin large orbits, heavy brow ridges, protruding jaws and no chin. They used animal hides to protect their bodies, knew the use of
 
-**Fig 6.10 Evolution of Man**
+**tion of Man**
 
-Ramapithecus Homo sapiensNeanderthal manHomo erectusAustralopithecus Homo habilis
-
-XII Std Zoology Chapter 6 EM.indd 106 18/12/2021 14:52:52
+Homo sapiensNeanderthal mano erectus
 
 
 
 
   
+
+fire and buried their dead. They did not practice agriculture and animal domestication.
+
+Cro-Magnon was one of the most talked forms of modern human found from the rocks of Cro-Magnon, France and is considered as the ancestor of modern Europeans. They were not only adapted to various environmental conditions, but were also known for their cave paintings, figures on floors and walls.
+
+_Homo sapiens_ or modern human arose in Africa some 25,000 years ago and moved to other continents and developed into distinct races. They had a brain capacity of 1300 – 1600 cc. They started cultivating crops and domesticating animals.
+
+**6.9 Isolating Mechanism** Isolation is the separation of the members
+
+of a single population into sub populations so that genetic integrity of the subpopulation can be maintained. Closely related species living in the same area do not breed together; they are prevented by isolating barriers. An isolating barrier is any evolved character of the two species that stops them from interbreeding. Several kinds of isolating barriers are distinguished. The most important distinction is Prezygotic and post zygotic isolation. Prezygotic mechanisms include those which prevent two species from coming into contact. This includes ecological, seasonal, ethological and morphological. Post zygotic mechanisms are those which act after fertilization that include hybrid sterility, hybrid inviability and hybrid breakdown.
+
+**Pre-zygotic Mechanism i. Ecological isolation or habitat isolation** –
+
+the members of the same population may be separated from one another by a differences in their habitat. For example _Rana areolata_ occupies burrows dug by mammals and tortoises during the day and breeds in grassy shallow ponds whereas _Rana grylio_ breeds in deep waters. Due to the difference in their habitat the two species are able to maintain their respective species identities.  
 
 107 Evolution
 
@@ -956,25 +942,28 @@ XII Std Zoology Chapter 6 EM.indd 106 18/12/2021 14:52:52
 
 enters the egg, fertilization occurs and the embryo develops into the adult but it dies before reaching maturity. In certain fishes,
 
-fire and buried their dead. They did not practice agriculture and animal domestication.
 
-Cro-Magnon was one of the most talked forms of modern human found from the rocks of Cro-Magnon, France and is considered as the ancestor of modern Europeans. They were not only adapted to various environmental conditions, but were also known for their cave paintings, figures on floors and walls.
 
-_Homo sapiens_ or modern human arose in Africa some 25,000 years ago and moved to other continents and developed into distinct races. They had a brain capacity of 1300 – 1600 cc. They started cultivating crops and domesticating animals.
-
-**6.9 Isolating Mechanism** Isolation is the separation of the members
-
-of a single population into sub populations so that genetic integrity of the subpopulation can be maintained. Closely related species living in the same area do not breed together; they are prevented by isolating barriers. An isolating barrier is any evolved character of the two species that stops them from interbreeding. Several kinds of isolating barriers are distinguished. The most important distinction is Prezygotic and post zygotic isolation. Prezygotic mechanisms include those which prevent two species from coming into contact. This includes ecological, seasonal, ethological and morphological. Post zygotic mechanisms are those which act after fertilization that include hybrid sterility, hybrid inviability and hybrid breakdown.
-
-**Pre-zygotic Mechanism i. Ecological isolation or habitat isolation** –
-
-the members of the same population may be separated from one another by a differences in their habitat. For example _Rana areolata_ occupies burrows dug by mammals and tortoises during the day and breeds in grassy shallow ponds whereas _Rana grylio_ breeds in deep waters. Due to the difference in their habitat the two species are able to maintain their respective species identities.
-
-XII Std Zoology Chapter 6 EM.indd 107 18/12/2021 14:52:52
 
   
 
 108Evolution
+
+frogs, beetles, even if fertilization takes place between two species, due to genetic incompatibility they do not leave any surviving offspring.
+
+**ii. Hybrid sterility** – In this type, hybrids are formed due to inter specific crosses but they are sterile due to the failure of the chromosomes to segregate normally during meiosis, example Mule (inter specific cross between a horse and a donkey).
+
+**iii. Hybrid breakdown** – F1 Hybrids are viable and fertile, but F2 hybrids may be inviable or sterile.
+
+**6.10 Speciation** The process by which one species evolves into
+
+one or more different species is called speciation. **A.E. Emerson defines species as a ‘genetically** distinctive, reproductively isolated natural population’. Speciation is a fundamental process in evolution. Evolution of a new species in a single lineage is called an agenesis / phyletic speciation. If one species diverges to become two or more species it is cladogenesis or divergent evolution.
+
+**6.10.1 Sympatric speciation/ Reproductive isolation**
+
+It is a mode of speciation through which new species form from a single ancestral species while both species continue to inhabit the same geographical region. Two or more species are involved. New species formed due to genetic modification in the ancestor that is naturally selected can no longer breed with the parent population. Sexual isolation is strongest. Phenotypic plasticity has emerged as potentially important first step in speciation initiated within an isolated population.
+
+A well studied example is the adaptation of Apple maggots that feed on apples in North America. When the apple trees were imported to North America, Apple maggot flies (Rhagoletis _pomonella_) a parasitic insect that normally laid its eggs in the fruit of wild hawthorns until one subset of population began to lay its eggs in the fruit of domesticated apple trees (_Malus_  
 
 _domestica) that grew in the same area. This small_ group of apple maggot flies selected a different host species from the rest of the population and its offsprings became accustomed to domesticated apples.
 
@@ -992,27 +981,10 @@ Extinction was common if not inevitable because species could not always adapt t
 
 **Mass extinction** eliminates half or more species in a region or ecosystem, as might occur following a volcanic eruption. Five major mass extinction that occurred since the Cambrian period. This mass extinction is often referred to as K-T extinction. **Table 6.2** represents the K-T extinction.
 
-frogs, beetles, even if fertilization takes place between two species, due to genetic incompatibility they do not leave any surviving offspring.
 
-**ii. Hybrid sterility** – In this type, hybrids are formed due to inter specific crosses but they are sterile due to the failure of the chromosomes to segregate normally during meiosis, example Mule (inter specific cross between a horse and a donkey).
 
-**iii. Hybrid breakdown** – F1 Hybrids are viable and fertile, but F2 hybrids may be inviable or sterile.
-
-**6.10 Speciation** The process by which one species evolves into
-
-one or more different species is called speciation. **A.E. Emerson defines species as a ‘genetically** distinctive, reproductively isolated natural population’. Speciation is a fundamental process in evolution. Evolution of a new species in a single lineage is called an agenesis / phyletic speciation. If one species diverges to become two or more species it is cladogenesis or divergent evolution.
-
-**6.10.1 Sympatric speciation/ Reproductive isolation**
-
-It is a mode of speciation through which new species form from a single ancestral species while both species continue to inhabit the same geographical region. Two or more species are involved. New species formed due to genetic modification in the ancestor that is naturally selected can no longer breed with the parent population. Sexual isolation is strongest. Phenotypic plasticity has emerged as potentially important first step in speciation initiated within an isolated population.
-
-A well studied example is the adaptation of Apple maggots that feed on apples in North America. When the apple trees were imported to North America, Apple maggot flies (Rhagoletis _pomonella_) a parasitic insect that normally laid its eggs in the fruit of wild hawthorns until one subset of population began to lay its eggs in the fruit of domesticated apple trees (_Malus_
-
-XII Std Zoology Chapter 6 EM.indd 108 18/12/2021 14:52:53
 
   
-
-109 Evolution
 
 **Table 6.2 Details of the five major mass extinctions since the Cambrian period**
 
@@ -1034,7 +1006,9 @@ End of the Devonian 365 55 82 End of the Permian 245 84 96 End of the Triassic 2
 
 of life forms on Earth which originated on Earth millions of years ago. How Earth originated, how life originated, what is the place of man in the universe are all general questions. This chapter deals with several theories to explain the life on Earth. Evidence from the fossil record and many other areas of biology like embryology, anatomy and molecular biology indicates a common ancestry.
 
-The theories advanced by Lamarck, Darwin, Hugo de Vries explained the intricate evolutionary process. Geological time scale with different eras, periods and epochs gives an idea about the dominant species in those days. The mathematical distribution of gene and genotype frequencies remains constant in a small population was contributed by Hardy and Weinberg in 1608. Natural Selection and gene pool are the important factors those affect Hardy Weinberg equilibrium.
+The theories advanced by Lamarck, Darwin, Hugo de Vries explained the intricate evolutionary process. Geological time scale with different eras, periods and epochs gives an idea about the dominant species in those days. The mathematical distribution of gene and genotype frequencies remains constant in a small population was contributed by Hardy and Weinberg in 1608. Natural Selection and gene pool are the important factors those affect Hardy Weinberg equilibrium.  
+
+109 Evolution
 
 Human evolution states that humans developed from primates or ape like ancestors. The emergence of Homo sapiens as a distinct species from apes and placental mammals in brain size, eating habit and other behavior proves that ‘Ontogeny recapitulates Phylogeny’.
 
@@ -1056,9 +1030,19 @@ characters d) Germplasm theory
 
 6) Darwin’s finches are an excellent example of a) connecting links b) seasonal migration **c) adaptive radiation** d) parasitism
 
-XII Std Zoology Chapter 6 EM.indd 109 18/12/2021 14:52:53
 
 
+
+
+
+| Extinction Period |Date(Mya) |Estimated% of MarineAnimalExtinction |
+|------|------|------|------|
+| Genera |Species |
+| End of the Ordovician |440 |61 |85 |
+| End of the Devonian |365 |55 |82 |
+| End of the Permian |245 |84 |96 |
+| End of the Triassic |208 |50 |76 |
+| End of the Cretaceous |65 |50 |76 |
   
 
 110Evolution
@@ -1089,7 +1073,7 @@ a) Intraspecific competition **b) Interspecific competition** c) Competition wit
 
 17) List out the major gases seems to be found in the primitive earth.
 
-18) Explain the three major categories in which fossilization occur?
+18) Explain the three major categories in which fossilization occur?  
 
 19) Differentiate between divergent evolution and convergent evolution with one example for each.
 
@@ -1123,17 +1107,19 @@ explain the action of natural selection. What do you call the above phenomenon?
 
 34) Explain the three level of impact of extinction of species.
 
-XII Std Zoology Chapter 6 EM.indd 110 18/12/2021 14:52:53
+
+
 
   
-
-111 Evolution
 
 **C on**
 
 **ce pt**
 
-**M ap**
+**M ap**  
 
-XII Std Zoology Chapter 6 EM.indd 111 18/12/2021 14:52:53
+111 Evolution
+
+
+
 
