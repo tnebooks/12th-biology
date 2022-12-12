@@ -7,7 +7,9 @@ weight: 2
 **Learning Objectives**
 
 
-- The learner will be able to Recall various types of reproduction in lower and higher organisms. 
+The learner will be able to
+
+- Recall various types of reproduction in lower and higher organisms. 
 - Discuss different methods of vegetative reproduction in plants. 
 - Recognise modern methods of reproduction. 
 - Recall the parts of a flower. Describe the steps involved in microsporogenesis. 
@@ -58,7 +60,8 @@ Basically reproduction occurring in organisms fall under two major categories
 
 
 ```
-![](panchan-macheshwari.png) ""
+
+![](panchan-macheshwari.png "img-class")
 
 **Panchanan Maheswari (1904-1966)** Professor P. Maheswari was an eminent Botanist who specialised in plant embryology, morphology and anatomy. In 1934, he became the Fellow of Indian Academy of Science. He published the book titled “An introduction to the Embryology of Angiosperms”in 1950. He established the International Society for Plant Morphologists, in 1951.
 
@@ -71,6 +74,7 @@ The reproduction method which helps to perpetuate its own species without the in
 ## Vegetative reproduction 
 
 ### Natural methods
+
  Natural vegetative reproduction is a form of asexual reproduction in which a bud grows and develops into a new plant. The buds may be formed in organs such as root, stem and leaf. At some stage, the new plant gets detached from the parent plant and starts to develop into a new plant. Some of the organs involved in the vegetative reproduction also serve as the organs of storage and perennation. The unit of reproductive structure used in propagation is called **reproductive propagules** or **diaspores.** Some of the organs that help in vegetative reproduction are given in Figure 1.1.
 
 **A. Vegetative reproduction in root**
@@ -114,25 +118,32 @@ Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive 
 • Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
 
 **Disadvantage of natural vegetative reproduction** • New plants produced have no genetic
-
 variation.
 
 ### Artificial Methods
- Apart from the above mentioned natural methods of vegetative reproduction, a number of methods are used in agriculture and horticulture to propagate plants from their parts. Such methods are said to be artificial propagation. Some of the artificial propagation methods have been used by man for a long time and are called **conventional methods**. Now-a-days, technology is being used for propagation to produce large number of plants in a short period of time. Such methods are said to be **modern methods**.
 
-**A. Conventional methods** The common methods of conventional propagation are cutting, grafting and layering.
+Apart from the above mentioned natural methods of vegetative reproduction, a number of methods are used in agriculture and horticulture to propagate plants from their parts. Such methods are said to be artificial propagation. Some of the artificial propagation methods have been used by man for a long time and are called **conventional methods**. Now-a-days, technology is being used for propagation to produce large number of plants in a short period of time. Such methods are said to be **modern methods**.
+
+**A. Conventional methods** 
+
+The common methods of conventional propagation are cutting, grafting and layering.
 
 **a. Cutting:** It is the method of producing a new plant by cutting the plant parts such as root, stem and leaf from the parent plant. The cut part is placed in a suitable medium for growth. It produces root and grows into a new plant. Depending upon the part used it is called as root cutting (_Malus_), stem cutting (_Hibiscus, Bougainvillea_ and _Moringa_) and leaf cutting (_Begonia, Bryophyllum_). Stem cutting is widely used for propagation.
 
-**b. Grafting: In this, parts of two different plants** are joined so that they continue to grow as one plant. Of the two plants, the plant which is in contact with the soil is called **stock** and the plant used for grafting is called scion (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
+**b. Grafting: In this, parts of two different plants** are joined so that they continue to grow as one plant. Of the two plants, the plant which is in contact with the soil is called **stock** and the plant used for grafting is called **scion** (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
 
-**i. Bud grafting: A T- shaped incision is made** in the stock and the bark is lifted. The scion bud with little wood is placed in the incision beneath the bark and properly bandaged with a tape.
+**i. Bud grafting:** 
+A T- shaped incision is made in the stock and the bark is lifted. The scion bud with little wood is placed in the incision beneath the bark and properly bandaged with a tape.
 
-**ii. Approach grafting: In this method both** the scion and stock remain rooted. The stock is grown in a pot and it is brought close to the scion. Both of them should have the same thickness. A small slice is cut from both and the cut surfaces are brought near and tied together and held by a tape. After 1-4 weeks the tip of the stock and base of the scion are cut off and detached and grown in a separate pot.
+**ii. Approach grafting:**
 
-**iii. Tongue grafting** A scion and stock having the same thickness is cut obliquely and the scion is fit into the stock and bound with a tape.
+In this method both the scion and stock remain rooted. The stock is grown in a pot and it is brought close to the scion. Both of them should have the same thickness. A small slice is cut from both and the cut surfaces are brought near and tied together and held by a tape. After 1-4 weeks the tip of the stock and base of the scion are cut off and detached and grown in a separate pot.
 
-**iv. Crown grafting.** When the stock is large in size scions are cut into wedge shape and are inserted on the slits or clefts of the stock and fixed in position using graft wax.
+**iii. Tongue grafting** 
+A scion and stock having the same thickness is cut obliquely and the scion is fit into the stock and bound with a tape.
+
+**iv. Crown grafting.** 
+When the stock is large in size scions are cut into wedge shape and are inserted on the slits or clefts of the stock and fixed in position using graft wax.
 
 **v. Wedge grafting** In this method a slit is made in the stock or the bark is cut. A twig of scion is inserted and tightly bound so that the cambium of the two is joined.
 
@@ -144,7 +155,8 @@ Visit a nursery , observe the method of grafting, layering and do these techniqu
 
 ```
 
-**c. Layering:** In this method, the stem of a parent plant is allowed to develop roots while still intact. When the root develops,the rooted part is cut and planted to grow as a new plant. Examples: _Ixora_ and _Jasminum_. Mound layering and Air layering are few types of layering (Figure 1.2 b).
+**c. Layering:** 
+In this method, the stem of a parent plant is allowed to develop roots while still intact. When the root develops,the rooted part is cut and planted to grow as a new plant. Examples: _Ixora_ and _Jasminum_. Mound layering and Air layering are few types of layering (Figure 1.2 b).
 
 ![figure 1.2(a): Artificial methods od vegitative reproduction in plants](1.1.png "")
 
@@ -173,13 +185,13 @@ in others, the seeds produced do not germinate. In such cases, plants can be pro
 
 • Two different plants with desirable characters such as disease resistance and high yield can be grafted and grown as a new plant with the same desirable characters.
 
-**Disadvantages of conventional methods** • Use of virus infected plants as parents
+**Disadvantages of conventional methods** 
+• Use of virus infected plants as parents produces viral infected new plants. 
 
-produces viral infected new plants. • Vegetative structures used for propagation
-
-are bulky and so they are difficult to handle and store.1.3 Sexual Reproduction
+• Vegetative structures used for propagation are bulky and so they are difficult to handle and store.
 
 ## Sexual Reproduction
+
  In previous classes reproduction in lower plants like algae and bryophytes was discussed in detail. Sexual reproduction involves the production and fusion of male and female gametes. The former is called gametogenesis and the latter is the process of fertilization. Let us recall the sexual reproduction in algae and bryophytes. They reproduce by the production of gametes which may be motile or non motile depending upon the species. The gametic fusion is of three types (Isogamy, Anisogamy and Oogamy). In algae external fertilization takes place whereas in higher plants internal fertilization occurs.
 
 **Flower** A flower is viewed in multidimensional perspectives from time immemorial. It is an inspirational tool for the poets. It is a decorative material for all the celebrations. In Tamil literature the five lands are denoted by different flowers. The flags of some countries are embedded with flowers. Flowers are used in the preparation of perfumes. For a Morphologist, a flower is a highly condensed shoot meant for reproduction. As you have already learned about the parts of a flower in Unit II of Class XI, let us recall the parts of a flower. A Flower possesses four whorls- Calyx, Corolla, Androecium and Gynoecium. Androecium and Gynoecium are essential organs(Figure 1.3). The process or changes involved in sexual reproduction of higher plants include three stages .They are Pre- fertilization, Fertilization and Post fertilization changes. Let us discuss these events in detail.
