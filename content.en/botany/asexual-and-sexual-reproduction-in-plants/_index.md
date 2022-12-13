@@ -215,35 +215,38 @@ A very young anther develops as a homogenous mass of cells surrounded by an epid
 ![Figure 1.4 stages in the development of anther](1.4.png "") 
 ![Figure 1.4 stages in the development of anther](1.5.png "")
 
-**T.S. of Mature anther** 
+## T.S. of Mature anther
 
 Transverse section of mature anther reveals the presence of anther cavity surrounded by an anther wall. It is bilobed, each lobe having 2 theca (dithecous). A typical anther is tetrasporangiate. The T.S. of Mature anther is given in Figure 1.5.
 
-**1. Anther wall** 
+### 1.Anther wall 
 
 The mature anther wall consists of the following layers **a. Epidermis b. Endothecium c. Middle layers d. Tapetum.**
 
-**a. Epidermis**: It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. 
+#### a. Epidermis: 
+It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. 
 
 ```
 **Activity** 
 
 Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 ```
-
 ![Figure 1.5 T.S of mature anther](1.6.png)
 
-**Figure 1.5** T.S of Mature anther
+#### b. Endothecium: 
+It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
 
-**b. Endothecium**: It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
+#### c. Middle layers: 
+Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. 
 
-**c. Middle layers**: Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. 
+#### d. Tapetum: 
+It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
 
-**d. Tapetum**: It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
+#### Secretory tapetum (parietal/glandular/ cellular): 
+The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
 
-**Secretory tapetum** (parietal/glandular/ cellular): The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
-
-**Invasive tapetum** (periplasmodial): The cells loose their inner tangential and radial walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
+#### Invasive tapetum (periplasmodial): 
+The cells loose their inner tangential and radial walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
 
 **Functions of Tapetum:** 
 
@@ -262,9 +265,9 @@ microspores.
 Many botanists speak of a third type of tapetum called amoeboid, where the cell wall is not lost. The cells protrude into the anther cavity through an amoeboid movement. This type is often associated with male sterility and should not be confused with periplasmodial type.
 ```
 
-**2\. Anther Cavity : The anther cavity is filled with** microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. 
+**2. Anther Cavity :** The anther cavity is filled with microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. 
 
-**3\. Connective:** It is the column of sterile tissue surrounded by the anther lobe. It possesses vascular tissues. It also contributes to the inner tapetum.
+**3. Connective:** It is the column of sterile tissue surrounded by the anther lobe. It possesses vascular tissues. It also contributes to the inner tapetum.
 
 **Microspores and pollen grains** 
 
