@@ -231,7 +231,7 @@ It is single layered and protective in function. The cells undergo repeated anti
 
 Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 ```
-![Figure 1.5 T.S of mature anther](1.6.png)
+![Figure 1.5 T.S of mature anther](1.6.png "")
 
 #### b. Endothecium: 
 It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
@@ -285,8 +285,8 @@ Liquid nitrogen (-1960C) is used to preserve pollen in viable condition for prol
 
 ```
 **Bee pollen** is a natural substance and contains high protein, carbohydrate, trace amount of minerals and vitamins. Therefore, it is used as dietary supplement and is sold as pollen tablets and syrups. Further , it increases the performance of athletes, race horses and also heals the wounds caused by burns . The study of honey pollen is called Mellitopalynology.
-
 ![honey](1.32.png)
+
 ```
 Pollenkitt is contributed by the tapetum and coloured yellow or orange and is chiefly made of carotenoids or flavonoids. It is an oily layer forming a thick viscous coating over pollen surface. It attracts insects and protects damage from UV radiation.
 
