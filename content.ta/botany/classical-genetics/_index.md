@@ -1,6 +1,6 @@
 ---
-title: 'BOTANY_XII_TM_PAGES_035-054 CH 02'
-weight: 3
+title: 'பாரம்பரிய மரபியல்'
+weight: 2
 ---
 இடப னாக எடு
 
