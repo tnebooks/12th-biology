@@ -98,6 +98,7 @@ Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive 
 ```
 
 #### Vegetative reproduction in stem
+
 From the Unit 3 of class XI (Vegetative morphology) you are familiar with the structure of various underground stem and sub aerial stem modifications. These include rhizome (Musa _paradisiaca, Zingiber officinale and Curcuma longa_); corm (_Amorphophallus_ and _Colocasia_); tuber (_Solanum tuberosum_); bulb(_Allium cepa_ and _Lillium_) runner (_Centella asiatica_); stolon (Mentha, and Fragaria); offset (Pistia, and _Eichhornia_); sucker (_Chrysanthemum_) and bulbils (Dioscorea and Agave). The axillary buds from the nodes of rhizome and eyes of tuber give rise to new plants. 
 
 #### Vegetative reproduction in leaf
@@ -116,7 +117,8 @@ In some plants adventitious buds are developed on their leaves. When they are de
 - In some plants, this enables to spread rapidly. Example: _Spinifex_ 
 - Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
 
-**Disadvantage of natural vegetative reproduction** - New plants produced have no genetic
+**Disadvantage of natural vegetative reproduction** 
+- New plants produced have no genetic
 variation.
 
 ### Artificial Methods
@@ -164,7 +166,9 @@ In this method, the stem of a parent plant is allowed to develop roots while sti
 
 **figure 1.2(a):** Artificial methods od vegitative reproduction in plants
 
-**i. Mound layering: This method is applied for** the plants having flexible branches. The lower branch with leaves is bent to the ground and part of the stem is buried in the soil and tip of the branch is exposed above the soil. After the roots emerge from the part of the stem buried in the soil, a cut is made in parent plant so that the buried part grow into a new plant.
+**i. Mound layering:**
+
+This method is applied for the plants having flexible branches. The lower branch with leaves is bent to the ground and part of the stem is buried in the soil and tip of the branch is exposed above the soil. After the roots emerge from the part of the stem buried in the soil, a cut is made in parent plant so that the buried part grow into a new plant.
 
 ![Figure 1.2 (b): Artificial methods of vegetative reproduction in plants](1.2.png "")
 
@@ -188,7 +192,7 @@ in others, the seeds produced do not germinate. In such cases, plants can be pro
 
 ## Sexual Reproduction
 
- In previous classes reproduction in lower plants like algae and bryophytes was discussed in detail. Sexual reproduction involves the production and fusion of male and female gametes. The former is called gametogenesis and the latter is the process of fertilization. Let us recall the sexual reproduction in algae and bryophytes. They reproduce by the production of gametes which may be motile or non motile depending upon the species. The gametic fusion is of three types (Isogamy, Anisogamy and Oogamy). In algae external fertilization takes place whereas in higher plants internal fertilization occurs.
+In previous classes reproduction in lower plants like algae and bryophytes was discussed in detail. Sexual reproduction involves the production and fusion of male and female gametes. The former is called gametogenesis and the latter is the process of fertilization. Let us recall the sexual reproduction in algae and bryophytes. They reproduce by the production of gametes which may be motile or non motile depending upon the species. The gametic fusion is of three types (Isogamy, Anisogamy and Oogamy). In algae external fertilization takes place whereas in higher plants internal fertilization occurs.
 
 **Flower** 
 A flower is viewed in multidimensional perspectives from time immemorial. It is an inspirational tool for the poets. It is a decorative material for all the celebrations. In Tamil literature the five lands are denoted by different flowers. The flags of some countries are embedded with flowers. Flowers are used in the preparation of perfumes. For a Morphologist, a flower is a highly condensed shoot meant for reproduction. As you have already learned about the parts of a flower in Unit II of Class XI, let us recall the parts of a flower. A Flower possesses four whorls- Calyx, Corolla, Androecium and Gynoecium. Androecium and Gynoecium are essential organs(Figure 1.3). The process or changes involved in sexual reproduction of higher plants include three stages .They are Pre- fertilization, Fertilization and Post fertilization changes. Let us discuss these events in detail.
@@ -208,7 +212,7 @@ A flower is viewed in multidimensional perspectives from time immemorial. It is 
 **Development of anther**: A very young anther develops as a homogenous mass of cells surrounded by an epidermis. During its development, the anther assumes a four- lobed structure. In each lobe, a row or a few rows of hypodermal cells becomes enlarged with conspicuous nuclei. This functions as archesporium. The archesporial cells divide by periclinal divisions to form primary parietal cells towards the epidermis and primary sporogenous cells towards the inner side of the anther. The primary parietal cells undergo a series of periclinal and anticlinal division and form 2-5 layers of anther walls composed of endothecium, middle layers and tapetum, from periphery to centre.
 
 **Microsporogenesis**: The stages involved in the formation of haploid microspores from diploid microspore mother cell through meiosis is called 
-**Microsporogenesis. The primary sporogeneous** cells directly, or may undergo a few mitotic divisions to form sporogenous tissue. The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of fourhaploid microspores (microspore tetrad). The microspore tetrad may be arranged in a tetrahedral, decussate, linear, T shaped or isobilateral manner. Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called **pollinium**. Example: _Calotropis_.Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter ‘Y’ and is called **translator**.
+**Microsporogenesis.**The primary sporogeneous cells directly, or may undergo a few mitotic divisions to form **sporogenous tissue.** The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of fourhaploid microspores (microspore tetrad). The microspore tetrad may be arranged in a tetrahedral, decussate, linear, T shaped or isobilateral manner. Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called **pollinium**. Example: _Calotropis_.Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter ‘Y’ and is called **translator**.
 
 ![Figure 1.4 stages in the development of anther](1.4.png "") 
 ![Figure 1.4 stages in the development of anther](1.5.png "")
