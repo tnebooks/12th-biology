@@ -1,6 +1,6 @@
 ---
-title: 'BOTANY_XII_TM_PAGES_161-190 CH 07'
-weight: 8
+title: 'சூழல்மண்டலம்'
+weight: 7
 ---
 நறை ட
 
