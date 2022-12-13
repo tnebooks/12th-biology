@@ -3,7 +3,7 @@ title: 'Asexual and Sexual Reproduction in Plants'
 weight: 2
 ---
 
-```
+```hint-info
 **Learning Objectives**
 
 
@@ -59,7 +59,7 @@ Basically reproduction occurring in organisms fall under two major categories
 2. Sexual reproduction.
 
 
-```
+```hint-warn
 
 ![](panchan-macheshwari.png "img-class")
 
