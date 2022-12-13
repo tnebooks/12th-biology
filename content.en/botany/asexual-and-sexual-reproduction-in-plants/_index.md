@@ -129,7 +129,6 @@ Apart from the above mentioned natural methods of vegetative reproduction, a num
 
 #### Conventional methods
 
-
 The common methods of conventional propagation are cutting, grafting and layering.
 
 **a. Cutting:** It is the method of producing a new plant by cutting the plant parts such as root, stem and leaf from the parent plant. The cut part is placed in a suitable medium for growth. It produces root and grows into a new plant. Depending upon the part used it is called as root cutting (_Malus_), stem cutting (_Hibiscus, Bougainvillea_ and _Moringa_) and leaf cutting (_Begonia, Bryophyllum_). Stem cutting is widely used for propagation.
@@ -152,11 +151,9 @@ When the stock is large in size scions are cut into wedge shape and are inserted
 **v. Wedge grafting** In this method a slit is made in the stock or the bark is cut. A twig of scion is inserted and tightly bound so that the cambium of the two is joined.
 
 ```
-
 **Activity**
 
 Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home
-
 ```
 
 **c. Layering:** 
@@ -179,7 +176,6 @@ This method is applied for the plants having flexible branches. The lower branch
 **ii. Air layering**: In this method the stem is girdled at nodal region and hormones are applied to this region which promotes rooting. This portion is covered with damp or moist soil using a polythene sheet. Roots emerge in these branches after 2-4 months. Such branches are removed from the parent plant and grown in a separate pot or ground.
 
 **Advantages of conventional methods** 
-
 - The plants produced are genetically uniform. 
 - Many plants can be produced quickly by this method. 
 - Some plants produce little or no seeds;
@@ -201,17 +197,17 @@ A flower is viewed in multidimensional perspectives from time immemorial. It is 
 
 ![Figure 1.3** Parts of a Flower](1.3.png "")
 
-**Figure 1.3** Parts of a Flower
-
 ## Pre-fertilization: structures and events
 
- The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
+The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
 
 ### Male Reproductive part - Androecium
 
- Androecium is made up of stamens. Each stamen possesses an anther and a filament. Anther bears pollen grains which represent the male gametophyte. In this chapter we shall discuss the structure and development of anther in detail.
+Androecium is made up of stamens. Each stamen possesses an anther and a filament. Anther bears pollen grains which represent the male gametophyte. In this chapter we shall discuss the structure and development of anther in detail.
 
-**Development of anther**: A very young anther develops as a homogenous mass of cells surrounded by an epidermis. During its development, the anther assumes a four- lobed structure. In each lobe, a row or a few rows of hypodermal cells becomes enlarged with conspicuous nuclei. This functions as archesporium. The archesporial cells divide by periclinal divisions to form primary parietal cells towards the epidermis and primary sporogenous cells towards the inner side of the anther. The primary parietal cells undergo a series of periclinal and anticlinal division and form 2-5 layers of anther walls composed of endothecium, middle layers and tapetum, from periphery to centre.
+#### Development of anther: 
+
+A very young anther develops as a homogenous mass of cells surrounded by an epidermis. During its development, the anther assumes a four- lobed structure. In each lobe, a row or a few rows of hypodermal cells becomes enlarged with conspicuous nuclei. This functions as archesporium. The archesporial cells divide by periclinal divisions to form primary parietal cells towards the epidermis and primary sporogenous cells towards the inner side of the anther. The primary parietal cells undergo a series of periclinal and anticlinal division and form 2-5 layers of anther walls composed of endothecium, middle layers and tapetum, from periphery to centre.
 
 **Microsporogenesis**: The stages involved in the formation of haploid microspores from diploid microspore mother cell through meiosis is called 
 **Microsporogenesis.**The primary sporogeneous cells directly, or may undergo a few mitotic divisions to form **sporogenous tissue.** The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of fourhaploid microspores (microspore tetrad). The microspore tetrad may be arranged in a tetrahedral, decussate, linear, T shaped or isobilateral manner. Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called **pollinium**. Example: _Calotropis_.Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter ‘Y’ and is called **translator**.
@@ -219,38 +215,38 @@ A flower is viewed in multidimensional perspectives from time immemorial. It is 
 ![Figure 1.4 stages in the development of anther](1.4.png "") 
 ![Figure 1.4 stages in the development of anther](1.5.png "")
 
-**Figure 1.4** Stages in the development of anther
-
-
-**T.S. of Mature anther** 
+## T.S. of Mature anther
 
 Transverse section of mature anther reveals the presence of anther cavity surrounded by an anther wall. It is bilobed, each lobe having 2 theca (dithecous). A typical anther is tetrasporangiate. The T.S. of Mature anther is given in Figure 1.5.
 
-**1. Anther wall** 
+### 1.Anther wall 
 
 The mature anther wall consists of the following layers **a. Epidermis b. Endothecium c. Middle layers d. Tapetum.**
 
-**a. Epidermis**: It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. 
+#### a. Epidermis: 
+It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. 
 
 ```
 **Activity** 
 
 Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 ```
-
 ![Figure 1.5 T.S of mature anther](1.6.png)
 
-**Figure 1.5** T.S of Mature anther
+#### b. Endothecium: 
+It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
 
-**b. Endothecium**: It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
+#### c. Middle layers: 
+Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. 
 
-**c. Middle layers**: Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. 
+#### d. Tapetum: 
+It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
 
-**d. Tapetum**: It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
+#### Secretory tapetum (parietal/glandular/ cellular): 
+The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
 
-**Secretory tapetum** (parietal/glandular/ cellular): The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
-
-**Invasive tapetum** (periplasmodial): The cells loose their inner tangential and radial walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
+#### Invasive tapetum (periplasmodial): 
+The cells loose their inner tangential and radial walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
 
 **Functions of Tapetum:** 
 
@@ -269,9 +265,9 @@ microspores.
 Many botanists speak of a third type of tapetum called amoeboid, where the cell wall is not lost. The cells protrude into the anther cavity through an amoeboid movement. This type is often associated with male sterility and should not be confused with periplasmodial type.
 ```
 
-**2\. Anther Cavity : The anther cavity is filled with** microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. 
+**2. Anther Cavity :** The anther cavity is filled with microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. 
 
-**3\. Connective:** It is the column of sterile tissue surrounded by the anther lobe. It possesses vascular tissues. It also contributes to the inner tapetum.
+**3. Connective:** It is the column of sterile tissue surrounded by the anther lobe. It possesses vascular tissues. It also contributes to the inner tapetum.
 
 **Microspores and pollen grains** 
 
