@@ -75,9 +75,9 @@ The reproduction method which helps to perpetuate its own species without the in
 
 ### Natural methods
 
- Natural vegetative reproduction is a form of asexual reproduction in which a bud grows and develops into a new plant. The buds may be formed in organs such as root, stem and leaf. At some stage, the new plant gets detached from the parent plant and starts to develop into a new plant. Some of the organs involved in the vegetative reproduction also serve as the organs of storage and perennation. The unit of reproductive structure used in propagation is called **reproductive propagules** or **diaspores.** Some of the organs that help in vegetative reproduction are given in Figure 1.1.
+Natural vegetative reproduction is a form of asexual reproduction in which a bud grows and develops into a new plant. The buds may be formed in organs such as root, stem and leaf. At some stage, the new plant gets detached from the parent plant and starts to develop into a new plant. Some of the organs involved in the vegetative reproduction also serve as the organs of storage and perennation. The unit of reproductive structure used in propagation is called **reproductive propagules** or **diaspores.** Some of the organs that help in vegetative reproduction are given in Figure 1.1.
 
-**A. Vegetative reproduction in root**
+#### Vegetative reproduction in root
 
 The roots of some plants develop vegetative or adventitious buds on them. Example _Murraya,_ _Dalbergia_ and _Millingtonia._ Some tuberous adventitious roots apart from developing buds also store food. Example _Ipomoea batatus_ and _Dahlia._ Roots possessing buds become detached from the parent plant and grow into independent plant under suitable condition.
 
@@ -97,9 +97,11 @@ Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive 
 
 ```
 
-**B. Vegetative reproduction in stem** From the Unit 3 of class XI (Vegetative morphology) you are familiar with the structure of various underground stem and sub aerial stem modifications. These include rhizome (Musa _paradisiaca, Zingiber officinale and Curcuma longa_); corm (_Amorphophallus_ and _Colocasia_); tuber (_Solanum tuberosum_); bulb(_Allium cepa_ and _Lillium_) runner (_Centella asiatica_); stolon (Mentha, and Fragaria); offset (Pistia, and _Eichhornia_); sucker (_Chrysanthemum_) and bulbils (Dioscorea and Agave). The axillary buds from the nodes of rhizome and eyes of tuber give rise to new plants. 
+#### Vegetative reproduction in stem
+From the Unit 3 of class XI (Vegetative morphology) you are familiar with the structure of various underground stem and sub aerial stem modifications. These include rhizome (Musa _paradisiaca, Zingiber officinale and Curcuma longa_); corm (_Amorphophallus_ and _Colocasia_); tuber (_Solanum tuberosum_); bulb(_Allium cepa_ and _Lillium_) runner (_Centella asiatica_); stolon (Mentha, and Fragaria); offset (Pistia, and _Eichhornia_); sucker (_Chrysanthemum_) and bulbils (Dioscorea and Agave). The axillary buds from the nodes of rhizome and eyes of tuber give rise to new plants. 
 
-**C. Vegetative reproduction in leaf** In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
+#### Vegetative reproduction in leaf
+In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
 
 
@@ -109,22 +111,20 @@ Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive 
 
 **Advantages of natural vegetative reproduction**
  
-• Only one parent is required for propagation. 
- 
-• The new individual plants produced are genetically identical. 
+- Only one parent is required for propagation. 
+- The new individual plants produced are genetically identical. 
+- In some plants, this enables to spread rapidly. Example: _Spinifex_ 
+- Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
 
-• In some plants, this enables to spread rapidly. Example: _Spinifex_ 
-
-• Horticulturists and farmers utilize these organs of natural vegetative reproduction for cultivation and to harvest plants in large scale.
-
-**Disadvantage of natural vegetative reproduction** • New plants produced have no genetic
+**Disadvantage of natural vegetative reproduction** - New plants produced have no genetic
 variation.
 
 ### Artificial Methods
 
 Apart from the above mentioned natural methods of vegetative reproduction, a number of methods are used in agriculture and horticulture to propagate plants from their parts. Such methods are said to be artificial propagation. Some of the artificial propagation methods have been used by man for a long time and are called **conventional methods**. Now-a-days, technology is being used for propagation to produce large number of plants in a short period of time. Such methods are said to be **modern methods**.
 
-**A. Conventional methods** 
+#### Conventional methods
+
 
 The common methods of conventional propagation are cutting, grafting and layering.
 
@@ -174,21 +174,17 @@ In this method, the stem of a parent plant is allowed to develop roots while sti
 
 **Advantages of conventional methods** 
 
-• The plants produced are genetically uniform. 
-
-• Many plants can be produced quickly by this method. 
-
-• Some plants produce little or no seeds;
+- The plants produced are genetically uniform. 
+- Many plants can be produced quickly by this method. 
+- Some plants produce little or no seeds;
 in others, the seeds produced do not germinate. In such cases, plants can be produced in a short period by this method.
-
-• Some plants can be propagated more economically by vegetative propagation. Example: _Solanum tuberosum._
-
-• Two different plants with desirable characters such as disease resistance and high yield can be grafted and grown as a new plant with the same desirable characters.
+- Some plants can be propagated more economically by vegetative propagation. Example: _Solanum tuberosum._
+- Two different plants with desirable characters such as disease resistance and high yield can be grafted and grown as a new plant with the same desirable characters.
 
 **Disadvantages of conventional methods** 
-• Use of virus infected plants as parents produces viral infected new plants. 
+- Use of virus infected plants as parents produces viral infected new plants. 
 
-• Vegetative structures used for propagation are bulky and so they are difficult to handle and store.
+- Vegetative structures used for propagation are bulky and so they are difficult to handle and store.
 
 ## Sexual Reproduction
 
@@ -252,14 +248,14 @@ Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate
 
 **Functions of Tapetum:** 
 
-• It supplies nutrition to the developing
+- It supplies nutrition to the developing
 microspores. 
 
-• It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
+- It contributes sporopollenin through **ubisch bodies** thus plays an important role in pollen wall formation.
 
-• The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
+- The pollenkitt material is contributed by tapetal cells and is later transferred to the pollen surface.
 
-• Exine proteins responsible for ‘**rejection reaction**’ of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
+- Exine proteins responsible for ‘**rejection reaction**’ of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
 
 ```
 **DO YOU KNOW**
@@ -364,7 +360,8 @@ The pollen grains produced in the anther will germinate only when they reach the
 
 Based upon the flower on which the pollen of a flower reaches, the pollination is classified into two kinds, namely, **self-pollination (Autogamy)** **and cross-pollination(Allogamy).**
 
-**A. Self-pollination or Autogamy** (Greek Auto = self, gamos = marriage):
+#### Self-pollination or Autogamy
+(Greek Auto = self, gamos = marriage):
 
 According to a majority of Botanists, the transfer of pollen on the stigma of the same flower is called self-pollination or Autogamy. Self-pollination is possible only in those plants which bear bisexual flowers. In order to promote self- pollination the flowers of the plants have several adaptations or mechanisms. They are: **1\. Cleistogamy:** In cleistogamy (Greek Kleisto = closed. Gamos = marriage) flowers never open and expose the reproductive organs and thus the pollination is carried out within the closed flower. _Commelina, Viola_, _Oxalis_ are some examples for cleistogamous flowers. In Commelina _benghalensis, two types of flowers are produced-_ aerial and underground flowers. The aerial flowers are brightly coloured, chasmogamous and insect pollinated. The underground flowers are borne on the subterranean branches of the rhizome that are dull, cleistogamous and self pollinated and are not dependent on pollinators for pollination.(Figure 1.11).
 
@@ -376,7 +373,8 @@ According to a majority of Botanists, the transfer of pollen on the stigma of th
 
 **Figure 1.11** _Commelina_ with Cleistogamous and Chasmogamous flowers
 
-**B. Cross - pollination** It refers to the transfer of pollens on the stigma of another flower. The cross-pollination is of two types:
+#### Cross - pollination
+It refers to the transfer of pollens on the stigma of another flower. The cross-pollination is of two types:
 
 **i. Geitonogamy**: When the pollen deposits on another flower of the same individual plant, it is said to be geitonogamy. It usually occurs in plants which show monoecious condition. It is functionally cross-pollination but is generally similar to autogamy because the pollen comes from same plant.
 
@@ -439,23 +437,23 @@ Zoophily refers to pollination through animals and pollination through insects i
 
 **Anemophilous plants have the following characteristic features:**
 
-• The flowers are produced in pendulous,catkin-like or spike inflorescence.
+- The flowers are produced in pendulous,catkin-like or spike inflorescence.
 
-• The axis of inflorescence elongates so that the flowers are brought well above the leaves. 
+- The axis of inflorescence elongates so that the flowers are brought well above the leaves. 
 
-• The perianth is absent or highly reduced.
+- The perianth is absent or highly reduced.
 
-• The flowers are small, inconspicuous, colourless, not scented, do not secrete nectar. 
+- The flowers are small, inconspicuous, colourless, not scented, do not secrete nectar. 
 
-• The stamens are numerous, filaments are long, exerted and versatile. 
+- The stamens are numerous, filaments are long, exerted and versatile. 
 
-• Anthers produce enormous quantities of pollen grains compared to number of ovules available for pollination. They are minute,light and dry so that they can be carried to long distances by wind.
+- Anthers produce enormous quantities of pollen grains compared to number of ovules available for pollination. They are minute,light and dry so that they can be carried to long distances by wind.
 
-• In some plants anthers burst violently and release the pollen into the air. Example: _Urtica._
+- In some plants anthers burst violently and release the pollen into the air. Example: _Urtica._
 
-• Stigmas are comparatively large, protruding, sometimes branched and feathery, adapted to catch the pollen grains. Generally single ovule is present.
+- Stigmas are comparatively large, protruding, sometimes branched and feathery, adapted to catch the pollen grains. Generally single ovule is present.
 
-• Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
+- Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
 
 
 
@@ -531,11 +529,11 @@ Silk (Stigma and Style)
 
 
 
-• The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds.
+- The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds.
 
-• The flowers are scentless and produce nectar in large quantities. Pollen and nectar form the floral rewards for the birds visiting the flowers.
+- The flowers are scentless and produce nectar in large quantities. Pollen and nectar form the floral rewards for the birds visiting the flowers.
 
-• The floral parts are tough and leathery to withstand the powerful impact of the visitors.
+- The floral parts are tough and leathery to withstand the powerful impact of the visitors.
 
 **b. Cheiropterophily:** Pollination carried out by bats is called cheiropterophily. Some of the common cheiropterophilous plants are _Kigelia africana_, _Adansonia digitata_, etc., Bats are nocturnal and are attracted by the odour of the flowers that open at or after dusk. The cheiropterophilous plants have flowers borne singly or in clusters quite away from the leaves and branches either on the long peduncle or on the trunk or branches. The flowers produce large quantities of nectar.
 
@@ -545,7 +543,7 @@ under water. The specific gravity of the pollen is same as that of sea water, so
 
 **3\. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. **a. Ornithophily:** Pollination by birds is called Ornithophily. Some common plants that are pollinated by birds are _Erythrina, Bombax, Syzygium, Bignonia, Sterlitzia_ etc., Humming birds, sun birds, and honey eaters are some of the birds which regularly visit flowers and bring about pollination.
 
-**The ornithophilous flowers have the following characteristic features:** • The flowers are usually large in size. • The flowers are tubular, cup shaped or urn-
+**The ornithophilous flowers have the following characteristic features:** - The flowers are usually large in size. - The flowers are tubular, cup shaped or urn-
 
 shaped.
 
@@ -604,19 +602,19 @@ Apospory
 
 some of which get deposited on the stigma of the flower when it visits next. **c. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among _Lemna_ pollinate them. **d. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ants is called **myrmecophily**. Insects that are well adapted to bring about pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees are the main flower visitors and dominant pollinators. Insects are chief pollinating agents and majority of angiosperms are adapted for insect pollination. It is the most common type of pollination.
 
-**The characteristic features of entomo philous flowers are as follows:** • Flowers are generally large or if small they
+**The characteristic features of entomo philous flowers are as follows:** - Flowers are generally large or if small they
 
 are aggregated in dense inflorescence. Example: Asteraceae flowers.
 
-• Flowers are brightly coloured. The adjacent parts of the flowers may also be brightly coloured to attract insect. For example in _Poinsettia_ and _Bougainvillea_ the bracts become coloured.
+- Flowers are brightly coloured. The adjacent parts of the flowers may also be brightly coloured to attract insect. For example in _Poinsettia_ and _Bougainvillea_ the bracts become coloured.
 
-• Flowers are scented and produce nectar. • Flowers in which there is no secretion of
+- Flowers are scented and produce nectar. - Flowers in which there is no secretion of
 
 nectar, the pollen is either consumed as food or used in building up of its hive by the honeybees. Pollen and nectar are the floral rewards for the visitors.
 
-• Flowers pollinated by flies and beetles produce foul odour to attract pollinators.
+- Flowers pollinated by flies and beetles produce foul odour to attract pollinators.
 
-• In some flowers juicy cells are present which are pierced and the contents are sucked by the insects.
+- In some flowers juicy cells are present which are pierced and the contents are sucked by the insects.
 
 **Pollination in _Salvia_ (Lever mechanism):** The flower is protandrous and the corolla is bilabiate with 2 stamens. A lever mechanism helps in pollination. Each anther has an upper fertile lobe and lower sterile lobe which is separated by a long connective which helps the anthers to swing freely. When a bee visits
 
@@ -694,13 +692,13 @@ form a tube. This is facilitated by the stigmatic fluid in wet stigma and pellic
 
 enter and could not escape because they are trapped by the hairs. As soon as the anthers of the flower ripe, the hairs wither and flower bents down. The flies escape with pollen and enter another flower where it dusts pollen on the stigma bringing out pollination.
 
-**Significance of Pollination** • Pollination is a pre-requisite for the process
+**Significance of Pollination** - Pollination is a pre-requisite for the process
 
 of fertilisation. Fertilisation helps in the formation of fruits and seeds.
 
-• It brings the male and female gametes closer for the process of fertilisation.
+- It brings the male and female gametes closer for the process of fertilisation.
 
-• Cross-pollination introduces variations in plants due to the mixing up of different genes. These variations help the plants to adapt to the environment and results in speciation.
+- Cross-pollination introduces variations in plants due to the mixing up of different genes. These variations help the plants to adapt to the environment and results in speciation.
 
 ## Fertilization
  The fusion of male and female gamete is called **fertilization**. **Double fertilization** is seen in angiosperms. **Events of fertilization** The stages involved in double fertilization are:- germination of pollen to form pollen tube in the stigma; growth of pollen tube in the style; direction of pollen tube towards the micropyle of the ovule; entry of the pollen tube into one of the synergids of the embryo sac, discharge of male gametes; syngamy and triple fusion. The events from pollen deposition on the stigma to the entry of pollen tube in to the ovule is called **pollen- pistil interaction.** It is a dynamic process which involves recognition of pollen and to promote or inhibit its germination and growth.
@@ -888,13 +886,13 @@ endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. D
 
 
 
-coat results in the rumination of endosperm in _Passiflora. In Annonaceae and Aristolochiaceae_ definite ingrowth or infolding of the seed coat produces ruminate endosperm. The irregular surface of the seed coat makes endosperm ruminate in _Myristica_. **Functions of endosperm:** • It is the nutritive tissue for the developing
+coat results in the rumination of endosperm in _Passiflora. In Annonaceae and Aristolochiaceae_ definite ingrowth or infolding of the seed coat produces ruminate endosperm. The irregular surface of the seed coat makes endosperm ruminate in _Myristica_. **Functions of endosperm:** - It is the nutritive tissue for the developing
 
-embryo. • In majority of angiosperms, the zygote
+embryo. - In majority of angiosperms, the zygote
 
 divides only after the development of endosperm.
 
-• Endosperm regulates the precise mode of embryo development.
+- Endosperm regulates the precise mode of embryo development.
 
 **Endosperm haustoria** Another interesting feature of the
 
@@ -1154,13 +1152,13 @@ d. **Activation of some sporophytic cells of the ovule** (Nucellus/ integuments-
 **Practical applications** The seedlings formed from the nucellar tissue in _Citrus_ are found better clones for Orchards. Embryos derived through polyembryony are found virus free.
 
 ## Parthenocarpy
- As mentioned earlier, the ovary becomes the fruit and the ovule becomes the seed after fertilization. However in a number of cases, fruit like structures may develop from the ovary without the act of fertilization. Such fruits are called **parthenocarpic fruits**. Invariably they will not have true seeds. Many commercial fruits are made seedless. Examples: Banana, Grapes and Papaya. **Significance** • The seedless fruits have great significance
+ As mentioned earlier, the ovary becomes the fruit and the ovule becomes the seed after fertilization. However in a number of cases, fruit like structures may develop from the ovary without the act of fertilization. Such fruits are called **parthenocarpic fruits**. Invariably they will not have true seeds. Many commercial fruits are made seedless. Examples: Banana, Grapes and Papaya. **Significance** - The seedless fruits have great significance
 
-in horticulture. • The seedless fruits have great commercial
+in horticulture. - The seedless fruits have great commercial
 
-importance. • Seedless fruits are useful for the preparation
+importance. - Seedless fruits are useful for the preparation
 
-of jams, jellies, sauces, fruit drinks etc. • High proportion of edible part is available
+of jams, jellies, sauces, fruit drinks etc. - High proportion of edible part is available
 
 in parthenocarpic fruits due to the absence of seeds.
 
@@ -1438,19 +1436,19 @@ Seed
 
 
 
-• The receptacle becomes fleshy and edible around the fruit enclosing the seeds as in _Pyrus malus_ (apple)
+- The receptacle becomes fleshy and edible around the fruit enclosing the seeds as in _Pyrus malus_ (apple)
 
-• The calyx may persist and enlarge (_Solanum melongena)_ or may cover the fruit _(Physalis minima_)
+- The calyx may persist and enlarge (_Solanum melongena)_ or may cover the fruit _(Physalis minima_)
 
-• The flower stalk or axis below the gynoecium enlarges into a juicy pear shaped body which is edible (_Anacardium occidentale)._ The Perianth becomes fleshy as in Jack fruit.
+- The flower stalk or axis below the gynoecium enlarges into a juicy pear shaped body which is edible (_Anacardium occidentale)._ The Perianth becomes fleshy as in Jack fruit.
 
-• The cells present at the tip of the outer integument around the micropyle develop
+- The cells present at the tip of the outer integument around the micropyle develop
 
 into a fleshy structure called **caruncle**. (_Ricinus communis)._
 
-• The funiculus develops into a fleshy structure which is often very colourful and called aril. (_Myristica and Pithecellobium_)
+- The funiculus develops into a fleshy structure which is often very colourful and called aril. (_Myristica and Pithecellobium_)
 
-• The nucellar tissue is either absorbed completely by the developing embryo sac and embryo or small portion may remain as storage tissue. Thus the remnant of nucellar tissue in the seed is called **perisperm**. Example: Black pepper and beet root
+- The nucellar tissue is either absorbed completely by the developing embryo sac and embryo or small portion may remain as storage tissue. Thus the remnant of nucellar tissue in the seed is called **perisperm**. Example: Black pepper and beet root
 
 _Physalis_ - Persistent calyx
 
