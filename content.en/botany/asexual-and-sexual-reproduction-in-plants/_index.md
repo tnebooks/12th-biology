@@ -129,7 +129,6 @@ Apart from the above mentioned natural methods of vegetative reproduction, a num
 
 #### Conventional methods
 
-
 The common methods of conventional propagation are cutting, grafting and layering.
 
 **a. Cutting:** It is the method of producing a new plant by cutting the plant parts such as root, stem and leaf from the parent plant. The cut part is placed in a suitable medium for growth. It produces root and grows into a new plant. Depending upon the part used it is called as root cutting (_Malus_), stem cutting (_Hibiscus, Bougainvillea_ and _Moringa_) and leaf cutting (_Begonia, Bryophyllum_). Stem cutting is widely used for propagation.
@@ -152,11 +151,9 @@ When the stock is large in size scions are cut into wedge shape and are inserted
 **v. Wedge grafting** In this method a slit is made in the stock or the bark is cut. A twig of scion is inserted and tightly bound so that the cambium of the two is joined.
 
 ```
-
 **Activity**
 
 Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home
-
 ```
 
 **c. Layering:** 
@@ -179,7 +176,6 @@ This method is applied for the plants having flexible branches. The lower branch
 **ii. Air layering**: In this method the stem is girdled at nodal region and hormones are applied to this region which promotes rooting. This portion is covered with damp or moist soil using a polythene sheet. Roots emerge in these branches after 2-4 months. Such branches are removed from the parent plant and grown in a separate pot or ground.
 
 **Advantages of conventional methods** 
-
 - The plants produced are genetically uniform. 
 - Many plants can be produced quickly by this method. 
 - Some plants produce little or no seeds;
@@ -201,26 +197,23 @@ A flower is viewed in multidimensional perspectives from time immemorial. It is 
 
 ![Figure 1.3** Parts of a Flower](1.3.png "")
 
-**Figure 1.3** Parts of a Flower
-
 ## Pre-fertilization: structures and events
 
- The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
+The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
 
 ### Male Reproductive part - Androecium
 
- Androecium is made up of stamens. Each stamen possesses an anther and a filament. Anther bears pollen grains which represent the male gametophyte. In this chapter we shall discuss the structure and development of anther in detail.
+Androecium is made up of stamens. Each stamen possesses an anther and a filament. Anther bears pollen grains which represent the male gametophyte. In this chapter we shall discuss the structure and development of anther in detail.
 
-**Development of anther**: A very young anther develops as a homogenous mass of cells surrounded by an epidermis. During its development, the anther assumes a four- lobed structure. In each lobe, a row or a few rows of hypodermal cells becomes enlarged with conspicuous nuclei. This functions as archesporium. The archesporial cells divide by periclinal divisions to form primary parietal cells towards the epidermis and primary sporogenous cells towards the inner side of the anther. The primary parietal cells undergo a series of periclinal and anticlinal division and form 2-5 layers of anther walls composed of endothecium, middle layers and tapetum, from periphery to centre.
+#### Development of anther: 
+
+A very young anther develops as a homogenous mass of cells surrounded by an epidermis. During its development, the anther assumes a four- lobed structure. In each lobe, a row or a few rows of hypodermal cells becomes enlarged with conspicuous nuclei. This functions as archesporium. The archesporial cells divide by periclinal divisions to form primary parietal cells towards the epidermis and primary sporogenous cells towards the inner side of the anther. The primary parietal cells undergo a series of periclinal and anticlinal division and form 2-5 layers of anther walls composed of endothecium, middle layers and tapetum, from periphery to centre.
 
 **Microsporogenesis**: The stages involved in the formation of haploid microspores from diploid microspore mother cell through meiosis is called 
 **Microsporogenesis.**The primary sporogeneous cells directly, or may undergo a few mitotic divisions to form **sporogenous tissue.** The last generation of sporogenous tissue functions as microspore mother cells. Each microspore mother cell divides meiotically to form a tetrad of fourhaploid microspores (microspore tetrad). The microspore tetrad may be arranged in a tetrahedral, decussate, linear, T shaped or isobilateral manner. Microspores soon separate from one another and remain free in the anther locule and develop into pollen grains. The stages in the development of microsporangia is given in Figure 1.4. In some plants, all the microspores in a microsporangium remain held together called **pollinium**. Example: _Calotropis_.Pollinia are attached to a clamp or clip like sticky structure called **corpusculum**. The filamentous or thread like part arising from each pollinium is called **retinaculum**. The whole structure looks like inverted letter ‘Y’ and is called **translator**.
 
 ![Figure 1.4 stages in the development of anther](1.4.png "") 
 ![Figure 1.4 stages in the development of anther](1.5.png "")
-
-**Figure 1.4** Stages in the development of anther
-
 
 **T.S. of Mature anther** 
 
