@@ -264,35 +264,41 @@ Pollenkitt is contributed by the tapetum and coloured yellow or orange and is ch
 
  The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at this 3 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells. The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
 
-![Development of male gametopyte](1.7.png)
+![Development of male gametopyte](1.7.png "")
 
 ### Female reproductive part - Gynoecium
 
 The **gynoecium** represents the female reproductive part of the flower. The word gynoecium represents one or more pistils of a flower. The word pistil refers to the ovary, style and stigma. A pistil is derived from a carpel. The word ovary represents the part that contains the ovules. The stigma serves as a landing platform for pollen grains. The style is an elongated slender part beneath the stigma. The basal swollen part of the pistil is the ovary. The ovules are present inside the ovary cavity (locule)on the placenta .Gynoecium (carpel) arises as a small papillate outgrowth of meristematic tissue from the growing tip of the floral primordium. It grows actively and soon gets differentiated into ovary, style and stigma. The ovules or megasporangia arise from the placenta. The number of ovules in an ovary may be one (paddy, wheat and mango) or many (papaya, water melon and orchids).
 
- **Structure of ovule(Megasporangium):**
+### Structure of ovule(Megasporangium):
  
 Ovule is also called megasporangium and is protected by one or two covering called **integuments**. A mature ovule consists of a stalk and a body. The stalk or the funiculus (also called funicle) is present at the base and it attaches the ovule to the placenta. The point of attachment of funicle to the body of the ovule is known as **hilum**. It represents the junction between ovule and funicle. In an inverted ovule, the funicle is adnate to the body of the ovule forming a ridge called raphe. The body of the ovule is made up of a central mass of parenchymatous tissue called **nucellus** which has large reserve food materials. The nucellus is enveloped by one or two protective coverings called **integuments**. Integument encloses the nucellus completely except at the top where it is free and forms a pore called micropyle. The ovule with one or two integuments are said to be **unitegmic** or **bitegmic** ovules respectively. The basal region of the body of the ovule where the nucellus, the integument and the funicle meet or merge is called as chalaza. There is a large,oval, sac-like structure in the nucellus toward the micropylar end called **embryo sac** or female gametophyte. It develops from the functional megaspore formed within the nucellus. In some species(unitegmic tenuinucellate) the inner layer of the integument may become specialized to perform the nutritive function for the embryosac and is called as **endothelium** or **integumentary tapetum** (Example : Asteraceae). There are two types of ovule based on the position of the sporogenous cell. If the sporogenous cell is hypodermal with a single layer of nucellar tissue around it is called **tenuinucellate** type. Normally tenuinucellate ovules have very small nucellus. Ovules with subhypodermal sporogenous cell is called **crassinucellate** type. Normally these ovules have fairly large nucellus. Group of cells found at the base of the ovule between the chalaza and embryo sac is called **hypostase** and the thick -walled cells found above the micropylar end above the embryo sac is called epistase. The structure of ovule is given in Figure 1.7.
 
-![Figure 1.7 Structure of an ovule ](1.8.png)
+![Figure 1.7 Structure of an ovule ](1.8.png  "")
 
-**Types of Ovules**
+### Types of Ovules
 
 The ovules are classified into six main types based on the orientation, form and position of the micropyle with respect to funicle and chalaza. Most important ovule types are orthotropous, anatropous, hemianatropous and campylotropous. The types of ovule is given in Figure 1.8. 
  
-**Orthotropous:** In this type of ovule, the micropyle is at the distal end and the micropyle, the funicle and the chalaza lie in one straight vertical line. Examples: Piperaceae, Polygonaceae 
+#### Orthotropous: 
+In this type of ovule, the micropyle is at the distal end and the micropyle, the funicle and the chalaza lie in one straight vertical line. Examples: Piperaceae, Polygonaceae 
 
-**Anatropous:** The body of the ovule becomes completely inverted so that the micropyle and funiculus come to lie very close to each other. This is the common type of ovules found in dicots and monocots.
+#### Anatropous: 
+The body of the ovule becomes completely inverted so that the micropyle and funiculus come to lie very close to each other. This is the common type of ovules found in dicots and monocots.
 
-**Hemianatropous:** In this, the body of the ovule is placed transversely and at right angles to the funicle. Example: Primulaceae.
+#### Hemianatropous: 
+In this, the body of the ovule is placed transversely and at right angles to the funicle. Example: Primulaceae.
 
-**Campylotropous:** The body of the ovule at the micropylar end is curved and more or less bean shaped. The embryo sac is slightly curved. All the three, hilum, micropyle and chalaza are adjacent to one another, with the micropyle oriented towards the placenta. Example: Leguminosae In addition to the above main types there are two more types of ovules they are, 
+#### Campylotropous: 
+The body of the ovule at the micropylar end is curved and more or less bean shaped. The embryo sac is slightly curved. All the three, hilum, micropyle and chalaza are adjacent to one another, with the micropyle oriented towards the placenta. Example: Leguminosae In addition to the above main types there are two more types of ovules they are, 
 
-**Amphitropous:** The distance between hilum and chalaza is less. The curvature of the ovule leads to horse-shoe shaped nucellus. Example: some Alismataceae.
+#### Amphitropous: 
+The distance between hilum and chalaza is less. The curvature of the ovule leads to horse-shoe shaped nucellus. Example: some Alismataceae.
 
-**Circinotropous:** Funiculus is very long and surrounds the ovule. Example: Cactaceae
+#### Circinotropous: 
+Funiculus is very long and surrounds the ovule. Example: Cactaceae
 
-![Figure 1.8 Types of ovule](1.9.png)
+![Figure 1.8 Types of ovule](1.9.png "")
 
 **Megasporogenesis**
 
@@ -304,7 +310,7 @@ As the ovule develops, a single hypodermal cell in the nucellus becomes enlarged
 
 To describe the stages in embryo sac development and organization the simplest monosporic type of development is given below.
 
-![Figure 1.9 Development of ovule and embryo sac (_Polygonum type_).](1.10.png)
+![Figure 1.9 Development of ovule and embryo sac (_Polygonum type_).](1.10.png "")
 
 The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division. Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2 polar nuclei** may remain free or may fuse to form a secondary nucleus (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled embryo sac with 8 nuclei is formed. The structure of embryo sac is given in Figure 1.10.
 
