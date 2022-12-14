@@ -572,33 +572,10 @@ The second gamete migrates to the central cell where it fuses with the polar nuc
 
 **Endosperm** The primary endosperm nucleus (PEN) divides immediately after fertilization but before the zygote starts to divide, to form the endosperm. The primary endosperm nucleus is the result of triple fusion (two polar nuclei and one sperm nucleus) and thus has 3n number of chromosomes. It is a nutritive tissue and regulatory structure that nourishes the developing embryo. Depending upon the mode of development three types of endosperm are recognized in angiosperms. They are nuclear endosperm, cellular endosperm and helobial endosperm (Figure 1.21).
 
-**Figure 1.21** Types of Endosperm
+**Nuclear endosperm:** Primary Endosperm Nucleus undergoes several mitotic divisions without cell wall formation thus a free nuclear condition exists in the endosperm. Examples: Coccinia, Capsella and Arachis
 
-Primary endosperm nucleus
+Cellular endosperm: Primary endosperm nucleus divides into 2 nuclei and it is immediately followed by wall formation. Subsequent divisions also follow cell wall formation. Examples: Adoxa, Helianthus and Scoparia
 
-Free nuclei**(a) Nuclear endosperm**
-
-**(c) Helobial endosperm**
-
-Primary endosperm nucleus
-
-Micropylar chamber
-
-Free nuclei
-
-Chalazal chamber
-
-Cell wall formation
-
-**(b) Cellular endosperm**
-
-endosperm Primary endosperm nucleus
-
-**d) Ruminate endosperm** _(Areca catechu)_
-
-endosperm
-
-Ruminate endosperm
 
 **Nuclear endosperm:** In the nuclear type, the Primary endosperm nucleus (PEN) divides into two without any wall formation. The subsequent division of these two nuclei are free nuclear so that the endosperm consists of only free nuclei and cytoplasm around them. The nuclei may either remain free or may become separate
 
