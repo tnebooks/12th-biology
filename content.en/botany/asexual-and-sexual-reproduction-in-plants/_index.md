@@ -588,148 +588,47 @@ The endosperms may either be completely consumed by the developing embryo or it 
 Aleurone tissue consists of highly specialised cells of one or few layers which are found around the endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. During seed germination cells secrete certain hydrolytic enzymes like amylases, proteases which digest reserved food material present in the endosperm cells.
 
 ```
+**Ruminate endosperm:** 
+The endosperm with irregularity and unevenness in its surface forms ruminate endosperm.
+ *Examples :Areca catechu, Passiflora and Myristica*
 
+**Functions of endosperm:**
+- It is the nutritive tissue for the developing embryo.
 
-**Embryogenesis Development of Dicot embryo** The development of Dicot embryo (Capsella _bursa-pastoris)_ is of Onagrad or crucifer type. The embryo develops at micropylar end of embryo sac.
+- In majority of angiosperms, the zygote divides only after the development of endosperm.
 
-The Zygote divides by a transverse division forming **upper or terminal** **cell** and **lower or basal cell. The basal cell divides transversely** and the terminal cell divides vertically to form a four celled proembryo. A second vertical
+- Endosperm regulates the precise mode of embryo development.
 
-division right angle to the first one takes place in terminal cell forming a four celled stage called **quadrant.** A transverse division in the quadrant results in eight cells arranged in two tiers of four each called **octant stage.**
+```
+**Do You Know**
+Coconut milk is a basic nutrient medium which induces the differentiation of embryo (embryoids) and plantlets from various plant tissues. Coconut water from tender coconut is free- nuclear endosperm and white kernel part is cellular.
+```
+**Development of Dicot embryo**
 
-The upper tier of four cells of the octant is called **epibasal** or anterior octant and the lower tier of four cells constitute **hypobasal** or posterior octants. A periclinal division in the octants results in the formation of 16 celled stage with eight cells in the outer and eight in the inner.
+The Stages involved in the development of Dicot embryo (Capsella bursa-pastoris – Onagrad or crucifer type) is given in Figure 1.22. The embryo develops at micropylar end of embryo sac. The zygote undergoes transverse division to form upper or terminal
+cell and lower or basal cell. Further divisions in the zygote during the development lead to the formation of embryo. Embryo undergoes globular, heart shaped stages before reaching a mature stage. The mature embryo has a radicle, two cotyledons and a plumule.
 
-The outer eight cells represent the **dermatogen** and undergoes anticlinal division to produce epidermis. The inner eight cells divide by vertical and transverse division to form outer layer of **periblem** which give rise to cortex and a central region of **pleurome** which forms stele
+```
+Activity
+Collect the fruits of Tridax (Cypsella). Using a needle dissect out the content, separate the embryo and observe different stages of dicot embryo – globular, torpedo, heart shaped under a dissection microscope.
+```
 
-During the development, the two cells of the basal cell undergoes several transverse division to form a six to ten celled suspensor. The embryo at this stage become **globular** and the suspensor helps to push the embryo deep into the endosperm. The uppermost cell of the suspensor enlarge to form a haustorium. The lowermost cell of the suspensor is called **hypophysis**. A transverse division and two vertical division right angle to each other of hypophysis results in the formation of eight cells. The eight cells are arranged in two tiers of four cells each The upper tier give rise to root cap and epidermis. At this stage embryo proper appears heart shaped, cell divisions in the **hypocotyl** and cotyledon regions of the embryo proper results in elongation. Further development results in curved horse shoe shaped embryo in the embryo sac. The mature embryo has a **radicle,** two **cotyledons** and a **plumule**(Figure 1.22).
+**Seed**
+The fertilized ovule is called seed and possesses an embryo, endosperm and a protective coat. Seeds may be endospermous (wheat, maize, barley and sunflower) or non endospermous. (Bean, Mango, Orchids and cucurbits).
 
-**Activity**
+**Cicer seed (example for Dicot seed)** 
+The mature seeds are attached to the fruit wall by a stalk called funiculus. The funiculus disappears leaving a scar called hilum. Below the hilum a small pore called micropyle is present. It facilitates entry of oxygen and water into the seeds during germination. Each seed has a thick outer covering called seed coat. The seed coat is developed from integuments of the ovule. The outer coat is called testa and is hard whereas the inner coat is thin, membranous and is called tegmen. In Pea plant the tegmen and testa are fused. Two cotyledons laterally attached to the embryonic axis and store the food materials in pea whereas in other seeds like castor the
 
-Collect the fruits of _Tridax_ (Cypsella). Using a needle dissect out the content, separate the embryo and observe different stages of dicot embryo – globular, torpedo, heart shaped under a dissection microscope.
-**Seed** The fertilized ovule is called seed and possesses an embryo, endosperm and a protective coat. Seeds may be endospermous (wheat, maize, barley and sunflower) or non endospermous. (Bean, Mango, Orchids and cucurbits).
+![Figure 1.22 Development of Dicot embryo (Capsella bursa-pastoris)](1.27.png "")
 
-Fresh weight of an orchid seed may be 20.33 microgram and that of double coconut
+![Figure 1.23(a) Dicot seed - Cicer arientinum](1.28.png "")
 
-(_Lodoicea maldivica_) is about 6 kg.
+endosperm contains reserve food and the cotyledons are thin. The portion of embryonal Fruit (Caryopsis) entire axis projecting beyond the cotyledons is called **radicle** or embryonic root. The other end of the axis called embryonic shoot is the**plumule**Embryonal axis above the Endosperm level of cotyledon is called **epicotyl** whereas Scutellum the level of the cylindrical region between Coleoptile cotyledon is called **hypocotyl**(Figure 1.23 a)**Oryza seed (example for Monocot seed)**
 
-**_Cicer_ seed (example for Dicot seed)** The mature seeds are attached to the fruit wall by a stalk called **funiculus**. The funiculus disappears leaving a scar called **hilum**. Below the hilum a small pore called **micropyle** is present. It facilitates entry of oxygen and water into the seeds during germination.
+The seed of paddy is one seeded and is called **Caryopsis**. Each seed remains enclosed by a brownish husk which consists of glumes arranged in two rows. The seed coat is a brownish, membranous layer closely adhered to the grain. Endosperm forms the bulk of the grain and is the storage tissue. It is separated from embryo by a definite layer called **epithelium.** The embryo is small and consists of one shield- shaped cotyledon known as **scutellum** present towards lateral side of embryonal axis.
 
-**Figure 1.23(a)** Dicot seed _- Cicer arientinum_
-**a) Dicot seed _(Cicer arientinum)_**
+ A short axis with plumule and radicle protected by the **root cap**is present. The plumule is surrounded by a protective sheath called **coleoptile.** The radicle including root cap is also covered by a protective sheath called **coleorhiza.** The scutellum supplies the growing embryo with food material absorbed from the endosperm with the help of the epithelium (Figure 1.23 b).
 
-Seed cut opened
-
-Radicle
-
-Testa
-
-Seed entire
-
-**b) Monocot seed _(Oryza sativa)_**
-
-Endosperm
-
-Scutellum Coleoptile Shoot apex
-
-Radicle Root cap Coleorhiza
-
-L.s. of fruit
-
-Fruit (Caryopsis) entire
-
-Each seed has a thick outer covering called seed coat. The seed coat is developed from integuments of the ovule. The outer coat is called **testa** and is hard whereas the inner coat is thin, membranous and is called **tegmen**. In Pea plant the tegmen and testa are fused. Two cotyledons laterally attached to the embryonic axis and store the food materials in pea whereas in other seeds like castor the endosperm contains reserve food and the
-
-(f)
-
-Suspensor
-
-Hypophysis
-
-Embryonal mass
-
-(c) 4 celled proembryo
-
-(b) 2- celled proembryo
-
-Terminal cell
-
-Basal cell
-
-(a) Zygote
-
-Endosperm
-
-Embryonal mass Hypophysis Suspensor
-
-(e)
-
-Suspensor
-
-Root cap
-
-Radicle
-
-Hypophysis
-
-Cotyledon
-
-(g) Mature embryo Mature embryo in a seed
-
-Plumule
-
-Cotyledons
-
-Root cap
-
-Radicle
-
-(h)
-
-Embryonal mass Hypophysis
-
-Suspensor
-
-(d) Globular embryo
-
-Heart shaped embryo
-
-**Figure 1.22** Development of Dicot embryo (_Capsella bursa-pastoris_)
-cotyledons are thin. The portion of embryonal axis projecting beyond the cotyledons is called **radicle** or embryonic root. The other end of the axis called embryonic shoot is the **plumule**. Embryonal axis above the level of cotyledon is called **epicotyl** whereas the cylindrical region between the level of cotyledon is called **hypocotyl**(Figure 1.23 a).
-
-**_Oryza_ seed (example for Monocot seed)** The seed of paddy is one seeded and is called **Caryopsis**. Each seed remains enclosed by a brownish husk which consists of glumes arranged in two rows. The seed coat is a brownish, membranous layer closely adhered to the grain. Endosperm forms the bulk of the grain and is the storage tissue. It is separated from embryo by a definite layer called epithelium. The embryo is small and consists of one shield- shaped cotyledon known as **scutellum** present towards lateral side of embryonal axis. A short axis with plumule and radicle protected by the **root cap is present. The plumule is surrounded** by a protective sheath called coleoptile. The radicle including root cap is also covered by a protective sheath called coleorhiza. The scutellum supplies the growing embryo with food material absorbed from the endosperm with the help of the epithelium (Figure 1.23 b).
-
-**Figure 1.23(b)** Monocot seed _\- Oryza sativa_
-
-**Figure 2.25 Structure of seed**
-
-CotyledonPlumule
-
-Radicle
-
-Testa
-
-Testa
-
-**a) Dicot seed _(Cicer arientinum)_**
-
-Seed cut opened
-
-Radicle
-
-Testa
-
-Seed entire
-
-**b) Monocot seed _(Oryza sativa)_**
-
-Endosperm
-
-Scutellum Coleoptile Shoot apex
-
-Radicle Root cap Coleorhiza
-
-L.s. of fruit
-
-Fruit (Caryopsis) entire
 
 **Activity**
 
