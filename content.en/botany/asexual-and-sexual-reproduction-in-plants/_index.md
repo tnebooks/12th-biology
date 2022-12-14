@@ -218,7 +218,7 @@ The tapetum retains the original position and cellular integrity and nourishes t
 #### Invasive tapetum (periplasmodial): 
 The cells loose their inner tangential and radial walls and the protoplast of all tapetal cells coalesces to form a periplasmodium.
 
-**Functions of Tapetum:** 
+#### Functions of Tapetum: 
 
 - It supplies nutrition to the developing
 microspores. 
@@ -255,7 +255,7 @@ Liquid nitrogen (-1960C) is used to preserve pollen in viable condition for prol
 
 ```
 **Bee pollen** is a natural substance and contains high protein, carbohydrate, trace amount of minerals and vitamins. Therefore, it is used as dietary supplement and is sold as pollen tablets and syrups. Further , it increases the performance of athletes, race horses and also heals the wounds caused by burns . The study of honey pollen is called Mellitopalynology.
-![honey](1.32.png)
+![honey](1.32.png "")
 
 ```
 Pollenkitt is contributed by the tapetum and coloured yellow or orange and is chiefly made of carotenoids or flavonoids. It is an oily layer forming a thick viscous coating over pollen surface. It attracts insects and protects damage from UV radiation.
