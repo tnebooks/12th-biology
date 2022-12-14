@@ -475,90 +475,40 @@ Visit to a nearby park and observe the different flowers. Record the adaptations
 
 **The characteristic features of entomo philous flowers are as follows:** 
 
-- Flowers are generally large or if small they
-
-are aggregated in dense inflorescence. Example: Asteraceae flowers.
+- Flowers are generally large or if small they are aggregated in dense inflorescence. Example: Asteraceae flowers.
 
 - Flowers are brightly coloured. The adjacent parts of the flowers may also be brightly coloured to attract insect. For example in _Poinsettia_ and _Bougainvillea_ the bracts become coloured.
 
-- Flowers are scented and produce nectar. - Flowers in which there is no secretion of
-
-nectar, the pollen is either consumed as food or used in building up of its hive by the honeybees. Pollen and nectar are the floral rewards for the visitors.
+- Flowers are scented and produce nectar. - Flowers in which there is no secretion of nectar, the pollen is either consumed as food or used in building up of its hive by the honeybees. Pollen and nectar are the floral rewards for the visitors.
 
 - Flowers pollinated by flies and beetles produce foul odour to attract pollinators.
 
 - In some flowers juicy cells are present which are pierced and the contents are sucked by the insects.
 
-**Pollination in _Salvia_ (Lever mechanism):** The flower is protandrous and the corolla is bilabiate with 2 stamens. A lever mechanism helps in pollination. Each anther has an upper fertile lobe and lower sterile lobe which is separated by a long connective which helps the anthers to swing freely. When a bee visits
+**Pollination in _Salvia_ (Lever mechanism):** The flower is protandrous and the corolla is bilabiate with 2 stamens. A lever mechanism helps in pollination. Each anther has an upper fertile lobe and lower sterile lobe which is separated by a long connective which helps the anthers to swing freely. When a bee visits a flower, it sits on the lower lip which acts as a platform. It enters the flower to suck the nectar by pushing its head into the corolla. During the entry of the bee into the flower the body strikes against the sterile end of the connective. This makes the fertile part of the stamen to descend and strike at the back of the bee. 
+The pollen gets deposited on the back of the bee. When it visits another flower, the pollen gets rubbed against the stigma and completes the act of pollination in _Salvia_ (Figure 1.17).
 
-a flower, it sits on the lower lip which acts as a platform. It enters the flower to suck the nectar by pushing its head into the corolla. During the entry of the bee into the flower the body strikes against the sterile end of the connective. This makes the fertile part of the stamen to descend and strike at the back of the bee. The pollen gets deposited on the back of the bee. When it visits another flower, the pollen gets rubbed against the stigma and completes the act of pollination in _Salvia_ (Figure 1.17a). Some of the other interesting pollination mechanisms found in plants are a) Trap mechanism (_Aristolochia_);Pit fall mechanism (_Arum_);Clip or translator mechanism (_Asclepiadaceae_) and Piston mechanism (_Papilionaceae_).
+ Some of the other interesting pollination mechanisms found in plants are a) Trap mechanism (_Aristolochia_);Pit fall mechanism (_Arum_);Clip or translator mechanism (_Asclepiadaceae_) and Piston mechanism (_Papilionaceae_).
 
-**Figure 1.17 (a)** Pollination in _Salvia_ - Lever mechanism
-
-(i) (ii)
-
-(iv)(iii)
-
-Stigma
-
-Anther Pistil
-
-Pollen gets transferred to the stigma
-
-Pollen gets dusted on the body of the insect
-
-**Pollination in _Calotropis_ (Translator mechanism)** This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG system of classification). The flowers are bisexual with 5 stamens forming **gynostegium**(union of stigma with the androecium). The stigma is large and 5 – angled and is receptive on the underside. Each stamen at its back possesses a brightly coloured hood like outgrowth enclosing horn shaped nectar. The pollen in each anther lobe of a stamen unites into a mass, forming a pollinium. When the insect visits the flower for nectar, the translator gets attached to the proboscis or leg of the visitor. During the visit to the next flower the pollinia come in contact with the receptive stigma carrying out pollination.
-
-**Pollination in _Aristolochia_ (Trap mechanism)** A special mechanism to accomplish pollination called trap mechanism is found in _Aristolochia_. The flowers are axillary and perianth is tubular with a hood at the top. The basal region is swollen and possesses gynostegium. The gynostegium has six anthers.
-
-Insect
-
-Curved hairs
-
-Insect
-
-Anther
-
-**Figure 1.17 (c)** Pollination in _Aristolochia_ \- Trap mechanism
-
-The inner wall of tubular middle part of the perianth is slippery and lined with stiff hairs which are pointed downwards. The young flowers are erect. During this stage small flies
-
-Disc Retinaculum Pollinium
-
-**Figure 1.17 (b)** Pollination in _Calotropis_ -Translator mechanism
-
-**Pollination – A composite event** Pollination provides information about
-
-evolution, ecology, animal learning and foraging behaviour. Flowers not only supply nectar but also provide microclimate, site and shelter for egg laying insects. The association of insects benefits the flower by getting pollinated and ensures the propagation of its own progeny. The floral parts are well modified in shape, size to attract the pollinators to accomplish pollination .
-
-The relationship between Yucca and moth (_Tegeticula yuccasella_) is an example for obligate mutualism. The moth bores a hole in the ovary of the flower and lays eggs in it. Then it collects pollen and pushes it in the form of balls down the hollow end of the stigma. Fertilization takes place and seeds develop. Larvae feed on developing seeds. Some seeds remain unconsumed for the propagation of the plant species. It is interesting that the moth cannot survive without _Yucca_ flowers and the plant fails to reproduce sexually without the moth.
-
-Similarly in Amorphophallus, flowers apart from providing floral rewards, also forms safe site for laying eggs. Many visitors consume pollen and nectar and do not help in pollination. They are called pollen / nectar robbers.
-
-In Bee orchid (_Ophrys_) the morphology of the flower mimics that of female wasp (Colpa). The male wasp mistakes the flowers for a female wasp and tries to copulate. This act of pseudocopulation helps in polli nation. The pollination in Fig (Ficus carica) by the Wasp (_Blastophaga psenes_) is also an example for similar Plant – insect interaction.
-
-**Bee Orchid**
-form a tube. This is facilitated by the stigmatic fluid in wet stigma and pellicle in dry stigma. These two also decide the incompatibility and compatibility of the pollen through **recognition- rejection protein reaction** between the pollen and stigma surface. Sexual incompatibility may exist between different species (interspecific) or between members of the same species (intraspecific).The latter is called self- incompatibility. The first visible change in the pollen, soon after it lands on stigma is hydration. The pollen wall proteins are released from the surface. During the germination of pollen its entire content moves into the pollen tube. The growth is restricted to the tip of the tube and all the cytoplasmic contents move to the tip region. The remaining part of the pollen tube is occupied by a vacuole which is cut off from the tip by callose plug. The extreme tip of pollen tube appears hemispherical and transparent when viewed through the microscope. This is called **cap block**. As soon as the cap block disappear the growth of the pollen tube stops.
-
-**Pollen tube in the style** After the germination the pollen tube enters into the style from the stigma. The growth of the pollen tube in the style depends on the type of style. **Types of style** There are three types of style a) Hollow or open style b)solid style or closed style c) semi- solid or half closed style. **Hollow style (Open style):** It is common among monocots. A hollow canal running from the stigma to the base of the style is present. The canal is lined by a single layer of glandular canal cells (Transmitting tissue).They secrete mucilaginous substances. The pollen tube grows on the surface of the cells lining the stylar canal. The canal is filled with secretions which serve as nutrition for growing pollen tubes and also controlling incompatibility reaction between the style and pollen tube. The secretions contain carbohydrates, lipids and some enzymes
-
-enter and could not escape because they are trapped by the hairs. As soon as the anthers of the flower ripe, the hairs wither and flower bents down. The flies escape with pollen and enter another flower where it dusts pollen on the stigma bringing out pollination.
-
-**Significance of Pollination** - Pollination is a pre-requisite for the process
-
-of fertilisation. Fertilisation helps in the formation of fruits and seeds.
-
-- It brings the male and female gametes closer for the process of fertilisation.
-
-- Cross-pollination introduces variations in plants due to the mixing up of different genes. These variations help the plants to adapt to the environment and results in speciation.
+![Figure 1.17 Pollination in Salvia - Lever mechanism](1.20.png "")
 
 ## Fertilization
- The fusion of male and female gamete is called **fertilization**. **Double fertilization** is seen in angiosperms. **Events of fertilization** The stages involved in double fertilization are:- germination of pollen to form pollen tube in the stigma; growth of pollen tube in the style; direction of pollen tube towards the micropyle of the ovule; entry of the pollen tube into one of the synergids of the embryo sac, discharge of male gametes; syngamy and triple fusion. The events from pollen deposition on the stigma to the entry of pollen tube in to the ovule is called **pollen- pistil interaction.** It is a dynamic process which involves recognition of pollen and to promote or inhibit its germination and growth.
+ The fusion of male and female gamete is called **fertilization**. **Double fertilization** is seen in angiosperms. 
+ 
+ ### Events of fertilization
+ 
+ The stages involved in double fertilization are:- germination of pollen to form pollen tube in the stigma; growth of pollen tube in the style; direction of pollen tube towards the micropyle of the ovule; entry of the pollen tube into one of the synergids of the embryo sac, discharge of male gametes; syngamy and triple fusion. The events from pollen deposition on the stigma to the entry of pollen tube in to the ovule is called **pollen- pistil interaction.** It is a dynamic process which involves recognition of pollen and to promote or inhibit its germination and growth.
 
-**Pollen on the stigma** In nature, a variety of pollens fall on the receptive stigma, but all of them do not germinate and bring out fertilization. The receptive surface of the stigma receives the pollen. If the pollen is compatible with the stigma it germinates to
+
+![](1.21.png "")
+
+### Pollen on the stigma 
+
+In nature, a variety of pollens fall on the receptive stigma, but all of them do not germinate and bring out fertilization. The receptive surface of the stigma receives the pollen. If the pollen is compatible with the stigma it germinates to
 like esterases, acid phosphatases as well as compatibility controlling proteins.
 
 **Solid style (Closed type):** It is common among dicots. It is characterized by the presence of central core of elongated, highly specialised cells called transmitting tissue.This is equivalent to the lining cells of hollow style and does the same function. Its contents are also similar to the content of those cells. The pollen tube grows through the intercellular spaces of the transmitting tissue. **Semi-solid style (half closed type): This is** intermediate between solid and open type.
+
 
 There is a difference of opinion on the nature of transmitting tissue. Some authors consider that it is found only in solid styles while others consider the lining cells of hollow style also has transmitting tissue. **Entry of pollen tube into the ovule: There** are three types of pollen tube entry into the ovule(Figure 1.18).
 
@@ -582,26 +532,6 @@ Anacardiaceae, Style–Thymelaeaceae and Ovary wall – _Ottelia alismoides_)
 
 ### Double fertilization and triple fusion
 
-
-Seed
-
-Endosperm(3n)
-
-(n) (2n)(n) (n)
-
-Zygote (2n)
-
-Embyo
-
-Male nuclei (n)
-
-Vegetative tube nucleus (n)
-
-Pollen grain Ovule
-
-Secondary nucleus (2n) Egg (n)
-
-Antipodal (n)
 
 **Figure 1.19** Fertilization in Angiosperms
 
