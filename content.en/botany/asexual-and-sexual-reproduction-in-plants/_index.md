@@ -530,56 +530,37 @@ tube in the style depends on the type of style.
 There are three types of style a) Hollow or open style b)solid style or closed style c) semi- solid or half closed style.
 **Hollow style (Open style):** It is common among monocots. A hollow canal running from the stigma to the base of the style is present. The canal is lined by a single layer of glandular canal cells (Transmitting tissue).They secrete mucilaginous substances. The pollen tube grows on the surface of the cells lining the stylar canal. The canal is filled with secretions which serve as nutrition for growing pollen tubes and also controlling incompatibility reaction between the style and pollen tube. The secretions contain carbohydrates, lipids and some enzymes like esterases, acid phosphatases as well as compatibility controlling proteins.
 
-**Solid style (Closed type):** It is common among dicots. It is characterized by the presence of central core of elongated, highly specialised cells called transmitting tissue.This is equivalent to the lining cells of hollow style and does the same function. Its contents are also similar to the content of those cells. The pollen tube grows through the intercellular spaces of the transmitting tissue. **Semi-solid style (half closed type): This is** intermediate between solid and open type.
+**Solid style (Closed type):** It is common among dicots. It is characterized by the presence of central core of elongated, highly specialised cells called transmitting tissue.This is equivalent to the lining cells of hollow style and does the same function. Its contents are also similar to the content of those cells. The pollen tube grows through the intercellular spaces of the transmitting tissue. 
 
+**Semi-solid style (half closed type): This is** intermediate between solid and open type.
 
-There is a difference of opinion on the nature of transmitting tissue. Some authors consider that it is found only in solid styles while others consider the lining cells of hollow style also has transmitting tissue. **Entry of pollen tube into the ovule: There** are three types of pollen tube entry into the ovule(Figure 1.18).
+There is a difference of opinion on the nature of transmitting tissue. Some authors consider that it is found only in solid styles while others consider the lining cells of hollow style also has transmitting tissue. 
 
-**Porogamy**: when the pollen tube enters through the micropyle.
+**Entry of pollen tube into the ovule: There** are three types of pollen tube entry into the ovule(Figure 1.18).
 
-Pollen tube
+![Figure 1.18 Path of pollen tube entry into the ovule](1.23.png "")
 
-**a) Porogamy b) Chalazogamy c) Mesogamy**
+**Porogamy:** when the pollen tube enters through the micropyle.
 
-Pollen tube Pollen tube
+**Chalazogamy**: when the pollen tube enters through the chalaza.
 
-**Figure 1.18** Path of pollen tube entry into the ovule
+**Mesogamy**: when the pollen tube enters through the integument. 
 
-**Chalazogamy**: when the pollen tube enters through the chalaza. **Mesogamy**: when the pollen tube enters through the integument. **Entry of pollen tube into embryo sac:** Irrespective of the place of entry of pollen tube into ovule, it enters the embryo sac at the micropylar end. The pollen enters into embryo sac directly into one of the synergids.
+**Entry of pollen tube into embryo sac:** Irrespective of the place of entry of pollen tube into ovule, it enters the embryo sac at the micropylar end. The pollen enters into embryo sac directly into one of the synergids.
 
-The growth of pollen tube towards the ovary, ovule and embryo sac is due to the presence of chemotropic substances. The pollen tube after travelling the whole length of the style enters into the ovary locule where it is guided towards the micropyle of the ovule by a structure called **obturator (See Do you know). After reaching the** embryo sac, a pore is formed in pollen tube wall at its apex or just behind the apex. The content of the pollen tube (two male gametes, vegetative nucleus and cytoplasm) are discharged into the synergids into which pollen tube enters. The pollen tube does not grow beyond it, in the embryo sac. The tube nucleus disorganizes.
-
-Obturator may originate from different regions of the ovule (Placenta – Euphorbiaceae, Funiculus-
-
-Anacardiaceae, Style–Thymelaeaceae and Ovary wall – _Ottelia alismoides_)
+The growth of pollen tube towards the ovary, ovule and embryo sac is due to the presence of chemotropic substances. The pollen tube after travelling the whole length of the style enters into the ovary locule where it is guided towards the micropyle of the ovule by a structure called **obturator** (See Do you know). After reaching the embryo sac, a pore is formed in pollen tube wall at its apex or just behind the apex. The content of the pollen tube (two male gametes, vegetative nucleus and cytoplasm) are discharged into the synergids into which pollen tube enters. The pollen tube does not grow beyond it, in the embryo sac. The tube nucleus disorganizes.
 
 ### Double fertilization and triple fusion
 
+S.G. Nawaschin and L.Guignard in 1898 and 1899, observed in Lilium and Fritillaria that both the male gametes released from a male gametophyte are involved in the fertilization. They fertilize two different components of the embryo sac. Since both the male gametes are involved in fertilization, the phenomenon is called double fertilization and is unique to angiosperms. One of the male gametes fuses with the egg nucleus (syngamy) to form Zygote. (Figure 1.19)
 
-**Figure 1.19** Fertilization in Angiosperms
+![Figure 1.19 Fertilization in Angiosperms](1.24.png "")
 
-S.G. Nawaschin and L.Guignard in 1898 and 1899, observed in _Lilium_ and _Fritillaria_ that
-The events after fertilization (endosperm, embryo development, formation of seed, fruits) are called post fertilization changes.
+The second gamete migrates to the central cell where it fuses with the polar nuclei or theirfusion product, the secondary nucleus and forms the primary endosperm nucleus (PEN). Since this involves the fusion of three nuclei, this phenomenon is called triple fusion. This act results in endosperm formation which forms the nutritive tissue for the embryo.
 
-**Parts before fertilization**
 
-**Transformation after fertilization**
+![Figure 1.20 Post Ferilization changes in the flower of an angiosperm](1.25.png "")
 
-Sepals, petals, stamens, style and stigma
-
-Usually wither and fall off
-
-Ovary Fruit Ovule Seed Egg Zygote Funicle Stalk of the seed Micropyle (ovule) Micropyle of the
-
-seed(facilitates O2 and water uptake)
-
-Nucellus Perisperm Outer integument of ovule
-
-Testa (outer seed coat)
-
-Inner integument Tegmen (inner seed coat)
-
-both the male gametes released from a male gametophyte are involved in the fertilization. They fertilize two different components of the embryo sac. Since both the male gametes are involved in fertilization, the phenomenon is called **double fertilization** and is unique to angiosperms. One of the male gametes fuses with the egg nucleus (syngamy) to form **Zygote.** (Figure 1.19) The second gamete migrates to the central cell where it fuses with the **polar nuclei** or their fusion product, the secondary nucleus and forms the **primary endosperm nucleus (PEN)**.
 
 ## Post Fertilization: structures and events
  After fertilization, several changes take place in the floral parts up to the formation of the seed (Figure 1.20).
