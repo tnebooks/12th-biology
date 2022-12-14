@@ -504,8 +504,31 @@ The pollen gets deposited on the back of the bee. When it visits another flower,
 
 ### Pollen on the stigma 
 
-In nature, a variety of pollens fall on the receptive stigma, but all of them do not germinate and bring out fertilization. The receptive surface of the stigma receives the pollen. If the pollen is compatible with the stigma it germinates to
-like esterases, acid phosphatases as well as compatibility controlling proteins.
+In nature, a variety of pollens fall on the receptive stigma, but all of them do not germinate and bring out fertilization. The receptive surface of the stigma receives the pollen. If the pollen is compatible with the stigma it germinates to form a tube. This is facilitated by the stigmatic fluid in wet stigma and pellicle in dry stigma. These two also decide the incompatibility and
+
+```
+**Do You Know**
+**Pollination – A composite event** Pollination provides information about evolution, ecology, animal learning and foraging behaviour. Flowers not only supply nectar but also provide microclimate, site and shelter for egg laying insects. The association of insects benefits the flower by getting pollinated and ensures the propagation of its own progeny. The floral parts are well modified in shape, size to attract the pollinators to accomplish pollination . 
+
+The relationship between Yucca and moth *(Tegeticula yuccasella)* is an example for obligate mutualism. The moth bores a hole in the ovary of the flower and lays eggs in it. Then it collects pollen and pushes it in the form of balls down the hollow end of the stigma. Fertilization takes place and seeds develop. Larvae feed on developing seeds. Some seeds remain unconsumed for the propagation of the plant species. It is interesting that the moth cannot survive without Yucca flowers and the plant fails to reproduce sexually Bee Orchid without the moth. 
+
+Similarly in *Amorphophallus*, flowers apart from providing floral rewards, also forms safe site for laying eggs. Many visitors consume pollen and nectar and do not help in pollination. They are called pollen / nectar robbers. 
+
+In Bee orchid (Ophrys) the morphology of the flower mimics that of female wasp (Colpa). The male wasp mistakes the flowers for a female wasp and tries to copulate. This act of pseudocopulation helps in polli nation. The pollination in Fig (Ficus carica) by the Wasp (Blastophaga psenes) is also an example for similar Plant – insect interaction.
+
+```
+
+compatibility of the pollen through recognition- **rejection protein reaction** between the pollen and stigma surface. Sexual incompatibility may exist between different species (interspecific) or between members of the same species (intraspecific).The latter is called self- incompatibility. The first visible change in the pollen, soon after it lands on stigma is hydration. The pollen wall proteins are released from the surface. During the germination of pollen its entire content moves into the pollen tube. The growth is restricted to the tip of the tube and all the cytoplasmic contents move to the tip region. The remaining part of the pollen tube is occupied by a vacuole which is cut off from the tip by callose plug. The extreme tip of pollen tube appears hemispherical and transparent when viewed through the microscope. This is called **cap block.** As soon as the cap block disappear the growth of the pollen tube stops.
+
+**Pollen tube in the style**
+
+After the germination the pollen tube enters into
+the style from the stigma. The growth of the pollen
+tube in the style depends on the type of style.
+
+**Types of style** 
+There are three types of style a) Hollow or open style b)solid style or closed style c) semi- solid or half closed style.
+**Hollow style (Open style):** It is common among monocots. A hollow canal running from the stigma to the base of the style is present. The canal is lined by a single layer of glandular canal cells (Transmitting tissue).They secrete mucilaginous substances. The pollen tube grows on the surface of the cells lining the stylar canal. The canal is filled with secretions which serve as nutrition for growing pollen tubes and also controlling incompatibility reaction between the style and pollen tube. The secretions contain carbohydrates, lipids and some enzymes like esterases, acid phosphatases as well as compatibility controlling proteins.
 
 **Solid style (Closed type):** It is common among dicots. It is characterized by the presence of central core of elongated, highly specialised cells called transmitting tissue.This is equivalent to the lining cells of hollow style and does the same function. Its contents are also similar to the content of those cells. The pollen tube grows through the intercellular spaces of the transmitting tissue. **Semi-solid style (half closed type): This is** intermediate between solid and open type.
 
