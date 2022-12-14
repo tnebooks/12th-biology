@@ -572,35 +572,23 @@ The second gamete migrates to the central cell where it fuses with the polar nuc
 
 **Endosperm** The primary endosperm nucleus (PEN) divides immediately after fertilization but before the zygote starts to divide, to form the endosperm. The primary endosperm nucleus is the result of triple fusion (two polar nuclei and one sperm nucleus) and thus has 3n number of chromosomes. It is a nutritive tissue and regulatory structure that nourishes the developing embryo. Depending upon the mode of development three types of endosperm are recognized in angiosperms. They are nuclear endosperm, cellular endosperm and helobial endosperm (Figure 1.21).
 
-**Nuclear endosperm:** Primary Endosperm Nucleus undergoes several mitotic divisions without cell wall formation thus a free nuclear condition exists in the endosperm. Examples: Coccinia, Capsella and Arachis
+**Nuclear endosperm:** Primary Endosperm Nucleus undergoes several mitotic divisions without cell wall formation thus a free nuclear condition exists in the endosperm. *Examples: Coccinia, Capsella and Arachis*
 
-Cellular endosperm: Primary endosperm nucleus divides into 2 nuclei and it is immediately followed by wall formation. Subsequent divisions also follow cell wall formation. Examples: Adoxa, Helianthus and Scoparia
+**Cellular endosperm:** Primary endosperm nucleus divides into 2 nuclei and it is immediately followed by wall formation. Subsequent divisions also follow cell wall formation. *Examples: Adoxa, Helianthus and Scoparia*
 
+![Figure 1.21 Types of Endosperm](1.26.png "")
 
-**Nuclear endosperm:** In the nuclear type, the Primary endosperm nucleus (PEN) divides into two without any wall formation. The subsequent division of these two nuclei are free nuclear so that the endosperm consists of only free nuclei and cytoplasm around them. The nuclei may either remain free or may become separate
+**Helobial endosperm:** Primary Endosperm Nucleus moves towards base of embryo sac and divides into two nuclei. Cell wall formation takes place leading to the formation of a large micropylar and small chalazal chamber. The nucleus of the micropylar chamber undergoes several free nuclear division whereas that of chalazal chamber may or may not divide. 
+*Examples : Hydrilla and Vallisneria.*
 
-by walls in later stages. Examples: _Coccinia, Capsella and Arachis._
+The endosperms may either be completely consumed by the developing embryo or it may persist in the mature seeds. Those seeds without endosperms are called non- endospermous or ex- albuminous seeds. Examples: Pea, Groundnut and Beans. Those seeds with endosperms are called endospermous or albuminous seeds. The endosperms in these seeds supply nutrition to the embryo during seed germination. Examples: Paddy, Coconut and Castor.
 
-**Cellular endosperm:** In this type the primary endosperm nucleus(PEN) divides into 2 nuclei which are immediately followed by a wall formation. Subsequent divisions are also followed by walls. Examples: _Adoxa_, _Helianthus_ and _Scoparia_. **Helobial endosperm:** In helobial type, the primary endosperm nucleus (PEN) moves towards the base of the embryo sac where it divides into two nuclei. These 2 nuclei are separated by a wall to form a large micropylar chamber and a small chalazal chamber. The nucleus of the micropylar chamber undergoes several free nuclear divisions whereas that of the chalazal chamber may or may not divide. Examples : _Hydrilla and Vallisneria_ The endosperms may either be completely consumed by the developing embryo or it may persist in the mature seeds. Those seeds without endosperms are called non- endospermous or ex- albuminous seeds. Examples: Pea, Groundnut and Beans. Those seeds with endosperms are called endospermous or albuminous seeds. The endosperms in these seeds supply nutrition to the embryo during seed germination. Examples: Paddy, Coconut and Castor_._ **Ruminate endosperm: The endosperm with** irregularity and unevenness in its surface forms ruminate endosperm (Example: _Areca catechu_). The activity of the seed coat or the endosperm itself results in this type of endosperm. The unequal radial elongation of the layer of seed
+```
+**Do You Know **
+Aleurone tissue consists of highly specialised cells of one or few layers which are found around the endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. During seed germination cells secrete certain hydrolytic enzymes like amylases, proteases which digest reserved food material present in the endosperm cells.
 
-Aleurone tissue consists of highly specialised cells of one or few layers which are found around the
+```
 
-endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. During seed germination cells secrete certain hydrolytic enzymes like amylases, proteases which digest reserved food material present in the endosperm cells.
-coat results in the rumination of endosperm in _Passiflora. In Annonaceae and Aristolochiaceae_ definite ingrowth or infolding of the seed coat produces ruminate endosperm. The irregular surface of the seed coat makes endosperm ruminate in _Myristica_. **Functions of endosperm:** - It is the nutritive tissue for the developing
-
-embryo. - In majority of angiosperms, the zygote
-
-divides only after the development of endosperm.
-
-- Endosperm regulates the precise mode of embryo development.
-
-**Endosperm haustoria** Another interesting feature of the
-
-endosperm is the presence of haustoria. In the case of helobial endosperm the chalazal chamber itself acts as a haustorial structure. In cellular and nuclear endosperm special structures are produced towards the micropylar, chalazal, both micropylar and chalazal which may be in lateral direction depending on the species. These absorb nutrients from other outer tissue or from ovary tissue and supply them to the growing embryo.
-
-Coconut milk is a basic nutrient medium which induces the differentiation of embryo (embryoids) and
-
-plantlets from various plant tissues. Coconut water from tender coconut is free-nuclear endosperm and white kernel part is cellular.
 
 **Embryogenesis Development of Dicot embryo** The development of Dicot embryo (Capsella _bursa-pastoris)_ is of Onagrad or crucifer type. The embryo develops at micropylar end of embryo sac.
 
