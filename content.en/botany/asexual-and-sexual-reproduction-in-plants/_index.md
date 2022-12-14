@@ -565,10 +565,10 @@ The second gamete migrates to the central cell where it fuses with the polar nuc
 ## Post Fertilization: structures and events
  After fertilization, several changes take place in the floral parts up to the formation of the seed (Figure 1.20).
 
-**Figure 1.20** Post Ferilization changes in the flower of an angiosperm
+ The events after fertilization (endosperm, embryo development, formation of seed, fruits) are called post fertilization changes.
 
-Since this involves the fusion of three nuclei, this phenomenon is called triple fusion. This act results in endosperm formation which forms the nutritive tissue for the embryo.
-Synergid cells Degenerate Secondary nucleus Endosperm Antipodal cells Degenerate
+![Table](1.34.png "")
+
 
 **Endosperm** The primary endosperm nucleus (PEN) divides immediately after fertilization but before the zygote starts to divide, to form the endosperm. The primary endosperm nucleus is the result of triple fusion (two polar nuclei and one sperm nucleus) and thus has 3n number of chromosomes. It is a nutritive tissue and regulatory structure that nourishes the developing embryo. Depending upon the mode of development three types of endosperm are recognized in angiosperms. They are nuclear endosperm, cellular endosperm and helobial endosperm (Figure 1.21).
 
