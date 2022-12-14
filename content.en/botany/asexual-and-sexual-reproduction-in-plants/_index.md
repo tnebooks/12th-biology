@@ -55,7 +55,7 @@ Natural vegetative reproduction is a form of asexual reproduction in which a bud
 
 The roots of some plants develop vegetative or adventitious buds on them. Example _Murraya,_ _Dalbergia_ and _Millingtonia._ Some tuberous adventitious roots apart from developing buds also store food. Example _Ipomoea batatus_ and _Dahlia._ Roots possessing buds become detached from the parent plant and grow into independent plant under suitable condition.
 
-```
+```hint-warn
 
 **Activity**
 
@@ -63,7 +63,7 @@ Visit to a vegetable market and classify the vegetables into root, stem or leaf 
 
 ```
 
-```
+```hint-warn
 **DO YOU KNOW**
 
 Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive weed on water bodies like ponds, lakes and reservoirs. It is popularly called “Terror of Bengal”. It spreads rapidly through offsets all over the water body and depletes the dissolved oxygen and causes death of other aquatic organisms.
@@ -119,7 +119,7 @@ When the stock is large in size scions are cut into wedge shape and are inserted
 
 **v. Wedge grafting** In this method a slit is made in the stock or the bark is cut. A twig of scion is inserted and tightly bound so that the cambium of the two is joined.
 
-```
+```hint-warn
 **Activity**
 
 Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home 
@@ -196,7 +196,7 @@ The mature anther wall consists of the following layers **a. Epidermis b. Endoth
 #### a. Epidermis: 
 It is single layered and protective in function. The cells undergo repeated anticlinal divisions to cope up with the rapidly enlarging internal tissues. 
 
-```
+```hint-warn
 **Activity** 
 
 Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
@@ -245,7 +245,7 @@ Microspores are the immediate product of meiosis of the microspore mother cell w
 
 Shape of a pollen grain varies from species to species. It may be globose, ellipsoid, fusiform, lobed, angular or crescent shaped. The size of the pollen varies from 10 micrometers in _Myosotis_ to 200 micrometers in members of the family Cucurbitaceae and Nyctaginaceae
 
-```
+```hint-danger
 **DO YOU KNOW**
 
 Palynology is the study of pollen grains.It helps to identify the distribution of coal and to locate oil fields. Pollen grains reflect the vegetation of an area. 
@@ -253,7 +253,7 @@ Palynology is the study of pollen grains.It helps to identify the distribution o
 Liquid nitrogen (-1960C) is used to preserve pollen in viable condition for prolonged duration. This technique is called **cryopreservation** and is used to store pollen grains (pollen banks) of economically important crops for breeding programmes..
 ```
 
-```
+```hint-warn
 **Bee pollen** is a natural substance and contains high protein, carbohydrate, trace amount of minerals and vitamins. Therefore, it is used as dietary supplement and is sold as pollen tablets and syrups. Further , it increases the performance of athletes, race horses and also heals the wounds caused by burns . The study of honey pollen is called Mellitopalynology.
 ![honey](1.32.png "")
 
@@ -442,7 +442,7 @@ The maize is monoecious and unisexual. The male inflorescence (tassel) is borne 
 **b. Hypohydrophily:**
 Pollination occurs inside the water. Examples: *Zostera marina and Ceratophyllum*
 
-```
+```hint-warn
 **Activity**
 
 Visit to a nearby park and observe the different flowers. Record the adaptations or modifications found in the flowers for different types of pollination.
@@ -506,7 +506,7 @@ The pollen gets deposited on the back of the bee. When it visits another flower,
 
 In nature, a variety of pollens fall on the receptive stigma, but all of them do not germinate and bring out fertilization. The receptive surface of the stigma receives the pollen. If the pollen is compatible with the stigma it germinates to form a tube. This is facilitated by the stigmatic fluid in wet stigma and pellicle in dry stigma. These two also decide the incompatibility and
 
-```
+```hint-warn
 **Do You Know**
 **Pollination – A composite event** Pollination provides information about evolution, ecology, animal learning and foraging behaviour. Flowers not only supply nectar but also provide microclimate, site and shelter for egg laying insects. The association of insects benefits the flower by getting pollinated and ensures the propagation of its own progeny. The floral parts are well modified in shape, size to attract the pollinators to accomplish pollination . 
 
@@ -583,7 +583,7 @@ The second gamete migrates to the central cell where it fuses with the polar nuc
 
 The endosperms may either be completely consumed by the developing embryo or it may persist in the mature seeds. Those seeds without endosperms are called non- endospermous or ex- albuminous seeds. Examples: Pea, Groundnut and Beans. Those seeds with endosperms are called endospermous or albuminous seeds. The endosperms in these seeds supply nutrition to the embryo during seed germination. Examples: Paddy, Coconut and Castor.
 
-```
+```hint-warn
 **Do You Know **
 Aleurone tissue consists of highly specialised cells of one or few layers which are found around the endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. During seed germination cells secrete certain hydrolytic enzymes like amylases, proteases which digest reserved food material present in the endosperm cells.
 
@@ -599,7 +599,7 @@ The endosperm with irregularity and unevenness in its surface forms ruminate end
 
 - Endosperm regulates the precise mode of embryo development.
 
-```
+```hint-warn
 **Do You Know**
 Coconut milk is a basic nutrient medium which induces the differentiation of embryo (embryoids) and plantlets from various plant tissues. Coconut water from tender coconut is free- nuclear endosperm and white kernel part is cellular.
 ```
@@ -608,7 +608,7 @@ Coconut milk is a basic nutrient medium which induces the differentiation of emb
 The Stages involved in the development of Dicot embryo (Capsella bursa-pastoris – Onagrad or crucifer type) is given in Figure 1.22. The embryo develops at micropylar end of embryo sac. The zygote undergoes transverse division to form upper or terminal
 cell and lower or basal cell. Further divisions in the zygote during the development lead to the formation of embryo. Embryo undergoes globular, heart shaped stages before reaching a mature stage. The mature embryo has a radicle, two cotyledons and a plumule.
 
-```
+```hint-warn
 Activity
 Collect the fruits of Tridax (Cypsella). Using a needle dissect out the content, separate the embryo and observe different stages of dicot embryo – globular, torpedo, heart shaped under a dissection microscope.
 ```
@@ -631,7 +631,7 @@ A short axis with plumule and radicle protected by the **root cap**is present. T
 
 ![Figure 1.23(b) Monocot seed- Oryza sativa](1.29.png "")
 
-```
+```hint-warn
 **Activity**
 
 Soak seeds of green gram for three hours. Drain the water and place few seeds in a clean tray containing moist cotton or filter paper. Allow the seeds to sprout. Collect the sprouted seeds, cut open and observe the parts. Record your observation.
