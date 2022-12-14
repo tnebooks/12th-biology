@@ -24,32 +24,6 @@ The learner will be able to
 
 ```
 
-```
-**Chapter outline**
-
-
-1.1 Asexual reproduction
-
-1.2 Vegetative reproduction
-
-1.3 Sexual Reproduction
-
-1.4 Pre-fertilization
-
-structure and events
-
-1.5 Fertilization
-
-1.6 Post fertilization structure and events
-
-1.7 Apomixis
-
-1.8 Polyembryony
-
-1.9 Parthenocarpy
-
-```
-
 One of the essential features of all living things on the earth is reproduction. Reproduction is a vital process for the existence of a species and it also brings suitable changes through variation in the offsprings for their survival on earth. Plant reproduction is important not only for its own survival but also for the continuation and existence of all other organisms since the latter directly or indirectly depend on plants. Reproduction also plays an important role in evolution.
 
 In this unit let us learn in detail about reproduction in plants.
@@ -76,8 +50,6 @@ The reproduction method which helps to perpetuate its own species without the in
 ### Natural methods
 
 Natural vegetative reproduction is a form of asexual reproduction in which a bud grows and develops into a new plant. The buds may be formed in organs such as root, stem and leaf. At some stage, the new plant gets detached from the parent plant and starts to develop into a new plant. Some of the organs involved in the vegetative reproduction also serve as the organs of storage and perennation. The unit of reproductive structure used in propagation is called **reproductive propagules** or **diaspores.** Some of the organs that help in vegetative reproduction are given in Figure 1.1.
-
-
 
 #### Vegetative reproduction in root
 
@@ -109,8 +81,6 @@ In some plants adventitious buds are developed on their leaves. When they are de
 
 
 ![Figure 1.1: Natural methods of vegetative reproduction in plants](fig-1-1.png "")
-
-**Figure 1.1 a-k:** Natural methods of vegitative reproduction in plants.
 
 **Advantages of natural vegetative reproduction**
  
@@ -170,8 +140,6 @@ In this method, the stem of a parent plant is allowed to develop roots while sti
 This method is applied for the plants having flexible branches. The lower branch with leaves is bent to the ground and part of the stem is buried in the soil and tip of the branch is exposed above the soil. After the roots emerge from the part of the stem buried in the soil, a cut is made in parent plant so that the buried part grow into a new plant.
 
 ![Figure 1.2 (b): Artificial methods of vegetative reproduction in plants](1.2.png "")
-
-**Figure 1.2 (b):** Artificial methods of vegetative reproduction in plants
 
 **ii. Air layering**: In this method the stem is girdled at nodal region and hormones are applied to this region which promotes rooting. This portion is covered with damp or moist soil using a polythene sheet. Roots emerge in these branches after 2-4 months. Such branches are removed from the parent plant and grown in a separate pot or ground.
 
@@ -296,8 +264,6 @@ Pollenkitt is contributed by the tapetum and coloured yellow or orange and is ch
 
 ![Development of male gametopyte](1.7.png)
 
-**Figure 1.6 :** Development of male gametopyte 
-
 ### Female reproductive part - Gynoecium
 
 The **gynoecium** represents the female reproductive part of the flower. The word gynoecium represents one or more pistils of a flower. The word pistil refers to the ovary, style and stigma. A pistil is derived from a carpel. The word ovary represents the part that contains the ovules. The stigma serves as a landing platform for pollen grains. The style is an elongated slender part beneath the stigma. The basal swollen part of the pistil is the ovary. The ovules are present inside the ovary cavity (locule)on the placenta .Gynoecium (carpel) arises as a small papillate outgrowth of meristematic tissue from the growing tip of the floral primordium. It grows actively and soon gets differentiated into ovary, style and stigma. The ovules or megasporangia arise from the placenta. The number of ovules in an ovary may be one (paddy, wheat and mango) or many (papaya, water melon and orchids).
@@ -307,8 +273,6 @@ The **gynoecium** represents the female reproductive part of the flower. The wor
 Ovule is also called megasporangium and is protected by one or two covering called **integuments**. A mature ovule consists of a stalk and a body. The stalk or the funiculus (also called funicle) is present at the base and it attaches the ovule to the placenta. The point of attachment of funicle to the body of the ovule is known as **hilum**. It represents the junction between ovule and funicle. In an inverted ovule, the funicle is adnate to the body of the ovule forming a ridge called raphe. The body of the ovule is made up of a central mass of parenchymatous tissue called **nucellus** which has large reserve food materials. The nucellus is enveloped by one or two protective coverings called **integuments**. Integument encloses the nucellus completely except at the top where it is free and forms a pore called micropyle. The ovule with one or two integuments are said to be **unitegmic** or **bitegmic** ovules respectively. The basal region of the body of the ovule where the nucellus, the integument and the funicle meet or merge is called as chalaza. There is a large,oval, sac-like structure in the nucellus toward the micropylar end called **embryo sac** or female gametophyte. It develops from the functional megaspore formed within the nucellus. In some species(unitegmic tenuinucellate) the inner layer of the integument may become specialized to perform the nutritive function for the embryosac and is called as **endothelium** or **integumentary tapetum** (Example : Asteraceae). There are two types of ovule based on the position of the sporogenous cell. If the sporogenous cell is hypodermal with a single layer of nucellar tissue around it is called **tenuinucellate** type. Normally tenuinucellate ovules have very small nucellus. Ovules with subhypodermal sporogenous cell is called **crassinucellate** type. Normally these ovules have fairly large nucellus. Group of cells found at the base of the ovule between the chalaza and embryo sac is called **hypostase** and the thick -walled cells found above the micropylar end above the embryo sac is called epistase. The structure of ovule is given in Figure 1.7.
 
 ![Figure 1.7 Structure of an ovule ](1.8.png)
-
-**Figure 1.7** Structure of an ovule
 
 **Types of Ovules**
 
@@ -327,8 +291,6 @@ The ovules are classified into six main types based on the orientation, form and
 **Circinotropous:** Funiculus is very long and surrounds the ovule. Example: Cactaceae
 
 ![Figure 1.8 Types of ovule](1.9.png)
-
-**Figure 1.8:** Types of ovule
 
 **Megasporogenesis**
 
