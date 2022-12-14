@@ -80,7 +80,6 @@ From the Unit 3 of class XI (Vegetative morphology) you are familiar with the st
 
 In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
-
 ![Figure 1.1: Natural methods of vegetative reproduction in plants](fig-1-1.png "")
 
 **Advantages of natural vegetative reproduction**
@@ -104,7 +103,7 @@ The common methods of conventional propagation are cutting, grafting and layerin
 
 **a. Cutting:** It is the method of producing a new plant by cutting the plant parts such as root, stem and leaf from the parent plant. The cut part is placed in a suitable medium for growth. It produces root and grows into a new plant. Depending upon the part used it is called as root cutting (_Malus_), stem cutting (_Hibiscus, Bougainvillea_ and _Moringa_) and leaf cutting (_Begonia, Bryophyllum_). Stem cutting is widely used for propagation.
 
-**b. Grafting: In this, parts of two different plants** are joined so that they continue to grow as one plant. Of the two plants, the plant which is in contact with the soil is called **stock** and the plant used for grafting is called **scion** (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
+**b. Grafting:** In this, parts of two different plants are joined so that they continue to grow as one plant. Of the two plants, the plant which is in contact with the soil is called **stock** and the plant used for grafting is called **scion** (Figure 1.2 a). Examples are Citrus, Mango and Apple. There are different types of grafting based on the method of uniting the scion and stock. They are bud grafting, approach grafting, tongue grafting, crown grafting and wedge grafting.
 
 **i. Bud grafting:** 
 A T- shaped incision is made in the stock and the bark is lifted. The scion bud with little wood is placed in the incision beneath the bark and properly bandaged with a tape.
@@ -112,7 +111,6 @@ A T- shaped incision is made in the stock and the bark is lifted. The scion bud 
 **ii. Approach grafting:**
 
 In this method both the scion and stock remain rooted. The stock is grown in a pot and it is brought close to the scion. Both of them should have the same thickness. A small slice is cut from both and the cut surfaces are brought near and tied together and held by a tape. After 1-4 weeks the tip of the stock and base of the scion are cut off and detached and grown in a separate pot.
-
 **iii. Tongue grafting** 
 A scion and stock having the same thickness is cut obliquely and the scion is fit into the stock and bound with a tape.
 
@@ -124,7 +122,8 @@ When the stock is large in size scions are cut into wedge shape and are inserted
 ```
 **Activity**
 
-Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home
+Visit a nursery , observe the method of grafting, layering and do these techniques with plants growing in your school or home 
+
 ```
 
 **c. Layering:** 
@@ -145,6 +144,7 @@ This method is applied for the plants having flexible branches. The lower branch
 **ii. Air layering**: In this method the stem is girdled at nodal region and hormones are applied to this region which promotes rooting. This portion is covered with damp or moist soil using a polythene sheet. Roots emerge in these branches after 2-4 months. Such branches are removed from the parent plant and grown in a separate pot or ground.
 
 **Advantages of conventional methods** 
+
 - The plants produced are genetically uniform. 
 - Many plants can be produced quickly by this method. 
 - Some plants produce little or no seeds;
@@ -153,6 +153,7 @@ in others, the seeds produced do not germinate. In such cases, plants can be pro
 - Two different plants with desirable characters such as disease resistance and high yield can be grafted and grown as a new plant with the same desirable characters.
 
 **Disadvantages of conventional methods** 
+
 - Use of virus infected plants as parents produces viral infected new plants. 
 
 - Vegetative structures used for propagation are bulky and so they are difficult to handle and store.
