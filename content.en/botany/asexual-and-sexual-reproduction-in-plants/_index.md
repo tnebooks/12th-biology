@@ -27,8 +27,8 @@ The learner will be able to
 One of the essential features of all living things on the earth is reproduction. Reproduction is a vital process for the existence of a species and it also brings suitable changes through variation in the offsprings for their survival on earth. Plant reproduction is important not only for its own survival but also for the continuation and existence of all other organisms since the latter directly or indirectly depend on plants. Reproduction also plays an important role in evolution.
 
 In this unit let us learn in detail about reproduction in plants.
-
 Basically reproduction occurring in organisms fall under two major categories 
+
 1. Asexual reproduction 
 2. Sexual reproduction.
 
@@ -68,6 +68,7 @@ Visit to a vegetable market and classify the vegetables into root, stem or leaf 
 
 Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive weed on water bodies like ponds, lakes and reservoirs. It is popularly called “Terror of Bengal”. It spreads rapidly through offsets all over the water body and depletes the dissolved oxygen and causes death of other aquatic organisms.
 
+![](1.33.png  "img-class")
 
 ```
 
@@ -76,8 +77,8 @@ Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive 
 From the Unit 3 of class XI (Vegetative morphology) you are familiar with the structure of various underground stem and sub aerial stem modifications. These include rhizome (Musa _paradisiaca, Zingiber officinale and Curcuma longa_); corm (_Amorphophallus_ and _Colocasia_); tuber (_Solanum tuberosum_); bulb(_Allium cepa_ and _Lillium_) runner (_Centella asiatica_); stolon (Mentha, and Fragaria); offset (Pistia, and _Eichhornia_); sucker (_Chrysanthemum_) and bulbils (Dioscorea and Agave). The axillary buds from the nodes of rhizome and eyes of tuber give rise to new plants. 
 
 #### Vegetative reproduction in leaf
-In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
+In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
 
 ![Figure 1.1: Natural methods of vegetative reproduction in plants](fig-1-1.png "")
