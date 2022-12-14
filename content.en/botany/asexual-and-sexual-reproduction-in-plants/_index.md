@@ -627,15 +627,19 @@ endosperm contains reserve food and the cotyledons are thin. The portion of embr
 
 The seed of paddy is one seeded and is called **Caryopsis**. Each seed remains enclosed by a brownish husk which consists of glumes arranged in two rows. The seed coat is a brownish, membranous layer closely adhered to the grain. Endosperm forms the bulk of the grain and is the storage tissue. It is separated from embryo by a definite layer called **epithelium.** The embryo is small and consists of one shield- shaped cotyledon known as **scutellum** present towards lateral side of embryonal axis.
 
- A short axis with plumule and radicle protected by the **root cap**is present. The plumule is surrounded by a protective sheath called **coleoptile.** The radicle including root cap is also covered by a protective sheath called **coleorhiza.** The scutellum supplies the growing embryo with food material absorbed from the endosperm with the help of the epithelium (Figure 1.23 b).
+A short axis with plumule and radicle protected by the **root cap**is present. The plumule is surrounded by a protective sheath called **coleoptile.** The radicle including root cap is also covered by a protective sheath called **coleorhiza.** The scutellum supplies the growing embryo with food material absorbed from the endosperm with the help of the epithelium (Figure 1.23 b).
 
+![Figure 1.23(b) Monocot seed- Oryza sativa](1.29.png "")
 
+```
 **Activity**
 
 Soak seeds of green gram for three hours. Drain the water and place few seeds in a clean tray containing moist cotton or filter paper. Allow the seeds to sprout. Collect the sprouted seeds, cut open and observe the parts. Record your observation.
 
+```
 ## Apomixis
- Reproduction involving fertilization in flowering plants is called amphimixis and wherever reproduction does not involve union of male and female gametes is called apomixis.
+
+Reproduction involving fertilization in flowering plants is called amphimixis and wherever reproduction does not involve union of male and female gametes is called apomixis.
 
 The term Apomixis was introduced by Winkler in the year 1908. It is defined as the substitution of the usual sexual system (Amphimixis) by a form of reproduction which does not involve meiosis and syngamy.
 
@@ -647,50 +651,30 @@ Maheswari (1950) classified Apomixis into two types - Recurrent and Non recurren
 
 The outline classification of Recurrent apomixis is given below.
 
-**Self-Pollination** (Autogamy)
-
-**Cross-Pollination** (Xenogamy or Allogamy)
-
-**Abiotic Agencies**
-
-1\. Anemophily (Wind)
-
-2\. Hydrophily (Water)
-
-**Biotic Agencies**
-
-**Cantharophily (Beetle)**
-
-**Phalaenophily (Moths)**
-
-**Mellitophily (Bees)**
-
-**Psychophily Malacophily (Snails)**
-
-**Ornithophily (Birds)**
-
-**Chieropterophily (Bats)**
-
-**Myrmecophily (Ants)**
-
-**POLLINATION**
-
-Vegetative reproduction Agamospermy
-
-Adventive embryony
-
-Diplospory
-
-Apospory
-
-**RECURRENT APOMIXIS**
+![Figure 1.23(b) Monocot seed- Oryza sativa](1.30.png "")
 
 **Vegetative reproduction:** Plants propagate by any part other than seeds
 
-Bulbils – _Fritillaria imperialis_; Bulbs – _Allium_; Runner – _Mentha arvensis_; Sucker - _Chrysanthemum_ **Agamospermy:** It refers to processes by which Embryos are formed by eliminating meiosis and syngamy. **Adventive embryony** An Embryo arises directly from the diploid sporophytic cells either from nucellus or integument. It is also called **sporophytic budding** because gametophytic phase is completely absent. Adventive embryos are found in _Citrus_ and _Mangifera_ **Diplospory (Generative apospory):** A diploid embryo sac is formed from megaspore mother cell without a regular meiotic division Examples. _Eupatorium_ and _Aerva._ **Apospory:** Megaspore mother cell (MMC) undergoes the normal meiosis and four megaspores formed gradually disappear. A nucellar cell becomes activated and develops into a diploid embryo sac. This type of apospory is also called somatic apospory. Examples _Hieracium_ and _Parthenium._
+Bulbils – _Fritillaria imperialis_; Bulbs – _Allium_; Runner – _Mentha arvensis_; Sucker - _Chrysanthemum_ 
+
+**Agamospermy:** It refers to processes by which Embryos are formed by eliminating meiosis and syngamy. 
+
+**Adventive embryony** An Embryo arises directly from the diploid sporophytic cells either from nucellus or integument. It is also called 
+
+**sporophytic budding** because gametophytic phase is completely absent. Adventive embryos are found in _Citrus_ and _Mangifera_ 
+
+**Diplospory (Generative apospory):** A diploid embryo sac is formed from megaspore mother cell without a regular meiotic division Examples. _Eupatorium_ and _Aerva._ 
+
+**Apospory:** Megaspore mother cell (MMC) undergoes the normal meiosis and four megaspores formed gradually disappear. A nucellar cell becomes activated and develops into a diploid embryo sac. This type of apospory is also called somatic apospory. Examples _Hieracium_ and _Parthenium._
 
 ## Polyembryony
- Occurrence of more than one embryo in a seed is called polyembryony (Figure 1.24). The first case of polyembryony was reported in certain oranges by Anton von Leeuwenhoek in the year 1719. Polyembryony is divided into four categories based on its origin. a. **Cleavage polyembryony** (Example: Orchids) b. **Formation of embryo by cells of the Embryo**
+Occurrence of more than one embryo in a seed is called polyembryony (Figure 1.24). The first case of polyembryony was reported in certain oranges by Anton von Leeuwenhoek in the year 1719. Polyembryony is divided into four categories based on its origin. 
+
+ ![Figure 1.23(b) Monocot seed- Oryza sativa](1.31.png "")
+ 
+ 
+**a.Cleavage polyembryony** (Example: Orchids) 
+**b.Formation of embryo by cells of the Embryo**
 
 **sac other than egg** (Synergids _– Aristolochia_; antipodals _– Ulmus_ and endosperm _– Balanophora_)
 
