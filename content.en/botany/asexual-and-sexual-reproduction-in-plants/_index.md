@@ -304,13 +304,10 @@ To describe the stages in embryo sac development and organization the simplest m
 
 ![Figure 1.9 Development of ovule and embryo sac (_Polygonum type_).](1.10.png)
 
-**Figure 1.9 :** Development of ovule and embryo sac (_Polygonum type_).
-
 The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division. Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2 polar nuclei** may remain free or may fuse to form a secondary nucleus (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled embryo sac with 8 nuclei is formed. The structure of embryo sac is given in Figure 1.10.
 
 ![**Figure 1.10** Structure of Embryo sac](1.12.png)
 
-**Figure 1.10** Structure of Embryo sac
 
 ### Pollination
 
@@ -334,8 +331,6 @@ According to a majority of Botanists, the transfer of pollen on the stigma of th
 **3\. Incomplete dichogamy:** In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
 
 ![Figure 1.11 _Commelina_ with Cleistogamous and Chasmogamous flowers](1.13.png)
-
-**Figure 1.11** _Commelina_ with Cleistogamous and Chasmogamous flowers
 
 #### Cross - pollination
 It refers to the transfer of pollens on the stigma of another flower. The cross-pollination is of two types:
@@ -362,21 +357,15 @@ Flowers are bisexual and the special adaptation of the flowers prevents self-pol
 
 ![Figure 1.12 Dichogamy](1.13.png)
 
-**Figure 1.12** Dichogamy
-
 **ii. Herkogamy: In bisexual flowers the** essential organs, the stamens and stigmas, are arranged in such a way that self-pollination becomes impossible. For example in _Gloriosa superba, the style is reflexed away from the_ stamens and in _Hibiscus_ the stigmas project far above the stamens (Figure 1.13).
 
 ![Figure 1.13 Herkogamy - _Gloriosa_](1.14.png)
-
-**Figure 1.13** Herkogamy - _Gloriosa_
 
 **iii. Heterostyly:** Some plants produce two or three different forms of flowers that are different in their length of stamens and style. Pollination will take place only between organs of the same length.(Figure 1.14)
 
 **a. Distyly:** The plant produces two forms of flowers, Pin or long style, long stigmatic papillae, short stamens and small pollen grains; Thrum-eyed or short style, small stigmatic papillae, long stamens and large pollen grains. Example: Primula (Figure 1.14a). The stigma of the Thrum-eyed flowers and the anther of the pin lie in same level to bring out pollination. Similarly the anther of Thrum-eyed and stigma of pin ones is found in same height. This helps in effective pollination.
 
 ![Figure 1.14 Hetetostyly](1.15.png)
-
-**Figure 1.14** Hetetostyly
 
 **b. Tristyly: The plant produces three kinds of** flowers, with respect to the length of the style and stamens. Here,the pollen from flowers of one type can pollinate only the other two types but not their own type. Example : _Lythrum_ (Figure 1.14b).
   
@@ -419,9 +408,6 @@ Zoophily refers to pollination through animals and pollination through insects i
 
 - Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
 
-
-
-
 i) Pin-eyed flower ii) Thrum-eyed flower
 
 **Figure 2.11 Heterostyly** a) Distyly - Primula vulgaris
@@ -434,29 +420,8 @@ Long style
 
 Long style Normal style Short style
 
-Short style
+Short style by insects. There are two types of hydrophily, Epihydrophily and Hypohydrophily. In most of the hydrophilous flowers, the pollen grains possesses mucilage covering which protects them from wetting. **a. Epihydrophily:** Pollination occurs at the water level. Examples: _Vallisneria spiralis, Elodea._ **Pollination in _Vallisneria spiralis_:** It is a dioecious, submerged and rooted hydrophyte. The female plant bears solitary flowers which rise to the surface of water level using a long coiled stalk at the time of pollination. A small cup shaped depression is formed around the female flower on the surface of the water. The male plant produces male flowers which get detached and float on the surface of the water. As soon as a male flowers comes in contact with the female flower and pollination takes place, Stalk of the female flower coils and goes under water where fruits are produced. (Figure 1.16).
 
-
-
-
-
-
-
-  
-
-
-
-by insects. There are two types of hydrophily, Epihydrophily and Hypohydrophily. In most of the hydrophilous flowers, the pollen grains possesses mucilage covering which protects them from wetting. **a. Epihydrophily:** Pollination occurs at the water level. Examples: _Vallisneria spiralis, Elodea._ **Pollination in _Vallisneria spiralis_:** It is a dioecious, submerged and rooted hydrophyte. The female plant bears solitary flowers which rise to the surface of water level using a long coiled stalk at the time of pollination. A small cup shaped depression is formed around the female flower on the surface of the water. The male plant produces male flowers which get detached and float on the surface of the water. As soon as a male flowers comes in contact with the female flower and pollination takes place, Stalk of the female flower coils and goes under water where fruits are produced. (Figure 1.16).
-
-Male ower
-
-Female ower
-
-Ribbon shaped leaves
-
-Root
-
-Male inorescence
 
 **Figure 1.16** Pollination in _Vallisneria_
 
@@ -465,10 +430,6 @@ Male inorescence
 Visit to a nearby park and observe the different flowers. Record the adaptations or modifications found in the flowers for different types of pollination.
 
 **b. Hypohydrophily:** Pollination occurs inside the water. Examples: _Zostera marina and Ceratophyllum. Zostera marina_ is a submerged marine sea grass and pollination takes place under water. The pollen grains are long, needle like. They are shed
-
-
-
-
 
 **Pollination in Maize (Zea mays): The maize** is monoecious and unisexual. The male inflorescence (tassel) is borne terminally and female inflorescence (cob) laterally at lower levels. Maize pollens are large and heavy and cannot be carried by light breeze. However, the mild wind shakes the male inflorescence to release the pollen which falls vertically below. The female inflorescence has long stigma (silk) measuring upto 23 cm in length, which projects beyond leaves. The pollens drop from the tassel is caught by the stigma (Figure 1.15).
 
@@ -481,16 +442,6 @@ Silk (Stigma and Style)
 **Figure 1.15** Pollination in _Zea mays_
 
 **2\. Hydrophily:** Pollination by water is called hydrophily and the flowers pollinated by water are said to be **hydrophilous** (Example: _Vallisneria, Hydrilla). Though there are a_ number of aquatic plants, only in few plants pollination takes place by water. The floral envelop of hydrophilous plants are reduced or absent. In water plants like _Eichhornia_ and water lilly pollination takes place through wind or
-
-
-
-
-
-
-
-
-  
-
 
 
 - The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds.
@@ -517,9 +468,9 @@ shaped.
 
 **Abiotic Agencies**
 
-1\. Anemophily (Wind)
+1. Anemophily (Wind)
 
-2\. Hydrophily (Water)
+2. Hydrophily (Water)
 
 **Biotic Agencies**
 
@@ -548,21 +499,6 @@ Diplospory
 Apospory
 
 **RECURRENT APOMIXIS**
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
 
 some of which get deposited on the stigma of the flower when it visits next. **c. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among _Lemna_ pollinate them. **d. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ants is called **myrmecophily**. Insects that are well adapted to bring about pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees are the main flower visitors and dominant pollinators. Insects are chief pollinating agents and majority of angiosperms are adapted for insect pollination. It is the most common type of pollination.
 
@@ -598,18 +534,7 @@ Pollen gets transferred to the stigma
 
 Pollen gets dusted on the body of the insect
 
-**Pollination in _Calotropis_ (Translator mechanism)** This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG system of classification). The flowers are bisexual with 5 stamens forming **gynostegium**(union of stigma with the androecium). The stigma is large and 5 – angled and is receptive on the underside. Each stamen at its back possesses a brightly coloured hood like outgrowth enclosing horn shaped nectar. The pollen in each anther lobe of a stamen unites into a mass, forming a pollinium. 
-
-
-
-
-
-
-  
-
-
-
- When the insect visits the flower for nectar, the translator gets attached to the proboscis or leg of the visitor. During the visit to the next flower the pollinia come in contact with the receptive stigma carrying out pollination.
+**Pollination in _Calotropis_ (Translator mechanism)** This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG system of classification). The flowers are bisexual with 5 stamens forming **gynostegium**(union of stigma with the androecium). The stigma is large and 5 – angled and is receptive on the underside. Each stamen at its back possesses a brightly coloured hood like outgrowth enclosing horn shaped nectar. The pollen in each anther lobe of a stamen unites into a mass, forming a pollinium. When the insect visits the flower for nectar, the translator gets attached to the proboscis or leg of the visitor. During the visit to the next flower the pollinia come in contact with the receptive stigma carrying out pollination.
 
 **Pollination in _Aristolochia_ (Trap mechanism)** A special mechanism to accomplish pollination called trap mechanism is found in _Aristolochia_. The flowers are axillary and perianth is tubular with a hood at the top. The basal region is swollen and possesses gynostegium. The gynostegium has six anthers.
 
@@ -640,16 +565,6 @@ Similarly in Amorphophallus, flowers apart from providing floral rewards, also f
 In Bee orchid (_Ophrys_) the morphology of the flower mimics that of female wasp (Colpa). The male wasp mistakes the flowers for a female wasp and tries to copulate. This act of pseudocopulation helps in polli nation. The pollination in Fig (Ficus carica) by the Wasp (_Blastophaga psenes_) is also an example for similar Plant – insect interaction.
 
 **Bee Orchid**
-
-
-
-
-
-
-  
-
-
-
 form a tube. This is facilitated by the stigmatic fluid in wet stigma and pellicle in dry stigma. These two also decide the incompatibility and compatibility of the pollen through **recognition- rejection protein reaction** between the pollen and stigma surface. Sexual incompatibility may exist between different species (interspecific) or between members of the same species (intraspecific).The latter is called self- incompatibility. The first visible change in the pollen, soon after it lands on stigma is hydration. The pollen wall proteins are released from the surface. During the germination of pollen its entire content moves into the pollen tube. The growth is restricted to the tip of the tube and all the cytoplasmic contents move to the tip region. The remaining part of the pollen tube is occupied by a vacuole which is cut off from the tip by callose plug. The extreme tip of pollen tube appears hemispherical and transparent when viewed through the microscope. This is called **cap block**. As soon as the cap block disappear the growth of the pollen tube stops.
 
 **Pollen tube in the style** After the germination the pollen tube enters into the style from the stigma. The growth of the pollen tube in the style depends on the type of style. **Types of style** There are three types of style a) Hollow or open style b)solid style or closed style c) semi- solid or half closed style. **Hollow style (Open style):** It is common among monocots. A hollow canal running from the stigma to the base of the style is present. The canal is lined by a single layer of glandular canal cells (Transmitting tissue).They secrete mucilaginous substances. The pollen tube grows on the surface of the cells lining the stylar canal. The canal is filled with secretions which serve as nutrition for growing pollen tubes and also controlling incompatibility reaction between the style and pollen tube. The secretions contain carbohydrates, lipids and some enzymes
@@ -668,13 +583,6 @@ of fertilisation. Fertilisation helps in the formation of fruits and seeds.
  The fusion of male and female gamete is called **fertilization**. **Double fertilization** is seen in angiosperms. **Events of fertilization** The stages involved in double fertilization are:- germination of pollen to form pollen tube in the stigma; growth of pollen tube in the style; direction of pollen tube towards the micropyle of the ovule; entry of the pollen tube into one of the synergids of the embryo sac, discharge of male gametes; syngamy and triple fusion. The events from pollen deposition on the stigma to the entry of pollen tube in to the ovule is called **pollen- pistil interaction.** It is a dynamic process which involves recognition of pollen and to promote or inhibit its germination and growth.
 
 **Pollen on the stigma** In nature, a variety of pollens fall on the receptive stigma, but all of them do not germinate and bring out fertilization. The receptive surface of the stigma receives the pollen. If the pollen is compatible with the stigma it germinates to
-
-
-
-  
-
-
-
 like esterases, acid phosphatases as well as compatibility controlling proteins.
 
 **Solid style (Closed type):** It is common among dicots. It is characterized by the presence of central core of elongated, highly specialised cells called transmitting tissue.This is equivalent to the lining cells of hollow style and does the same function. Its contents are also similar to the content of those cells. The pollen tube grows through the intercellular spaces of the transmitting tissue. **Semi-solid style (half closed type): This is** intermediate between solid and open type.
@@ -725,14 +633,6 @@ Antipodal (n)
 **Figure 1.19** Fertilization in Angiosperms
 
 S.G. Nawaschin and L.Guignard in 1898 and 1899, observed in _Lilium_ and _Fritillaria_ that
-
-
-
-
-  
-
-
-
 The events after fertilization (endosperm, embryo development, formation of seed, fruits) are called post fertilization changes.
 
 **Parts before fertilization**
@@ -758,50 +658,9 @@ both the male gametes released from a male gametophyte are involved in the ferti
 ## Post Fertilization: structures and events
  After fertilization, several changes take place in the floral parts up to the formation of the seed (Figure 1.20).
 
-Seed
-
-Fruit
-
-Shrivelling petal & sepal
-
-Endosperm
-
-EmbryoPetal
-
-Stigma Style
-
-Ovary
-
-Ovule
-
-Sepal
-
-Seed
-
-Plumule
-
-Cotyledon
-
-Testa
-
-Radicle
-
 **Figure 1.20** Post Ferilization changes in the flower of an angiosperm
 
 Since this involves the fusion of three nuclei, this phenomenon is called triple fusion. This act results in endosperm formation which forms the nutritive tissue for the embryo.
-
-
-
-
-
-
-
-
-
-  
-
-
-
 Synergid cells Degenerate Secondary nucleus Endosperm Antipodal cells Degenerate
 
 **Endosperm** The primary endosperm nucleus (PEN) divides immediately after fertilization but before the zygote starts to divide, to form the endosperm. The primary endosperm nucleus is the result of triple fusion (two polar nuclei and one sperm nucleus) and thus has 3n number of chromosomes. It is a nutritive tissue and regulatory structure that nourishes the developing embryo. Depending upon the mode of development three types of endosperm are recognized in angiosperms. They are nuclear endosperm, cellular endosperm and helobial endosperm (Figure 1.21).
@@ -843,13 +702,6 @@ by walls in later stages. Examples: _Coccinia, Capsella and Arachis._
 Aleurone tissue consists of highly specialised cells of one or few layers which are found around the
 
 endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. During seed germination cells secrete certain hydrolytic enzymes like amylases, proteases which digest reserved food material present in the endosperm cells.
-
-
-
-  
-
-
-
 coat results in the rumination of endosperm in _Passiflora. In Annonaceae and Aristolochiaceae_ definite ingrowth or infolding of the seed coat produces ruminate endosperm. The irregular surface of the seed coat makes endosperm ruminate in _Myristica_. **Functions of endosperm:** - It is the nutritive tissue for the developing
 
 embryo. - In majority of angiosperms, the zygote
@@ -881,13 +733,6 @@ During the development, the two cells of the basal cell undergoes several transv
 **Activity**
 
 Collect the fruits of _Tridax_ (Cypsella). Using a needle dissect out the content, separate the embryo and observe different stages of dicot embryo – globular, torpedo, heart shaped under a dissection microscope.
-
-
-
-  
-
-
-
 **Seed** The fertilized ovule is called seed and possesses an embryo, endosperm and a protective coat. Seeds may be endospermous (wheat, maize, barley and sunflower) or non endospermous. (Bean, Mango, Orchids and cucurbits).
 
 Fresh weight of an orchid seed may be 20.33 microgram and that of double coconut
@@ -897,17 +742,6 @@ Fresh weight of an orchid seed may be 20.33 microgram and that of double coconut
 **_Cicer_ seed (example for Dicot seed)** The mature seeds are attached to the fruit wall by a stalk called **funiculus**. The funiculus disappears leaving a scar called **hilum**. Below the hilum a small pore called **micropyle** is present. It facilitates entry of oxygen and water into the seeds during germination.
 
 **Figure 1.23(a)** Dicot seed _- Cicer arientinum_
-
-**Figure 2.25 Structure of seed**
-
-CotyledonPlumule
-
-Radicle
-
-Testa
-
-Testa
-
 **a) Dicot seed _(Cicer arientinum)_**
 
 Seed cut opened
