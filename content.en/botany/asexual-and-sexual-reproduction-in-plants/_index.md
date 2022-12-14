@@ -449,53 +449,33 @@ Visit to a nearby park and observe the different flowers. Record the adaptations
 
 ```
 
-**3. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. **a. Ornithophily:** Pollination by birds is called Ornithophily. Some common plants that are pollinated by birds are _Erythrina, Bombax, Syzygium, Bignonia, Sterlitzia_ etc., Humming birds, sun birds, and honey eaters are some of the birds which regularly visit flowers and bring about pollination.
+**3. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. 
 
-**The ornithophilous flowers have the following characteristic features:** - The flowers are usually large in size. - The flowers are tubular, cup shaped or urn-
+**a. Ornithophily:** Pollination by birds is called Ornithophily. Some common plants that are pollinated by birds are _Erythrina, Bombax, Syzygium, Bignonia, Sterlitzia_ etc., Humming birds, sun birds, and honey eaters are some of the birds which regularly visit flowers and bring about pollination.
 
-shaped.
+**The ornithophilous flowers have the following characteristic features:** 
 
-**Self-Pollination** (Autogamy)
+- The flowers are usually large in size. 
 
-**Cross-Pollination** (Xenogamy or Allogamy)
+- The flowers are tubular, cup shaped or urn-shaped.
 
-**Abiotic Agencies**
+- The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds.
 
-1. Anemophily (Wind)
+- The flowers are scentless and produce nectar in large quantities. Pollen and nectar form the floral rewards for the birds visiting the flowers.
 
-2. Hydrophily (Water)
+- The floral parts are tough and leathery to withstand the powerful impact of the visitors.
 
-**Biotic Agencies**
+**B. Cheiropterophily:** Pollination carried out by bats is called cheiropterophily. Some of the common cheiropterophilous plants are Kigelia africana, Adansonia digitata, etc.,
 
-**Cantharophily (Beetle)**
+**C. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among Lemna pollinate them.
 
-**Phalaenophily (Moths)**
+![Pollination ](1.19.png "")
 
-**Mellitophily (Bees)**
+**D. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ant is called **myrmecophily.** Insects that are well adapted to bring pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees the insects. are the main flower visitors and dominant Pollination in Salvia (Lever mechanism): pollinators. Insects are chief pollinating agents The flower is protandrous and the corolla is and majority of angiosperms are adapted for RECURRENT bilabiate with 2 stamens. A lever mechanism insect pollination. It is the most common type of pollination.
 
-**Psychophily Malacophily (Snails)**
+**The characteristic features of entomo philous flowers are as follows:** 
 
-**Ornithophily (Birds)**
-
-**Chieropterophily (Bats)**
-
-**Myrmecophily (Ants)**
-
-**POLLINATION**
-
-Vegetative reproduction Agamospermy
-
-Adventive embryony
-
-Diplospory
-
-Apospory
-
-**RECURRENT APOMIXIS**
-
-some of which get deposited on the stigma of the flower when it visits next. **c. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among _Lemna_ pollinate them. **d. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ants is called **myrmecophily**. Insects that are well adapted to bring about pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees are the main flower visitors and dominant pollinators. Insects are chief pollinating agents and majority of angiosperms are adapted for insect pollination. It is the most common type of pollination.
-
-**The characteristic features of entomo philous flowers are as follows:** - Flowers are generally large or if small they
+- Flowers are generally large or if small they
 
 are aggregated in dense inflorescence. Example: Asteraceae flowers.
 
