@@ -306,16 +306,15 @@ Funiculus is very long and surrounds the ovule. Example: Cactaceae
 
 As the ovule develops, a single hypodermal cell in the nucellus becomes enlarged and functions as **archesporium**. In some plants, the archesporial cell may directly function as megaspore mother cell. In others, it may undergo a transverse division to form outer primary parietal cell and inner primary sporogenous cell. The parietal cell may remain undivided or divide by few periclinal and anticlinal divisions to embed the primary sporogenous cell deep into the nucellus. The primary sporogenous cell functions as a megaspore mother cell. The megaspore mother cell (MMC) undergoes meiotic division to form four haploid megaspores. Based on the number of megaspores that develop into the Embryo sac, we have three basic types of development: **monosporic, bisporic and tetrasporic.** The megaspores are usually arranged in a linear tetrad. Of the four megaspores formed, usually the chalazal one is functional and other three megaspores degenerate. The functional megaspore forms the female gametophyte or embryo sac. This type of development is called **monosporic** development (Example: _Polygonum_). Of the four megaspores formed if two are involved in Embryo sac formation the development is called **bisporic** (Example: _Allium_). If all the four megaspores are involved in Embryo sac formation the development is called **tetrasporic** (Example: _Peperomia_). An ovule generally has a single embryo sac. The development of monosporic embryo sac (_Polygonum_ type) is given in Figure 1.9.
 
+![Figure 1.9 Development of ovule and embryo sac (Polygonum type).](1.12.png)
+
 **Development of Monosporic embryo sac.** 
 
 To describe the stages in embryo sac development and organization the simplest monosporic type of development is given below.
 
-![Figure 1.9 Development of ovule and embryo sac (_Polygonum type_).](1.10.png "")
+![Figure 1.10 Structure of Embryo sa).](1.10.png "")
 
 The functional megaspore is the first cell of the embryo sac or female gametophyte. The megaspore elongates along micropylar- chalazal axis. The nucleus undergoes a mitotic division. Wall formation does not follow the nuclear division. A large central vacuole now appears between the two daughter nuclei. The vacuole expands and pushes the nuclei towards the opposite poles of the embryo sac. Both the nuclei divide twice mitotically, forming four nuclei at each pole. At this stage all the eight nuclei are present in a common cytoplasm (free nuclear division). After the last nuclear division the cell undergoes appreciable elongation, assuming a sac-like appearance. This is followed by cellular organization of the embryo sac. Of the four nuclei at the micropylar end of the embryo sac, three organize into an **egg apparatus**, the fourth one is left free in the cytoplasm of the central cell as the upper polar nucleus. Three nuclei of the chalazal end form three **antipodal cells** whereas the fourth one functions as the lower polar nucleus. Depending on the plant the **2 polar nuclei** may remain free or may fuse to form a secondary nucleus (central cell). The egg apparatus is made up of a central egg cell and two synergids, one on each side of the egg cell. Synergids secrete chemotropic substances that help to attract the pollen tube. The special cellular thickening called filiform apparatus of synergids help in the absorption, conduction of nutrients from the nucellus to embryo sac. It also guides the pollen tube into the egg. Thus, a 7 celled embryo sac with 8 nuclei is formed. The structure of embryo sac is given in Figure 1.10.
-
-![**Figure 1.10** Structure of Embryo sac](1.12.png)
-
 
 ### Pollination
 
@@ -323,7 +322,7 @@ The functional megaspore is the first cell of the embryo sac or female gametophy
 
 Pollination is a wonderful mechanism which provides food, shelter etc., for the pollinating animals. Many plants are pollinated by a particular animal species and the flowers are modified accordingly and thus there exists a co-evolution between plants and animals. Let us imagine if pollination fails. Do you think there will be any seed and fruit formation? If not what happens to pollinating organisms and those that depend on these pollinating organism for the food? Here lies the significance of the process of pollination.
 
-The pollen grains produced in the anther will germinate only when they reach the stigma of the pistil. The reproductive organs, stamens and pistil of the flower are spatially separated, a mechanism which is essential for pollen grains to reach the stigma is needed. This process of transfer of pollen grains from the anther to a stigma of a flower is called pollination.
+The pollen grains produced in the anther will germinate only when they reach the stigma of the pistil. The reproductive organs, stamens and pistil of the flower are spatially separated, a mechanism which is essential for pollen grains to reach the stigma is needed. This process of transfer of pollen grains from the anther to a stigma of a flower is called **pollination**.
 
 **Pollination** is a characteristic feature of spermatophyte (Gymnosperms and Angiosperms). Pollination in gymnosperms is said to be direct as the pollens are deposited directly on the exposed ovules, whereas in angiosperms it is said to be indirect, as the pollens are deposited on the stigma of the pistil. In majority of angiosperms, the flower opens and exposes its mature anthers and stigma for pollination. Such flowers are called **chasmogamous** and the phenomenon is **chasmogamy.** In other plants, pollination occurs without opening and exposing their sex organs. Such flowers are called cleistogamous and the phenomenon is **cleistogamy.** 
 
@@ -332,60 +331,72 @@ Based upon the flower on which the pollen of a flower reaches, the pollination i
 #### Self-pollination or Autogamy
 (Greek Auto = self, gamos = marriage):
 
-According to a majority of Botanists, the transfer of pollen on the stigma of the same flower is called self-pollination or Autogamy. Self-pollination is possible only in those plants which bear bisexual flowers. In order to promote self- pollination the flowers of the plants have several adaptations or mechanisms. They are: **1\. Cleistogamy:** In cleistogamy (Greek Kleisto = closed. Gamos = marriage) flowers never open and expose the reproductive organs and thus the pollination is carried out within the closed flower. _Commelina, Viola_, _Oxalis_ are some examples for cleistogamous flowers. In Commelina _benghalensis, two types of flowers are produced-_ aerial and underground flowers. The aerial flowers are brightly coloured, chasmogamous and insect pollinated. The underground flowers are borne on the subterranean branches of the rhizome that are dull, cleistogamous and self pollinated and are not dependent on pollinators for pollination.(Figure 1.11).
+According to a majority of Botanists, the transfer of pollen on the stigma of the same flower is called self-pollination or Autogamy. Self-pollination is possible only in those plants which bear bisexual flowers. In order to promote self- pollination the flowers of the plants have several adaptations or mechanisms. They are: 
 
-**2\. Homogamy:** When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self- pollination to occur. Example: _Mirabilis jalapa, Catharanthus roseus_ 
+**1. Cleistogamy:** In cleistogamy (Greek Kleisto = closed. Gamos = marriage) flowers never open and expose the reproductive organs and thus the pollination is carried out within the closed flower. _Commelina, Viola_, _Oxalis_ are some examples for cleistogamous flowers. In Commelina _benghalensis, two types of flowers are produced-_ aerial and underground flowers. The aerial flowers are brightly coloured, chasmogamous and insect pollinated. The underground flowers are borne on the subterranean branches of the rhizome that are dull, cleistogamous and self pollinated and are not dependent on pollinators for pollination.(Figure 1.11).
 
-**3\. Incomplete dichogamy:** In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
+**2. Homogamy:** When the stamens and stigma of a flower mature at the same time it is said to be homogamy. It favours self- pollination to occur. Example: _Mirabilis jalapa, Catharanthus roseus_ 
 
-![Figure 1.11 _Commelina_ with Cleistogamous and Chasmogamous flowers](1.13.png)
+**3. Incomplete dichogamy:** In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
+
+![Figure 1.11 _Commelina_ with Cleistogamous and Chasmogamous flowers](1.13.png "")
 
 #### Cross - pollination
 It refers to the transfer of pollens on the stigma of another flower. The cross-pollination is of two types:
 
-**i. Geitonogamy**: When the pollen deposits on another flower of the same individual plant, it is said to be geitonogamy. It usually occurs in plants which show monoecious condition. It is functionally cross-pollination but is generally similar to autogamy because the pollen comes from same plant.
+**i.Geitonogamy**: When the pollen deposits on another flower of the same individual plant, it is said to be geitonogamy. It usually occurs in plants which show monoecious condition. It is functionally cross-pollination but is generally similar to autogamy because the pollen comes from same plant.
 
 **ii. Xenogamy:** When the pollen (genetically different) deposits on another flower of a different plant of the same species , it is called as xenogamy.
 
-**Contrivances of cross-pollination** The flowers have several mechanisms to promote cross-pollination which are also called **contrivances of cross-pollination or outbreeding** devices. It includes the following.
+**Contrivances of cross-pollination** 
+The flowers have several mechanisms to promote cross-pollination which are also called **contrivances of cross-pollination or outbreeding** devices. It includes the following.
 
-**1\. Dicliny or Unisexuality** When the flowers are unisexual only cross- pollination is possible. There are two types.
+**1.Dicliny or Unisexuality** 
+When the flowers are unisexual only cross- pollination is possible. There are two types.
 
 **i. Monoecious:** Male and female flowers on the same plant. Coconut, Bitter gourd. In plants like castor and maize, autogamy is prevented but geitonogamy takes place. 
 
 **ii. Dioecious :** Male and female flowers on different plants. Borassus, Carica and Phoenix. Here both autogamy and geitonogamy are prevented.
 
-**2\. Monocliny or Bisexuality** 
+**2. Monocliny or Bisexuality** 
 
 Flowers are bisexual and the special adaptation of the flowers prevents self-pollination. 
 
 **i. Dichogamy:** In bisexual flowers anthers and stigmas mature at different times, thus checking self-pollination. It is of two types. 
 
-**a. Protandry:** The stamens mature earlier than the stigmas of the flowers. Examples: _Helianthus, Clerodendrum_ (Figure 1.12 a). **b. Protogyny: The stigmas mature earlier than** the stamens of the flower. Examples: Scrophularia _nodosa_ and _Aristolochia bracteata_ (Figure 1.12 b).
+**a. Protandry:** The stamens mature earlier than the stigmas of the flowers. Examples: _Helianthus, Clerodendrum_ (Figure 1.12 a). 
 
-![Figure 1.12 Dichogamy](1.13.png)
+**b. Protogyny:** 
+The stigmas mature earlier than the stamens of the flower. Examples: Scrophularia _nodosa_ and _Aristolochia bracteata_ (Figure 1.12 b).
 
-**ii. Herkogamy: In bisexual flowers the** essential organs, the stamens and stigmas, are arranged in such a way that self-pollination becomes impossible. For example in _Gloriosa superba, the style is reflexed away from the_ stamens and in _Hibiscus_ the stigmas project far above the stamens (Figure 1.13).
+![Figure 1.14 Hetetostyly](1.15.png)
 
-![Figure 1.13 Herkogamy - _Gloriosa_](1.14.png)
+**ii. Herkogamy:**
+ In bisexual flowers the** essential organs, the stamens and stigmas, are arranged in such a way that self-pollination becomes impossible. For example in _Gloriosa superba, the style is reflexed away from the_ stamens and in _Hibiscus_ the stigmas project far above the stamens (Figure 1.13).
+
+ ![Figure 1.13 Herkogamy - _Gloriosa_](1.14.png)
+
 
 **iii. Heterostyly:** Some plants produce two or three different forms of flowers that are different in their length of stamens and style. Pollination will take place only between organs of the same length.(Figure 1.14)
 
 **a. Distyly:** The plant produces two forms of flowers, Pin or long style, long stigmatic papillae, short stamens and small pollen grains; Thrum-eyed or short style, small stigmatic papillae, long stamens and large pollen grains. Example: Primula (Figure 1.14a). The stigma of the Thrum-eyed flowers and the anther of the pin lie in same level to bring out pollination. Similarly the anther of Thrum-eyed and stigma of pin ones is found in same height. This helps in effective pollination.
 
-![Figure 1.14 Hetetostyly](1.15.png)
+![Figure 1.14 Heterostyly](1.16.png "")
 
-**b. Tristyly: The plant produces three kinds of** flowers, with respect to the length of the style and stamens. Here,the pollen from flowers of one type can pollinate only the other two types but not their own type. Example : _Lythrum_ (Figure 1.14b).
+**b. Tristyly:** 
+
+The plant produces three kinds of** flowers, with respect to the length of the style and stamens. Here,the pollen from flowers of one type can pollinate only the other two types but not their own type. Example : _Lythrum_ (Figure 1.14b).
   
 **iv. Self sterility/ Self- incompatibility:** In some plants, when the pollen grain of a flower reaches the stigma of the same, it is unable to germinate or prevented to germinate on its own stigma. Examples: Abutilon, Passiflora. It is a genetic mechanism.
 
-**Agents of pollination** 
+### Agents of pollination
 
 Pollination is effected by many agents like wind, water, insects etc. On the basis of the agents that bring about pollination, the mode of pollination is divided into abiotic and biotic. The latter type is used by majority of plants.
 
 **Abiotic agents** 
 
 1. Anemophily - pollination by Wind 
+
 2. Hydrophily - pollination by Water
 
 **Biotic agents** 
@@ -394,7 +405,7 @@ Pollination is effected by many agents like wind, water, insects etc. On the bas
 
 Zoophily refers to pollination through animals and pollination through insects is called Entomophily.
 
-**1\. Anemophily:** Pollination by wind. The wind pollinated flowers are called **anemophilous**. The wind pollinated plants are generally situated in wind exposed regions. Anemophily is a chance event. Therefore, the pollen may not reach the target flower effectively and are wasted during the transit from one flower to another. The common examples of wind pollinated flowers are - grasses, sugarcane, bamboo, coconut, palm, maize etc.,
+**1. Anemophily:** Pollination by wind. The wind pollinated flowers are called **anemophilous**. The wind pollinated plants are generally situated in wind exposed regions. Anemophily is a chance event. Therefore, the pollen may not reach the target flower effectively and are wasted during the transit from one flower to another. The common examples of wind pollinated flowers are - grasses, sugarcane, bamboo, coconut, palm, maize etc.,
 
 **Anemophilous plants have the following characteristic features:**
 
@@ -416,55 +427,29 @@ Zoophily refers to pollination through animals and pollination through insects i
 
 - Plant produces flowers before the new leaves appear, so the pollen can be carried without hindrance of leaves.
 
-i) Pin-eyed flower ii) Thrum-eyed flower
+**Pollination in Maize (Zea mays):** 
+The maize is monoecious and unisexual. The male inflorescence (tassel) is borne terminally and female inflorescence (cob) laterally at lower levels. Maize pollens are large and heavy and cannot be carried by light breeze. However, the mild wind shakes the male inflorescence to release the pollen which falls vertically below. The female inflorescence has long stigma (silk) measuring upto 23 cm in length, which projects beyond leaves. The pollens drop from the tassel is caught by the stigma (Figure 1.15).
 
-**Figure 2.11 Heterostyly** a) Distyly - Primula vulgaris
+**2. Hydrophily:** Pollination by water is called hydrophily and the flowers pollinated by water are said to be hydrophilous (Example: Vallisneria, Hydrilla). Though there are a number of aquatic plants, only in few plants pollination takes place by water. The floral envelop of hydrophilous plants are reduced or absent. In water plants like Eichhornia and water lilly pollination takes place through wind or by insects. There are two types of hydrophily, Epihydrophily and Hypohydrophily. In most of the hydrophilous flowers, the pollen grains possesses mucilage covering which protects them from wetting.
 
-**a) Distyly - _Primula_**
+**a. Epihydrophily:** Pollination occurs at the water level. Examples: _Vallisneria spiralis, Elodea._ 
 
-**Fig 2.11b Tristyly - _Lythrum_b) Tristyly - _Lythrum_ Figure 1.14** Heterostyly
-
-Long style
-
-Long style Normal style Short style
-
-Short style by insects. There are two types of hydrophily, Epihydrophily and Hypohydrophily. In most of the hydrophilous flowers, the pollen grains possesses mucilage covering which protects them from wetting. **a. Epihydrophily:** Pollination occurs at the water level. Examples: _Vallisneria spiralis, Elodea._ **Pollination in _Vallisneria spiralis_:** It is a dioecious, submerged and rooted hydrophyte. The female plant bears solitary flowers which rise to the surface of water level using a long coiled stalk at the time of pollination. A small cup shaped depression is formed around the female flower on the surface of the water. The male plant produces male flowers which get detached and float on the surface of the water. As soon as a male flowers comes in contact with the female flower and pollination takes place, Stalk of the female flower coils and goes under water where fruits are produced. (Figure 1.16).
+**Pollination in _Vallisneria spiralis_:** It is a dioecious, submerged and rooted hydrophyte. The female plant bears solitary flowers which rise to the surface of water level using a long coiled stalk at the time of pollination. A small cup shaped depression is formed around the female flower on the surface of the water. The male plant produces male flowers which get detached and float on the surface of the water. As soon as a male flowers comes in contact with the female flower and pollination takes place, Stalk of the female flower coils and goes under water where fruits are produced. (Figure 1.16).
 
 
-**Figure 1.16** Pollination in _Vallisneria_
+![Figure 1.16 Pollination in Vallisneria](1.18.png "")
 
+**b. Hypohydrophily:**
+Pollination occurs inside the water. Examples: *Zostera marina and Ceratophyllum*
+
+```
 **Activity**
 
 Visit to a nearby park and observe the different flowers. Record the adaptations or modifications found in the flowers for different types of pollination.
 
-**b. Hypohydrophily:** Pollination occurs inside the water. Examples: _Zostera marina and Ceratophyllum. Zostera marina_ is a submerged marine sea grass and pollination takes place under water. The pollen grains are long, needle like. They are shed
+```
 
-**Pollination in Maize (Zea mays): The maize** is monoecious and unisexual. The male inflorescence (tassel) is borne terminally and female inflorescence (cob) laterally at lower levels. Maize pollens are large and heavy and cannot be carried by light breeze. However, the mild wind shakes the male inflorescence to release the pollen which falls vertically below. The female inflorescence has long stigma (silk) measuring upto 23 cm in length, which projects beyond leaves. The pollens drop from the tassel is caught by the stigma (Figure 1.15).
-
-Female inflorescence (Cob)
-
-Male inflorescence (Tassel)
-
-Silk (Stigma and Style)
-
-**Figure 1.15** Pollination in _Zea mays_
-
-**2\. Hydrophily:** Pollination by water is called hydrophily and the flowers pollinated by water are said to be **hydrophilous** (Example: _Vallisneria, Hydrilla). Though there are a_ number of aquatic plants, only in few plants pollination takes place by water. The floral envelop of hydrophilous plants are reduced or absent. In water plants like _Eichhornia_ and water lilly pollination takes place through wind or
-
-
-- The flowers are brightly coloured, red, scarlet, pink, orange, blue and yellow which attracts the birds.
-
-- The flowers are scentless and produce nectar in large quantities. Pollen and nectar form the floral rewards for the birds visiting the flowers.
-
-- The floral parts are tough and leathery to withstand the powerful impact of the visitors.
-
-**b. Cheiropterophily:** Pollination carried out by bats is called cheiropterophily. Some of the common cheiropterophilous plants are _Kigelia africana_, _Adansonia digitata_, etc., Bats are nocturnal and are attracted by the odour of the flowers that open at or after dusk. The cheiropterophilous plants have flowers borne singly or in clusters quite away from the leaves and branches either on the long peduncle or on the trunk or branches. The flowers produce large quantities of nectar.
-
-**Pollination in _Adansonia digitata_:** In this plant, the ball of stamens and the stigma project beyond the floral envelops. The bat holds the flower by clasping the stamen ball to its breast. While taking nectar its breast becomes laden with numerous pollen grains,
-
-under water. The specific gravity of the pollen is same as that of sea water, so that, the pollen floats freely at any depth. The stigma is very large and long. The pollen comes in contact with the stigma and gets coiled around the stigma thus effecting pollination.
-
-**3\. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. **a. Ornithophily:** Pollination by birds is called Ornithophily. Some common plants that are pollinated by birds are _Erythrina, Bombax, Syzygium, Bignonia, Sterlitzia_ etc., Humming birds, sun birds, and honey eaters are some of the birds which regularly visit flowers and bring about pollination.
+**3. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. **a. Ornithophily:** Pollination by birds is called Ornithophily. Some common plants that are pollinated by birds are _Erythrina, Bombax, Syzygium, Bignonia, Sterlitzia_ etc., Humming birds, sun birds, and honey eaters are some of the birds which regularly visit flowers and bring about pollination.
 
 **The ornithophilous flowers have the following characteristic features:** - The flowers are usually large in size. - The flowers are tubular, cup shaped or urn-
 
