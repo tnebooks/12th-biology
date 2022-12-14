@@ -674,9 +674,7 @@ Occurrence of more than one embryo in a seed is called polyembryony (Figure 1.24
  
  
 **a.Cleavage polyembryony** (Example: Orchids) 
-**b.Formation of embryo by cells of the Embryo**
-
-**sac other than egg** (Synergids _– Aristolochia_; antipodals _– Ulmus_ and endosperm _– Balanophora_)
+**b.Formation of embryo by cells of the Embryo sac other than egg** (Synergids _– Aristolochia_; antipodals _– Ulmus_ and endosperm _– Balanophora_)
 
 c. **Development of more than one Embryo sac within the same ovule.** (Derivatives of same MMC, derivatives of two or more MMC _– Casuarina_)
 
@@ -685,27 +683,18 @@ d. **Activation of some sporophytic cells of the ovule** (Nucellus/ integuments-
 **Practical applications** The seedlings formed from the nucellar tissue in _Citrus_ are found better clones for Orchards. Embryos derived through polyembryony are found virus free.
 
 ## Parthenocarpy
- As mentioned earlier, the ovary becomes the fruit and the ovule becomes the seed after fertilization. However in a number of cases, fruit like structures may develop from the ovary without the act of fertilization. Such fruits are called **parthenocarpic fruits**. Invariably they will not have true seeds. Many commercial fruits are made seedless. Examples: Banana, Grapes and Papaya. **Significance** - The seedless fruits have great significance
+As mentioned earlier, the ovary becomes the fruit and the ovule becomes the seed after fertilization. However in a number of cases, fruit like structures may develop from the ovary without the act of fertilization. Such fruits are called **parthenocarpic fruits**. Invariably they will not have true seeds. Many commercial fruits are made seedless. Examples: Banana, Grapes and Papaya. 
 
-in horticulture. - The seedless fruits have great commercial
+**Significance** 
 
-importance. - Seedless fruits are useful for the preparation
+- The seedless fruits have great significance in horticulture.
+- The seedless fruits have great commercial importance.
+- Seedless fruits are useful for the preparation of jams, jellies, sauces, fruit drinks etc. 
+- High proportion of edible part is available in parthenocarpic fruits due to the absence of seeds.
 
-of jams, jellies, sauces, fruit drinks etc. - High proportion of edible part is available
+**Summary** 
 
-in parthenocarpic fruits due to the absence of seeds.
-
-Zygotic embryo
-
-Endosperm
-
-Antipodal embryo
-
-**Figure 1.24 :** Polyembryony – Embryo sac of _Ulmus glabra_ showing zygotic and
-
-antipodal embryo
-
-**Summary** Reproduction is one of the attributes of living things. Lower plants, microbes and animals reproduce by different methods (fragmentation, gemma, binary fission, budding, regeneration). Organisms reproduce through asexual and sexual methods. Asexual methods in angiosperms occur through natural or artificial methods. The natural methods take place through vegetative propagules or diaspores. Artificial method of reproduction involves cutting, layering and grafting. Micropropagation is a modern method used to raise new plants.
+Reproduction is one of the attributes of living things. Lower plants, microbes and animals reproduce by different methods (fragmentation, gemma, binary fission, budding, regeneration). Organisms reproduce through asexual and sexual methods. Asexual methods in angiosperms occur through natural or artificial methods. The natural methods take place through vegetative propagules or diaspores. Artificial method of reproduction involves cutting, layering and grafting. Micropropagation is a modern method used to raise new plants.
 
 Sexual reproduction includes gametogenesis and fertilization. External fertilization occurs in lower plants like algae but in higher plants internal fertilization takes place. A flower is a modified shoot meant for reproduction. Stamen is the male reproductive part and produces pollen grains. The development of microspore is called microsporogenesis. The microspore mother cell undergoes meiotic division to produce four haploid microspores. In majority of Angiosperms the anther is dithecous and are tetrasporangiate. It possesses epidermis, endothecium, middle layers and tapetum. The hygroscopic nature of endothecial cell along with thin walled stomium helps in the dehiscence of anther. Tapetum nourishes the microspores and also contributes to the wall materials of the pollen grain. Pollen grain is derived from the microspore and possesses thin inner intine and thick outer exine. Sporopollenin is present in exine and is resistant to physiological and biological decomposition. Microspore is the first cell of male gametophyte. The nucleus of the microspore divides to form a vegetative nucleus and a generative nucleus. The generative nucleus divides to form two male nuclei. Gynoecium is the female reproductive part of a flower and it represents one or more pistils. The ovary bears ovules
 
