@@ -280,7 +280,9 @@ Since the white plants lack chlorophyll pigment, they will not survive. So the F
 
 The term “lethal” is applied to those changes in the genome of an organism which produces effects severe enough to cause death. Lethality is a condition in which the death of certain genotype occurs prematurely. The fully dominant or fully recessive lethal allele kills the carrier individual only in its homozygous condition. So the F2 genotypic ratio will be 2 : 1 or 1 : 2 respectively.
 
-**2.4.4. Pleiotropy – A single gene affects multiple traits** In Pleiotropy, the single gene affects multiple traits and alter the phenotype of the organism. The Pleiotropic gene influences a number of characters simultaneously and such genes are called pleiotropic gene. These were crossed with a variety of peas having white flowers, light coloured seeds and no spot on the axils of the leaves, the three traits for flower colour, seed colour and a leaf axil spot all were inherited together as a single unit. Another example is sickle cell anemia.
+**2.4.4. Pleiotropy – A single gene affects multiple traits** 
+
+In Pleiotropy, the single gene affects multiple traits and alter the phenotype of the organism. The Pleiotropic gene influences a number of characters simultaneously and such genes are called pleiotropic gene. These were crossed with a variety of peas having white flowers, light coloured seeds and no spot on the axils of the leaves, the three traits for flower colour, seed colour and a leaf axil spot all were inherited together as a single unit. Another example is sickle cell anemia.
 
 ## Intergenic interactions
  Interlocus interactions take place between the alleles at different loci i.e between alleles of different genes.It includes the following:
@@ -293,35 +295,28 @@ In the summer squash the fruit colour locus has a dominant allele ‘W’ for wh
 
 Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is dominant, masks the effect of yellow or green. Homozygous recessive ww genotypes only can give the coloured fruits (4/16). Double recessive ‘wwgg’ will give green fruit (1/16). The Plants having only ‘G’ in its genotype (wwGg or wwGG) will give the yellow fruit(3/16).
 
-**Table 2.1:** Intra- genic interaction
+**Table 2.1:** 
 
 **Inter-genic or non-allelic interaction**
 
-**S. No.**
+|    S. No. 	|      Gene  interaction 	|  Example                                                                           	|     F2  Phenotypic    ratio 	|
+|-----------	|------------------------	|------------------------------------------------------------------------------------	|-----------------------------	|
+|  1        	| Incomplete Dominance   	| Flower colour in Mirabilis jalapa.  Flower colour in snapdragon (Antirrhinum spp.) 	| 1 : 2 : 1    1 : 2 : 1      	|
+|  2        	| Codominance            	| ABO Blood group system in humans                                                   	| 1 : 2 : 1                   	|
 
-**Epistatic interaction Example**
+**Table 2.2:** 
 
-**F2 Ratio**
-
-**Phenotypic ratio**
-
-
-
-
-**Table 2.2:** Inter-genic interaction
+**Inter-genic or non-allelic interaction**
 
 ## Polygenic Inheritance in Wheat (Kernel colour)
- Polygenic inheritance - Several genes combine to affect a single trait.
 
-A group of genes that together determine (contribute) a characteristic of an organism
+Polygenic inheritance - Several genes combine to affect a single trait.
 
-
-
-is called polygenic inheritance. It gives explanations to the inheritance of continuous traits which are compatible with Mendel’s Law.
+A group of genes that together determine (contribute) a characteristic of an organism is called polygenic inheritance. It gives explanations to the inheritance of continuous traits which are compatible with Mendel’s Law.
 
 The first experiment on polygenic inheritance was demonstrated by Swedish Geneticist H. Nilsson - Ehle (1909) in wheat kernels. Kernel colour is controlled by two genes each with two alleles, one with red kernel colour was dominant to white. He crossed the two pure breeding wheat varieties dark red and a white. Dark red genotypes R1R1R2R2 and white genotypes are r1r1r2r2. In the F1 generation medium red were obtained with the genotype R1r1R2r2. F1 wheat plant produces four types of gametes R1R2, R1r2, r1R2, r1r2. The intensity of the red colour is determined by the number of R genes in the F2 generation.
 
-**Four R genes:** A dark red kernel colour is obtained.Three R genes: Medium - dark red kernel colour is obtained.**Two R genes:** Medium-red kernel colour is obtained.**One R gene:** Light red kernel colour is obtained. **Absence of R gene:**Results in White kernel colour.
+**Four R genes:** A dark red kernel colour is obtained.**Three R genes:** Medium - dark red kernel colour is obtained.**Two R genes:** Medium-red kernel colour is obtained.**One R gene:** Light red kernel colour is obtained. **Absence of R gene:**Results in White kernel colour.
 
 The R gene in an additive manner produces the red kernel colour. The number of each phenotype is plotted against the intensity of red kernel colour which produces a bell shaped curve. This represents the distribution of phenotype. Other example: Height and skin colour in humans are controlled by three pairs of genes.
 
@@ -340,9 +335,7 @@ Later, researchers discovered the third gene that also affect the kernel colour 
 From the above results Nilsson – Ehle showed that the blending inheritance was not taking place in the kernel of wheat. In F2 generation plants have kernels with wide range of colour variation. This is due to the fact that the genes are segregating and recombination takes place. Another evidence for the absence of blending inheritance is that the parental phenotypes dark red and white appear again in F2. There is no blending of genes, only the phenotype. The cumulative effect of several pairs of gene interaction gives rise to many shades of kernel colour. He hypothesized that the two loci must contribute additively to the kernel colour of wheat. The contribution of each red allele to the kernel colour of wheat is additive.
 
 ## Extra Chromosomal Inheritance or Extra Nuclear Inheritance (Cytoplasmic Inheritance)
- DNA is the universal genetic material. Genes located in nuclear chromosomes follow Mendelian inheritance. But certain traits are governed either by the chloroplast or mitochondrial genes. This phenomenon is known as extra nuclear inheritance. It is a kind of Non-Mendelian inheritance. Since it involves cytoplasmic organelles such as chloroplast and
-
-mitochondrion that act as inheritance vectors, it is also called Cytoplasmic inheritance. It is based on independent, self-replicating extra chromosomal unit called plasmogene located in the cytoplasmic organelles, chloroplast and mitochondrion.
+ DNA is the universal genetic material. Genes located in nuclear chromosomes follow Mendelian inheritance. But certain traits are governed either by the chloroplast or mitochondrial genes. This phenomenon is known as extra nuclear inheritance. It is a kind of Non-Mendelian inheritance. Since it involves cytoplasmic organelles such as chloroplast and mitochondrion that act as inheritance vectors, it is also called Cytoplasmic inheritance. It is based on independent, self-replicating extra chromosomal unit called plasmogene located in the cytoplasmic organelles, chloroplast and mitochondrion.
 
 **Chloroplast Inheritance** It is found in 4 O’ Clock plant (_Mirabilis jalapa_). In this, there are two types of variegated leaves namely dark green leaved plants and pale green leaved plants. When the pollen of dark green leaved plant (male) is transferred to the stigma of pale green leaved plant (female) and pollen of pale green leaved plant is transferred to the stigma of dark green leaved plant, the F1 generation of both the crosses must be identical as per Mendelian inheritance. But in the reciprocal cross the F1 plant differs from each other. In each cross, the F1 plant reveals the character of the plant which is used as female plant.
 
@@ -351,16 +344,21 @@ mitochondrion that act as inheritance vectors, it is also called Cytoplasmic inh
 
 This inheritance is not through nuclear gene. It is due to the chloroplast gene found in the ovum of the female plant which contributes the cytoplasm during fertilization since the male gamete contribute only the nucleus but not cytoplasm.
 
-Recently it has been discovered that cytoplasmic genetic male sterility is common in many plant species. This sterility is maintained by the influence of both nuclear and cytoplasmic genes. There are commonly two types of
-
-cytoplasm N (normal) and S (sterile). The genes for these are found in mitochondrion. There are also restores of fertility (Rf) genes. Even though these genes are nuclear genes, they are distinct from genetic male sterility genes of other plants. Because the Rf genes do not have any expression of their own, unless the sterile cytoplasm is present. Rf genes are required to restore fertility in S cytoplasm which is responsible for sterility.
+Recently it has been discovered that cytoplasmic genetic male sterility is common in many plant species. This sterility is maintained by the influence of both nuclear and cytoplasmic genes. There are commonly two types of cytoplasm N (normal) and S (sterile). The genes for these are found in mitochondrion. There are also restores of fertility (Rf) genes. Even though these genes are nuclear genes, they are distinct from genetic male sterility genes of other plants. Because the Rf genes do not have any expression of their own, unless the sterile cytoplasm is present. Rf genes are required to restore fertility in S cytoplasm which is responsible for sterility.
 
 So the combination of N cytoplasm with rfrf and S cytoplasm with RfRf produces plants with fertile pollens, while S cytoplasm with rfrf produces only male sterile plants.
 
-**Atavism Atavism is a modification of a biological** structure whereby an ancestral trait reappears after having been lost through reemergence of sexual reproduction in the flowering plant _Hieracium pilosella_ is the best example for Atavism in plants. **Summary** Gregor Johann Mendel, father of Genetics unraveled the mystery of heredity through his experiments on garden peas. Mendel’s laws, analytical and empirical reasoning endure till
-
-now guiding geneticists to study variation. The monohybrid cross of Mendel proved his particulate theory of inheritance. In F2 the alternative traits were expressed in the ratio of 3 dominant and 1 recessive. The characteristic 3 : 1 segregation is referred to as Mendelian ratio. Parents transmit discrete information about the traits to their offspring which Mendel called it as “factors”. To test his experimental results Mendel devised a powerful procedure called the test cross. Test cross is used to determine the genotype of an individual when two genes are involved. In Mendel’s dihyrbid cross, the two pairs of factors were inherited independently. From the results of dihybrid cross Mendel gave the Law of Independent Assortment. Mendel’s dihybrid ratio of 9 : 3 : 3 : 1 with the representation of two new recombinations appeared in the progeny, i.e. round green peas or wrinkled yellow peas. Molecular explanation of Mendel’s gene for monohybrid cross, dihybrid cross were explained. Extension of Mendelian Genetics was dealt with examples for interaction among genes. Incomplete dominance is not an example for blending inheritance. Incomplete dominance exhibits a phenotypic heterozygote intermediate between the two homozygous. In plants codominance can be demonstrated by the methods of electrophoresis or chromatography for protein or flavonoid substances. Lethal genes with an example are explained. Pleiotropy a single gene which affects multiple traits was explained with an example of Pisum sativum. Dominant epistatis in summer squash with 12 : 3 : 1 ratio was discussed. Polygenic inheritance is an example for inheritance of continuous traits which is compatible with Mendel’s laws. The inheritance of mitochondrial and chloroplast genes were explained with examples which does not follow the rules of nuclear genes.
-
 ![A cellular explanation of the variegated phenotype of the leaves in _Mirabilis jalapa_](a-cellular-explanation-ofthe-varigated-phenotype-ofthe-leaves.png "")
+
+
+**Atavism** 
+
+Atavism is a modification of a biological structure whereby an ancestral trait reappears after having been lost through reemergence of sexual reproduction in the flowering plant _Hieracium pilosella_ is the best example for Atavism in plants. 
+
+
+**Summary** 
+
+Gregor Johann Mendel, father of Genetics unraveled the mystery of heredity through his experiments on garden peas. Mendel’s laws, analytical and empirical reasoning endure till now guiding geneticists to study variation. The monohybrid cross of Mendel proved his particulate theory of inheritance. In F2 the alternative traits were expressed in the ratio of 3 dominant and 1 recessive. The characteristic 3 : 1 segregation is referred to as Mendelian ratio. Parents transmit discrete information about the traits to their offspring which Mendel called it as “factors”. To test his experimental results Mendel devised a powerful procedure called the test cross. Test cross is used to determine the genotype of an individual when two genes are involved. In Mendel’s dihyrbid cross, the two pairs of factors were inherited independently. From the results of dihybrid cross Mendel gave the Law of Independent Assortment. Mendel’s dihybrid ratio of 9 : 3 : 3 : 1 with the representation of two new recombinations appeared in the progeny, i.e. round green peas or wrinkled yellow peas. Molecular explanation of Mendel’s gene for monohybrid cross, dihybrid cross were explained. Extension of Mendelian Genetics was dealt with examples for interaction among genes. Incomplete dominance is not an example for blending inheritance. Incomplete dominance exhibits a phenotypic heterozygote intermediate between the two homozygous. In plants codominance can be demonstrated by the methods of electrophoresis or chromatography for protein or flavonoid substances. Lethal genes with an example are explained. Pleiotropy a single gene which affects multiple traits was explained with an example of Pisum sativum. Dominant epistatis in summer squash with 12 : 3 : 1 ratio was discussed. Polygenic inheritance is an example for inheritance of continuous traits which is compatible with Mendel’s laws. The inheritance of mitochondrial and chloroplast genes were explained with examples which does not follow the rules of nuclear genes.
+
 
 
