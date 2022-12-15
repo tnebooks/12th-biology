@@ -238,113 +238,39 @@ Ti plasmid is found in _Agrobacterium tumefaciens,_ a bacterium responsible for 
 
 The propagation of the recombinant DNA molecules must occur inside a living system or host. Many types of host cells are available for gene cloning which includes _E.coli,_ yeast, animal or plant cells. The type of host cell depends upon the cloning experiment. _E.coli_ is the most widely used organism as its genetic make-up has been extensively studied, it is easy to handle and grow, can accept a range of vectors and has also been studied for safety. One more important feature of _E.coli_ to be preferred as a host cell is that under optimal growing conditions the cells divide every 20 minutes.
 
-Auxin Cytokinin
-
-Opine
-
-Opine Catabolism
-
-T-DNA Region
-
-Orgin of Replication (ORI)
-
-Virulence Region
-
-
-
-
-(PEG) and dextran sulphate induce DNA uptake into plant protoplasts.
-
-b. Microinjection: The DNA is directly injected into the nucleus using fine tipped glass needle or micro pipette to transform plant cells. The protoplasts are immobilised on a solid support (agarose on a microscopic slide) or held with a holding pipette under suction.
-
-c. **Electroporation Methods of Gene Transfer:** A pulse of high voltage is applied to protoplasts, cells or tissues which makes transient pores in the plasma membrane through which uptake of foreign DNA occurs.
-
-**+**
-
-**+**
-
-**+**
-
-**\+ + + +++ + +**
-
-**+**
-
-**\+ +**
-
-**+**
-
-**+**
-
-**\+ +**
-
-**\+ +**
-
-**+**
-
-**+**
-
-**+++++**
-
-**\+ +**
-
-**+**
-
-**\- -**
-
-**\-**
-
-**\- ---- - -**
-
-**\-**
-
-**\- - -**
-
-**\- - -**
-
-**\- -**
-
-**\-**
-
-**\--------**
-
-**\-**
-
-**\- -**
-
-**\-**
-
-**After PulseDuring E-fieldBefore Pulse** Cell membrane Introduce
-
-genes/drugs
-
-Electric field induces a voltage across cell membrane
-
-Cell **heals** with gene/drug inside
-
-
-
-d. **Liposome mediated method of Gene Transfer:** Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
-
-e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or tungsten particles (1-3 µm) and bombarded onto the target tissue or cells using a particle gun (also called as **gene gun/micro projectile gun/shotgun**). Then the bombarded cells
+![](4.13.png  "img-class")
 
 Since the DNA is a hydrophilic molecule,it cannot pass through cell membranes, In order to force bac teria to take up the plasmid, the bacterial cells must first be made competent to take up DNA. This is done by treating them with a specific concentration of a divalent cation such as calcium. Recombinant DNA can then be forced into such cells by incubating the cells with recombinant DNA on ice, followed by placing them briefly at 420C (heatshock) and then putting them back on ice. This enables bacteria to take up the Recombinant DNA.
 
 For the expression of eukaryotic proteins, eukaryotic cells are preferred because to produce a functionally active protein it should fold properly and post translational modifications should also occur, which is not possible by prokaryotic cell _(E.coli)_.
 
 ## Methods of Gene Transfer
- The next step after a recombinant DNA molecule has been generated is to introduce it into a suitable host cell. There are many methods to introduce recombinant vectors and these are dependent on several factors such as the vector type and host cell.
 
-For achieving genetic transformation in plants, the basic pre-requisite is the construction of a vector which carries the gene of interest flanked by the necessary controlling sequences, i.e., the promoter and terminator, and deliver the genes into the host plant. There are two kinds of gene transfer methods in plants. It includes: -  Direct or vectorless gene transfer -  Indirect or vector – mediated gene transfer
+The next step after a recombinant DNA molecule has been generated is to introduce it into a suitable host cell. There are many methods to introduce recombinant vectors and these are dependent on several factors such as the vector type and host cell.
+
+For achieving genetic transformation in plants, the basic pre-requisite is the construction of a vector which carries the gene of interest flanked by the necessary controlling sequences, i.e., the promoter and terminator, and deliver the genes into the host plant. There are two kinds of gene transfer methods in plants. It includes: 
+-  Direct or vectorless gene transfer 
+-  Indirect or vector – mediated gene transfer
+
+
+b. Microinjection: The DNA is directly injected into the nucleus using fine tipped glass needle or micro pipette to transform plant cells. The protoplasts are immobilised on a solid support (agarose on a microscopic slide) or held with a holding pipette under suction.
+
+c. **Electroporation Methods of Gene Transfer:** A pulse of high voltage is applied to protoplasts, cells or tissues which makes transient pores in the plasma membrane through which uptake of foreign DNA occurs.
+
+d. **Liposome mediated method of Gene Transfer:** Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
+
+e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or tungsten particles (1-3 µm) and bombarded onto the target tissue or cells using a particle gun (also called as **gene gun/micro projectile gun/shotgun**). Then the bombarded cells
+
+
+
 
 ### Direct or Vectorless Gene Transfer
- In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. **Chemical mediated gene transfer:**
+ In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. 
+ 
+ **Chemical mediated gene transfer:**
 
-Certain chemicals like polyethylene glycol
+Certain chemicals like polyethylene glycol plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
-
-plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
-
-The foreign gene (e.g. Bt gene for insect resistance) and plant selection marker gene, usually an antibiotic gene like _npt II_ which confers resistance to antibiotic kanamycin are cloned in the T DNA region of Ti-plasmid in place of unwanted DNA sequences.(Figure 4.15)
 
 ## Screening for Recombinants
  After the introduction of r-DNA into a suitable host cell, it is essential to identify those cells which have received the r-DNA molecule. This process is called screening. The vector or foreign DNA present in recombinant cells expresses the characters, while the non-recombinants do not express the characters or traits. For this some of
@@ -352,99 +278,7 @@ The foreign gene (e.g. Bt gene for insect resistance) and plant selection marker
 or tissues are cultured on selected medium to regenerate plants from the transformed cells.(Figure 4.14)
 
 ### Indirect or Vector-Mediated Gene Transfer
- Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into
-
-
-
-Cell membrane
-
-Lipoplex
-
-Lipoplex
-
-Liposome
-
-Endocytosis
-
-Lysosome
-
-Proteoglycan
-
-Endosome
-
-Endosome with lipid mixing
-
-Escape from endosome
-
-Endosomal maturation
-
-DNA fragmentation
-
-DNA
-
-DNA
-
-DNA
-
-Nucleus
-
-Plastic disc with DNA-coated gold particles
-
-Disc stopped by screen
-
-Target plant cells
-
-DNA-pcoated gold particles
-
-Gene gun barrel
-
-
-
-DNA containing gene for desired trait
-
-Plant cell
-
-Insertion of gene into plasmid using restriction enzyme and DNA ligase
-
-1
-
-T DNA carrying new gene within plant
-
-chromosome
-
-Plant with new trait
-
-Regeneration of plant
-
-The plant cells are grown in
-
-culture
-
-Introduction into plant
-
-cells
-
-Recombinant Ti plasmid
-
-Agrobacterium tumefaciens
-
-Ti plasmid
-
-T DNA Restriction
-
-cleavage site
-
-2 3 3
-
-
-
-
-
-
-  
-
-
-the methods are used and one such method is Blue-White colony Selection method.
+ Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into the methods are used and one such method is Blue-White colony Selection method.
 
 ### Insertional Inactivation - Blue- White Colony Selection Method
  It is a powerful method used for screening of recombinant plasmid. In this method, a reporter gene **lacZ** is inserted in the vector. The lacZ encodes the enzyme β-galactosidase and contains several recognition sites for restriction enzyme.
