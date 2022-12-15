@@ -2,7 +2,7 @@
 title: 'Classical Genetics'
 weight: 3
 ---
-```
+```hint { role="info" }
 **Learning Objectives**
 
 The Learner will be able to

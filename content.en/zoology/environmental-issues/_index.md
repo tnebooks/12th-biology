@@ -33,7 +33,7 @@ UNIT - V
 13.10 Ecosan Toilets
 
 **Chapter Outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 **•** _Gain knowledge about our environment and its importance._

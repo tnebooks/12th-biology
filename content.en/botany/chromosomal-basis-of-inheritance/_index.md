@@ -18,7 +18,7 @@ chromosomes of a cell are responsible for transferring heredity.
 � Montgomery (1901) was first to
 
 In the previous chapter you have learned about Mendelian genetics, now you are going to be study with deviations of concepts related to Mendelian genetics and chromosomal theory of inheritance. You must recall the structure of chromosome and cell division from eleventh standard.
-
+hint { role="info" }
 **Learning Objectives**
 
 The Learner will be able to Understand

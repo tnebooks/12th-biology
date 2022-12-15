@@ -14,8 +14,8 @@ CHAPTER
 8 8.1 Basic concepts of immunology 8.2 Innate immunity 8.3 Acquired immunity 8.4 Immune responses 8.5 Lymphoid organs 8.6 Antigens 8.7 Antibodies 8.8 Antigen- antibody interactions 8.9 Vaccines 8.10 Vaccination and immunization 8.11 Hypersensitivity 8.12 Immunodeficiency diseases 8.13 Autoimmune diseases 8.14 Tumour immunology
 
 **Chapter outline**
-
-**Learning objectives**
+hint { role="info" }
+**Learning Objectives**
 
 ➢ _Understands the basic concepts of immunology._
 

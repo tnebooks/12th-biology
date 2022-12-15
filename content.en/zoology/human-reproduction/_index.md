@@ -18,7 +18,7 @@ hygiene 2.5 Fertilization and implantation 2.6 Maintenance of pregnancy and
 embryonic development 2.7 Parturition and lactation
 
 **Chapter Outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 _➢ Creates an awareness towards a healthy reproductive life in adolescents._

@@ -4,8 +4,8 @@ weight: 5
 ---
   
 
-```hint-info
-
+```hint { role ="info" }
+hint { role="info" }
 **Learning Objectives**
 
 - The learner will be able to Apply the knowledge of traditional

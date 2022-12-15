@@ -18,8 +18,8 @@ their uses 10.7 Animal cloning 10.8 Ethical issues 10.9 Regulation in biotechnol
 Modified Organisms 10.11 Biosafety guidelines
 
 **Chapter outline**
-
-**Learning objectives**
+hint { role="info" }
+**Learning Objectives**
 
 ➢ _Understand the applications of rDNA technology in the field of medicine._
 

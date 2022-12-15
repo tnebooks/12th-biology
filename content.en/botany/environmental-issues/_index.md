@@ -4,10 +4,10 @@ weight: 9
 ---
   
 
-
+hint { role="info" }
 **Learning Objectives**
-
-**Learning objectives** The learner will be able to,
+hint { role="info" }
+**Learning Objectives** The learner will be able to,
 
 Understand the importance of growing more plants to mitigate the environmental problems.
 
