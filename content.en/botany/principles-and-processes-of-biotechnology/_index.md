@@ -4,74 +4,37 @@ weight: 5
 ---
   
 
+```hint-info
 
 **Learning Objectives**
 
-The learner will be able to Apply the knowledge of traditional
+- The learner will be able to Apply the knowledge of traditional
 
 and modern biotechnology in day to day life.
 
-Appreciate the uses of fermentation process.
+- Appreciate the uses of fermentation process.
 
-Acquire the knowledge on the process of genetic engineering
+- Acquire the knowledge on the process of genetic engineering
 
-Analyse the uses and limitations of genetically modified plants
+- Analyse the uses and limitations of genetically modified plants
 
-Cognize the terms of bio prospecting and bio piracy.
-
-**Chapter outline**
+- Cognize the terms of bio prospecting and bio piracy.
+```
 
 Biotechnology is the science of applied biological processes. In other words it is science of development and utilization of biological processes, forms and systems for the benefit of mankind and other life forms. The term biotechnology was coined by Karl Ereky, a Hungarian Engineer in 1919 and has been extended to include any process in which organisms, tissues, cells, organelles or isolated molecules such as enzymes are used to convert biological or other raw materials to products of greater value.
 
+![Karl Ereky](4.1.png "img-class")
+
 ## Development of Biotechnology
- Biotechnology has developed by leaps
 
-and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
+Biotechnology has developed by leaps and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
 
+### Modern biotechnology 
+There are two main features of this technology, that differentiated it from the conventional technology they are: i) ability to change the genetic material for getting new products with specific requirement through recombinant DNA technology ii) ownership of the newly developed technology and its social impact. Today, biotechnology is a billion dollar business around the world, wherein pharmaceutical companies, breweries, agro industries and other biotechnology based industries apply biotechnological tools for their product improvement.
 
+Modern biotechnology embraces all methods of genetic modification by recombinant DNA and cell fusion technology. The major focus of biotechnology are 
 
-4.1 Development of Biotechnology
-
-4.2 Methods of Biotechnology
-
-4.3 Advancements in Modern Biotechnology
-
-4.4 Tools for Genetic Engineering
-
-4.5 Methods of Gene transfer
-
-4.6 Screening for Recombiants
-
-4.7 Transgenic Plants / Genetically Modified Crops
-
-4.8 Applications of Biotechnology.
-
-**UNIT VIII: Biotechnology** Chapter
-
-**4 Principles and Processes of Biotechnology**
-
-
-
-
-
-
-
-  
-
-
-**4.2. Methods of Biotechnology 4.2.1 Fermentation** The word fermentation is derived from the Latin verb ‘fervere’ which means ‘ to boil’. Fermentation refers to the metabolic process in which organic molecules (normally glucose) are converted into acids, gases, or alcohol in the absence of oxygen or any electron transport chain. The study of fermentation, its practical uses is called zymology and originated in 1856, when French chemist Louis Pasteur demonstrated that fermentation was caused by yeast. Fermentation occurs in certain types of bacteria and fungi that require an oxygen-free environment to live. The processes of fermentation are valuable to the food and beverage industries, with the conversion of sugar into ethanol to produce alcoholic beverages, the release of CO2 by yeast used in the leavening of bread, and with the production of organic acids to preserve and flavor vegetables and dairy products.
-
-**Bioreactor ( Fermentor)** Bioreactor (Fermentor) is a vessel or a container that is designed in such a way that it can provide an optimum environment in which microorganisms or their enzymes interact with a substrate to produce the required product. In the bioreactor aeration, agitation, temperature and pH are controlled. Fermentation involves two process namely upstream and downstream process.
-
-**i. Upstream process** All the process before starting of the fermenter such as sterilization of the fermenter, preparation and sterilization of culture medium and growth of the suitable inoculum are called upstream process.
-
-**ii. Downstream process** All the process after the fermentation process is known as the downstream process. This process includes distillation, centrifuging, filtration and solvent extraction. Mostly
-
-**2.** **Modern biotechnology** There are two main features of this technology, that differentiated it from the conventional technology they are: i) ability to change the genetic material for getting new products with specific requirement through recombinant DNA technology ii) ownership of the newly developed technology and its social impact. Today, biotechnology is a billion dollar business around the world, wherein pharmaceutical companies, breweries, agro industries and other biotechnology based industries apply biotechnological tools for their product improvement.
-
-Modern biotechnology embraces all methods of genetic modification by recombinant DNA and cell fusion technology. The major focus of biotechnology is on • **Fermentation** for production of acids,
-
-enzymes, alcohols, antibiotics, fine chemicals, vitamins and toxins
+- **Fermentation** for production of acids,enzymes, alcohols, antibiotics, fine chemicals, vitamins and toxins
 - **Biomass for** bulk production of single cell protein , alcohol, and biofuel
 - **Enzymes** as biosensors, in processing industry
 - **Biofuels** for production of hydrogen, alcohol, methane
@@ -83,46 +46,26 @@ enzymes, alcohols, antibiotics, fine chemicals, vitamins and toxins
 This unit will reveal the various aspects of modern biotechnology, its products and applications.
 
 
-called metabolites, can be grouped into two categories: **a. Primary metabolites:** Metabolites
 
-produced for the maintenance of life process of microbes are known as primary metabolites Eg. Ethanol, citric, acid, lactic acid, acetic acid.
+## Methods of Biotechnology 
+###  Fermentation 
 
-**b. Secondary metabolites:** Secondary metabolites are those which are not required for the vital life process of microbes, but have value added nature, this includes antibiotics e.g -Amphotericin-B (_Streptomyces nodosus_), Penicillin (_Penicillium chryosogenum_) Streptomycin (_S. grises_) , Tetracycline (_S. aureofacins_), alkaloids, toxic pigments, vitamins etc.
+The word fermentation is derived from the Latin verb ‘fervere’ which means ‘ to boil’. Fermentation refers to the metabolic process in which organic molecules (normally glucose) are converted into acids, gases, or alcohol in the absence of oxygen or any electron transport chain. The study of fermentation, its practical uses is called zymology and originated in 1856, when French chemist Louis Pasteur demonstrated that fermentation was caused by yeast. Fermentation occurs in certain types of bacteria and fungi that require an oxygen-free environment to live. The processes of fermentation are valuable to the food and beverage industries, with the conversion of sugar into ethanol to produce alcoholic beverages, the release of CO2 by yeast used in the leavening of bread, and with the production of organic acids to preserve and flavor vegetables and dairy products.
 
-**3\. Microbial enzymes** When microbes are cultured, they secrete some enzymes into the growth media. These enzymes are industrially used in detergents, food processing, brewing and pharmaceuticals. Eg. protease, amylase, isomerase, and lipase.
+#### Bioreactor ( Fermentor) 
+Bioreactor (Fermentor) is a vessel or a container that is designed in such a way that it can provide an optimum environment in which microorganisms or their enzymes interact with a substrate to produce the required product. In the bioreactor aeration, agitation, temperature and pH are controlled. Fermentation involves two process namely upstream and downstream process.
 
-**4\. Bioconversion, biotransformation or modification of the substrate** The fermenting microbes have the capacity to produce valuable products, eg. conversion of ethanol to acetic acid (vinegar), isopropanol to acetone, sorbitol to sorbose (this is used in the manufacture of vitamin C), sterols to steroids.
+**i. Upstream process** All the process before starting of the fermenter such as sterilization of the fermenter, preparation and sterilization of culture medium and growth of the suitable inoculum are called upstream process.
 
-### Single Cell Protein (SCP)
- Single cell proteins are dried cells of microorganism that are used as protein supplement in human foods or animal feeds. Single Cell Protein (SCP) offers an unconventional but plausible solution to protein deficiency faced by the entire humanity. Although single cell protein has high nutritive value due to its higher protein, vitamin, essential amino acids and lipid content, there are doubts on whether it could replace conventional protein sources due to its high nucleic acid content and slower
+**ii. Downstream process** All the process after the fermentation process is known as the downstream process. This process includes distillation, centrifuging, filtration and solvent extraction. Mostly this process involves the purification of the desired product.
 
-this process involves the purification of the desired product.
+![Figure 4.2: Bioreactor](4.2.png "img-class")
 
-Motor Pressure guage
+#### Procedure of Fermentation
 
-pH probe Temperature probe
+a. Depending upon the type of product,bioreactor is selected. 
 
-Steam
-
-Cooling jacket
-
-Oxygen concentration probe
-
-Impeller
-
-Sterile nutrient medium
-
-Sparger
-
-nutrient or inoculant
-
-
-
-**Procedure of Fermentation** a. Depending upon the type of product,
-
-bioreactor is selected. b. A suitable substrate in liquid medium is
-
-added at a specific temperature, pH and then diluted.
+b. A suitable substrate in liquid medium is added at a specific temperature, pH and then diluted.
 
 c. The organism (microbe, animal/plant cell, sub-cellular organelle or enzyme) is added to it.
 
@@ -132,33 +75,49 @@ e. The incubation may either be aerobic or anaerobic.
 
 f. Withdrawal of product using downstream processing methods
 
-**Application of fermentation in industries** Fermentation has industrial application such as:
+#### Application of fermentation in industries
 
-**1\. Microbial biomass production** Microbial cells (biomass) like algae, bacteria, yeast, fungi are grown, dried and used as source of a complete protein called ‘single cell protein (SCP)’ which serves as human food or animal feed.
+Fermentation has industrial application such as:
 
-**2\. Microbial metabolites** Microbes produce compounds that are very useful to man and animals. These compounds
+##### 1.Microbial biomass production 
 
+Microbial cells (biomass) like algae, bacteria, yeast, fungi are grown, dried and used as source of a complete protein called ‘single cell protein (SCP)’ which serves as human food or animal feed.
 
+##### 2. Microbial metabolites
 
+Microbes produce compounds that are very useful to man and animals. These compounds called metabolites, can be grouped into two categories: 
+**a. Primary metabolites :** 
 
-  
+Metabolites produced for the maintenance of life process of microbes are known as primary metabolites Eg. Ethanol, citric, acid, lactic acid, acetic acid.
 
+**b. Secondary metabolites:** Secondary metabolites are those which are not required for the vital life process of microbes, but have value added nature, this includes antibiotics e.g -Amphotericin-B (_Streptomyces nodosus_), Penicillin (_Penicillium chryosogenum_) Streptomycin (_S. grises_) , Tetracycline (_S. aureofacins_), alkaloids, toxic pigments, vitamins etc.
 
-in digestibility. Microorganisms used for the production of Single Cell Protein are as follows: • Bacteria - _Methylophilus methylotrophus_,
+##### 3.Microbial enzymes 
 
-_Cellulomonas, Alcaligenes_ • Fungi - _Agaricus campestris, Saccharomyces_
+When microbes are cultured, they secrete some enzymes into the growth media. These enzymes are industrially used in detergents, food processing, brewing and pharmaceuticals. Eg. protease, amylase, isomerase, and lipase.
 
-_cerevisiae_ (yeast)_, Candida utilis_ • Algae - _Spirulina, Chlorella, Chlamydomonas_
+##### 4. Bioconversion, biotransformation or modification of the substrate 
+
+The fermenting microbes have the capacity to produce valuable products, eg. conversion of ethanol to acetic acid (vinegar), isopropanol to acetone, sorbitol to sorbose (this is used in the manufacture of vitamin C), sterols to steroids.
+
+### Single Cell Protein (SCP)
+
+Single cell proteins are dried cells of microorganism that are used as protein supplement in human foods or animal feeds. Single Cell Protein (SCP) offers an unconventional but plausible solution to protein deficiency faced by the entire humanity. Although single cell protein has high nutritive value due to its higher protein, vitamin, essential amino acids and lipid content, there are doubts on whether it could replace conventional protein sources due to its high nucleic acid content and slower in digestibility. Microorganisms used for the production of Single Cell Protein are as follows:
+ 
+- Bacteria - _Methylophilus methylotrophus_,_Cellulomonas, Alcaligenes_ 
+-  Fungi - _Agaricus campestris, Saccharomyces_
+_cerevisiae_ (yeast)_, Candida utilis_ 
+-  Algae - _Spirulina, Chlorella, Chlamydomonas_
 
 The single cell protein forms an important source of food because of their protein content, carbohydrates, fats, vitamins and minerals. It is used by Astronauts and Antarctica expedition scientists.
 
 _Spirulina_ can be grown easily on materials like waste water from potato processing plants (containing starch), straw, molasses, animal manure and even sewage, to produce large quantities and can serve as food rich in protein, minerals, fats, carbohydrate and vitamins. Such utilization also reduces environmental pollution. 250 g of _Methylophilus m e t h y l o t r o p h u s_ , with a high rate of biomass production and growth, can be expected to produce 25 tonnes of protein.
 
-**Applications of Single-Cell Protein** • It is used as protein supplement • It is used in cosmetics products for healthy
+**Applications of Single-Cell Protein** -  It is used as protein supplement -  It is used in cosmetics products for healthy
 
-hair and skin • It is used as the excellent source of protein
+hair and skin -  It is used as the excellent source of protein
 
-for feeding cattle, birds, fishes etc. • It is used in food industry as aroma
+for feeding cattle, birds, fishes etc. -  It is used in food industry as aroma
 
 carriers, vitamin carrier, emulsifying agents to improve the nutritive value of baked products, in soups, in ready-to-serve-meals, in diet recipes
 - It is used in industries like paper processing, leather processing as foam stabilizers.
@@ -166,7 +125,7 @@ carriers, vitamin carrier, emulsifying agents to improve the nutritive value of 
 ## Advancements in Modern Biotechnology
  Modern biotechnology embraces all the genetic manipulations, protoplasmic fusion techniques and the improvements made in the old biotechnological processes. Some of the major advancements in modern biotechnology are described below. **4.3.1 Genetic Engineering** Genetic engineering or recombinant DNA technology or gene cloning is a collective term that includes different experimental protocols resulting in the modification and transfer of DNA from one organism to another.
 
-The definition for conventional recombination was already given in Unit II. Conventional recombination involves exchange or recombination of genes between homologous chromosomes during meiosis. Recombination carried out artificially using modern technology is called recombinant DNA technology (r-DNA technology). It is also known as gene manipulation technique. This technique involves the transfer of DNA coding for a specific gene from one organism into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated transfers and microinjection. **4.3.2 Steps involved in Recombinant DNA Technology The steps involved in recombinant DNA technology are:** • Isolation of a DNA fragment containing
+The definition for conventional recombination was already given in Unit II. Conventional recombination involves exchange or recombination of genes between homologous chromosomes during meiosis. Recombination carried out artificially using modern technology is called recombinant DNA technology (r-DNA technology). It is also known as gene manipulation technique. This technique involves the transfer of DNA coding for a specific gene from one organism into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated transfers and microinjection. **4.3.2 Steps involved in Recombinant DNA Technology The steps involved in recombinant DNA technology are:** -  Isolation of a DNA fragment containing
 
 a gene of interest that needs to be cloned. This is called an insert.
 - Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
@@ -476,7 +435,7 @@ Recircularization of plasmid
 
 
 ### Vectors
- Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host. **Properties of Vectors** Vectors are able to replicate autonomously to produce multiple copies of them along with their DNA insert in the host cell. • It should be small in size and of low molecular
+ Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host. **Properties of Vectors** Vectors are able to replicate autonomously to produce multiple copies of them along with their DNA insert in the host cell. -  It should be small in size and of low molecular
 
 weight, less than 10 Kb (kilo base pair) in size so that entry/transfer into host cell is easy.
 - Vector must contain an origin of replication so that it can independetly replicate within the host.
@@ -678,7 +637,7 @@ For the expression of eukaryotic proteins, eukaryotic cells are preferred becaus
 ## Methods of Gene Transfer
  The next step after a recombinant DNA molecule has been generated is to introduce it into a suitable host cell. There are many methods to introduce recombinant vectors and these are dependent on several factors such as the vector type and host cell.
 
-For achieving genetic transformation in plants, the basic pre-requisite is the construction of a vector which carries the gene of interest flanked by the necessary controlling sequences, i.e., the promoter and terminator, and deliver the genes into the host plant. There are two kinds of gene transfer methods in plants. It includes: • Direct or vectorless gene transfer • Indirect or vector – mediated gene transfer
+For achieving genetic transformation in plants, the basic pre-requisite is the construction of a vector which carries the gene of interest flanked by the necessary controlling sequences, i.e., the promoter and terminator, and deliver the genes into the host plant. There are two kinds of gene transfer methods in plants. It includes: -  Direct or vectorless gene transfer -  Indirect or vector – mediated gene transfer
 
 ### Direct or Vectorless Gene Transfer
  In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. **Chemical mediated gene transfer:**
@@ -1035,25 +994,25 @@ Root-knot nematode
 
 One strategy is to incorporate a soil bacterium gene that produces a glyphosate tolerant form of EPSPS. Another way is to incorporate a different soil bacterium gene that produces a glyphosate degrading enzyme.
 
-**Advantages of Herbicide Tolerant Crops** • Weed control improves higher crop yields; • Reduces spray of herbicide; • Reduces competition between crop plant
+**Advantages of Herbicide Tolerant Crops** -  Weed control improves higher crop yields; -  Reduces spray of herbicide; -  Reduces competition between crop plant
 
-and weed; • Use of low toxicity compounds which do
+and weed; -  Use of low toxicity compounds which do
 
-not remain active in the soil; and • The ability to conserve soil structure and
+not remain active in the soil; and -  The ability to conserve soil structure and
 
 microbes. **4.7.2 Herbicide Tolerant - Basta** Trade name ‘Basta’ refers to a non-selective herbicide containing the chemical compound phosphinothricin. Basta herbicide tolerant gene PPT (_L_\-phosphinothricin) was isolated from _Medicago sativa_ plant. It inhibits the enzyme glutamine synthase which is involved in ammonia assimilation. The PPT gene was introduced into tobacco and transgenic tobacco produced was resistant to PPT. Similar enzyme was also isolated from _Streptomyces hygroscopicus_ with bar gene encodes for PAT (Phosphinothricin acetyl transferase) and was introduced into crop plants like potato and sugar-beet and transgenic crops have been developed. **4.7.3 Insect resistance - Bt Crops: i. Bt Cotton** Bt cotton is a genetically modified organism (GMO) or genetically modified pest resistant plant cotton variety, which produces an insecticide activity to bollworm. Strains of the bacterium _Bacillus thuringiensis_ produce over 200 different Bt toxins, each harmful to different insects. Most Bt toxins are insecticidal to the larvae of moths and butterflies, beetles, cotton bollworms and gatflies but are harmless to other forms of life. The genes are encoded for toxic crystals in the Cry group of endotoxin. When insects attack
 
-and eat the cotton plant the Cry toxins are dissolved in the insect’s stomach. The epithelial membranes of the gut block certain vital nutrients thereby sufficient regulation of potassium ions are lost in the insects and results in the death of epithelial cells in the intestine membrane which leads to the death of the larvae. **_Advantages_** The advantages of Bt cotton are: • Yield of cotton
+and eat the cotton plant the Cry toxins are dissolved in the insect’s stomach. The epithelial membranes of the gut block certain vital nutrients thereby sufficient regulation of potassium ions are lost in the insects and results in the death of epithelial cells in the intestine membrane which leads to the death of the larvae. **_Advantages_** The advantages of Bt cotton are: -  Yield of cotton
 
 is increased due to effective control of bollworms.
 - Reduction in insecticide use in the cultivation of Bt cotton
 - Potential reduction in the cost of cultivation.
 
-**_Disadvantages_** Bt cotton has some limitations: • Cost of Bt cotton seed is high. • Effectiveness up to 120 days after that
+**_Disadvantages_** Bt cotton has some limitations: -  Cost of Bt cotton seed is high. -  Effectiveness up to 120 days after that
 
-efficiency is reduced • Ineffective against sucking pests like jassids,
+efficiency is reduced -  Ineffective against sucking pests like jassids,
 
-aphids and whitefly. • Affects pollinating insects and thus yield.
+aphids and whitefly. -  Affects pollinating insects and thus yield.
 
 **ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal
 
@@ -1086,7 +1045,7 @@ help in delaying the ripening process of tomato during long storage and transpor
 
 
 
-**Risks - believed to** • Affect liver, kidney function and cancer • Hormonal imbalance and physical disorder • Anaphylactic shock (sudden hypersensitive
+**Risks - believed to** -  Affect liver, kidney function and cancer -  Hormonal imbalance and physical disorder -  Anaphylactic shock (sudden hypersensitive
 
 reaction) and allergies.
 
@@ -1123,7 +1082,7 @@ nm). GFP refers to the protein first isolated from the jellyfish Aequorea victor
  Biopharming also known as molecular pharming is the production and use of transgenic plants genetically engineered to produce pharmaceutical substances for use of human beings. This is also called “molecular **farming or pharming”. These plants are** different from medicinal plants which are naturally available. The use of plant systems as bioreactors is gaining more significance in modern biotechnology. Many pharmaceutical substances can be produced using transgenic plants. Example: Golden rice
 
 ### Bioremediation
- It is defined as the use of microorganisms or plants to manage environmental pollution. It is an approach used to treat wastes including wastewater, industrial waste and solid waste. Bioremediation process is applied to the removal of oil, petrochemical residues, pesticides or heavy metals from soil or ground water. In many cases, bioremediation is less expensive and more sustainable than other physical and chemical methods of remediation.Bioremediation an eco-friendly approach and can deal with lower concentrations of contaminants more effectively. The strategies for bioremediation in soil and water can be as follows: • Use of indigenous microbial population
+ It is defined as the use of microorganisms or plants to manage environmental pollution. It is an approach used to treat wastes including wastewater, industrial waste and solid waste. Bioremediation process is applied to the removal of oil, petrochemical residues, pesticides or heavy metals from soil or ground water. In many cases, bioremediation is less expensive and more sustainable than other physical and chemical methods of remediation.Bioremediation an eco-friendly approach and can deal with lower concentrations of contaminants more effectively. The strategies for bioremediation in soil and water can be as follows: -  Use of indigenous microbial population
 
 as indicator species for bioremediation process.
 - Bioremediation with the addition of adapted or designed microbial inoculants.
@@ -1139,7 +1098,7 @@ product
 
 - Use of plants for bioremediation - green technology.
 
-Some examples of bioremediation technologies are: • **Phytoremediation** - use of plants to bring
+Some examples of bioremediation technologies are: -  **Phytoremediation** - use of plants to bring
 
 about remediation of environmental pollutants.
 - **Mycoremediation** - use of fungi to bring about remediation of environmental pollutants.
@@ -1150,7 +1109,7 @@ about remediation of environmental pollutants.
 - Rhizofiltration - uptake of metals or degradation of organic compounds by rhizosphere microorganisms.
 - **Rhizostimulation** - stimulation of plant growth by the rhizosphere by providing better growth condition or reduction in toxic materials.
 
-**Limitations** • Only biodegradable contaminants can
+**Limitations** -  Only biodegradable contaminants can
 
 be transformed using bioremediation processes.
 - Bioremediation processes must be specifically made in accordance to the conditions at the contaminated site.
@@ -1216,7 +1175,7 @@ PC
 
 of healing rashes. The journal article published by the Indian Medical Association, in the year 1953 wherein this remedy was mentioned. Therefore, in this way it was proved that the use of turmeric as an antiseptic is not new to the world and is not a new invention, but formed a part of the traditional knowledge of the Indians. The objection in this case US patent and trademark office was upheld and traditional knowledge of the Indians was protected. It is another example of Biopiracy.
 
-**Biopiracy of Basmati** On September 2, 1997, the U.S. Patent and Trademarks Office granted Patent on “basmati rice lines and grains” to the Texas-based company RiceTec. This broad patent gives the company several rights, including exclusive use of the term 'basmati', as well proprietary rights on the seeds and grains from any crosses. The patent also covers the process of breeding RiceTec’s novel rice lines and the method to determine the cooking properties and starch content of the rice grains. India had periled the United States to take the matter to the WTO as an infringement of the TRIPS agreement, which could have resulted in major embarrassment for the US. Hence voluntarily and due to few decisions take by the US patent office, Rice Tec had no choice but to lose most of the claims and most importantly the right to call the rice “Basmati”. In the year 2002, the final decision was taken. Rice Tec dropped down 15 claims, resulting in clearing the path of Indian Basmati rice exports to the foreign countries. The Patent Office ordered the patent name to be changed to ‘Rice lines 867’. **4.8 Applications of Biotechnology** • Biotechnology is one of the most important
+**Biopiracy of Basmati** On September 2, 1997, the U.S. Patent and Trademarks Office granted Patent on “basmati rice lines and grains” to the Texas-based company RiceTec. This broad patent gives the company several rights, including exclusive use of the term 'basmati', as well proprietary rights on the seeds and grains from any crosses. The patent also covers the process of breeding RiceTec’s novel rice lines and the method to determine the cooking properties and starch content of the rice grains. India had periled the United States to take the matter to the WTO as an infringement of the TRIPS agreement, which could have resulted in major embarrassment for the US. Hence voluntarily and due to few decisions take by the US patent office, Rice Tec had no choice but to lose most of the claims and most importantly the right to call the rice “Basmati”. In the year 2002, the final decision was taken. Rice Tec dropped down 15 claims, resulting in clearing the path of Indian Basmati rice exports to the foreign countries. The Patent Office ordered the patent name to be changed to ‘Rice lines 867’. **4.8 Applications of Biotechnology** -  Biotechnology is one of the most important
 
 applied interdisciplinary sciences of the **21st century**. It is the trusted area that enables us to find the beneficial way of life.
 - Biotechnology has wide applications in various sectors like agriculture, medicine, environment and commercial industries.
@@ -1537,7 +1496,7 @@ _BIO TECH STUDY APP_
 **Step 2Step 1 Step 3 Step 4**
 
 **Steps**
-- Type the URL or scan the QR code to open the activity page. • Click on the topic to know in detail. • To know the sub topics in detail click on the dots in top right corner.
+- Type the URL or scan the QR code to open the activity page. -  Click on the topic to know in detail. -  To know the sub topics in detail click on the dots in top right corner.
 
 Let us know about the information Bio Technology through this activity.
 
