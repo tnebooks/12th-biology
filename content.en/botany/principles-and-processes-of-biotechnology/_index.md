@@ -432,8 +432,6 @@ Barcode: You might have seen in all books barcoding and also in items you buy in
 ![](4.22.png  "img-class")
 
 ```
-
-
 ### Genome editing and CRISPR - Cas9 
 Genome editing or gene editing is a group of technologies that has the ability to change an organism’s DNA. These technologies allow genetic material to be added, removed, or altered at particular locations in the genome. Several approaches to genome editing have been developed. A recent one is known as CRISPR-Cas9, which is short form of Clustered Regularly Interspaced Short Palindromic Repeats and CRISPR-associated protein 9. The CRISPR-Cas9 system has generated a lot of excitement in the scientific community because it is faster, cheaper, more accurate, and more efficient than other existing genome editing methods.
 
