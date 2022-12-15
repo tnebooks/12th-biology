@@ -214,72 +214,29 @@ The following are the features that are required to facilitate cloning into a ve
 
 ![Figure 4.8: Properties of Vector](4.10.png  "img-class")
 
-**Foreign DNA**
+#### 2.Selectable marker: 
+In addition to **ori** the vector requires a selectable marker, which helps in identifying and eliminating non transformants and selectively permitting the growth of the transformants.
 
-The plasmid and the foreign DNA are cut by the same restriction enzyme-in this case, EcoRl
+#### 3.Cloning sites: 
+In order to link the alien DNA, the vector needs to have very few, preferably single, recognition sites for the commonly used restriction enzymes.
 
-Complementary stricky ends
+##### Plasmid 
+Plasmids are extra c h r o m o s o m a l , self replicating ds circular DNA molecules, found in the bacterial cells in addition to the bacterial chromosome. Plasmids contain Genetic information for their own replication.
 
-DNA ligase
+##### pBR 322 Plasmid
+pBR 322 plasmid is a reconstructed plasmid and most widely used as cloning vector; it contains 4361 base pairs. In pBR, **_p_** denotes plasmid, **_B_**and **_R_** respectively the names of scientist **B**oliver and **R**odriguez who developed this plasmid. The number 322 is the number of plasmid developed from their laboratory. It contains ampR and tetR two different antibiotic resistance genes and recognition sites for several restriction enzymes. (_Hind III, EcoRI, BamH I, Sal I, Pvu II, Pst I, Cla I_), ori and antibiotic resistance genes. Rop codes for the proteins involved in the replication of the plasmid.
 
-Nicks in the sugar-phosphate bonds are sealed by DNA ligase.
+![Figure 4.10: pBR 322](4.11.png  "img-class")
 
-When mixed, the sticky ends anneal, joining the foreign DNA and plasmid.
+**Ti Plasmid** 
 
-EcoRl
+![](4.32.png  "img-class")
 
+Ti plasmid is found in _Agrobacterium tumefaciens,_ a bacterium responsible for inducing tumours in several dicot plants. The plasmid carries transfer (tra) gene which help to transfer T- DNA from one bacterium to other bacterial or plant cell. It has Onc gene for oncogenecity, ori gene for origin for replication and inc gene for incompatibility. T-DNA of Ti-Plasmid is stably integrated with plant DNA. Agrobacterium plasmids have been used for introduction of genes of desirable traits into plants. 
 
+### 4.4.5 Competent Host (For Transformation with Recombinant DNA)
 
-**The foreign DNA fragement can be inserted into a plasmid with the use of restriction enzymes**
-
-**Formation of recombinant DNA**
-
-
-
-  
-
-
-1\. A cloning vector must contain an orgin of replication recongnized in the host cell so that it is replicated along with the DNA that it carries.
-
-Unique restriction enzyme cleavage sites
-
-_Sal_**l** _Eco_**Rl**
-
-_Hind_**lll**
-
-2\. It should carry selectable markers-traits that enable cells containing the vector to be selected or identified
-
-_Bam_**Hl**_Pst_**l**
-
-ori (orgin of replication)
-
-Selectable marker
-
-3\. A cloning vector needs a single cleavage site for each of one or more restriction enzyme used.
-
-
-
-2\. **Selectable marker**: In addition to **ori** the vector requires a selectable marker, which helps in identifying and eliminating non transformants and selectively permitting the growth of the transformants.
-
-3\. **Cloning sites**: In order to link the alien DNA, the vector needs to have very few, preferably single, recognition sites for the commonly used restriction enzymes.
-
-**Types of vector** Few types of vectors are discussed in detail below:
-
-**Plasmid** Plasmids are extra c h r o m o s o m a l , self replicating ds circular DNA molecules, found in the bacterial cells in addition to the bacterial chromosome. Plasmids contain Genetic information for their own replication.
-
-**pBR 322 Plasmid** pBR 322 plasmid is a reconstructed plasmid and most widely used as cloning vector; it contains 4361 base pairs. In pBR, **_p_** denotes plasmid, **_B_**and **_R_** respectively the names of scientist **B**oliver and **R**odriguez who developed this plasmid. The number 322 is the number of plasmid developed from their laboratory. It contains ampR and tetR two different antibiotic
-
-
-
-NucleoidBacterial chromosome (circular)
-
-Plasmids
-
-resistance genes and recognition sites for several restriction enzymes. (_Hind III, EcoRI, BamH I, Sal I, Pvu II, Pst I, Cla I_), ori and antibiotic resistance genes. Rop codes for the proteins involved in the replication of the plasmid.
-
-
-
-**Ti Plasmid** Ti plasmid is found in _Agrobacterium tumefaciens,_ a bacterium responsible for inducing tumours in several dicot plants. The plasmid carries transfer (tra) gene which help to transfer T- DNA from one bacterium to other bacterial or plant cell. It has Onc gene for oncogenecity, ori gene for origin for replication and inc gene for incompatibility. T-DNA of Ti-Plasmid is stably integrated with plant DNA. Agrobacterium plasmids have been used for introduction of genes of desirable traits into plants. **4.4.5 Competent Host (For Transformation with Recombinant DNA)** The propagation of the recombinant DNA molecules must occur inside a living system or host. Many types of host cells are available for gene cloning which includes _E.coli,_ yeast, animal or plant cells. The type of host cell depends upon the cloning experiment. _E.coli_ is the most widely used organism as its genetic make-up has been extensively studied, it is easy to handle and grow, can accept a range of vectors and has also been studied for safety. One more important feature of _E.coli_ to be preferred as a host cell is that under optimal growing conditions the cells divide every 20 minutes.
+The propagation of the recombinant DNA molecules must occur inside a living system or host. Many types of host cells are available for gene cloning which includes _E.coli,_ yeast, animal or plant cells. The type of host cell depends upon the cloning experiment. _E.coli_ is the most widely used organism as its genetic make-up has been extensively studied, it is easy to handle and grow, can accept a range of vectors and has also been studied for safety. One more important feature of _E.coli_ to be preferred as a host cell is that under optimal growing conditions the cells divide every 20 minutes.
 
 Auxin Cytokinin
 
