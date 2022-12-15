@@ -485,73 +485,57 @@ DMH -11 is transgenic mustard developed by a team of scientists at the Centre fo
 ![Figure 4.27: Dhara Mustard](4.26.png  "img-class")
 
 ### Virus Resistance
- Many plants are affected by virus attack resulting in series loss in yield and even death. Biotechnological intervention is used to introduce viral resistant genes into the host plant so that they can resist the attack by virus. This is by introducing genes that produce resistant enzymes which can deactivate viral DNA.
+
+Many plants are affected by virus attack resulting in series loss in yield and even death. Biotechnological intervention is used to introduce viral resistant genes into the host plant so that they can resist the attack by virus. This is by introducing genes that produce resistant enzymes which can deactivate viral DNA.
 
 ### FlavrSavr Tomato
- _Agrobacterium_ mediated genetic engineering technique was followed to produce Flavr-Savr tomato, i.e., retaining the natural colour and flavor of tomato. Through genetic engineering, the ripening process of the tomato is slowed down and thus prevent it from softening and to increase the shelf life. The tomato was made more resistant to rotting by _Agrobacterium_ mediated gene transfer mechanism of introducing an antisense gene which interferes with the production of the enzyme polygalacturonase, which
+_Agrobacterium_ mediated genetic engineering technique was followed to produce Flavr-Savr tomato, i.e., retaining the natural colour and flavor of tomato. 
 
-help in delaying the ripening process of tomato during long storage and transportation.
+Through genetic engineering, the ripening process of the tomato is slowed down and thus prevent it from softening and to increase the shelf life. The tomato was made more resistant to rotting by _Agrobacterium_ mediated gene transfer mechanism of introducing an antisense gene which interferes with the production of the enzyme polygalacturonase, which help in delaying the ripening process of tomato during long storage and transportation.
 
 ### Golden rice - Biofortification
- Golden rice is a variety of _Oryza sativa_ (rice) produced through genetic engineering of biosynthesized beta-carotene, a precursor of Vitamin-A in the edible parts of rice developed by Ingo Potrykus and his group. The aim is to produce a fortified food to be grown and consumed in areas with a shortage of dietary Vitamin-A, Golden rice differs from its parental strain by the addition of three beta-carotene biosynthesis genes namely ‘psy’ (phytoene synthase) from daffodil plant Narcissus _pseudonarcissus_ and ‘crt-1’ gene from the soil bacterium _Erwinia auredorora_ and ‘lyc’ (lycopene cyclase) gene from wild-type rice endosperm. The endosperm of normal rice, does not contain beta-carotene. Golden-rice has been genetically altered so that the endosperm now accumulates Beta-carotene. This has been done using Recombinant DNA technology. Golden rice can control childhood blindness - Xerophthalmia.
+Golden rice is a variety of _Oryza sativa_ (rice) produced through genetic engineering of biosynthesized beta-carotene, a precursor of Vitamin-A in the edible parts of rice developed by Ingo Potrykus and his group. The aim is to produce a fortified food to be grown and consumed in areas with a shortage of dietary Vitamin-A, Golden rice differs from its parental strain by the addition of three beta-carotene biosynthesis genes namely ‘psy’ (phytoene synthase) from daffodil plant Narcissus _pseudonarcissus_ and ‘crt-1’ gene from the soil bacterium _Erwinia auredorora_ and ‘lyc’ (lycopene cyclase) gene from wild-type rice endosperm. 
 
+The endosperm of normal rice, does not contain beta-carotene. Golden-rice has been genetically altered so that the endosperm now accumulates Beta-carotene. This has been done using Recombinant DNA technology. Golden rice can control childhood blindness - Xerophthalmia.
 
+![Figure 4.29: Golden rice](4.28.png  "img-class")
 
-**Risks - believed to** -  Affect liver, kidney function and cancer -  Hormonal imbalance and physical disorder -  Anaphylactic shock (sudden hypersensitive
+**GM Food - Benefits**
 
-reaction) and allergies.
+- High yield without pest
+- 70% reduction of pesticide usage
+- Reduce soil pollution problem
+- Conserve microbial population in soil
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
+Risks - believed to
+-  Affect liver, kidney function and cancer
+-  Hormonal imbalance and physical disorder
+-  Anaphylactic shock (sudden hypersensitive
+reaction) and allergies
 - Adverse effect in immune system because of bacterial protein.
 - Loss of viability of seeds seen in terminator seed technology of GM crops.
 
 ### Polyhydroxybutyrate (PHB)
- Synthetic polymers are non-degradable and pollute the soil and when burnt add dioxin in the environment which cause cancer. So, efforts were taken to provide an alternative eco-friendly biopolymers. Polyhydroxyalkanoates (PHAs) and polyhydroxybutyrate (PHB) are group of degradable biopolymers which have several medical applications such as drug delivery, scaffold and heart valves. PHAs are biological macromolecules and thermoplastics which are biodegradable and biocompatible. Several microorganisms have been utilized to produce different types of PHAs including Gram-positive like _Bacillus megaterium_, _Bacillussubtilis_ and _Corynebacterium glutamicum_, Gram-negative bacteria like group of _Pseudomonas_ sp. and _Alcaligenes eutrophus_.
+Synthetic polymers are non-degradable and pollute the soil and when burnt add dioxin in the environment which cause cancer. So, efforts were taken to provide an alternative eco-friendly biopolymers. Polyhydroxyalkanoates (PHAs) and polyhydroxybutyrate (PHB) are group of degradable biopolymers which have several medical applications such as drug delivery, scaffold and heart valves. PHAs are biological macromolecules and thermoplastics which are biodegradable and biocompatible. Several microorganisms have been utilized to produce different types of PHAs including Gram-positive like _Bacillus megaterium_, _Bacillussubtilis_ and _Corynebacterium glutamicum_, Gram-negative bacteria like group of _Pseudomonas_ sp. and _Alcaligenes eutrophus_.
 
 ### Polylactic acid (PLA)
- Polylactic acid or polylactide (PLA) is a biodegradable and bioactive thermoplastic. It is an aliphatic polyester derived from renewable resources, such as corn starch, cassava root, chips or starch or sugarcane. For the production of PLA, two main monomers are used: lactic acid, and the cyclic diester, lactide. The most common route is the ring-opening polymerization of lactide with metal catalysts like tin octoate in solution. The metal-catalyzed reaction results in equal amount of _d_ and polylactic acid.
+Polylactic acid or polylactide (PLA) is a biodegradable and bioactive thermoplastic. It is an aliphatic polyester derived from renewable resources, such as corn starch, cassava root, chips or starch or sugarcane. For the production of PLA, two main monomers are used: lactic acid, and the cyclic diester, lactide. The most common route is the ring-opening polymerization of lactide with metal catalysts like tin octoate in solution. The metal-catalyzed reaction results in equal amount of _d_ and polylactic acid.
+
+![Figure 4.29: Golden rice](4.29.png  "img-class")
 
 ### Green Fluorescent Protein (GFP)
- The green fluorescent protein (GFP) is a protein containing 238 amino acid residues of 26.9 kDa that exhibits bright green fluorescence when exposed to blue to ultraviolet range (395
-
-nm). GFP refers to the protein first isolated from the jellyfish Aequorea victoria. GFP is an excellent tool in biology due to its ability to form internal chromophore without requiring any accessory cofactors, gene products, enzymes or substrates other than molecular oxygen. In cell and molecular biology, the GFP gene is frequently used as a reporter of expression. It has been used in modified forms to make biosensors.
+The green fluorescent protein (GFP) is a protein containing 238 amino acid residues of 26.9 kDa that exhibits bright green fluorescence when exposed to blue to ultraviolet range (395nm). GFP refers to the protein first isolated from the jellyfish Aequorea victoria. GFP is an excellent tool in biology due to its ability to form internal chromophore without requiring any accessory cofactors, gene products, enzymes or substrates other than molecular oxygen. In cell and molecular biology, the GFP gene is frequently used as a reporter of expression. It has been used in modified forms to make biosensors.
 
 ### Biopharming
  Biopharming also known as molecular pharming is the production and use of transgenic plants genetically engineered to produce pharmaceutical substances for use of human beings. This is also called “molecular **farming or pharming”. These plants are** different from medicinal plants which are naturally available. The use of plant systems as bioreactors is gaining more significance in modern biotechnology. Many pharmaceutical substances can be produced using transgenic plants. Example: Golden rice
 
 ### Bioremediation
- It is defined as the use of microorganisms or plants to manage environmental pollution. It is an approach used to treat wastes including wastewater, industrial waste and solid waste. Bioremediation process is applied to the removal of oil, petrochemical residues, pesticides or heavy metals from soil or ground water. In many cases, bioremediation is less expensive and more sustainable than other physical and chemical methods of remediation.Bioremediation an eco-friendly approach and can deal with lower concentrations of contaminants more effectively. The strategies for bioremediation in soil and water can be as follows: -  Use of indigenous microbial population
-
-as indicator species for bioremediation process.
+ It is defined as the use of microorganisms or plants to manage environmental pollution. It is an approach used to treat wastes including wastewater, industrial waste and solid waste. Bioremediation process is applied to the removal of oil, petrochemical residues, pesticides or heavy metals from soil or ground water. In many cases, bioremediation is less expensive and more sustainable than other physical and chemical methods of remediation.Bioremediation an eco-friendly approach and can deal with lower concentrations of contaminants more effectively. The strategies for bioremediation in soil and water can be as follows: 
+ -  Use of indigenous microbial population as indicator species for bioremediation process.
 - Bioremediation with the addition of adapted or designed microbial inoculants.
-
-
-
-product
-
-
-
-
-  
-
 - Use of plants for bioremediation - green technology.
 
 Some examples of bioremediation technologies are: -  **Phytoremediation** - use of plants to bring
-
 about remediation of environmental pollutants.
 - **Mycoremediation** - use of fungi to bring about remediation of environmental pollutants.
 - **Bioventing** - a process that increases the oxygen or air flow to accelerate the degradation of environmental pollutants.
@@ -561,9 +545,8 @@ about remediation of environmental pollutants.
 - Rhizofiltration - uptake of metals or degradation of organic compounds by rhizosphere microorganisms.
 - **Rhizostimulation** - stimulation of plant growth by the rhizosphere by providing better growth condition or reduction in toxic materials.
 
-**Limitations** -  Only biodegradable contaminants can
-
-be transformed using bioremediation processes.
+**Limitations** 
+-  Only biodegradable contaminants can be transformed using bioremediation processes.
 - Bioremediation processes must be specifically made in accordance to the conditions at the contaminated site.
 - Small-scale tests on a pilot scale must be performed before carrying out the procedure at the contaminated site.
 - The use of genetic engineering technology to create genetically modified microorganism or a consortium of microbes for bioremediation process has great potential.
@@ -571,69 +554,31 @@ be transformed using bioremediation processes.
 ### Biofuel: Algal Biofuel
  Algal fuel, also known as algal biofuel, or algal oil is an alternative to liquid fossil fuel, the petroleum products. This is also used as a source of energy-rich oils. Also, algal fuels are an alternative to commonly known biofuel sources obtained from corn and sugarcane. The energy crisis and the world food crisis have initiated interest in algal culture (farming algae) for making biodiesel and other biofuels on lands unsuitable for agriculture. _Botryococcus braunii_ is normally used to produce algal biofuel.
 
-**Sun Energy**
+![Figure 4.31: Algal Biofuel](4.30.png  "img-class")
 
-**Oil Extaction**
+Biological hydrogen production by algae The biological hydrogen production with algae is a method of photo biological water splitting. In normal photosynthesis the alga, Chlamydomonas reinhardtii releases oxygen. When it is deprived of sulfur, it switches to the production of hydrogen during photosynthesis and the electrons are transported to ferredoxins.[Fe]-hydrogenase enzymes combine them into the production of hydrogen gas.
 
-**Protien Residue**
-
-**CO2**
-
-**Biodiesel production**
-
-**Algae** (Renewable resource)
-
-**Renewable Fuel**
-
-**Glycerin products**
-
-**Existing Technology**
-
-
-
-2H2O
-
-PSII PQ PQ Cytb6f
-
-CO2 Fixation H2 Production
-
-Fd
-
-H2 ase
-
-\-O2 - CO2-O2 + CO2
-
-FNR
-
-Mn
-
-PSI
-
-O2 + 4H+ + 4e-
-
-PC
-
-
-
+![Figure 4.31: Algal Biofuel](4.31.png  "img-class")
 
 ### Bioprospecting Bioprospecting
  is the process of discovery and commercialization of new products obtained from biological resources. Bioprospecting may involve biopiracy, in which indigenous knowledge of nature, originating with indigenous people, is used by others for profit, without authorization or compensation to the indigenous people themselves.
 
-**Biopiracy** Biopiracy can be defined as the manipulation of intellectual property rights laws by corporations to gain exclusive control over national genetic resources, without giving adequate recognition or remuneration to the original possessors of those resources. Examples of biopiracy include recent patents granted by the U.S. Patent and Trademarks Office to American companies on turmeric, ‘neem’ and, most notably, ‘basmati’ rice. All three products are indigenous to the Indo-Pak subcontinent.
+**Biopiracy** 
+Biopiracy can be defined as the manipulation of intellectual property rights laws by corporations to gain exclusive control over national genetic resources, without giving adequate recognition or remuneration to the original possessors of those resources. Examples of biopiracy include recent patents granted by the U.S. Patent and Trademarks Office to American companies on turmeric, ‘neem’ and, most notably, ‘basmati’ rice. All three products are indigenous to the Indo-Pak subcontinent.
 
-**Biopiracy of Neem** The people of India used neem and its oil in many ways to controlling fungal and bacterial skin infections. Indian’s have shared the knowledge of the properties of the neem with the entire world. Pirating this knowledge, the United States Department of Agriculture (USDA) and an American MNC (Multi Nation Corporation) W.R.Grace in the early 90’s sought a patent from the European Patent Office (EPO) on the “method for controlling of diseases on plants by the aid of extracted hydrophobic neem oil”. The patenting of the fungicidal and antibacterial properties of Neem was an example of biopiracy but the traditional knowledge of the Indians was protected in the end.
+**Biopiracy of Neem** 
+The people of India used neem and its oil in many ways to controlling fungal and bacterial skin infections. Indian’s have shared the knowledge of the properties of the neem with the entire world. Pirating this knowledge, the United States Department of Agriculture (USDA) and an American MNC (Multi Nation Corporation) W.R.Grace in the early 90’s sought a patent from the European Patent Office (EPO) on the “method for controlling of diseases on plants by the aid of extracted hydrophobic neem oil”. The patenting of the fungicidal and antibacterial properties of Neem was an example of biopiracy but the traditional knowledge of the Indians was protected in the end.
 
-**Biopiracy of Turmeric** The United States Patent and Trademark Office, in the year 1995 granted patent to the method of use of turmeric as an antiseptic agent. Turmeric has been used by the Indians as a home remedy for the quick healing of the wounds and also for purpose
+**Biopiracy of Turmeric** 
+The United States Patent and Trademark Office, in the year 1995 granted patent to the method of use of turmeric as an antiseptic agent. Turmeric has been used by the Indians as a home remedy for the quick healing of the wounds and also for purpose of healing rashes. The journal article published by the Indian Medical Association, in the year 1953 wherein this remedy was mentioned. Therefore, in this way it was proved that the use of turmeric as an antiseptic is not new to the world and is not a new invention, but formed a part of the traditional knowledge of the Indians. The objection in this case US patent and trademark office was upheld and traditional knowledge of the Indians was protected. It is another example of Biopiracy.
 
-of healing rashes. The journal article published by the Indian Medical Association, in the year 1953 wherein this remedy was mentioned. Therefore, in this way it was proved that the use of turmeric as an antiseptic is not new to the world and is not a new invention, but formed a part of the traditional knowledge of the Indians. The objection in this case US patent and trademark office was upheld and traditional knowledge of the Indians was protected. It is another example of Biopiracy.
+**Biopiracy of Basmati** 
+On September 2, 1997, the U.S. Patent and Trademarks Office granted Patent on “basmati rice lines and grains” to the Texas-based company RiceTec. This broad patent gives the company several rights, including exclusive use of the term 'basmati', as well proprietary rights on the seeds and grains from any crosses. The patent also covers the process of breeding RiceTec’s novel rice lines and the method to determine the cooking properties and starch content of the rice grains. India had periled the United States to take the matter to the WTO as an infringement of the TRIPS agreement, which could have resulted in major embarrassment for the US. Hence voluntarily and due to few decisions take by the US patent office, Rice Tec had no choice but to lose most of the claims and most importantly the right to call the rice “Basmati”. In the year 2002, the final decision was taken. Rice Tec dropped down 15 claims, resulting in clearing the path of Indian Basmati rice exports to the foreign countries. The Patent Office ordered the patent name to be changed to ‘Rice lines 867’.
 
-**Biopiracy of Basmati** On September 2, 1997, the U.S. Patent and Trademarks Office granted Patent on “basmati rice lines and grains” to the Texas-based company RiceTec. This broad patent gives the company several rights, including exclusive use of the term 'basmati', as well proprietary rights on the seeds and grains from any crosses. The patent also covers the process of breeding RiceTec’s novel rice lines and the method to determine the cooking properties and starch content of the rice grains. India had periled the United States to take the matter to the WTO as an infringement of the TRIPS agreement, which could have resulted in major embarrassment for the US. Hence voluntarily and due to few decisions take by the US patent office, Rice Tec had no choice but to lose most of the claims and most importantly the right to call the rice “Basmati”. In the year 2002, the final decision was taken. Rice Tec dropped down 15 claims, resulting in clearing the path of Indian Basmati rice exports to the foreign countries. The Patent Office ordered the patent name to be changed to ‘Rice lines 867’. **4.8 Applications of Biotechnology** -  Biotechnology is one of the most important
-
+### Applications of Biotechnology 
+-  Biotechnology is one of the most important
 applied interdisciplinary sciences of the **21st century**. It is the trusted area that enables us to find the beneficial way of life.
-- Biotechnology has wide applications in various sectors like agriculture, medicine, environment and commercial industries.
 - This science has an invaluable outcome like **transgenic varieties** of plants e.g. transgenic
-
-
 cotton (Bt-cotton), rice, tomato, tobacco, cauliflower, potato and banana.
 - The development of transgenics as pesticide resistant, stress resistant and disease resistant varieties of agricultural crops is the immense outcome of biotechnology.
 - The synthesis of human insulin and blood protein in _E.coli_ and utilized for insulin deficiency disorder in human is a breakthrough in biotech industries in medicine.
@@ -644,325 +589,8 @@ cotton (Bt-cotton), rice, tomato, tobacco, cauliflower, potato and banana.
 - Production of **secondary metabolites**, biofertilizers, biopesticides and enzymes.
 - Biomass energy, biofuel, Bioremediation, phytoremediation for environmental biotechnology.
 
-**Summary** Biotechnology is the science of applied biological process in which there is a controlled use of biological agents such as microorganisms or cellular components for beneficial use. A Hungarian Engineer, Karl Ereky (1919) coined the term biotechnology. Biotechnology broadly categorized into traditional practices and modern practices. Traditional biotechnology includes our ancient practices such as fermentation. Single Cell Protein (SCP) organisms are grown in large quantities to produce goods rich in protein, minerals, fats, carbohydrates and vitamins. The modern biotechnology embraces all the genetic manipulations. The recombinant DNA technology is a technique of modern biotechnology in which transfer of DNA coding for a specific gene from one organism is introduced into another
+### Summary 
 
-organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated and micro injection. Other tools are enzymes and host organisms. The enzyme restriction endonuclease is a molecular scissor that cleaves DNA into fragments at or near specific recognition sites with the molecule known as restriction sites. Other enzymes are DNA ligase and alkaline phosphatase. DNA ligase enzyme joins the sugar and phosphate molecules of double stranded DNA. Alkaline phosphatase is an enzyme which adds or removes specific phosphate group of double stranded DNA. A vector is a small DNA molecule capable of self replication and used as a carrier of DNA inserted in the host cell. Few examples of vectors are plasmid – pBR 322, cosmid – Lambda phage, M13, Phagmid , BAC, YAC, transposon, shuttle vector and expression vector. After production of recombinant DNA molecule has been generated is introduced into a suitable host cell. Type of host cell depends upon the cloning experiment. E.coli is the most widely used host organism. There are two kinds of gene transfer methods in plants. They are direct or vectorless gene transfer and indirect or vector mediated gene transfer. Direct gene transfer includes chemical mediated gene transfer, micro injection, electroporation. Gene gun method and Liposome mediated method of gene transfer. Indirect or vector mediated gene transfer is a method of gene transfer with the help of a plasmid vector. In this method Ti-plasmid from _Agrobactirum tumefeciens_ has been used extensively for vector mediated gene transfer. After the introduction of rDNA into a host cell, it is essential to identify those cells which have received the rDNA molecule. This process is called screening. One of the method of recombinant screening is blue white selection method Replica plating technique in which the pattern of colonies growing on a culture plate is copied. Electrophoresis is a separating technique used to separate different biomolecules. Blotting techniques are widely used tools for identification of desired DNA or RNA fragments from larger number of molecules. Some of the
-
-
+Biotechnology is the science of applied biological process in which there is a controlled use of biological agents such as microorganisms or cellular components for beneficial use. A Hungarian Engineer, Karl Ereky (1919) coined the term biotechnology. Biotechnology broadly categorized into traditional practices and modern practices. Traditional biotechnology includes our ancient practices such as fermentation. Single Cell Protein (SCP) organisms are grown in large quantities to produce goods rich in protein, minerals, fats, carbohydrates and vitamins. The modern biotechnology embraces all the genetic manipulations. The recombinant DNA technology is a technique of modern biotechnology in which transfer of DNA coding for a specific gene from one organism is introduced into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated and micro injection. Other tools are enzymes and host organisms. The enzyme restriction endonuclease is a molecular scissor that cleaves DNA into fragments at or near specific recognition sites with the molecule known as restriction sites. Other enzymes are DNA ligase and alkaline phosphatase. DNA ligase enzyme joins the sugar and phosphate molecules of double stranded DNA. Alkaline phosphatase is an enzyme which adds or removes specific phosphate group of double stranded DNA. A vector is a small DNA molecule capable of self replication and used as a carrier of DNA inserted in the host cell. Few examples of vectors are plasmid – pBR 322, cosmid – Lambda phage, M13, Phagmid , BAC, YAC, transposon, shuttle vector and expression vector. After production of recombinant DNA molecule has been generated is introduced into a suitable host cell. Type of host cell depends upon the cloning experiment. E.coli is the most widely used host organism. There are two kinds of gene transfer methods in plants. They are direct or vectorless gene transfer and indirect or vector mediated gene transfer. Direct gene transfer includes chemical mediated gene transfer, micro injection, electroporation. Gene gun method and Liposome mediated method of gene transfer. Indirect or vector mediated gene transfer is a method of gene transfer with the help of a plasmid vector. In this method Ti-plasmid from _Agrobactirum tumefeciens_ has been used extensively for vector mediated gene transfer. After the introduction of rDNA into a host cell, it is essential to identify those cells which have received the rDNA molecule. This process is called screening. One of the method of recombinant screening is blue white selection method Replica plating technique in which the pattern of colonies growing on a culture plate is copied. Electrophoresis is a separating technique used to separate different biomolecules. Blotting techniques are widely used tools for identification of desired DNA or RNA fragments from larger number of molecules. Some of the
 genetically modified crops are herbicide tolerant – Basta, Dhara mustard, insects resistance – Bt crops, flavrSavr – Tomato, Golden rice. Biopolymers are polyhydroxybutyrate (PHB), polylactic acid (PLA) and green fluorescent protein (GFP) is used to make biosensors. Other applications are biopharming, bioprospecting, biomedication and biofuel, etc.
-
-**Evaluation** 1\. Restriction enzymes are a. Not always required in
-
-genetic engineering b. Essential tools in
-
-genetic engineering c. Nucleases that cleave
-
-DNA at specific sites d. both b and c
-
-2\. Plasmids are a. circular protein molecules b. required by bacteria c. tiny bacteria d. confer resistance to antibiotics
-
-3\. EcoRI cleaves DNA at a. AGGGTT b. GTATATC c. GAATTC d. TATAGC
-
-4\. Genetic engineering is a. making artificial genes. b. hybridization of DNA of one organism
-
-to that of the others. c. production of alcohol by using micro
-
-organisms. d. making artificial limbs, diagnostic
-
-instruments such as ECG, EEG etc.,
-
-5\. Consider the following statements: I. Recombinant DNA technology is
-
-popularly known as genetic engineering is a stream of biotechnology which deals with the manipulation of genetic materials by man invitro
-
-II. pBR322 is the first artificial cloning vector developed in 1977 by Boliver and Rodriguez from E.coli plasmid
-
-III. Restriction enzymes belongs to a class
-
-of enzymes called nucleases. Choose the correct option regarding above
-
-statements a. I & II b. I & III c. II & III d. I,II & III 6. The process of recombinant DNA
-
-technology has the following steps I. amplication of the gene II. Insertion of recombinant DNA into
-
-the host cells III. Cutting of DNA at specific location
-
-using restriction enzyme . IV. Isolation of genetic material (DNA)
-
-Pick out the correct sequence of step for recombinant DNA technology.
-
-a. II, III, IV, I b. IV, II, III, I c. I, II, III, IV d. IV, III, I, II
-
-7\. Which one of the following palindromic base sequence in DNA can be easily cut at about the middle by some particular restriction enzymes?
-
-a. 5 CGTTCG 3 3 ATCGTA 5 b. 5 GATATG 3 3 CTACTA 5 c. 5 GAATTC 3 3 CTTAAG 5 d. 5 CACGTA 3 3 CTCAGT 5
-
-8\. pBR 322, BR stands for a. Plasmid Bacterial Recombination b. Plasmid Bacterial Replication c. Plasmid Boliver and Rodriguez d. Plasmid Baltimore and Rodriguez
-
-9\. Which of the following one is used as a Biosensors?
-
-a. Electrophoresis b. Bioreactors c. Vectors d. Electroporation
-
-10\. Match the following : Column A Column B
-
-1 Exonuclease a. add or remove phosphate 2 Endonuclease b. binding the DNA
-
-fragments
-
-3 Alkaline Phosphatase
-
-c. cut the DNA at terminus
-
-4 Ligase d. cut the DNA at middle
-
-
-
-  
-
-
-1 2 3 4 A) a b c d B) c d b a C) a c b d D) c d a b
-
-11\. In which techniques Ethidium Bromide is used?
-
-a. Southern Blotting techniques b. Western Blotting techniques c. Polymerase Chain Reaction d. Agrose Gel Electroporosis 12. **Assertion** : Agrobacterium tumifaciens
-
-is popular in genetic engineering because this bacteriumis associated with the root nodules of all cereals and pulse crops
-
-**Reason:** A gene incorporated in the bacterial chromosomal genome gets atomatically transferred to the cross with which bacterium is associated.
-
-a) Both assertion and reason are true. But reason is correct explanation of assertion.
-
-b) Both assertion and reason are true. But reason is not correct explanation of assertion.
-
-c) Assertion is true, but reason is false. d) Assertion is false, but reason is true. e) Both assertion and reason are false.
-
-13\. Which one of the following is not correct statement.
-
-a) Ti plasmid causes the bunchy top disease b) Multiple cloning site is known as
-
-Polylinker c) Non viral method transfection of
-
-Nucleic acid in cell d) Polylactic acid is a kind of biodegradable
-
-and bioactive thermoplastic. 14. An analysis of chromosomal DNA using the
-
-southern hybridisation technique does not use a) Electrophoresis b) Blotting c) Autoradiography d) Polymerase Chain Reaction
-
-15\. An antibiotic gene in a vector usually helps in the selection of
-
-a) Competent cells b) Transformed cells c) Recombinant cells d) None of the above
-
-16\. Some of the characteristics of Bt cotton are a) Long fibre and resistant to aphids b) Medium yield, long fibre and resistant
-
-to beetle pests c) high yield and production of toxic protein
-
-crystals which kill dipteran pests. d) High yield and resistant to ball worms 17. How do you use the biotechnology in
-
-modern practice? 18. What are the materials used to grow
-
-microorganism like Spirulina? 19. You are working in a biotechnology lab
-
-with a becterium namely E.coli. How will you cut the nucleotide sequence? explain it.
-
-20\. What are the enzymes you can used to cut terminal end and internal phospho di ester bond of nucleotide sequence?
-
-21\. Name the chemicals used in gene transfer. 22. What do you know about the word
-
-pBR332? 23. Mention the application of Biotechnology. 24. What are restriction enzyme. Mention
-
-their type with role in Biotechnology. 25. Is their any possibilities to transfer a
-
-suitable desirable gene to host plant without vector? Justify your answer.
-
-26\. How will you identify a vectors? 27. Compare the various types of Blotting
-
-techniques. 28. Write the advantages of herbicide tolerant
-
-crops. 29. Write the advantages and disadvantages of
-
-Bt cotton. 30. What is bioremediation? give some
-
-examples of bioremediation. 31. Write the benefits and risk of Genetically
-
-Modified Foods.
-
-
-**Glossary 3’ Hydroxy end: The hydroxyl group attached** to 3’ carbon atom of sugar of the terminal nucleotide of a nucleic acid.
-
-**Bacterial artificial chromosomes (BAC): A** cloning vector for isolation of genomic DNA constructed on the basis of F-factor.
-
-**Chimeric DNA**: A recombinant DNA molecule containing unrelated genes.
-
-**Cleave**: To break phosphodiester bonds of dsDNA, usually with a restriction enzyme.
-
-**Cloning site**: A location on a cloning vector into which DNA can be inserted.
-
-**Cloning**: Incorporation of a DNA molecule into a chromosomal site or a cloning vector.
-
-**Cloning Vector**: A small, self-replicating DNA inserted in a cloning gene.
-
-**COS sites: The 12-base, single strand,** complementary extension of phage lambda (l) DNA.
-
-**DNA Polymerase**: An enzyme that catalyses the phosphodiester bond in the formation of DNA.
-
-**Endonucleases**: An enzyme that catalyses the cleavage of DNA at internal position, cutting DNA at specific sites.
-
-**Genome: The entire complement of genetic** material of an organism.
-
-**Insert DNA**: A DNA molecule incorporated into a cloning vector.
-
-**Ligase**: An enzyme used in genetic engineering experiment to join the cut ends of dsDNA.
-
-**M-13**: AssDNA bacteriophage used as vector for DNA sequencing.
-
-**Phagemid**: A cloning vector that contains components derived from both phage DNA and plasmid.
-
-**Plasmid**: Extrachromosomal, self-replicating, circular dsDNA containing some non-essential genes.
-
-**Restriction map**: A linear array of sites on DNA cleaved by various restriction enzymes.
-
-**Shuttle Vector**: A plasmid cloning vector that can replicate in two different organisms due to the presence of two different origin of replication OriEUK and Ori_E. coli_
-
-**Taq polymerase**: A heat stable DNA polymerase isolated from a thermophilic bacterium Thermus _aquaticus._
-
-**Vectors**: Vehicles for transferring DNA from one cell to another.
-
-**Biofuel**: Fuels like hydrogen, ethanol and methanol produced from a biological source by the action of microorganisms.
-
-**Bioleaching**: Process of using microorganisms to recover metals from their ores or contaminant environment
-
-**Bioremediation**: Process of using organisms to remove or reduce pollutants from the environment.
-
-**Green Technology**: Pollution-free technology in which pollution is controlled at source.
-
-**Phytoremediation**: Use of certain plants to remove contaminants or pollutants from the environment (soil, water or air).
-
-**Recombinant**: Cell / Organism formed by a recombination of genes.
-
-**Transformation**: Process of transferring a foreign DNA into a cell and changing its genome.
-
-**Vector**: Agent used in recombinant DNA technique to carry new genes into foreign cells.
-
-**Wild Type**: Natural form of organisms.
-
-
-
-functioning within the living cells by H.G. Khorana
-
-## – U.S approved the first Genetically Modified food: Flavr Savr tomato.
-
-## – The first transgenic animal,
- mammalian sheep, Dolly developed by **nuclear cloning** by Ian Wilmet.
-
-
-## – Human genome Project creates a draft of the human genome sequence
-.
-
-**discovered protein found in immune cells. This found a new role in cancer** therapy.
-
-**Historical Perspective** The major historical events for the development of Biotechnology, as an interdisciplinary
-
-field with multidisciplinary applications are listed below:
-
-## –
- Antoine Lavoisier gave chemical **basis of alcoholic fermentation.**
-
-## – Edward Jenner uses first viral vaccine
- to inoculate a child from smallpox.
-
-
-
-## – Louis Pasteur identified role of microorganisms in fermentation
-.
-
-## – The term biotechnology was coined
- by Karl Ereky
-
-
-
-## – Identification of DNA as the genetic material
- Avery–MacLeod–McCarty
-
-## BC – 3000 BC
- – Bread making, fermentation of fruit juices and plant exudates to produce alcoholic beverages using yeast.
-
-**Before Common Era**
-
-**Pre – 20th Century**
-
-**20th Century**
-
-**21st Century**
-
-**APPENDIX**
-
-
-Cosmids are plasmids containing the ‘cos’ - Cohesive Terminus, the sequence having cohesive ends. They are hybrid vectors derived from plasmids having a fragment of lambda phage DNA with its Cos site and a bacterial plasmid.
-
-**Cosmid**
-
-Bacteriophages are viruses that infect bacteria. The most commonly used _E. coli_ phages are l phage (Lambda phage) and M13 phage. Phage vectors are more efficient than plasmids - DNA upto 25 Kb can be inserted into phage vector. **Lambda genome:** Lambda phage is a temperate bacteriophage that infects Escherichia coli. The genome of lambda-Phage is 48502 bp long, i.e. 49Kb and has 50 genes.
-
-**Bacteriophage Vectors**
-
-Phagemids are reconstructed plasmid vectors, which contain their own origin - ‘ori’ gene and also contain origin of replication from a phage. pBluescript SK (+/–) is an example of phagemid vector.
-
-**Phagemid Vectors**
-
-YAC plasmid vector behaves like a yeast chromosome, which occurs in two forms, i.e. circular and linear. The circular YAC multiplies in Bacteria and linear YAC multiplies in Yeast Cells.
-
-**Yeast Artificial chromosome (YAC vector)**
-
-The shuttle vectors are plasmids designed to replicate in cells of two different species. These vectors are created by recombinant techniques. The shuttle vectors can propagate in one host and then move into another host without any extra manipulation. Most of the Eukaryotic vectors are Shuttle Vectors.
-
-**Shuttle Vectors**
-
-BAC is a shuttle plasmid vector, created for cloning large-sized foreign DNA. BAC vector is one of the most useful cloning vector in r-DNA technology they can clone DNA inserts of upto 300 Kb and they are stable and more user-friendly.
-
-**Bacterial Artificial Chromosome (BAC) Vector**
-
-**More vectors to know**
-
-
-**Interdisciplinary Fields of Biotechnology** Biotechnology is one of the most important applied interdisciplinary sciences of the **21st century**. It is the trusted area that enables us to find the beneficial way of life. Biotechnology has wide applications in various sectors like agriculture, medicine, environment and commercial industries.
-
-Interdisciplinary Fields of Biotechnology
-
-
-
-
-
-  
-
-
-URL:
-
-**https://play.google.com/store/apps/details?id=info.therithal.brainkart. biotechstudyapp**
-
-**ICT Corner**
-
-**Principles and Processes of Biotechnology**
-
-_BIO TECH STUDY APP_
-
-**Step 2Step 1 Step 3 Step 4**
-
-**Steps**
-- Type the URL or scan the QR code to open the activity page. -  Click on the topic to know in detail. -  To know the sub topics in detail click on the dots in top right corner.
-
-Let us know about the information Bio Technology through this activity.
-
-\* Pictures are indicative only
-
-
-
-
-
-
-
-
-
-
-
-
 
