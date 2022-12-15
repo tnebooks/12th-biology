@@ -136,318 +136,83 @@ The definition for conventional recombination was already given in Unit II. Conv
 ### Steps involved in Recombinant DNA Technology 
 
 The steps involved in recombinant DNA technology are: 
--  Isolation of a DNA fragment containing a gene of interest that needs to be cloned. This is called an insert.
+-  Isolation of a DNA fragment containing a gene of interest that needs to be cloned. This is called an **insert.**
+
+- PCR: Polymerase Chain Reaction is a common laboratory technique used to make copies (millions) of a particular region of DNA.
 
 - Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
+
+![Figure 4.4: Steps involved in r-DNA Technology](4.4.png  "img-class")
+
 - Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
 
 - The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
 - Wherever vectors are not involved the desired gene is multiplied by PCR technique. The multiple copies are injected into the host cell protoplast or it is shot into the host cell protoplast by shot gun method.
 
-**PCR**: Polymerase Chain Reaction is a common laboratory technique used to make copies (millions) of a particular region of DNA.
-
 ## Tools for Genetic Engineering
- In order to generate recombinant DNA molecule, certain basic tools are necessary. The basic tools are enzymes, vectors and host organisms. The most
+In order to generate recombinant DNA molecule, certain basic tools are necessary. The basic tools are enzymes, vectors and host organisms. The most important enzymes required for genetic engineering are the restriction enzymes, DNA ligase and alkaline phosphatase.
+ 
+### 4.4.1 Restriction Enzymes
+The two enzymes responsible for restricting the growth of bacteriophage in Escherichia coli were isolated in the year 1963. One was the enzyme which added methyl groups to DNA, while the other cut DNA. The latter was called restriction endonuclease. A **restriction** enzyme or **restriction endonuclease** is an enzyme that cleaves DNA into fragments at or near specific recognition sites within the molecule known as **restriction** sites. Based on their mode of action restriction enzymes are classified into Exonucleases and Endonucleases. 
 
-important enzymes required for genetic engineering are the restriction enzymes, DNA ligase and alkaline phosphatase. **4.4.1 Restriction Enzymes** The two enzymes responsible for restricting the growth of bacteriophage in Escherichia coli were isolated in the year 1963. One was the enzyme which added methyl groups to DNA, while the other cut DNA. The latter was called restriction endonuclease. A **restriction** enzyme or **restriction endonuclease** is an enzyme that cleaves DNA into fragments at or near specific recognition sites within the molecule known as **restriction** sites. Based on their mode of action restriction enzymes are classified into Exonucleases and
-
-Endonucleases. a. Exonucleases are enzymes which remove
-
-nucleotides one at a time from the end of a DNA molecule. e.g. Bal 31, Exonuclease III.
+a. Exonucleases are enzymes which remove nucleotides one at a time from the end of a DNA molecule. e.g. Bal 31, Exonuclease III.
 
 b. Endonucleases are enzymes which break the internal phosphodiester bonds within a DNA molecule. e.g. Hind II, EcoRI, Pvul, BamHI, TaqI.
 
-Bacterium
+![Table 4.1: Type II restriction enzyme with source, recognition and cleavage site.](4.5.png  "img-class")
 
-Bacterial chromosome
+**Restriction endonucleases: Molecular scissors** 
+The restriction enzymes are called as molecular scissors. These act as foundation of recombinant DNA technology. These enzymes exist in many bacteria where they function as a part of their defence mechanism called restriction- modification system.
 
-Plasmid
+There are three main classes of restriction endonucleases : Type I, Type II and Type III, which differ slightly by their mode of action. Only type II enzyme is preferred for use in recombinant DNA technology as they recognise and cut DNA within a specific sequence typically consisting of 4-8 bp. Examples of certain enzymes are given in table 5.1.
 
-Recombinant DNA (plasmid)
-
-Isolation of plasmid DNA and DNA containing gene of interest
-
-Gene inserted into plasmid
-
-Cell containing gene of interest
-
-Gene of interest
-
-Plasmid put into bacterial cell
-
-Cells cloned with gene of interest Identification of desired clone
-
-Various applications
-
-DNA of chromosome
-
-Recombinant bacterium
-
-Copies of gene
-
-Gene for pest resistance inserted into plants
-
-Basic research on gene
-
-Gene used to alter bacteria for cleaning up toxic waste
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-
-
-**Restriction enzyme**
-
-Alu I
-
-BamHI
-
-EcoRI
-
-HaeIII
-
-HindIII
-
-Arthrobacter luteus
-
-Bacillus amyloliquefaciens
-
-Escherichia coli
-
-Haemophilus aegyptus
-
-Haemophilus influenza
-
-**Microbial source Recognition**
-
-**sequence** 5’AG/CT3’ A-G
-
-T-C C-T G-A
-
-G-G
-
-G
-
-GC-C-T-A-G
-
-G-A-T-C-C
-
-C-C C-C G-G
-
-3’TC/GA5’
-
-5’GG/CC3’ 3’CC/GG5’
-
-5’G/GATCC3’ 3’CCTAG/G5’
-
-5’G/AATTC3’ 3’CCTAG/G5’
-
-5’A/AGCTT3’ 3’TTCGA/A5’
-
-**Fragments**
-
-Blunt ends
-
-Blunt ends
-
-Sticky ends
-
-Sticky ends
-
-Sticky ends
-
-A
-
-AT-T-C-G-A
-
-A-G-C-T-T
-
-G
-
-GC-T-T-A-A
-
-A-A-T-T-C
-
-**Table 4.1:** Type II restriction enzyme with source, recognition and cleavage site.
-
-
-
-  
-
-
-**Restriction endonucleases: Molecular scissors** The restriction enzymes are called as molecular scissors. These act as foundation of recombinant DNA technology. These enzymes exist in many bacteria where they function as a part of their defence mechanism called restriction- modification system.
-
-There are three main classes of restriction endonucleases : Type I, Type II and Type III, which differ slightly by their mode of action. Only type II enzyme is preferred for use in recombinant DNA technology as they recognise and cut DNA within a specific sequence typically consisting of 4-8 bp. Examples of certain enzymes are given in table 4.1.
-
-The restriction enzyme Hind II always cut DNA molecules at a point of recognising a specific sequence of six base pairs. This sequence is known as recognition sequence. Today more than 900 restriction enzymes have been isolated from over 230 strains of bacteria with different recognition sequences.
+The restriction enzyme **Hind II**always cut DNA molecules at a point of recognising a specific sequence of six base pairs. This sequence is known as recognition sequence. Today more than 900 restriction enzymes have been isolated from over 230 strains of bacteria with different recognition sequences.
 
 This sequence is referred to as a restriction site and is generally –palindromic which means that the sequence in both DNA strands at this site read same in 5’ – 3’ direction and in the 3’-5’ direction
 
 Example: MALAYALAM: This phrase is read the same in either of the directions.
 
-Restriction endonucleases are named by a standard procedure. The first letter of the enzymes indicates the genus name, followed by the first two letters of the species, then comes the strain of the organism and finally a roman numeral indicating the order of discovery. For example, **_EcoRI_** is from Escherichia (**E**) coli (**co)**, strain RY 13 (R) and first endonuclease (I) to be discovered.
+**Palindromic repeats**: A symmetrical repeated sequence in DNA strands 
+5’ ... CATTATATAATG ... 3’ 
+3’ ... GTAATATATTAC ... 5’ 
+Note: That the sequence of the base pairs in the reverse direction when compare to the first sequence.
 
-**Palindromic repeats**: A symmetrical repeated sequence in DNA strands 5’ ... CATTATATAATG ... 3’ 3’ ... GTAATATATTAC ... 5’ Note: That the sequence of the base pairs in the reverse direction when compare to the first sequence.
+Restriction endonucleases are named by a standard procedure. The first letter of the enzymes indicates the genus name, followed by the first two letters of the species, then comes the strain of the organism and finally a roman numeral indicating the order of discovery. For example, **_EcoRI_** is from Escherichia (**E**) coli (**co)**, strain RY 13 (R) and first endonuclease (I) to be discovered.
 
 The exact kind of cleavage produced by a restriction enzyme is important in the design of a gene cloning experiment. Some cleave both strands of DNA through the centre resulting in blunt or flush end. These are known as symmetric cuts. Some enzymes cut in a way producing protruding and recessed ends known as **sticky** or **cohesive** **end**. Such cut are called staggered or asymmetric cuts.
 
-**GAATTC CTTAAG**
-
-5’ – 3’ –
-
-5’ – 3’ –
-
-5’ – 3’ –
-
-5’ – 3’ –
-
-– 3’ – 5’
-
-– 3’ – 5’
-
-– 3’ – 5’
-
-– 3’ – 5’
-
-_Eco_ **RI**
-
-Digest
-
-**G CTTAA**
-
-5’ sticky-ends
-
-**AATTC G**
-
-**CCCGGG GGGCCC**
-
-_Sma_**I**
-
-Digest
-
-**CCC GGG**
-
-Blunt ends
-
-**GGG CCC**
-
-
+![Figure 4.5: Sticky and Blunt ends](4.6.png  "img-class")
 
 Two other enzymes that play an important role in recombinant DNA technology are DNA ligase and alkaline phosphatase
 
 ### DNA Ligase
  DNA ligase enzyme joins the sugar and phosphate molecules of double stranded DNA (dsDNA) with 5’-PO4 and a 3’-OH in an Adenosine Triphosphate (ATP) dependent reaction. This is isolated from T4 phage.
-
-**DNA Ligase Reaction**
-
-DNA strand
-
-DNA ligase ATP (or NAD+) AMP2Pi PPi
-
-**New 3’ – 5’ Phosphodiester bond**
-
-3’ 5’OH
-
-O
-
-O
-
-O
-
-O–
-
-–
-
-\+ P
-
-3’ 5’
-
-O
-
-O
-
-O
-
-O
-
-–
-
-PDNA strand DNA strand
-
-DNA strand
-
+![Figure 4.6: DNA ligase reaction](4.7.png  "img-class")
 
 
 ### Alkaline Phosphatase
  It is a DNA modifying enzyme and adds or removes specific phosphate group at 5’ terminus of double stranded DNA (dsDNA) or single stranded DNA (ssDNA) or RNA. Thus it prevents self ligation. This enzyme is purified from bacteria and calf intestine.
 
-
-
-  
-
-
-DNA P
-
-P
-
-OH
-
-OH
-
-OH
-
-OH
-
-HO
-
-HO
-
-ligase
-
-DNA ligase
-
-X
-
-DNA ligase Ho
-
-Ho P P
-
-No reaction
-
-Foreign DNA fragment
-
-Plasmid cut open
-
-(linear DNA)
-
-2Pi Alkaline phosphatase
-
-Recircularization of plasmid
-
-(Self ligation)
-
+![Figure 4.6: DNA ligase reaction](4.8.png  "img-class")
 
 
 ### Vectors
- Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host. **Properties of Vectors** Vectors are able to replicate autonomously to produce multiple copies of them along with their DNA insert in the host cell. -  It should be small in size and of low molecular
-
-weight, less than 10 Kb (kilo base pair) in size so that entry/transfer into host cell is easy.
+Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host.
+ 
+#### Properties of Vectors** 
+Vectors are able to replicate autonomously to produce multiple copies of them along with their DNA insert in the host cell. 
+-  It should be small in size and of low molecular weight, less than 10 Kb (kilo base pair) in size so that entry/transfer into host cell is easy.
 - Vector must contain an origin of replication so that it can independetly replicate within the host.
 - It should contain a suitable marker such as antibiotic resistance, to permit its detection in transformed host cell.
 - Vector should have unique target sites for integration with DNA insert and should have the ability to integrate with DNA insert it carries into the genome of the host cell. Most of the commonly used cloning vectors have more than one restriction site. These are Multiple Cloning Site (MCS) or polylinker. Presence of MCS facilitates the use of restriction enzyme of choice.
 
-The following are the features that are required to facilitate cloning into a vector. 1. Origin of replication (ori): This is a
+![](4.9.png  "img-class")
 
-sequence from where replication starts and piece of DNA when linked to this sequence can be made to replicate within the host cells.
+The following are the features that are required to facilitate cloning into a vector. 
+
+1. Origin of replication (ori): This is a sequence from where replication starts and piece of DNA when linked to this sequence can be made to replicate within the host cells.
+
+![Figure 4.8: Properties of Vector](4.10.png  "img-class")
 
 **Foreign DNA**
 
@@ -463,35 +228,7 @@ When mixed, the sticky ends anneal, joining the foreign DNA and plasmid.
 
 EcoRl
 
-**EcoRlPlasmid**
 
-GAATTC CTTAAG
-
-GAATTC CTTAAG
-
-AATTC G
-
-G CTTAA
-
-CTTAA
-
-AATTC
-
-G
-
-G
-
-GAATTC GAATTC
-
-GAATTC GAATTC
-
-GAATTC
-
-CTTAAG
-
-CTTAAG CTTAAG
-
-CTTAAG CTTAAG
 
 **The foreign DNA fragement can be inserted into a plasmid with the use of restriction enzymes**
 
