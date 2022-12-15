@@ -111,32 +111,35 @@ _cerevisiae_ (yeast)_, Candida utilis_
 
 The single cell protein forms an important source of food because of their protein content, carbohydrates, fats, vitamins and minerals. It is used by Astronauts and Antarctica expedition scientists.
 
+![Figure 4.3: Spirulina products](4.3.png  "img-class")
+
 _Spirulina_ can be grown easily on materials like waste water from potato processing plants (containing starch), straw, molasses, animal manure and even sewage, to produce large quantities and can serve as food rich in protein, minerals, fats, carbohydrate and vitamins. Such utilization also reduces environmental pollution. 250 g of _Methylophilus m e t h y l o t r o p h u s_ , with a high rate of biomass production and growth, can be expected to produce 25 tonnes of protein.
 
-**Applications of Single-Cell Protein** -  It is used as protein supplement -  It is used in cosmetics products for healthy
+#### Applications of Single-Cell Protein 
 
-hair and skin -  It is used as the excellent source of protein
-
-for feeding cattle, birds, fishes etc. -  It is used in food industry as aroma
-
-carriers, vitamin carrier, emulsifying agents to improve the nutritive value of baked products, in soups, in ready-to-serve-meals, in diet recipes
+-  It is used as protein supplement 
+-  It is used in cosmetics products for healthy hair and skin 
+-  It is used as the excellent source of protein for feeding cattle, birds, fishes etc. 
+-  It is used in food industry as aroma carriers, vitamin carrier, emulsifying agents to improve the nutritive value of baked products, in soups, in ready-to-serve-meals, in diet recipes
 - It is used in industries like paper processing, leather processing as foam stabilizers.
 
 ## Advancements in Modern Biotechnology
- Modern biotechnology embraces all the genetic manipulations, protoplasmic fusion techniques and the improvements made in the old biotechnological processes. Some of the major advancements in modern biotechnology are described below. **4.3.1 Genetic Engineering** Genetic engineering or recombinant DNA technology or gene cloning is a collective term that includes different experimental protocols resulting in the modification and transfer of DNA from one organism to another.
 
-The definition for conventional recombination was already given in Unit II. Conventional recombination involves exchange or recombination of genes between homologous chromosomes during meiosis. Recombination carried out artificially using modern technology is called recombinant DNA technology (r-DNA technology). It is also known as gene manipulation technique. This technique involves the transfer of DNA coding for a specific gene from one organism into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated transfers and microinjection. **4.3.2 Steps involved in Recombinant DNA Technology The steps involved in recombinant DNA technology are:** -  Isolation of a DNA fragment containing
+Modern biotechnology embraces all the genetic manipulations, protoplasmic fusion techniques and the improvements made in the old biotechnological processes. Some of the major advancements in modern biotechnology are described below.
 
-a gene of interest that needs to be cloned. This is called an insert.
+### 4.3.1 Genetic Engineering**
+
+Genetic engineering or recombinant DNA technology or gene cloning is a collective term that includes different experimental protocols resulting in the modification and transfer of DNA from one organism to another.
+
+The definition for conventional recombination was already given in Unit II. Conventional recombination involves exchange or recombination of genes between homologous chromosomes during meiosis. Recombination carried out artificially using modern technology is called recombinant DNA technology (r-DNA technology). It is also known as gene manipulation technique. This technique involves the transfer of DNA coding for a specific gene from one organism into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated transfers and microinjection. 
+
+### Steps involved in Recombinant DNA Technology 
+
+The steps involved in recombinant DNA technology are: 
+-  Isolation of a DNA fragment containing a gene of interest that needs to be cloned. This is called an insert.
+
 - Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
 - Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
-
-
-
-
-
-
-  
 
 - The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
 - Wherever vectors are not involved the desired gene is multiplied by PCR technique. The multiple copies are injected into the host cell protoplast or it is shot into the host cell protoplast by shot gun method.
