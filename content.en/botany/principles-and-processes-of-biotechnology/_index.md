@@ -252,24 +252,34 @@ For achieving genetic transformation in plants, the basic pre-requisite is the c
 -  Direct or vectorless gene transfer 
 -  Indirect or vector – mediated gene transfer
 
+### Direct or Vectorless Gene Transfer
 
-b. Microinjection: The DNA is directly injected into the nucleus using fine tipped glass needle or micro pipette to transform plant cells. The protoplasts are immobilised on a solid support (agarose on a microscopic slide) or held with a holding pipette under suction.
+ In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. 
+ 
+ #### Chemical mediated gene transfer:
 
-c. **Electroporation Methods of Gene Transfer:** A pulse of high voltage is applied to protoplasts, cells or tissues which makes transient pores in the plasma membrane through which uptake of foreign DNA occurs.
+Certain chemicals like polyethylene glycol plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
-d. **Liposome mediated method of Gene Transfer:** Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
+#### b. Microinjection: 
+
+The DNA is directly injected into the nucleus using fine tipped glass needle or micro pipette to transform plant cells. The protoplasts are immobilised on a solid support (agarose on a microscopic slide) or held with a holding pipette under suction.
+
+#### c.Electroporation Methods of Gene Transfer: 
+A pulse of high voltage is applied to protoplasts, cells or tissues which makes transient pores in the plasma membrane through which uptake of foreign DNA occurs.
+
+![](4.14.png  "img-class")
+
+#### d.Liposome mediated method of Gene Transfer:
+
+Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
+
+![Figure 4.16: Gene gun method of Gene Transfer](4.15.png  "img-class")
 
 e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or tungsten particles (1-3 µm) and bombarded onto the target tissue or cells using a particle gun (also called as **gene gun/micro projectile gun/shotgun**). Then the bombarded cells
 
 
 
 
-### Direct or Vectorless Gene Transfer
- In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. 
- 
- **Chemical mediated gene transfer:**
-
-Certain chemicals like polyethylene glycol plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
 
 ## Screening for Recombinants
