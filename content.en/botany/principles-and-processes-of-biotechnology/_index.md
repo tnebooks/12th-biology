@@ -413,6 +413,9 @@ consequently a crossing over occurs to
 replace the endogenous DNA with the
 incoming DNA.
 
+
+**Table - 4.2 Differences between Blotting Techniques Southern blotting Northern blotting Western blotting**
+
 **Transfection**: Introduction of foreign nucleic acids into cells by non-viral methods.
 
 ###  Genome Sequencing and Plant Genome Projects
@@ -422,125 +425,64 @@ The whole complement of gene that determine all characteristic of an organism is
 ### Evolutionary pattern assessed using DNA.
 In recent years the evolutionary relationship between different plant taxa is assessed using DNA content as well as the similarities and differences in the DNA sequence (sequence homology). Based on such analysis the taxa and their relationship are indicated in a cladogram which will show the genetic distance between two taxa. It also shows antiquity or modernity of any taxon with respect to one another (See also Unit-2, Chapter-5 of XI Std.) 
 
+```
+Do You Know??
+Barcode: You might have seen in all books barcoding and also in items you buy in supermarket. This will reveal the identity of the book or item as well the details like prize. Similarily, Barcode in genetic term refer to the identify of the taxon based on its genetic makeup. In practice, it is an optical, machine- readable representation of data which describes about the characters of any plants or any objects.
+
+![](4.22.png  "img-class")
+
+```
+
+
 ### Genome editing and CRISPR - Cas9 
-
-Genome editing or gene editing is a group of technologies that has the ability to change an organism’s DNA. These technologies allow genetic material to be added,
-
-**Differences between Blotting Techniques Southern blotting Northern blotting Western blotting**
-
-Name Southern name of the inventor Northern a misnomer Western a misnomer
-
-Separation of DNA RNA Proteins
-
-Denaturation Needed Not needed Needed
-
-Membrane Nitrocellulose/ nylon Amino benzyloxymethyl
-
-Nitrocellulose
-
-Hybridisaiton DNA-DNA RNA-DNA Protein-antibody
-
-Visualising Autoradiogram Autoradiogram Dark room
-
-**Table 4.2: Difference between Blotting Techniques**
-
-**Barcode**: You might have seen in all books barcoding and also in items you buy in supermarket. This will
-
-reveal the identity of the book or item as well the details like prize. Similarily, Barcode in genetic term refer to the identify of the taxon based on its genetic makeup. In practice, it is an optical, machine- readable representation of data which describes about the characters of any plants or any objects.
-
-
-
-
-
-  
-
-
-removed, or altered at particular locations in the genome. Several approaches to genome editing have been developed. A recent one is known as CRISPR-Cas9, which is short form of **Clustered Regularly Interspaced Short Palindromic Repeats** and CRISPR- associated protein 9. The CRISPR-Cas9 system has generated a lot of excitement in the scientific community because it is faster, cheaper, more accurate, and more efficient than other existing genome editing methods.
+Genome editing or gene editing is a group of technologies that has the ability to change an organism’s DNA. These technologies allow genetic material to be added, removed, or altered at particular locations in the genome. Several approaches to genome editing have been developed. A recent one is known as CRISPR-Cas9, which is short form of Clustered Regularly Interspaced Short Palindromic Repeats and CRISPR-associated protein 9. The CRISPR-Cas9 system has generated a lot of excitement in the scientific community because it is faster, cheaper, more accurate, and more efficient than other existing genome editing methods.
 
 Rice, was among the first plants to be used to demonstrate the feasibility of CRISPR- mediated targeted mutagenesis and gene replacement. The gene editing tool CRISPR can be used to make hybrid rice plants that can clone their seed. Imtiyaz Khand and Venkatesan Sundaresan and colleagues reported in a new study which clearly shows one can re-engineer rice to switch it from a sexual to an asexual mode.
 
 ### RNA Interference (RNAi)
- All characters of organism are the result of expression of different genes which are regions of nuclear DNA. This expression involves transcription and translation. Transcription refers to the copying of genetic information from one strand of the DNA (called sense strand) by RNA. This RNA, as soon as it formed cannot be straight away sent to the cytoplasm to undertake the process of translation. It has to be edited and made suitable for translation which brings about protein synthesis. One of the main items removed from the RNA strand are the introns. All these changes before translation normally take place whereby certain regions of DNA are silence. However, there is an (RNAi) pathway. RNA interference is a biological process in which RNA molecules inhibit gene expression or translation. This is done by neutralising targetd mRNA molecules.
 
-A simplified model for the RNAi pathway is based on two steps, each involving
+All characters of organism are the result of expression of different genes which are regions of nuclear DNA. This expression involves transcription and translation. Transcription refers to the copying of genetic information from one strand of the DNA (called sense strand) by RNA. This RNA, as soon as it formed cannot be straight away sent to the cytoplasm to undertake the process of translation. It has to be edited and made suitable for translation which brings about protein synthesis. One of the main items removed from the RNA strand are the introns. All these changes before translation normally take place whereby certain regions of DNA are silence. However, there is an (RNAi) pathway. RNA interference is a biological process in which RNA molecules inhibit gene expression or translation. This is done by neutralising targetd mRNA molecules.
 
-ribonuclease enzyme. In the first step, the trigger RNA (either dsRNA or miRNA primary transcript) is processed into a short interfering RNA (siRNA) by the RNase II enzymes called Dicer and Drosha. In the second step, siRNAs are loaded into the effector complex RNA-induced silencing complex (RISC). The siRNA is unwound during RISC assembly and the single-stranded RNA hybridizes with mRNA target. This RNAi is seen in plant feeding nematodes.
+A simplified model for the RNAi pathway is based on two steps, each involving ribonuclease enzyme. In the first step, the trigger RNA (either dsRNA or miRNA primary transcript) is processed into a short interfering RNA (siRNA) by the RNase II enzymes called Dicer and Drosha. In the second step, siRNAs are loaded into the effector complex RNA-induced silencing complex (RISC). The siRNA is unwound during RISC assembly and the single-stranded RNA hybridizes with mRNA target. This RNAi is seen in plant feeding nematodes.
 
-## Transgenic Plants / Genetically Modified Crops (Gm Crops)
+![Figure 4.23: RNA Interference](4.23.png  "img-class")
 
 ### Herbicide Tolerant – Glyphosate
+
  Weeds are a constant problem in crop fields. Weeds not only compete with crops for sunlight, water, nutrients and space but also acts as a carrier for insects and diseases. If left uncontrolled, weeds can reduce crop yields significantly.
 
 **Transgenic plants** contain a novel DNA introduced into the genome.
 
 **Glyphosate herbicide** produced by Monsanto, USA company under the trade name ‘Round up’ kills plants by blocking the 5-enopyruvate shikimate-3 phosphate synthase (EPSPS) enzyme, an enzyme involved in the biosynthesis of aromatic amino acids, vitamins and many secondary plant metabolites. There are several ways by which crops can be modified to be glyphosate-tolerant.
 
-dsRNA
-
-n Plant cell
-
-RISC complex with unzipped SiRNA
-
-Cleaved mRNA
-
-siRNAs
-
-siRNA uptake by the
-
-nematode
-
-Dicer
-
-Interaction of Dicer with ds
-
-RNA
-
-Target mRNA
-
-Root-knot nematode
-
-
-
-
 One strategy is to incorporate a soil bacterium gene that produces a glyphosate tolerant form of EPSPS. Another way is to incorporate a different soil bacterium gene that produces a glyphosate degrading enzyme.
 
-**Advantages of Herbicide Tolerant Crops** -  Weed control improves higher crop yields; -  Reduces spray of herbicide; -  Reduces competition between crop plant
+**Advantages of Herbicide Tolerant Crops** 
+-  Weed control improves higher crop yields; -  Reduces spray of herbicide; 
+-  Reduces competition between crop plant and weed; 
+-  Use of low toxicity compounds which do not remain active in the soil; and 
+-  The ability to conserve soil structure and microbes.
 
-and weed; -  Use of low toxicity compounds which do
+![Figure 4.25: Bt Cotton](4.24.png  "img-class")
 
-not remain active in the soil; and -  The ability to conserve soil structure and
+**Disadvantages**
 
-microbes. **4.7.2 Herbicide Tolerant - Basta** Trade name ‘Basta’ refers to a non-selective herbicide containing the chemical compound phosphinothricin. Basta herbicide tolerant gene PPT (_L_\-phosphinothricin) was isolated from _Medicago sativa_ plant. It inhibits the enzyme glutamine synthase which is involved in ammonia assimilation. The PPT gene was introduced into tobacco and transgenic tobacco produced was resistant to PPT. Similar enzyme was also isolated from _Streptomyces hygroscopicus_ with bar gene encodes for PAT (Phosphinothricin acetyl transferase) and was introduced into crop plants like potato and sugar-beet and transgenic crops have been developed. **4.7.3 Insect resistance - Bt Crops: i. Bt Cotton** Bt cotton is a genetically modified organism (GMO) or genetically modified pest resistant plant cotton variety, which produces an insecticide activity to bollworm. Strains of the bacterium _Bacillus thuringiensis_ produce over 200 different Bt toxins, each harmful to different insects. Most Bt toxins are insecticidal to the larvae of moths and butterflies, beetles, cotton bollworms and gatflies but are harmless to other forms of life. The genes are encoded for toxic crystals in the Cry group of endotoxin. When insects attack
+Bt cotton has some limitations:
+- Cost of Bt cotton seed is high.
+- Effectiveness up to 120 days after that efficiency is reduced
+- Ineffective against sucking pests like jassids,
+aphids and whitefly.
+- Affects pollinating insects and thus yield.
 
-and eat the cotton plant the Cry toxins are dissolved in the insect’s stomach. The epithelial membranes of the gut block certain vital nutrients thereby sufficient regulation of potassium ions are lost in the insects and results in the death of epithelial cells in the intestine membrane which leads to the death of the larvae. **_Advantages_** The advantages of Bt cotton are: -  Yield of cotton
+**ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal Fruit and Shoot Borer (_Leucinodes orbonalis_).
 
-is increased due to effective control of bollworms.
-- Reduction in insecticide use in the cultivation of Bt cotton
-- Potential reduction in the cost of cultivation.
+![Figure 4.26: Bt Brinjal](4.25.png  "img-class")
 
-**_Disadvantages_** Bt cotton has some limitations: -  Cost of Bt cotton seed is high. -  Effectiveness up to 120 days after that
+**iii. Dhara Mustard Hybrid (DMH)** 
 
-efficiency is reduced -  Ineffective against sucking pests like jassids,
+DMH -11 is transgenic mustard developed by a team of scientists at the Centre for Genetic Manipulation of Crop Plants Delhi University under Government sponsored project. It is genetically modified variety of Herbicide Tolerant (HT) mustard. It was created by using “barnase/barstar” technology for genetic modification by adding genes from soil bacterium that makes mustard, a self-pollinating plant. DMH -11 contains three genes viz. Bar gene, Barnase and Barstar sourced from soil bacterium. The bar gene had made plant resistant to herbicide named Basta.
 
-aphids and whitefly. -  Affects pollinating insects and thus yield.
-
-**ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal
-
-
-
-
-
-
-
-
-
-
-  
-
-
-Fruit and Shoot Borer (_Leucinodes orbonalis_).
-
-**iii. Dhara Mustard Hybrid (DMH)** DMH -11 is transgenic mustard developed by a team of scientists at the Centre for Genetic Manipulation of Crop Plants Delhi University under Government sponsored project. It is genetically modified variety of Herbicide Tolerant (HT) mustard. It was created by using “barnase/barstar” technology for genetic modification by adding genes from soil bacterium that makes mustard, a self-pollinating plant. DMH -11 contains three genes viz. Bar gene, Barnase and Barstar sourced from soil bacterium. The bar gene had made plant resistant to herbicide named Basta.
+![Figure 4.27: Dhara Mustard](4.26.png  "img-class")
 
 ### Virus Resistance
  Many plants are affected by virus attack resulting in series loss in yield and even death. Biotechnological intervention is used to introduce viral resistant genes into the host plant so that they can resist the attack by virus. This is by introducing genes that produce resistant enzymes which can deactivate viral DNA.
