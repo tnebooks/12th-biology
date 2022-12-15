@@ -275,89 +275,109 @@ Liposomes the artificial phospholipid vesicles are useful in gene transfer. The 
 
 ![Figure 4.16: Gene gun method of Gene Transfer](4.15.png  "img-class")
 
-e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or tungsten particles (1-3 µm) and bombarded onto the target tissue or cells using a particle gun (also called as **gene gun/micro projectile gun/shotgun**). Then the bombarded cells
+e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or tungsten particles (1-3 µm) and bombarded onto the target tissue or cells using a particle gun (also called as **gene gun/micro projectile gun/shotgun**). Then the bombarded cells or tissues are cultured on selected medium to regenerate plants from the transformed cells.(Figure 4.16)
 
+### Indirect or Vector-Mediated Gene Transfer
+Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into
+plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
-
-
+The foreign gene (e.g. Bt gene for insect resistance) and plant selection marker gene, usually an antibiotic gene like npt II which confers resistance to antibiotic kanamycin are cloned in the T DNA region of Ti-plasmid in place of unwanted DNA sequences.(Figure 4.17)
 
 
 ## Screening for Recombinants
- After the introduction of r-DNA into a suitable host cell, it is essential to identify those cells which have received the r-DNA molecule. This process is called screening. The vector or foreign DNA present in recombinant cells expresses the characters, while the non-recombinants do not express the characters or traits. For this some of
+After the introduction of r-DNA into a suitable host cell, it is essential to identify those cells which have received the r-DNA molecule. This process is called screening. The vector or foreign DNA present in recombinant cells expresses the characters, while the non-recombinants do not express the characters or traits. For this some of the methods are used and one such method is Blue-White Colony Selection method.
 
-or tissues are cultured on selected medium to regenerate plants from the transformed cells.(Figure 4.14)
+![Figure 4.17: Agrobacterium mediated gene transfer in plants](4.16.png  "img-class")
 
-### Indirect or Vector-Mediated Gene Transfer
- Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into the methods are used and one such method is Blue-White colony Selection method.
 
 ### Insertional Inactivation - Blue- White Colony Selection Method
- It is a powerful method used for screening of recombinant plasmid. In this method, a reporter gene **lacZ** is inserted in the vector. The lacZ encodes the enzyme β-galactosidase and contains several recognition sites for restriction enzyme.
+It is a powerful method used for screening of recombinant plasmid. In this method, a reporter gene **lacZ** is inserted in the vector. The lacZ encodes the enzyme β-galactosidase and contains several recognition sites for restriction enzyme.
 
 β-galactosidase breaks a synthetic substrate called X-gal (5-bromo-4-chloro-indolyl-β- D-galacto-pyranoside) into an insoluble blue coloured product. If a foreign gene is inserted into lacZ, this gene will be inactivated. Therefore, no-blue colour will develop (white) because β-galactosidase is not synthesized due to inactivation of lacZ. Therefore, the host cell containing r-DNA form white coloured colonies on the medium contain X-gal, whereas the other cells containing non-recombinant DNA will develop the blue coloured colonies. On the basis of colony colour, the recombinants can be selected.
 
+![Figure 4.18: a. Plasmid vector designed for blue-white screeningr](4.17.png  "img-class")
+
 ### Antibiotic resistant markers
- An antibiotic resistance marker is a gene that produces a protein that provides cells with resistance to an antibiotic. Bacteria with transformed DNA can be identified by growing on a medium containing an antibiotic. Recombinants will grow on these media as they contain genes encoding resistance to antibiotics such as ampicillin, chloro amphenicol, tetracycline or kanamycin, etc., while others may not be able to grow in these media, hence it is considered useful selectable marker.
+An antibiotic resistance marker is a gene that produces a protein that provides cells with resistance to an antibiotic. Bacteria with transformed DNA can be identified by growing on a medium containing an antibiotic. Recombinants will grow on these media as they contain genes encoding resistance to antibiotics such as ampicillin, chloro amphenicol, tetracycline or kanamycin, etc., while others may not be able to grow in these media, hence it is considered useful selectable marker.
 
-**4.6.3. Replica plating technique** A technique in which the pattern of colonies growing on a culture plate is copied. A sterile filter plate is pressed against the culture plate and then lifted. Then the filter is pressed against a second sterile culture plate. This results in the new plate being infected with cell in the same relative positions as the colonies in the original plate. Usually, the medium used in the second plate will differ from that used in the first. It may include an antibiotic or exclude a growth factor. In this way, transformed cells can be selected. **4.6.4 Molecular Techniques - Isolation of Genetic Material and Gel Electrophoresis** Electrophoresis is a separating technique used to separate different biomolecules with positive and negative charges. **Principle** By applying electricity (DC) the molecules migrate according to the type of charges they have. The electrical charges on different molecules are variable.
+#### Replica plating technique
 
-**+ve**
+A technique in which the pattern of colonies growing on a culture plate is copied. A sterile filter plate is pressed against the culture plate and then lifted. Then the filter is pressed against a second sterile culture plate. This results in the new plate being infected with cell in the same relative positions as the colonies in the original plate. Usually, the medium used in the second plate will differ from that used in the first. It may include an antibiotic or exclude a growth factor. In this way, transformed cells can be selected. 
 
-**–ve**
+![Figure 4.19: Replica plating technique](4.19.png  "img-class")
 
-**–ve**
+### Molecular Techniques - Isolation of Genetic Material and Gel Electrophoresis
 
-**+ve**
+Electrophoresis is a separating technique used to separate different biomolecules with positive and negative charges. **Principle** By applying electricity (DC) the molecules migrate according to the type of charges they have. The electrical charges on different molecules are variable.
 
-**Cations**
+### Principle
 
-**Anions**
+By applying electricity (DC) the molecules
+migrate according to the type of charges
+they have. The electrical charges on different
+molecules are variable.
 
-**Cathode**
+#### Agarose GEL Electrophoresis
 
-**Anode**
+It is used mainly for the purification of specific
+DNA fragments. Agarose is convenient for
+separating DNA fragments ranging in size
+from a few hundred to about 20000 base
+pairs. Polyacrylamide is preferred for the
+purification of smaller DNA fragments. The gel
+is complex network of polymeric molecules.
+DNA molecule is negatively charged molecule
+- under an electric field DNA molecule
+migrates through the gel. The electrophoresis
+is frequently performed with marker DNA
+fragments of known size which allow accurate
+size determination of an unknown DNA
+molecule by interpolation. The advantages of
+agarose gel electrophoresis are that the DNA
+bands can be readily detected at high sensitivity.
+The bands of DNA in the gel are stained with
+the dye Ethidium Bromide and DNA can be
+detected as visible fluorescence illuminated in
+UV light will give orange fluorescence, which
+can be photographed
 
-charged
+![Figure 4.20: a. Bands of DNA in Agarose gel b. Gel Electrophoresis Instrument](4.19.png  "img-class")
 
-charged
+Agricultural diagnostics refers to a variety of tests
+that are used for detection of pathogens in plant
+tissues. Two of the most efficient methods are
 
-will move towards
+##### 1. ELISA (Enzyme Linked Immumo Sorbent Assay)
 
-will move towards
+Elisa is a diagnostic tool for identification of
+pathogen species by using antibodies and
+diagnostic agents. Use of ELISA in plant pathology
+especially for weeding out virus infected plants
+from large scale planting is well known.
 
-**Agarose GEL Electrophoresis** It is used mainly for the purification of specific DNA fragments. Agarose is convenient for separating DNA fragments ranging in size
+##### 2. DNA Probes
 
-_lac_ promoter**a**
+DNA Probes, isotopic and non-isotopic (Northern
+and Southern blotting) are popular tools for
+identification of viruses and other pathogens
 
-pUC 18 lacZ
+### Nucleic Acid Hybridization - Blotting Techniques
+Blotting techniques are widely used analytical tools for the specific identification of desired DNA or RNA fragments from larger number of molecules. Blotting refers to the process of immobilization of sample nucleic acids or solid support (nitrocellulose or nylon membranes.) The blotted nucleic acids are then used as target in the hybridization experiments for their specific detection.
 
-Ampicilin resistance
+#### Types of Blotting Techniques 
 
-(amp)
+##### Southern Blotting: 
+The transfer of DNA from** agarose gels to nitrocellulose membrane. 
 
-Ori
+##### Northern Blotting: 
+The transfer of RNA to** nitrocellulose membrane. 
 
-Multiple cloning site
+##### Western Blotting: 
+Electrophoretic transfer of Proteins to nitrocellulose membrane.
 
+**Southern Blotting Techniques - DNA** The transfer of denatured DNA from Agarose gel to Nitrocellulose Blotting or Filter Paper technique was introduced by Southern in 1975 and this technique is called Southern Blotting Technique. 
 
-
-selection method Sterile velvet on a block Imprints of all colonies
-
-Replicate on fresh media
-
-Contains ampicillin
-
-Master plate
-
-Incubate
-
-Ampicillin sensitive colonies
-
-Lacks ampicillin
-
-
-
-
-**Southern Blotting Techniques - DNA** The transfer of denatured DNA from Agarose gel to Nitrocellulose Blotting or Filter Paper technique was introduced by Southern in 1975 and this technique is called Southern Blotting Technique. **Steps** The transfer of DNA from agarose gel to nitrocellulose filter paper is achieved by Capillary Action.
+**Steps** The transfer of DNA from agarose gel to nitrocellulose filter paper is achieved by Capillary Action.
 
 A buffer Sodium Saline Citrate (SSC) is used, in which DNA is highly soluble, it can be drawn up through the gel into the Nitrocellulose membrane.
 
@@ -367,95 +387,44 @@ This DNA is hybridized with a nucleic acid and can be detected by autoradiograph
 
 Autoradiography - A technique that captures the image formed in a photographic emulsion due to emission of light or radioactivity from a labelled component placed together with unexposed film.
 
-from a few hundred to about 20000 base pairs. Polyacrylamide is preferred for the purification of smaller DNA fragments. The gel is complex network of polymeric molecules. DNA molecule is negatively charged molecule - under an electric field DNA molecule migrates through the gel. The electrophoresis is frequently performed with marker DNA fragments of known size which allow accurate size determination of an unknown DNA molecule by interpolation. The advantages of agarose gel electrophoresis are that the DNA bands can be readily detected at high sensitivity. The bands of DNA in the gel are stained with the dye **Ethidium Bromide** and DNA can be detected as visible fluorescence illuminated in UV light will give orange fluorescence, which can be photographed.
+![Figure 4.21: Diagrammatic representation of a typical blotting apparatus](4.20.png  "img-class")
 
+**Northern Blot** It was found that RNA is not binding to cellulose nitrate. Therefore, Alwin et al. (1979) devised a procedure in which RNA bands are transferred from the agarose gel into nitrocellulose filter paper. This transfer of RNA from gel to special filter paper is called Northern Blot hybridization. The filter paper used for Northern blot is Amino Benzyloxymethyl Paper which can be prepared from Whatman 540 paper.
 
-
-**a b**
-
-### Nucleic Acid Hybridization - Blotting Techniques
- Blotting techniques are widely used analytical tools for the specific identification of desired DNA or RNA fragments from larger number of molecules. Blotting refers to the process of immobilization of sample nucleic acids or solid support (nitrocellulose or nylon membranes.) The blotted nucleic acids are then used as target in the hybridization experiments for their specific detection.
-
-**Types of Blotting Techniques Southern Blotting: The transfer of DNA from** agarose gels to nitrocellulose membrane. **Northern Blotting: The transfer of RNA to** nitrocellulose membrane. **Western Blotting**: Electrophoretic transfer of Proteins to nitrocellulose membrane.
-
-Agricultural diagnostics refers to a variety of tests that are used for detection of pathogens in plant tissues. Two of the most efficient methods are **1\. ELISA (Enzyme Linked Immumo Sorbent Assay)** Elisa is a diagnostic tool for identification of pathogen species by using antibodies and diagnostic agents. Use of ELISA in plant pathology especially for weeding out virus infected plants from large scale planting is well known. **2\. DNA Probes** DNA Probes, isotopic and non-isotopic (Northern and Southern blotting) are popular tools for identification of viruses and other pathogens
-
-
-
-
-
-
-  
-
-
-Weight Glass plate
-
-Paper tissues
-
-Filter paper Membrane Gel
-
-Plastic tray
-
-Filter paper wick
-
-Transfer buffer
-
-Support block
-
-
-
-**Northern Blot** It was found that RNA is not binding to cellulose nitrate. Therefore, Alwin et al. (1979) devised a procedure in which RNA bands are transferred from the agarose gel into nitrocellulose filter paper. This transfer of RNA from gel to special filter paper is called Northern Blot hybridization. The filter paper used for Northern blot is Amino Benzyloxymethyl Paper which can be prepared from Whatman 540 paper. **Western Blot** Refers to the electrophoretic transfer of proteins to blotting papers. Nitrocellulose filter paper can be used for western blot technique. A particular protein is then identified by probing the blot with a radio-labelled antibody which binds on the specific protein to which the antibody was prepared.
+**Western Blot** Refers to the electrophoretic transfer of proteins to blotting papers. Nitrocellulose filter paper can be used for western blot technique. A particular protein is then identified by probing the blot with a radio-labelled antibody which binds on the specific protein to which the antibody was prepared.
 
 ### Bioassay for Target Gene Effect
- Target gene is target DNA, foreign DNA, passenger DNA, exogenous DNA, gene of interest or insert DNA that is to be either cloned or specifically mutated. Gene targeting experiments have been targeting the nuclei and this leads to ‘gene knock-out’. For this purpose, two types of targeting vectors are used. They are insertion vectors and replacement or transplacement vectors. 1. Insertion vectors are entirely inserted into
+Target gene is target DNA, foreign DNA, passenger DNA, exogenous DNA, gene of interest or insert DNA that is to be either cloned or specifically mutated. Gene targeting experiments have been targeting the nuclei and this leads to ‘gene knock-out’. For this purpose, two types of targeting vectors are used. They are insertion vectors and replacement or transplacement vectors. 
+ 
+1. Insertion vectors are entirely inserted into
+targeted locus as the vectors are linearized
+within the homology region. Initially, these
+vectors are circular but during insertion,
+become linear. It leads to duplication of
+sequences adjacent to selectable markers.
 
-targeted locus as the vectors are linearized within the homology region. Initially, these
+![Figure 4.22: Steps involved in southern blotting technique](4.21.png  "img-class")
 
-Weight
-
-Platform
-
-Alkali solution
-
-Size standards
-
-Auto radiography
-
-Blotting paper
-
-Membrane DNA
-
-Blotting paper
-
-Gel
-
-Nitrocellulose or other membrane
-
-Radioactive probe
-
-
-
-
-
-
-
-vectors are circular but during insertion, become linear. It leads to duplication of sequences adjacent to selectable markers.
-
-
-
-  
-
-
-2 The replacement vector has the homology region and it is co-linear with target. This vector is linearized prior to transfection outside the homology region and then consequently a crossing over occurs to replace the endogenous DNA with the incoming DNA.
+2. The replacement vector has the homology
+region and it is co-linear with target. This
+vector is linearized prior to transfection
+outside the homology region and then
+consequently a crossing over occurs to
+replace the endogenous DNA with the
+incoming DNA.
 
 **Transfection**: Introduction of foreign nucleic acids into cells by non-viral methods.
 
-**4.6.7. Genome Sequencing and Plant Genome Projects** The whole complement of gene that determine all characteristic of an organism is called genome. The genome may be nuclear genome, mitochondrial genome or plastid genome. Genome of many plants contain both functional and non-expressive DNA proteins. Genome project refers to a project in which the whole genome of plant is analysed using sequence analysis and sequence homology with other plants. Such genome projects have so far been undertaken in _Chlamydomonas_(algae), _Arabidopsis thaliana_, rice and maize plants. Genome content of an organism is expressed in terms of number of base pairs or in terms of the content of DNA which is expressed as c-value.
+###  Genome Sequencing and Plant Genome Projects
+
+The whole complement of gene that determine all characteristic of an organism is called genome. The genome may be nuclear genome, mitochondrial genome or plastid genome. Genome of many plants contain both functional and non-expressive DNA proteins. Genome project refers to a project in which the whole genome of plant is analysed using sequence analysis and sequence homology with other plants. Such genome projects have so far been undertaken in _Chlamydomonas_(algae), _Arabidopsis thaliana_, rice and maize plants. Genome content of an organism is expressed in terms of number of base pairs or in terms of the content of DNA which is expressed as c-value.
 
 ### Evolutionary pattern assessed using DNA.
- In recent years the evolutionary relationship between different plant taxa is assessed using
+In recent years the evolutionary relationship between different plant taxa is assessed using DNA content as well as the similarities and differences in the DNA sequence (sequence homology). Based on such analysis the taxa and their relationship are indicated in a cladogram which will show the genetic distance between two taxa. It also shows antiquity or modernity of any taxon with respect to one another (See also Unit-2, Chapter-5 of XI Std.) 
 
-DNA content as well as the similarities and differences in the DNA sequence (sequence homology). Based on such analysis the taxa and their relationship are indicated in a cladogram which will show the genetic distance between two taxa. It also shows antiquity or modernity of any taxon with respect to one another (See also Unit-2, Chapter-5 of XI Std.) **4.6.9 Genome editing and CRISPR - Cas9** Genome editing or gene editing is a group of technologies that has the ability to change an organism’s DNA. These technologies allow genetic material to be added,
+### Genome editing and CRISPR - Cas9 
+
+Genome editing or gene editing is a group of technologies that has the ability to change an organism’s DNA. These technologies allow genetic material to be added,
 
 **Differences between Blotting Techniques Southern blotting Northern blotting Western blotting**
 
