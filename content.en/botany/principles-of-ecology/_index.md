@@ -24,7 +24,17 @@ These questions can be better answered with the study of ecology. Ecology is ess
 
 ## Ecology
 
-The term “ecology” (oekologie) is derived from two Greek words – oikos (meaning house or dwelling place and logos meaning study) It was first proposed by R. Misra Reiter (1868). However, the most widely accepted definition of ecology was given by Ernest Haeckel (1869). Alexander von Humbolt - Father of Ecology Eugene P. Odum - Father of modern Ecology R. Misra - Father of Indian Ecology
+The term “ecology” (oekologie) is derived from two Greek words – oikos (meaning house or dwelling place and logos meaning study) It was first proposed by **R. Misra Reiter** (1868). However, the most widely accepted definition of ecology was given by **Ernest Haeckel**(1869). 
+
+![Misra](Misra.png  "img-class")
+
+> Alexander von Humbolt - Father of Ecology 
+
+> Eugene P. Odum - Father of modern Ecology 
+
+>R. Misra - Father of Indian Ecology
+
+
 
 ### Definitions of ecology
 
@@ -46,11 +56,11 @@ Ecology is mainly divided into two branches, they are autecology and synecology.
 
 ### Habitat and Niche
 
-Habitat Habitat is a specific physical place or locality occupied by an organism or any species which has a particular combination of abiotic or environmental factors. But the environment of any community is called Biotope. Niche An ecological niche refers to an organism’s place in the biotic environment and its functional role in an ecosystem. The term was coined by the naturalist Roswell Hill Johnson but Grinell ( 1917. was probably first to use this term. The
+**Habitat**
+Habitat is a specific physical place or locality occupied by an organism or any species which has a particular combination of abiotic or environmental factors. But the environment of any community is called **Biotope**. 
 
-
-
-habitat and niche of any organism is called Ecotope The differences between habitat and niche are as follows.
+**Niche** 
+An ecological niche refers to an organism’s place in the biotic environment and its functional role in an ecosystem. The term was coined by the naturalist **Roswell Hill Johnson** but Grinell ( 1917. was probably first to use this term. The habitat and niche of any organism is called Ecotope The differences between habitat and niche are as follows.
 
 Habitat Niche
 
