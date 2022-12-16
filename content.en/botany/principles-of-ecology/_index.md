@@ -802,6 +802,17 @@ Seed Ball : Seed ball is an ancient Japanese technique of encasing seeds in a mi
 and scattering them on to suitable ground, not planting of trees manually. This method Figure 6. 36. Seed ball is suitable for barren and degraded lands for tree regeneration and vegetation before monsoon period where the suitable dispersal agents become rare.
 ![Ecballium Figure 6.35: Impatents](6.36.png "img-class")
 
+Guess? what is atelochory or Achory?
+
+| Ecologically important days            	|
+|----------------------------------------	|
+| March 21 - World forest day            	|
+| April 22 - Earth day                   	|
+| May 22 - World bio diversity day       	|
+| June 05 - World environment day        	|
+| July 07 - Van Mohostav day             	|
+| September 16 - International Ozone day 	|
+
 ### Advantages of seed dispersal:
 - Seeds escape from mortality near the parent plants due to predation by animals or getting diseases and also avoiding competition.
 
@@ -811,7 +822,7 @@ and scattering them on to suitable ground, not planting of trees manually. This 
 - Seed dispersal by animals help in conservation of many species even in human altered ecosystems.
 - Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems. 
 
-#### Summary 
+### Summary 
 
 Ecology is a division of biology and deals with the study of environment in relation to organisms. Ecology is mainly divided into two branches Autecology and Synecology. The environment (surroundin g) includes physical, chemical and biological components. These factors can be classified into living (bioti c)  and non-living (abioti c) , which make the environment of an organism. The ecological factors are meaningfully grouped into four classes, which are as follows:1.  Climatic factors
 2.  Edaphic factors 3. Topographic factors 4. Biotic factors.
