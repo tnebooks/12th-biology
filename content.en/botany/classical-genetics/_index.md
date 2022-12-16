@@ -299,12 +299,14 @@ Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is domi
 
 **Inter-genic or non-allelic interaction**
 
-|    S. No. 	|      Gene  interaction 	|  Example                                                                           	|     F2  Phenotypic    ratio 	|
-|-----------	|------------------------	|------------------------------------------------------------------------------------	|-----------------------------	|
-|  1        	| Incomplete Dominance   	| Flower colour in Mirabilis jalapa.  Flower colour in snapdragon (Antirrhinum spp.) 	| 1 : 2 : 1    1 : 2 : 1      	|
-|  2        	| Codominance            	| ABO Blood group system in humans                                                   	| 1 : 2 : 1                   	|
+| S.No 	| Gene<br>interaction 	| Example 	| F2<br>Phenotypic<br>ratio 	|
+|---	|---	|---	|---	|
+| 1 	| Incomplete Dominance 	| Flower colour<br>in Mirabilis<br>jalapa.<br><br>Flower colour<br>in snapdragon<br>(Antirrhinum<br>spp. 	| 1:2:1<br><br><br><br><br>1:2:1 	|
+| 2 	| Codominance 	| ABO Blood<br>group system in<br>humans 	| 1:2:1 	|          	|
 
 **Table 2.2:** 
+
+
 
 **Inter-genic or non-allelic interaction**
 
