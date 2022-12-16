@@ -74,7 +74,7 @@ Around twentieth century cytologists established that, generally the total numbe
 
 A diploid eukaryotic cell has two haploid sets of chromosomes, one set from each parent. All somatic cells of an organism carry the same genetic complement. The behaviour of chromosomes during meiosis not only explains Mendel’s principles but leads to new and different approaches to study about heredity.
 
-![Comparison of chromosome and gene behaviour](3.1.png "")
+
 
 Homologous chromosomes
 
