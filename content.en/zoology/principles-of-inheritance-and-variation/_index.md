@@ -12,8 +12,8 @@ CHAPTER
 4 4.1 Multiple alleles 4.2 Human blood groups 4.3 Genetic control of Rh factor 4.4 Sex determination 4.5 Sex linked inheritance 4.6. Karyotyping 4.7. Pedigree analysis 4.8. Mendelian disorders 4.9. Chromosomal abnormalities 4.10. Extra chromosomal inheritance 4.11. Eugenics, euphenics and euthenics
 
 **Chapter outline**
-
-**Learning objectives**
+hint { role="info" }
+**Learning Objectives**
 
 _➢ Learns the inheritance of multiple alleles with reference to human blood groups._
 

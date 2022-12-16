@@ -3,8 +3,8 @@ title: 'Ecosystem'
 weight: 8
 ---
 
-```hint
-**Learning objectives** 
+```hint { role="info" }
+**Learning Objectives** 
 
 - The learner will be able to,
 - Describe the Structure, functions and types of ecosystems
@@ -157,7 +157,7 @@ chemical energyLight energy
 **Example:** It is shown that of the 1000 Joules of Solar energy trapped by producers. 100 Joules of energy is stored as chemical energy through photosynthesis. The remaining 900 Joules would be lost in the environment. In the next trophic level herbivores, which feed on producers get only 10 Joules of energy and the remaining 90 Joules is lost in the environment. Likewise, in the next trophic level, carnivores, which eat herbivores store only 1 Joule of energy and the remaining 9 Joules is dissipated. Finally, the carnivores are eaten by tertiary consumers which store only 0.1 Joule of energy and the remaining 0.9 Joule is lost in the environment. Thus, at the successive trophic level, only ten percent energy is stored.
 
 ### Food chain
- The movement of energy from producers upto top carnivores is known as **food chain**, i.e., in any food chain, energy flows from producers to primary consumers, then from primary consumers to secondary consumers, and finally secondary consumers to tertiary consumers. Hence, it shows linear network links. Generally, there are two types of food chain, (1) Grazing food chain and (2) Detritus food chain.
+The movement of energy from producers upto top carnivores is known as **food chain**, i.e., in any food chain, energy flows from producers to primary consumers, then from primary consumers to secondary consumers, and finally secondary consumers to tertiary consumers. Hence, it shows linear network links. Generally, there are two types of food chain, (1) Grazing food chain and (2) Detritus food chain.
 
 **1. Grazing food chain** Main source of energy for the grazing food chain is the Sun. It begins with the first link,
 
@@ -187,7 +187,7 @@ Fallen leaves HawkEarthworm Black bird
 ![Diagrammatic representation of Detritus food chain.](detritus-food-chain.png "")
 
 ### Food Web
- The inter-locking pattern of a number of food chain form a web like arrangement called **food web**. It is the basic unit of an ecosystem, to maintain its stability in nature. Which its also called homeostasis.
+The inter-locking pattern of a number of food chain form a web like arrangement called **food web**. It is the basic unit of an ecosystem, to maintain its stability in nature. Which its also called homeostasis.
 
 Example: In a grazing food chain of a grass
 

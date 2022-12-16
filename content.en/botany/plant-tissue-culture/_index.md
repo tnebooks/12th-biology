@@ -3,7 +3,7 @@ title: 'Plant Tissue Culture'
 weight: 6
 ---
 
-```
+```hint { role="info" }
 **Learning Objectives**
 
 - Perceive the concepts of tissue culture. 

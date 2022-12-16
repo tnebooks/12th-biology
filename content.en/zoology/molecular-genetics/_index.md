@@ -14,7 +14,7 @@ CHAPTER
 5 5.1 Gene as the functional unit of inheritance 5.2 In search of the genetic material 5.3 DNA is the genetic material 5.4 Chemistry of nucleic acids 5.5 RNA world 5.6 Properties of genetic material 5.7 Packaging of DNA helix 5.8 DNA Replication 5.9 Transcription 5.10 Genetic code 5.11 tRNA – the adapter molecule 5.12 Translation 5.13 Regulation of Gene expression 5.14 Human Genome Project (HGP) 5.15 DNA finger printing technique
 
 **Chapter Outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 _➢ Identifies DNA as the genetic material. ➢ Understands the organization of prokaryotic_

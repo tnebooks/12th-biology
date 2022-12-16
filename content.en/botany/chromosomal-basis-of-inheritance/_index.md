@@ -3,8 +3,27 @@ title: 'Chromosomal Basis of Inheritance'
 weight: 4
 ---
   
+<<<<<<< HEAD
 ```
 
+=======
+
+
+## Chromosomal Theory of Inheritance
+
+G. J. Mendel (1865) studied the inheritance of well-defined characters of pea plant but for several reasons it was unrecognized till 1900. Three scientists (de Vries, Correns and Tschermak) independently rediscovered Mendel’s results on the inheritance of characters. Various cytologists also observed cell division due to advancements in microscopy. This led to the discovery of structures inside nucleus. In eukaryotic cells, worm-shaped structures formed during cell division are called **chromosomes** (colored bodies, visualized by staining). An organism which possesses two complete basic sets of chromosomes are known as diploid. A chromosome consists of long, continuous coiled piece of DNA in which genes are arranged in linear order. Each gene has a definite position (locus) on a chromosome. These genes are hereditary units. Chromosomal theory of inheritance states that Mendelian factors (genes) have specific locus (position) on chromosomes and they carry information from one generation to the next generation.
+
+### Historical development of chromosome theory
+
+The important cytological findings related to the chromosome theory of inheritance are given below. � **Wilhelm Roux (1883)** postulated that the
+
+chromosomes of a cell are responsible for transferring heredity.
+
+� Montgomery (1901) was first to
+
+In the previous chapter you have learned about Mendelian genetics, now you are going to be study with deviations of concepts related to Mendelian genetics and chromosomal theory of inheritance. You must recall the structure of chromosome and cell division from eleventh standard.
+hint { role="info" }
+>>>>>>> a5279e0ee802c16c2c973cc8a90884cdef1d9bbb
 **Learning Objectives**
 
 The Learner will be able to

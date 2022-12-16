@@ -20,7 +20,7 @@ hygiene 7.3 Adolescence – Drug and alcohol
 abuse 7.4 Mental health – Depression 7.5 Lifestyle disorders in human beings
 
 **Chapter outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 ➢ _Learns about various bacterial, viral, fungal, protozoan and helminth diseases._

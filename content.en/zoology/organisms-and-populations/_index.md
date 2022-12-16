@@ -24,7 +24,7 @@ CHAPTER
 Distribution 11.5. Responses to abiotic factors 11.6. Adaptations 11.7. Populations 11.8. Population attributes 11.9. Population age distribution 11.10. Growth models / Curves 11.11. Population regulation 11.12. Population interaction
 
 **Chapter Outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 **To gain knowledge / insight about:** ➢ T_he local and geographical distribution_

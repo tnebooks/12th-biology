@@ -22,8 +22,8 @@ female foeticide and infanticide 3.4. Population explosion and birth control 3.5
 pregnancy
 
 **Chapter outline**
-
-**Learning objectives**
+hint { role="info" }
+**Learning Objectives**
 
 _➢ Understands the importance of sex education and reproductive health._
 

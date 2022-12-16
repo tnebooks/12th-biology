@@ -16,8 +16,8 @@ CHAPTER
 and India 12.3 Biogeographical regions of India 12.4 Threats to biodiversity 12.5. Causes of Biodiversity Loss 12.6 IUCN 12.7 Biodiversity and its conservation 12.8 Restoration of degraded habitats 12.9 Biodiversity Act (BDA)
 
 **Chapter outline**
-
-**Learning objectives**
+hint { role="info" }
+**Learning Objectives**
 
 ➢ _Acquire knowledge about concept, level and patterns of biodiversity._
 

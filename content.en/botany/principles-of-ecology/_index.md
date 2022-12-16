@@ -3,7 +3,7 @@ title: 'Principles of Ecology'
 weight: 7
 ---
 
-```
+```hint { role="info" }
 Learning Objectives 
 
 The learner will be able to 
@@ -114,10 +114,8 @@ Movem G e er n m t i s nation of F s lo e wer e ing ds Tuber fo rmation Run ner 
 Based on the range of thermal tolerance, organisms are divided into two types.
 
 
-
-1.  Eurythermal: Organisms which can tolerate a wide range of temperature fluctuations. Example: Zostera (A marine Angiosperm) and Artemisia tridentata.
-    
-2.  Stenothermal: Organisms which can tolerate only small range of temperature variations. Example: Mango and Palm (Terrestrial Angiosperms). Mango does not grow in temperate countries like Canada and Germany. Thermal Stratification It is usually found in aquatic habitat. The change in the temperature profile with increasing depth in a water body is called thermal stratification. There are three levels of thermal stratifications. Epilimnion Metalimnion Hypolimnion
+Learning Objectives 
+aquatic habitat. The change in the temperature profile with increasing depth in a water body is called thermal stratification. There are three levels of thermal stratifications. Epilimnion Metalimnion Hypolimnion
     
 
 ![Thermal stratification of pond](6.3.png "img-class")
@@ -160,7 +158,7 @@ Tree line Con fo if r e e r s o t us c. Water Water is one of the most important
 2.  Stenohaline: Organisms which can withstand only small range of salinity. Example: Plants of estuaries.
     
 
-Terminology Environmental factor Stenothermal Eurythermal Temperature Stenohaline Euryhaline Salinity Stenoecious Euryoecious Habitat selection (nich e) Stenohydric Euryhydric Water Stenophagic Euryphagic Food Stenobathic Eurybathic Depth of water / habitat Table 6. 2. Tolerance of Environmental factor 
+Terminology Environmental factor Stenothermal Eurythermal Temperature Stenohaline Euryhaline Salinity Stenoecious Euryoecious Habitat selection (nich e) Stenohydric Euryhydric Water Stenophagic Euryphagic Food Stenobathic Eurybathic Depth of water / habitat TabLearning Objectives 
 
 Examples of tolerance to toxicity i. Soyabean and tomato manage to tolerate presence of cadmium poisoning by isolating cadmium and storing into few group of cells and prevent cadmium affecting other cells .
 ii. Rice and Eichhornia (water hyacinth ) tolerate cadmium by binding it to their proteins. These plants otherwise can also be used to remove cadmium from contaminated soil ,this is known as Phytoremediation. d. Wind Air in motion is called wind. It is also a vital ecological factor. The atmospheric air contains a number of gases, particles and other constituents. The composition of gases in atmosphere is as follows: Nitrogen - 78. , Oxygen -21%, Carbon-di-oxide -0.03%, Argon and other gases - 0.93%. The other components of wind are water vapour, gaseous pollutants, dust, smoke particles, microorganisms, pollen grains, spores, etc. Anemometer is the instrument used to measure the speed of wind. Green House Effect Albedo Effect Gases let out to atmosphere causes climatic change. Emission of dust and aerosols (small solids or liquid particles in suspension in the atmospher e) from industries, automobiles, forest fire, So2 and DMS (dimethyl sulphur) play an important role in disturbing the temperature level of any region. Aerosols with small particles is reflecting the solar radiation entering the atmosphere. This is known as Albedo effect. So it reduces the temperature (coolin g)  

@@ -2,7 +2,7 @@
 title: 'Classical Genetics'
 weight: 3
 ---
-```
+```hint { role="info" }
 **Learning Objectives**
 
 The Learner will be able to
@@ -127,7 +127,7 @@ If an individual has two identical alleles of a gene, it is called as **homozygo
 
 When the gene has two alleles the dominant allele is symbolized with capital letter and the recessive with small letter. When both alleles are recessive the individual is called **homozygous recessive** (tt) dwarf pea plants. An individual with two dominant alleles is called **homozygous dominant** (TT) tall pea plants. One dominant allele and one recessive allele (Tt) denotes non- true breeding tall pea plants **heterozygous tall.**
 
-### Mendelian inheritance – Mendel’s Laws of Heredity
+## Mendelian inheritance – Mendel’s Laws of Heredity
 
 Mendel proposed two rules based on his observations on monohybrid cross, today these rules are called laws of inheritance The first law is The Law of Dominance and the second law is The Law of Segregation. These scientific laws play an important role in the history of evolution.
 
@@ -146,7 +146,8 @@ and a heterozygous parent produces two kinds of gametes each having one allele w
  
  It is a graphical representation to calculate the probability of all possible genotypes of offsprings in a genetic cross.The Law of Dominance and the Law of Segregation give suitable explanation to Mendel’s monohybrid cross.
 
-**Reciprocal cross** – In one experiment, the tall pea plants were pollinated with the pollens from a true-breeding dwarf plants, the result was all tall plants. When the parental types were reversed, the pollen from a tall plant was used to pollinate a dwarf pea plant which gave only tall plants. The result was the same - All tall plants. Tall ( ) x Dwarf ( ) and Tall ( ) x Dwarf ( ) matings are done in both ways which are called reciprocal crosses.The results of the reciprocal crosses are the same. So it was concluded that the trait is not sex dependent. The results of Mendel’s monohybrid crosses were not sex dependent.
+### Reciprocal cross 
+In one experiment, the tall pea plants were pollinated with the pollens from a true-breeding dwarf plants, the result was all tall plants. When the parental types were reversed, the pollen from a tall plant was used to pollinate a dwarf pea plant which gave only tall plants. The result was the same - All tall plants. Tall ( ) x Dwarf ( ) and Tall ( ) x Dwarf ( ) matings are done in both ways which are called reciprocal crosses.The results of the reciprocal crosses are the same. So it was concluded that the trait is not sex dependent. The results of Mendel’s monohybrid crosses were not sex dependent.
 
 The gene for plant height has two alleles: Tall (T) x Dwarf (t). The phenotypic and genotypic analysis of the crosses has been shown by Checker board method or by Forkline method.
 
@@ -156,7 +157,7 @@ Mendel chose two contrasting traits for each character. So it seemed logical tha
 
 Mendel’s analytical approach is truly an outstanding scientific achievement. His meticulous work and precisely executed breeding experiments proposed that discrete particulate units of heredity are present and they are transmitted from one generation to the other. Now they are called as genes. Mendel’s experiments were well planned to determine the relationships which govern hereditary traits. This rationale is called an empirical approach. Laws that were arrived from an empirical approach is known as empirical laws.
 
-### Test cross
+**2. 3.2 Test cross**
 
 Test cross is crossing an individual of unknown genotype with a homozygous recessive.
 
@@ -197,7 +198,8 @@ one of the parental genotypes. The back cross is of two types; they are dominant
 ### Dihybrid cross
  It is a genetic cross which involves individuals differing in two characters. Dihybrid inheritance is the inheritance of two separate genes each with two alleles.
 
-**Law of Independent Assortment** – When two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent to the other pair of characters. Genes that are located in different chromosomes assort independently during meiosis. Many possible combinations of factors can occur in the gametes.
+### Law of Independent Assortment – 
+When two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent to the other pair of characters. Genes that are located in different chromosomes assort independently during meiosis. Many possible combinations of factors can occur in the gametes.
 
 
 ![Dihybrid cross – Segregation of gametes](dihybrid-cross-segregation-of-gametes.png "")
@@ -233,7 +235,9 @@ The protein called starch branching enzyme (SBEI) is encoded by the wild-type al
 ### Extensions of Mendelian Genetics
  Apart from monohybrid, dihybrid and trihybrid crosses, there are exceptions to Mendelian principles, i.e. the occurrence of different phenotypic ratios. The more complex patterns of inheritance are the extensions of Mendelian Genetics. There are examples where phenotype of the organism is the result of the interactions among genes.
 
-**Gene interaction –** A single phenotype is controlled by more than one set of genes, each of which has two or more alleles. This phenomenon is called Gene Interaction. Many characteristics of the organism including structural and chemical which constitute the phenotype are the result of interaction between two or more genes.
+## Gene interaction – 
+
+A single phenotype is controlled by more than one set of genes, each of which has two or more alleles. This phenomenon is called Gene Interaction. Many characteristics of the organism including structural and chemical which constitute the phenotype are the result of interaction between two or more genes.
 
 ![Gene Interaction](gene-interaction.png "")
 
@@ -302,14 +306,18 @@ Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is domi
 
 **Table 2.1:** 
 
-**Inter-genic or non-allelic interaction**
+**Intra-genic or non-allelic interaction**
 
-|  <br> S.<br>No. |   <br>  Gene <br>interaction | <br>Example                                                                                             |     F2<br><br>Phenotypic<br>   ratio |
-|-----------------|------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------|
-|  1              | Incomplete<br>Dominance      | Flower colour<br>in Mirabilis<br>jalapa.<br><br>Flower colour<br>in snapdragon<br>(Antirrhinum<br>spp.) | 1 : 2 : 1<br><br><br><br>1 : 2 : 1   |
-|  2              | Codominance                  | ABO Blood<br>group system in<br>humans                                                                  | 1 : 2 : 1                            |
+|    S. No. 	|      Gene  interaction 	|  Example                                                                           	|     F2  Phenotypic    ratio 	|
+|-----------	|------------------------	|------------------------------------------------------------------------------------	|-----------------------------	|
+|  1        	| Incomplete Dominance   	| Flower colour in Mirabilis jalapa.  Flower colour in snapdragon (Antirrhinum spp.) 	| 1 : 2 : 1    1 : 2 : 1      	|
+|  2        	| Codominance            	| ABO Blood group system in humans                                                   	| 1 : 2 : 1                   	|
 
 **Table 2.2:** 
+
+
+
+
 
 **Inter-genic or non-allelic interaction**
 

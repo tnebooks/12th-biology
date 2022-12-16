@@ -18,8 +18,8 @@ CHAPTER
 energy generation 9.4 Microbes in the production of biogas 9.5 Bioremediation
 
 **Chapter outline**
-
-**Learning objectives**
+hint { role="info" }
+**Learning Objectives**
 
 ➢ _Differentiates probiotics from pathogens._
 

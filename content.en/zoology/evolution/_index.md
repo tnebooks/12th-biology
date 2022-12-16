@@ -36,7 +36,7 @@ CHAPTER
 6.11 Extinction of animals
 
 **Chapter Outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 _➢ Understands the evolution of life on earth._

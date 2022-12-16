@@ -14,7 +14,7 @@ CHAPTER
 1 1.1. Modes of reproduction 1.2. Asexual reproduction 1.3. Sexual reproduction
 
 **Chapter Outline**
-
+hint { role="info" }
 **Learning Objectives**
 
 ➢ _Learns the modes of asexual reproduction in organisms._
