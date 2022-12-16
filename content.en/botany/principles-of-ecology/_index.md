@@ -324,72 +324,80 @@ Based on the relative proportion of soil particles, four types of soil are recog
 | 4 	| Sandy soil    	| 0.2 to 2 mm              	| 85% sand and 15% clay ( light soil )                	|
 
 
+**Loamy soil is ideal soil for cultivation.**
+It consists of 70. sand and 30% clay or silt or both. It ensures good retention and proper drainage of water. The porosity of soil provides adequate aeration and allows the penetration of roots. Based on the water retention, aeration and mineral contents of soil, the distribution of vegetation is divided into following types.
 
-Description It consists of fresh or partially decomposed organic matter.
-
-O1 – Freshly fallen leaves, twigs, flowers and fruits O2 – Dead plants, animals and their excreta decomposed by micro-organisms. Usually absent in agricultural and deserts. It consists of top soil with humus, living creatures and in-organic minerals. A1 – Dark and rich in organic matter because of mixture of organic and mineral matters. A2 – Light coloured layer with large sized mineral particles.
-
-It consists of iron, aluminium and silica rich clay organic compounds.
-
-It consists of parent materials of soil, composed of little amount of organic matters without life forms.
-
-It is a parent bed rock upon which underground water is found .
-
-oil Profile Loamy soil is ideal soil for cultivation. It consists of 70. sand and 30% clay or silt or both. It ensures good retention and proper drainage of water. The porosity of soil provides adequate aeration and allows the penetration of roots. Based on the water retention, aeration and mineral contents of soil, the distribution of vegetation is divided into following types.
-
-1.  Halophytes: Plants living in saline soils
+**1.Halophytes:** Plants living in saline soils
     
-2.  Psammophytes: Plants living in sandy soils
+**2.Psammophytes:** Plants living in sandy soils
     
-3.  Lithophytes: Plants living on rocky surface
+**3.Lithophytes:** Plants living on rocky surface
     
-4.  C hasmophytes: Plants living in rocky crevices
+**4.C hasmophytes:** Plants living in rocky crevices
     
-5.  Cryptophytes: Plants living below the soil surface
+**5.Cryptophytes:** Plants living below the soil surface
     
-6.  Cryophytes: Plants living on surface of ice
+**6.Cryophytes:** Plants living on surface of ice
     
-7.  Oxylophytes: Plants living in acidic soil
+**7.Oxylophytes:** Plants living in acidic soil
     
-8.  Calciphytes: Plants living in calcium rich alkaline soil.
-    
-
-Holard –Total soil water content Chresard –Water available to plants Echard – Water not available to plants
+**8.Calciphytes:** Plants living in calcium rich alkaline soil.
+**Holard** – Total soil water content 
+**Chresard** –Water available to plants 
+**Echard** – Water not available to plants
 
 ### Topographic factors
 
-The surface features of earth are called topography. Topographic influence on the climate of any area is determined by the interaction of solar radiation, temperature, humidity, rainfall, latitude and altitude. It affects the vegetation through climatic variations in small areas (micro climate ) and even changes the soil conditions. Topographic factors include latitude, altitude, direction of mountain, steepness of mountain etc. a. Latitudes and altitudes Latitudes represent distance from the equator. Temperature values are maximum at the equator and decrease gradually towards poles. Different types of vegetation occur from equator to poles which are illustrated below.
+The surface features of earth are called **topography.** Topographic influence on the climate of any area is determined by the interaction of solar radiation, temperature, humidity, rainfall, latitude and altitude. It affects the vegetation through climatic variations in small areas (micro climate ) and even changes the soil conditions. Topographic factors include latitude, altitude, direction of mountain, steepness of mountain etc. 
+
+#### Latitudes and altitudes
+Latitudes represent distance from the equator. Temperature values are maximum at the equator and decrease gradually towards poles. Different types of vegetation occur from equator to poles which are illustrated below.
 
 ![Latitudinal and Altitudinal Vegetation](6.8.png "img-class")
 
-Height above the sea level forms the altitude. At high altitudes, the velocity of wind remains high, temperature and air pressure decrease while humidity and intensity of light increases. Due to these factors, vegetation at different altitudes varies, showing distinct zonation.
+Height above the sea level forms the **altitude.** At high altitudes, the velocity of wind remains high, temperature and air pressure decrease while humidity and intensity of light increases. Due to these factors, vegetation at different altitudes varies, showing distinct zonation.
 
-b. Direction of Mountain North and south faces of mountain or hill possess different types of flora and fauna because they differ in their humidity, rainfall, light intensity, light duration and temperature regions.
+#### b. Direction of Mountain
+North and south faces of mountain or hill possess different types of flora and fauna because they differ in their humidity, rainfall, light intensity, light duration and temperature regions.
 
-Ecotone - The transition zone between two ecosystems. Example: The border between forest and grassland. Edge effect – Species found in ecotone areas are unique due to the effect of the two habitats. Example: Owl in the ecotone area between forest and grassland. The two faces of the mountain or hill receive different amount of solar radiation, wind action and rain. Of these two faces, the windward region possesses good vegetation due to heavy rains and the leeward region possesses poor vegetation due to rain shadows (rain deficit). Similarly in the soil of aquatic bodies like ponds the center and edge possess different depth of water due to soil slope and different wave actions in the water body. Therefore, different parts of the same area may possess different species of organisms. c. Steepness of the mountain The steepness of the mountain or hill allows the rain to run off. As a result the loss of water causes water deficit and quick erosion of the top soil resulting in poor vegetation. On the other hand, the plains and valley are rich in vegetation due to the slow drain of surface water and better retention of water in the soil. Clouds Moist Rain winds Sea
+**Ecotone**- The transition zone between two ecosystems. Example: The border between forest and grassland. 
 
+**Edge effect** – Species found in ecotone areas are unique due to the effect of the two habitats. Example: Owl in the ecotone area between forest and grassland.
+
+The two faces of the mountain or hill receive different amount of solar radiation, wind action and rain. Of these two faces, the windward region possesses good vegetation due to heavy rains and the leeward region possesses poor vegetation due to rain shadows (rain deficit). 
+
+Similarly in the soil of aquatic bodies like ponds the center and edge possess different depth of water due to soil slope and different wave actions in the water body. Therefore, different parts of the same area may possess different species of organisms. 
+
+#### c. Steepness of the mountain 
+The steepness of the mountain or hill allows the rain to run off. As a result the loss of water causes water deficit and quick erosion of the top soil resulting in poor vegetation. On the other hand, the plains and valley are rich in vegetation due to the slow drain of surface water and better retention of water in the soil. 
 ![Steepness of mountain](6.9.png "img-class")
-
-
-
-Poor vegetation Ric h ve get atio n
 
 ### Biotic factors
 
-The interactions among living organisms such as plants and animals are called biotic factors, which may cause marked effects upon vegetation. The effects may be direct and indirect and modifies the environment. The plants mostly which lives together in a community and influence one another. Similarly, animals in association with plants also affect the plant life in one or several ways. The different interactions among them can be classified into following two types they are positive interaction and negative interaction Positive interactions When one or both the participating species are benefited, it is positive interaction. Examples; Mutualism and Commensalism. a. Mutualism: It is an interaction between two species of organisms in which both are benefitted from the obligate association. The following are common examples of mutualism. Nitrogen fixation Rhizobium (Bacterium) forms nodules in the roots of leguminous plants and lives symbiotically. The Rhizobium obtains food from leguminous plant and in turn fixes atmospheric nitrogen into nitrate, making it available to host plants. Interaction type Combination 1.Positive interaction 1 Mutualism (+) (+) Both speci 2 Commensalism (+) ( 0. One specie the other s benefitted 2.Negative interaction 4 Predation (+) (-) One specie other spec 5 Parasitism (+) (-) One specie other spec 6 Competition (-) (-) Harmful fo 7 Amensalism (-) ( 0. Harmful fo other spec (+) Benefitted, (-) Har Table 6. 4. Different i
+The interactions among living organisms such as plants and animals are called biotic factors, which may cause marked effects upon vegetation. The effects may be direct and indirect and modifies the environment. The plants mostly which lives together in a community and influence one another. Similarly, animals in association with plants also affect the plant life in one or several ways. The different interactions among them can be classified into following two types they are positive interaction and negative interaction 
 
+#### Positive interactions 
 
+When one or both the participating species are benefited, it is positive interaction. Examples; Mutualism and Commensalism.
 
-Other examples: Nodules
-- Water fern (Azoll a) and Root hair Nitrogen fixing Cyanobacterium Bacteria (Anabaena ).
+##### a.Mutualism: 
+It is an interaction between two species of organisms in which both are benefitted from the obligate association. The following are common examples of mutualism. 
 
-- Anabaena present in coralloid Figure 6. 10. roots of Cycas. A nodulated legume (Gymnosperm) plant root with bacteria
+##### Nitrogen fixation 
+
+Rhizobium (Bacterium) forms nodules in the roots of leguminous plants and lives symbiotically. The Rhizobium obtains food from leguminous plant and in turn fixes atmospheric nitrogen into nitrate, making it available to host plants. 
+
+table 6.4
+Other examples: 
+- Water fern (*Azolla*) and Root hair Nitrogen fixing Cyanobacterium Bacteria (*Anabaena*).
+- *Anabaena* present in coralloid Figure 6. 10. roots of Cycas. A nodulated legume (Gymnosperm) 
 - Cyanobacterium (Nosto c) found in the thalloid body of Anthoceros.(Bryophytes)
 - Wasps present in fruits of fig.
 - Lichen is a mutual association of an alga and a fungus.
 
-- Roots of terrestrial plants and fungal hyphae- Mycorrhiza b. Commensalism: It is an interaction between two organisms in which one is benefitted and the other is neither benefitted nor harmed. The species that derives benefit is called the commensal, while the other species is called the host. The common examples of commensalism are listed below: Effects Examples es benefitted Lichen, Mycorrhiza etc. s is benefitted and orchids, Lianas etc. pecies is neither nor harmed s benefitted, the Drosera, Nepenthes etc. ies are harmed s benefitted, the Cuscuta, Duranta, ies are harmed Viscum etc. r both Grassland species r one, but the Penicillium and  
-ies are unaffected Staphylococcus med (0)Unaffected nteractions of plant
+- Roots of terrestrial plants and fungal hyphae- Mycorrhiza 
+
+**b. Commensalism:** It is an interaction between two organisms in which one is benefitted and the other is neither benefitted nor harmed. The species that derives benefit is called the **commensal**, while the other species is called the host. The common examples of commensalism are listed below: 
 
 Epiphytes The plants Leaves which are found growing on Supporting other plants plant without harming Clinging them are called root epiphytes. They Arial absorping root are commonly Figure 6. 11. An epiphytic plant-Vanda found in tropical rain forest.
 
