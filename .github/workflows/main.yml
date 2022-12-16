@@ -33,7 +33,7 @@ jobs:
 
       - name: Run Hugo
         working-directory: gurukulam/site
-        run: hugo --themesDir ../..
+        run: env BUILD_PRODUCTION="Y" hugo --themesDir ../..
  
       - name: Build Theme
         run: |
