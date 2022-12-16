@@ -227,9 +227,9 @@ Artificial seeds have many advantages over the true seeds
 ### Virus-free plants
 The field grown plants like perennial crops, usually are infected by variety of pathogens like fungi, bacteria, mycoplasma, viruses which cause considerable economic losses. Chemical methods can be used to control fungal and bacterial pathogens, but not viruses generally.
 
+![Figure 5.13: Shoot tip - Apical Meristem](5.14.png "")
+
 Shoot meristem tip culture is the method to produce virus-free plants, because the shoot meristem tip is always free from viruses.
-
-
 
 ## Conservation of plant genetic resources
 
@@ -238,38 +238,21 @@ Germplasm conservation refers to the conservation of living genetic resources li
 
 Germplasm conservation resources is a part of collection of seeds and pollen that are stored in seed or pollen banks, so as to maintain their viability and fertility for any later use such as hybridization and crop improvement. Germplasm conservation may also involve a gene bank, DNA bank of elite breeding lines of plant resources for the maintenance of biological diversity and also for food security.
 
+![Figure 5.15: Seed bank](5.15.png "")
+
+
 ### Cryopreservation (–195.C)
  Cryopreservation, also known as Cryo-conservation, is a process by which protoplasts, cells, tissues, organelles, organs, extracellular matrix, enzymes or any other biological materials are subjected to preservation by cooling to very low temperature of –196°C using liquid nitrogen. At this extreme low temperature any enzymatic or chemical activity of the biological material will be totally stopped and this leads to preservation of material in dormant status. Later these materials can be activated by bringing to room temperature slowly for any experimental work.
 
-
-
-
-
+![Figure 5.16: Cryopreservation](5.16.png "")
 
 Protective agents like dimethyl sulphoxide, glycerol or sucrose are added before cryopreservation process. These protective agents are called cryoprotectants, since they protect the cells, or tissues from the stress of freezing temperature.
 
 ## Intellectual Property Right (IPR)
  Intellectual property right (IPR) is a category of rights that includes intangible creation of the human intellect, and primarily consists of copyrights, patents, and trademarks. It also includes other types of rights, such as trade secrets, publicity rights, moral rights, and rights against unfair competition.
 
-![IPR in India](ipr-in-india.png "")
+![IPR in India](5.17.png "")
 
-**IPR IN INDIA**
-
-Patent
-
-Trademark
-
-Copyright
-
-Plant Breeders
-
-right Utility/Model
-
-Design
-
-Geographical Indication
-
-Trade Secrets
 - In biotechnology, the transformed microorganisms and plants and technologies for the production of commercial products are exclusively the property of the discoverer.
 - The discoverer has the full rights on his property. It should not be neglected by the others without legal permission.
 - The right of discoverer must be protected and it does by certain laws framed by a country.
@@ -281,7 +264,17 @@ Trade Secrets
 - Patent terms give the inventor the rights to exclude others from making, using or selling his invention.
 
 ### Biosafety and Bioethics
-Advances in biotechnology and their applications deals with genetic manipulation. **Biosafety** Biosafety is the prevention of large-scale loss of biological integrity, focusing both on ecology and human health. These prevention mechanisms include conduction of regular reviews of the biosafety in laboratory settings, as well as strict guidelines to follow. Many laboratories handling biohazards employ an ongoing risk management assessment and enforcement process for biosafety. Failures to follow such protocols can lead to increased risk of exposure to biohazards or pathogens. **Bioethics - Ethical, Legal and Social Implications (ELSI)** Bioethics refers to the study of ethical issues emerging from advances in biology and medicine. It is also a moral discernment as it relates to medical policy and practice. Bioethicists are concerned with the ethical questions that arise in the relationships among life sciences, biotechnology and medicine. It includes the study of values relating to primary care and other branches of medicine. The scope of bioethics is directly related to biotechnology, including cloning, gene therapy, life extension, human genetic engineering, astroethics life in space, and manipulation of basic biology through altered DNA, RNA and proteins. These developments in biotechnology will affect future evolution, and may require new principles, such as biotic ethics, that values life and its basic biological characters and structures. The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 as an integral part of the Human Genome Project. The mission of the ELSI program was to identify and address issues raised by genomic research that would affect individuals, families, and society. A percentage of the Human Genome Project budget at the National Institutes of Health and the U.S. Department of Energy was devoted to ELSI research. **Genetic Engineering Appraisal Committee (GEAC)** GEAC is an apex body under Ministry of Environment, Forests and Climate change for regulating manufacturing, use, import, export and storage of hazardous microbes or genetically modified organisms (GMOs) and cells in the country. It was established as an apex body to accord approval of activities involving large scale use of hazardous microorganisms and recombinants in research and industrial production. The GEAC is also responsible for approval of proposals relating to release of genetically engineered organisms and products into the environment including experimental field trials.
+Advances in biotechnology and their applications deals with genetic manipulation. 
+
+**Biosafety** Biosafety is the prevention of large-scale loss of biological integrity, focusing both on ecology and human health. These prevention mechanisms include conduction of regular reviews of the biosafety in laboratory settings, as well as strict guidelines to follow. Many laboratories handling biohazards employ an ongoing risk management assessment and enforcement process for biosafety. Failures to follow such protocols can lead to increased risk of exposure to biohazards or pathogens.
+
+**Bioethics - Ethical, Legal and Social Implications (ELSI)** 
+
+Bioethics refers to the study of ethical issues emerging from advances in biology and medicine. It is also a moral discernment as it relates to medical policy and practice. Bioethicists are concerned with the ethical questions that arise in the relationships among life sciences, biotechnology and medicine. It includes the study of values relating to primary care and other branches of medicine. The scope of bioethics is directly related to biotechnology, including cloning, gene therapy, life extension, human genetic engineering, astroethics life in space, and manipulation of basic biology through altered DNA, RNA and proteins. These developments in biotechnology will affect future evolution, and may require new principles, such as biotic ethics, that values life and its basic biological characters and structures. The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 as an integral part of the Human Genome Project. The mission of the ELSI program was to identify and address issues raised by genomic research that would affect individuals, families, and society. A percentage of the Human Genome Project budget at the National Institutes of Health and the U.S. Department of Energy was devoted to ELSI research. 
+
+**Genetic Engineering Appraisal Committee (GEAC)** 
+
+GEAC is an apex body under Ministry of Environment, Forests and Climate change for regulating manufacturing, use, import, export and storage of hazardous microbes or genetically modified organisms (GMOs) and cells in the country. It was established as an apex body to accord approval of activities involving large scale use of hazardous microorganisms and recombinants in research and industrial production. The GEAC is also responsible for approval of proposals relating to release of genetically engineered organisms and products into the environment including experimental field trials.
 
 ## Future of Biotechnology
 Biotechnology has become a comprehensive scientific venture from the point of academic and commercial angles, within a short time with the sequencing of human genome and genome of some important organisms. The future developments in biotechnology will be exciting. Thus the development in biotechnology will lead to a new scientific revolution that would change the lives and future of people. Like industrial and computer revolution, biotechnological revolution will also promise major changes in many aspects of modern life.
@@ -290,94 +283,3 @@ Biotechnology has become a comprehensive scientific venture from the point of ac
 
 Tissue culture is the in vitro asceptic culture of cells, tissues or organs into whole plants under controlled nutritional and environmental conditions. A German physiologist Gotllieb Haberlant in 1902 for the first time attempted to culture plant cells in artificial medium, hence he was regarded as father of Tissue culture. Tissue culture mainly based on the concepts totipotency, differentiation, redifferentiation and dedifferentiation. Plant tissue culture technique involves selection of explants, sterilization, media preparation, maintaining culture condition, callus formation, embryogenesis or organgenesis and hardening. Based on the explants chosen the types of tissue culture are organ culture, meristem culture, protoplast culture and cell suspension culture. From the explants, plants can be regenerated by somatic embryogenesis or organgenesis is said to be plant regeneration pathway. Some of the main applications of tissue culture are production of somatic hybrids, artificial seeds, disease resistant and stress resistant plants, germplasm conservation, micropropagation and production of secondary metabolites. Intellectual Property Right (IPR) is primarily aimed at patents, copyrights, trade secret and trademark given to the discoverer / inventor for the commercial production of transformed micro organisms or plants. Biosafety is the prevention mechanism to protect harmful incidents due to biohazards or pathogens. Bioethics dealt with ethical issue emerging from biotechnological advancement. ELSI program addresses issues related to genenomic research. GEAC (Genetic Engineering Appraisal Committee) is a regulatory authority for release of genetically modified products or organisms into the environment.
 
-**Composition of MS(Murashige and Skoog) Medium**
-
-**Macronutrients**: Ammonium nitrate (NH4NO3) 1650.0 mg/l Potassium nitrate (KNO3) 1900.0 mg/l Calcium chloride (CaCl2 2H2O) 440.0 mg/l Magnesium sulphate (MgSO4 6H2O) 370.0 mg/l Potassium dihydrogen phosphate (KH2PO4) 170.0 mg/l
-
-**Micronutrients**: Manganese sulphate (MnSO4 4H2O) 22.3 mg/l Zinc sulphate (ZnSO4 4H2O) 8.6 mg/l Boric acid (H3BO3) 6.2 mg/l Potassium iodide (KI) 0.83 mg/l
-
-**Minor nutrient:** Sodium molybdate (Na2 MO4 2H2O) 0.250 mg/l Cupric sulphate (CuSO4 5H2O) 0.025 mg/l Cobaltous chloride (CoCl2 6H2O) 0.025 mg/l
-
-**Iron stock** Na EDTA 37.25 mg/l Ferrous Sulphate (FeSO4 7H2O) 27.85 mg/l
-
-**Vitamins** Glycine 2.0 mg/l Nicotinic acid 0.5 mg/l Pyridoxin HCl 0.5 mg/l Thaiamine HCl 0.1 mg/l
-
-**Growth Hormones** IAA 1.30 mg/l Kinetin 0.4–10.0 mg/l Myo-inositol 100.0 mg/l Sucrose 30.0 g/l
-
-**Solidifying Agent** Agar 8.0 g/l
-
-**Glossary Aseptic condition**: Preparation of materials free from microbes in _in vitro_ cultures.
-
-**Cell Culture**: Growing of cells _in vitro_, including the culture of single cells or small aggregates of cells in a liquid medium.
-
-**Chemically defined medium: A nutritive** medium used for culturing cells or tissue; each chemical of this medium is known and defined;
-
-**Cybrid**: Cytoplasmic hybrid obtained by the fusion of cytoplasm of cells of different parental sources; a term applied to the fusion of cytoplasms of two different protoplasts;
-
-**Organogenesis: The process of initiation and** development of shoot or root though _in vitro_ culture particularly from callus
-
-**APPENDIX**
-
-**Knop’s solution:** 
-
-Nutrient solution used in growth experiments of plants which contains: Calcium nitrate 3.0 g Magnesium sulfate 1.0 g
-
-Potassium nitrate 1.0 g Dibasic Potassium phosphate 1.0 g
-
-Sucrose 50.0 g (optimal) Deionized water 1000.0 ml
-
-developed root cultures, used Knop’s solution along with three vitamins like pyridoxine, thiamine and nicotinic acid
-
-used coconut water in plant tissue culture work and obtained cell proliferation from carrot explants (Cellular totipotency ).
-
-developed virus-free _Dahlia_ and potato plants using shoot meristem culture.
-
-formulated tissue culture medium, a land mark in plant tissue culture and it is the most frequently used medium for all kinds of tissue culture work.
-
-produced test-tube fertilization in flowering plants.
-
-produced _calli_ and free cells in tissue culture of Tradescantia reflexa.
-
-developed _in vitro_ production of haploid embryos from anthers of _Datura_.
-
-achieved differentiation of tobacco plants from single, isolated cells in micro propagation.
-
-regenerated tobacco plants from isolated mesophyll protoplasts.
-
-and co-workers obtained protoplast fusion between _Nicotiana glauca_ and _Nicotiana longsdorffii and developed first interspecific_ somatic hybrid in 1971.
-
-developed intergenic hybrid between potato and tomato called pomato.
-
-produced transformed tobacco plants from single cell transformation and gene insertion.
-
-developed transgenic tobacco by Agrobacterium mediated gene transfer.
-
-cultured plant cells in artificial condition called in vitro (inside glass) in culture medium (Knop’s salt solution) containing glucose and peptone and developed callus (unorganized growth of cells and tissue) and proposed the concept Totipotency, it means the development of whole plant from isolated cells or tissue in in vitro condition.
-
-**P.R.White** (1934)
-
-**F.C. Steward** (1948)
-
-**Morel** and **Martin** (1952, 1955)
-
-**Carlson**
-
-**Murashige** and **Skoog** (1962)
-
-**Kanta** _et al._ (1962)
-
-**Yamada** _et al_. (1963)**Haberlandt** (1902)
-
-**Guha** and **Maheshwari** (1964)
-
-**Vasil** and **Hildbrandt** (1965)
-
-**Takebe** _et al_. (1971)
-
-**Melchers** and co-workers in 1978
-
-**Chilton** (1983)
-
-**Horsh** _et al_. (1984)
-
-**Milestones in Plant Tissue Culture**
