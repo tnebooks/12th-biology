@@ -191,23 +191,52 @@ The following physiological processes are influenced by temperature:
 
 **c. Water** 
 Water is one of the most important climatic factors. It affects the vital processes of all living organisms. It is believed that even life had originated only in water during the evolution of Earth. Water covers more than 70. of the earth’s surface. In nature, water is available to plants in three ways. They are **atmospheric moisture, precipitation and soil water.**
+```hint { role="warm" }
+Do You Know
 
-Evergreen forests – Found where heavy rainfall occurs throughout the year. Sclerophyllous forests – Found where heavy rainfall occurs during winter and low rainfall during summer. The productivity and distribution of plants depend upon the availability of water. Further the quality of water is also important especially for the aquatic organisms. The total amount of water salinity in different water bodies are :i). 5. in inland water (Fresh water) ii). 3. – 35% in sea water and iii). More than 100. in hypersaline water (Lagoons) Based on the range of tolerance of salinity, organisms are divided into two types.
+Evergreen forests – Found where heavy rainfall occurs throughout the year. Sclerophyllous forests – Found where heavy rainfall occurs during winter and low rainfall during summer. 
+```
 
-1.  Euryhaline: Organisms which can live in water with wide range of salinity. Examples: Marine algae and marina angiosperms
+The productivity and distribution of plants depend upon the availability of water. Further the quality of water is also important especially for the aquatic organisms. The total amount of water salinity in different water bodies are :i). 5. in inland water (Fresh water) ii). 3. – 35% in sea water and iii). More than 100. in hypersaline water **(Lagoons)** Based on the range of tolerance of salinity, organisms are divided into two types.
+
+**1. Euryhaline:** Organisms which can live in water with wide range of salinity. Examples: Marine algae and marina angiosperms
     
-2.  Stenohaline: Organisms which can withstand only small range of salinity. Example: Plants of estuaries.
+**2.Stenohaline:** Organisms which can withstand only small range of salinity. Example: Plants of estuaries.
     
+| Terminology  	|             	| Environmental factor       	|
+|--------------	|-------------	|----------------------------	|
+| Stenothermal 	| Eurythermal 	| Temperature                	|
+| Stenohaline  	| Euryhaline  	| Salinity                   	|
+| Stenoecious  	| Euryoecious 	| Habitat selection (niche)  	|
+| Stenohydric  	| Euryhydric  	| Water                      	|
+| Stenophagic  	| Euryphagic  	| Food                       	|
+| Stenobathic  	| Eurybathic  	| Depth of water/habitat     	|
 
-Terminology Environmental factor Stenothermal Eurythermal Temperature Stenohaline Euryhaline Salinity Stenoecious Euryoecious Habitat selection (nich e) Stenohydric Euryhydric Water Stenophagic Euryphagic Food Stenobathic Eurybathic Depth of water / habitat TabLearning Objectives 
 
-Examples of tolerance to toxicity i. Soyabean and tomato manage to tolerate presence of cadmium poisoning by isolating cadmium and storing into few group of cells and prevent cadmium affecting other cells .
-ii. Rice and Eichhornia (water hyacinth ) tolerate cadmium by binding it to their proteins. These plants otherwise can also be used to remove cadmium from contaminated soil ,this is known as Phytoremediation. d. Wind Air in motion is called wind. It is also a vital ecological factor. The atmospheric air contains a number of gases, particles and other constituents. The composition of gases in atmosphere is as follows: Nitrogen - 78. , Oxygen -21%, Carbon-di-oxide -0.03%, Argon and other gases - 0.93%. The other components of wind are water vapour, gaseous pollutants, dust, smoke particles, microorganisms, pollen grains, spores, etc. Anemometer is the instrument used to measure the speed of wind. Green House Effect Albedo Effect Gases let out to atmosphere causes climatic change. Emission of dust and aerosols (small solids or liquid particles in suspension in the atmospher e) from industries, automobiles, forest fire, So2 and DMS (dimethyl sulphur) play an important role in disturbing the temperature level of any region. Aerosols with small particles is reflecting the solar radiation entering the atmosphere. This is known as Albedo effect. So it reduces the temperature (coolin g)  
+
+**Examples of tolerance to toxicity**
+
+i. Soyabean and tomato manage to tolerate presence of cadmium poisoning by isolating cadmium and storing into few group of cells and prevent cadmium affecting other cells .
+
+ii. Rice and Eichhornia (water hyacinth ) tolerate cadmium by binding it to their proteins. 
+
+These plants otherwise can also be used to remove cadmium from contaminated soil ,this is known as **Phytoremediation.** 
+
+**d. Wind** 
+
+Air in motion is called wind. It is also a vital ecological factor. The atmospheric air contains a number of gases, particles and other constituents. The composition of gases in atmosphere is as follows: Nitrogen - 78. , Oxygen -21%, Carbon-di-oxide -0.03%, Argon and other gases - 0.93%. The other components of wind are water vapour, gaseous pollutants, dust, smoke particles, microorganisms, pollen grains, spores, etc. **Anemometer** is the instrument used to measure the speed of wind. 
+
+```hint { role="warm" }
+Do You Know
+
+**Green House Effect Albedo Effect**
+
+Gases let out to atmosphere causes climatic change. Emission of dust and aerosols (small solids or liquid particles in suspension in the atmospher e) from industries, automobiles, forest fire, So2 and DMS (dimethyl sulphur) play an important role in disturbing the temperature level of any region. Aerosols with small particles is reflecting the solar radiation entering the atmosphere. This is known as Albedo effect. So it reduces the temperature (coolin g)  
 limits, photosynthesis and respiration. The sulphur compounds are responsible for acid rain due to acidification of rain water and destroy the ozone.
+```
 
+**Effects of wind**
 
-
-Effects of wind
 - W ind is an important factor for the formation of rain
 - C auses wave formation in lakes and ocean, promotes aeration of water
 - S trong wind causes soil erosion and reduces soil fertility
@@ -215,27 +244,36 @@ Effects of wind
 - H elps in pollination in anemophilous plants
 - I t also helps in dispersal of many fruits, seeds, spores, etc.
 
-- S trong wind may cause up-rooting of big trees
-- U nidirectional wind stimulates the development of flag Figure 6. 6. Flag forms in trees. form in trees e. Fire Fire is an exothermic factor caused due to the chemical process of combustion, releasing heat and light. It is mostly man-made and some- times develops naturally due to the friction between the tree surfaces. Fire is generally divided into
+- Strong wind may cause up-rooting of big trees
 
-1.  Ground fire – Which is flameless and subterranean.
+- Unidirectional wind stimulates the development of flag Figure 6. 6. Flag forms in trees. form in trees 
+
+**e. Fire**
+
+Fire is an exothermic factor caused due to the chemical process of combustion, releasing heat and light. It is mostly man-made and some- times develops naturally due to the friction between the tree surfaces. Fire is generally divided into
+
+**1.Ground fire** – Which is flameless and subterranean.
     
-2.  Surface fire – Which consumes the herbs and shrubs.
+**2.Surface fire** – Which consumes the herbs and shrubs.
     
-3.  Crown fire – Which burns the forest canopy. Effects of fire
-- F ire has a direct lethal effect on plants
-- B urning scars are the suitable places for the entry of parasitic fungi and insects
-- I t brings out the alteration of light, rainfall, nutrient cycle, fertility of soil, pH, soil flora and fauna
-- S ome fungi which grow in soil of burnt areas called pyrophilous.
+**3. Crown fire** – Which burns the forest canopy.
+
+**Effects of fire**
+- Fire has a direct lethal effect on plants
+- Burning scars are the suitable places for the entry of parasitic fungi and insects
+- It brings out the alteration of light, rainfall, nutrient cycle, fertility of soil, pH, soil flora and fauna
+- Some fungi which grow in soil of burnt areas called pyrophilous.
     
 
-Example: Pyronema confluens.
+*Example: Pyronema confluens.*
 
-Indicators of fire – Pteris ( fern ) and Pyronema (fungus) indicates the burnt up and fire disturbed areas. So they are called indicators of fire.
+**Indicators of fire** – Pteris ( fern ) and Pyronema (fungus) indicates the burnt up and fire disturbed areas. So they are called indicators of fire.
 
-Fire break – It is a gap made in the vegetation that acts as a barrier to slow down or stop the progress of fire.
+**Fire break** – It is a gap made in the vegetation that acts as a barrier to slow down or stop the progress of fire.
 
-A natural fire break may occur when there is a lack of vegetation such as River, lake and canyon found in between vegetation may act as a natural fire break. Rhytidome: It is the structural defense by plants against fire .The outer bark of trees which extends to the last formed periderm is called Rhytidome. It is composed of multiple layers of suberized periderm, cortical and phloem tissues. It protects the stem against fire , water loss, invasion of insects and prevents infections by microorganisms.
+**A natural fire break** may occur when there is a lack of vegetation such as River, lake and canyon found in between vegetation may act as a natural fire break.
+
+**Rhytidome:** It is the structural defense by plants against fire .The outer bark of trees which extends to the last formed periderm is called Rhytidome. It is composed of multiple layers of suberized periderm, cortical and phloem tissues. It protects the stem against fire , water loss, invasion of insects and prevents infections by microorganisms.
 
 ### Edaphic factors
 
