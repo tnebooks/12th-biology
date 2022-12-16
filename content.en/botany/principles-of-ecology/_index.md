@@ -109,7 +109,7 @@ Climate is one of the important natural factors controlling the plant life. The 
 
 ![Environmental factors affecting a plant](6.1.png "img-class")
 
-**a. Light**
+#### a. Light
 
 Light is a well known factor needed for the basic physiological processes of plants, such as photosynthesis, transpiration, seed germination and flowering. The portion of the sunlight which can be resolved by the human eye is called **visible light**. The visible part of light is made- up of wavelength from about 40. nm (**violet**) to 70. nm (re d) . The rate of photosynthesis is maximum at **blue** ( 40. – ## nm) and red (600 –70.  nm). The **green** (## – 600 nm) wave length of spectrum is less strongly absorbed by plants. 
 
@@ -132,7 +132,7 @@ Do You Know
 
 ```
 
-**b. Temperature**
+#### b. Temperature
 
 Temperature is one of the important factors which affect almost all the metabolic activities of an organism. Every physiological process in an organism requires an optimum temperature at which it shows the maximum metabolic rate. Three limits of temperature can be recognized for any organism. They are
     
@@ -154,7 +154,7 @@ Based on the range of thermal tolerance, organisms are divided into two types.
 
 Mango plant does not grow in temperate countries like Canada and Germany.
     
-**Thermal Stratification**
+#### Thermal Stratification
 It is usually found in aquatic habitat. The change in the temperature profile with increasing depth in a water body is called thermal stratification. There are three levels of thermal stratifications
 
 ![Thermal stratification of pond](6.3.png "img-class")
@@ -189,7 +189,7 @@ The following physiological processes are influenced by temperature:
 - Low temperature with high humidity can cause spread of diseases in plants.
 - The varying temperature with moisture determines the distribution of the vegetation types.
 
-**c. Water** 
+#### c. Water 
 Water is one of the most important climatic factors. It affects the vital processes of all living organisms. It is believed that even life had originated only in water during the evolution of Earth. Water covers more than 70. of the earth’s surface. In nature, water is available to plants in three ways. They are **atmospheric moisture, precipitation and soil water.**
 ```hint { role="warm" }
 Do You Know
@@ -222,7 +222,7 @@ ii. Rice and Eichhornia (water hyacinth ) tolerate cadmium by binding it to thei
 
 These plants otherwise can also be used to remove cadmium from contaminated soil ,this is known as **Phytoremediation.** 
 
-**d. Wind** 
+#### d. Wind 
 
 Air in motion is called wind. It is also a vital ecological factor. The atmospheric air contains a number of gases, particles and other constituents. The composition of gases in atmosphere is as follows: Nitrogen - 78. , Oxygen -21%, Carbon-di-oxide -0.03%, Argon and other gases - 0.93%. The other components of wind are water vapour, gaseous pollutants, dust, smoke particles, microorganisms, pollen grains, spores, etc. **Anemometer** is the instrument used to measure the speed of wind. 
 
@@ -248,7 +248,7 @@ limits, photosynthesis and respiration. The sulphur compounds are responsible fo
 
 - Unidirectional wind stimulates the development of flag Figure 6. 6. Flag forms in trees. form in trees 
 
-**e. Fire**
+#### e. Fire
 
 Fire is an exothermic factor caused due to the chemical process of combustion, releasing heat and light. It is mostly man-made and some- times develops naturally due to the friction between the tree surfaces. Fire is generally divided into
 
@@ -277,34 +277,51 @@ Fire is an exothermic factor caused due to the chemical process of combustion, r
 
 ### Edaphic factors
 
-Edaphic factors, the abiotic factors related to soil, include the physical and chemical composition of the soil formed in a particular area. The study of soils is called Pedology. The soil Soil is the weathered superficial layer of the Earth in which plants can grow. It is a complex composite mass consisting of soil constituents, soil water, soil air and soil organisms, etc. Soil formation Soil originates from rocks and develops gradually at different rates, depending upon the ecological and climatic conditions. Soil formation is initiated by the weathering process. Biological weathering takes place when organisms like bacteria, fungi, lichens and plants help in the breakdown of rocks through the production of acids and certain chemical substances.
+Edaphic factors, the abiotic factors related to soil, include the physical and chemical composition of the soil formed in a particular area. The study of soils is called Pedology. 
 
-Soil types Based on soil formation (pedogenesis), the soils are divided into
+#### The soil
+Soil is the weathered superficial layer of the Earth in which plants can grow. It is a complex composite mass consisting of soil constituents, soil water, soil air and soil organisms, etc. 
 
-1.  Residual soils –These are soils formed by weathering and pedogenesis of the rock.
+**Soil formation** 
+Soil originates from rocks and develops gradually at different rates, depending upon the ecological and climatic conditions. Soil formation is initiated by the weathering process. Biological weathering takes place when organisms like bacteria, fungi, lichens and plants help in the breakdown of rocks through the production of acids and certain chemical substances.
+
+#### Soil types 
+Based on soil formation **(pedogenesis)**, the soils are divided into
+
+**1.Residual soils** –These are soils formed by weathering and pedogenesis of the rock.
     
-2.  Transported soils – These are transported by various agencies. The important edaphic factors which affect vegetation are as follows:
+**2.Transported soils** – These are transported by various agencies. The important edaphic factors which affect vegetation are as follows:
     
-3.  Soil moisture: Plants absorbs rain water and moisture directly from the air
+**3.Soil moisture:** Plants absorbs rain water and moisture directly from the air
     
-4.  Soil water: Soil water is more important than any other ecological factors affecting the distribution of plants. Rain is the main source of soil water. Capillary water held between pore spaces of soil particles and angles between them is the most important form of water available to the plants.
+**4.Soil water:** Soil water is more important than any other ecological factors affecting the distribution of plants. Rain is the main source of soil water. Capillary water held between pore spaces of soil particles and angles between them is the most important form of water available to the plants.
     
-5.  Soil reactions: Soil may be acidic or alkaline or neutral in their reaction. pH value of the soil solution determines the availability of plant nutrients. The best pH range of the soil for cultivation of crop plants is ## to 6.8.
+**5.Soil reactions:** Soil may be **acidic** or **alkaline** or **neutral** in their reaction. pH value of the soil solution determines the availability of plant nutrients. The best pH range of the soil for cultivation of crop plants is ## to 6.8.
     
-6.  Soil nutrients: Soil fertility and productivity is the ability of soil to provide all essential plant nutrients such as minerals and organic nutrients in the form of ions.
+**6.Soil nutrients:** Soil fertility and productivity is the ability of soil to provide all essential plant nutrients such as minerals and organic nutrients in the form of ions.
     
-7.  Soil temperature: Soil temperature of an area plays an important role in determining the geographical distribution of plants. Low temperature reduces use of water and solute absorption by roots.
+**7.Soil temperature:** Soil temperature of an area plays an important role in determining the geographical distribution of plants. Low temperature reduces use of water and solute absorption by roots.
     
-8.  Soil atmosphere: The spaces left between soil particles are called pore spaces which contains oxygen and carbon-di-oxide.
+**8.Soil atmosphere:** The spaces left between soil particles are called pore spaces which contains oxygen and **carbon-di-oxide.**
     
-9.  Soil organisms: Many organisms existing in the soil like bacteria, fungi, algae, protozoans, nematodes, insects, earthworms, etc. are called soil organisms. 
+**9.Soil organisms:** Many organisms existing in the soil like bacteria, fungi, algae, protozoans, nematodes, insects, earthworms, etc. are called soil organisms. 
     
 
-Horizon O–Horizon (Organic horizon) Humus A–Horizon (Leached horizon) Topsoil - Often rich in humus and minerals. B-Horizon (Accumulation horizon) (Subsoil-Poor in humus, rich in minerals) C - Horizon (Partially weathered horizon) Weathered rock Fragments - Little or no plant or animal life. R – Horizon (Parent material) Bedrock
+![Figure 6.7: Soil Profile](6.7.png "img-class")
 
-![S](6.7.png "img-class")
+#### Soil Profile 
 
-Soil Profile Soil is commonly stratified into horizons at different depth. These layers differ in their physical, chemical and biological properties. This succession of super-imposed horizons is called soil profile. Types of soil particles Based on the relative proportion of soil particles, four types of soil are recognized. Soil type Size Relative proportion 1 Clayey Less than 50. clay and 50% soil 0. 00. silt ( cold / heavy mm soil ) 2 Silt soil 0. 00. to 90% silt and 10% 0.02mm sand 3 Loamy 0. 00. to 70% sand and 30 soil 2mm % clay / silt or both (Garden soil) 4 Sandy ## to 2 85. sand and 15% soil mm clay ( light soil ) Table 6. 3. Types of soil particles
+Soil is commonly stratified into horizons at different depth. These layers differ in their physical, chemical and biological properties. This succession of super-imposed horizons is called soil profile. 
+
+**Types of soil particles** 
+Based on the relative proportion of soil particles, four types of soil are recognized.
+
+|   	| **Soil type** 	| **Size**                 	| **Relative proportion**                             	|
+|---	|---------------	|--------------------------	|-----------------------------------------------------	|
+| 1 	| Clayey soil   	| Less than<br>0.002<br>mm 	| 50% clay and 50%<br>silt ( cold / heavy<br>soil )   	|
+| 2 	| Silt soil     	| 0.002 to<br>0.02mm       	| 90% silt and 10% sand                               	|
+| 3 	| Loamy soil    	| 0.002 to 2mm             	| 70% sand and 30 % clay / silt or both (Garden soil) 	|
+| 4 	| Sandy soil    	| 0.2 to 2 mm              	| 85% sand and 15% clay ( light soil )                	|
 
 
 
