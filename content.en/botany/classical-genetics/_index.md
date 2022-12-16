@@ -2,7 +2,7 @@
 title: 'Classical Genetics'
 weight: 3
 ---
-```hint { role="info" }
+```
 **Learning Objectives**
 
 The Learner will be able to
@@ -38,6 +38,7 @@ What is the reason for similarities, differences of appearance and skipping of g
  Genes – Functional Units of inheritance: The basic unit of heredity (biological information) which transmits biochemical, anatomical and behavioural traits from parents to offsprings.
 
 ``` 
+
 ## Heredity and variation
  Genetics is often described as a science which deals with heredity and variation.
 
@@ -67,7 +68,6 @@ This variation may be due to the combining effects of environmental and genetic 
 ### Father of Genetics – Gregor Johann Mendel (1822 – 1884)
 
 The first Geneticist, Gregor Johann Mendel unraveled the mystery of heredity. He was born on 22nd July 1822 in Heinzendorf Silesia (now Hyncice, C z e c h o s l o v a k i a ) , Austria. After school education, later he studied botany, physics and mathematics at the University of Vienna. He then entered a monastery of St.Thomas at Brunn in Austria and continued his interest in plant hybridization. In 1849 Mendel got a temporary position in a school as a teacher and he performed a series of elegant experiments with pea plants in his garden. In 1856, he started his historic studies on pea plants. 1856 to 1863 was the period of Mendel’s hybridization experiments on pea plants. Mendel discovered the principles of heredity by studying the inheritance of seven pairs of contrasting traits of pea plant in his garden. Mendel crossed and catalogued 24,034 plants through many generations. His paper entitled **“Experiments on Plant Hybrids”** was presented and published in The Proceedings of the Brunn Society of Natural History in 1866. Mendel was the first systematic researcher in the field of genetics.
-
 
 
 ![Gregor Johann Mendel (1822 – 1884)](gregormendel.jpg "")
@@ -157,7 +157,7 @@ Mendel chose two contrasting traits for each character. So it seemed logical tha
 
 Mendel’s analytical approach is truly an outstanding scientific achievement. His meticulous work and precisely executed breeding experiments proposed that discrete particulate units of heredity are present and they are transmitted from one generation to the other. Now they are called as genes. Mendel’s experiments were well planned to determine the relationships which govern hereditary traits. This rationale is called an empirical approach. Laws that were arrived from an empirical approach is known as empirical laws.
 
-**2. 3.2 Test cross**
+### Test cross
 
 Test cross is crossing an individual of unknown genotype with a homozygous recessive.
 
