@@ -60,24 +60,25 @@ Ecology is mainly divided into two branches, they are autecology and synecology.
 Habitat is a specific physical place or locality occupied by an organism or any species which has a particular combination of abiotic or environmental factors. But the environment of any community is called **Biotope**. 
 
 **Niche** 
-An ecological niche refers to an organism’s place in the biotic environment and its functional role in an ecosystem. The term was coined by the naturalist **Roswell Hill Johnson** but Grinell ( 1917. was probably first to use this term. The habitat and niche of any organism is called Ecotope The differences between habitat and niche are as follows.
+An ecological niche refers to an organism’s place in the biotic environment and its functional role in an ecosystem. The term was coined by the naturalist **Roswell Hill Johnson** but **Grinell** ( 1917. was probably first to use this term. The habitat and niche of any organism is called **Ecotope** 
 
-Habitat Niche
+The differences between habitat and niche are as follows.
 
-1.  A specific A functional space physical space occupied by an occupied by organism in the same an organism eco-system (species)
-    
-2.  Same habitat A single niche is may be shared by occupied by a single many organisms species (species)
-    
-3.  Habitat Organisms may specificity is change their niche exhibited by with time and season. organism.
-    
+|    	| Habitat                                                                 	| Niche                                                                        	|
+|----	|-------------------------------------------------------------------------	|------------------------------------------------------------------------------	|
+| 1. 	| A specific<br>physical space<br>occupied by<br>an organism<br>(species) 	| A functional space <br>occupied by an <br>organism in the same<br>eco-system 	|
+| 2. 	| Same habitat<br>may be shared by<br>many organisms<br>(species)         	| A single niche is<br>occupied by a single<br>species                         	|
+| 3. 	| Habitat<br>specificity is<br>exhibited by<br>organism.                  	| Organisms may<br>change their niche<br>with time and season.                 	|
 
-Table 6.
-
-1.  Difference between habitat and niche Applied ecology or environmental technology : Application of the Science of ecology is otherwise called as Applied ecology or Environmental technology. It helps us to manage and conserve natural resources, particularly ecosystems, forest and wild life conservative and management. Environmental management involves Bio-diversity conservation, Ecosystem restoration, Habitat management, Invasive species management, Protected areas management and also help us plan landscapes and environmental impact designing for the futuristic ecology.
+```hint { role="info" }
+Do You Know
+**Applied ecology or environmental technology :**
+Application of the Science of ecology is otherwise called as Applied ecology or Environmental technology. It helps us to manage and conserve natural resources, particularly ecosystems, forest and wild life conservative and management. Environmental management involves Bio-diversity conservation, Ecosystem restoration, Habitat management, Invasive species management, Protected areas management and also help us plan landscapes and environmental impact designing for the futuristic ecology.
+```
 
 ### Ecological equivalents
 
-Taxonomically different species occupying similar habitats (Niches) in different geographical regions are called Ecological equivalents.
+Taxonomically different species occupying similar habitats (Niches) in different geographical regions are called **Ecological equivalents.**
 
 Examples:
 - Certain species of epiphytic orchids of Western Ghats of India differ from the epiphytic orchids of South America. But they are epiphytes.
@@ -86,82 +87,112 @@ Examples:
 
 ## Ecological factors
 
-Many organisms, co-exist in an environment. The environment (surroundin g) includes physical, chemical and biological components. When a component surrounding an organism affects the life of an organism, it becomes a factor. All such factors together are called environmental factors or ecological factors. These factors can be classified into living (bioti c) and non-living (abiotic) which make the environment of an organism. However the ecological factors are meaningfully grouped into four classes, which are as follows: i. Climatic factors
+Many organisms, co-exist in an environment. The environment (surroundin g) includes physical, chemical and biological components. When a component surrounding an organism affects the life of an organism, it becomes a factor. All such factors together are called **environmental factors** or **ecological factors.** These factors can be classified into living **(biotic)** and non-living **(abiotic)** which make the environment of an organism. However the ecological factors are meaningfully grouped into four classes, which are as follows:
+
+i. Climatic factors
 ii. Edaphic factors
-iii. Topographic factors iv. Biotic factors We will discuss the above factors in a concise manner.
+iii. Topographic factors 
+iv. Biotic factors 
+
+We will discuss the above factors in a concise manner.
+
+```hint { role="info" }
+Do You Know
 
 Flowers of poppy, chicory, dog rose and many other plants, blossom before the break of dawn (4 – 5 am), evening primrose open up with the onset of dusk (5 – 6 pm) due to diurnal rhythm.
+
+```
 
 ### Climatic Factors
 
 Climate is one of the important natural factors controlling the plant life. The climatic factors includes light, temperature, water, wind and fire.
 
-Sun light Precipitation Carbon dioxide and Water vapour Climatic factors Wind Biotic factors Birds Grazing animals Insects Rodents Plant Pathogens Man Epiphytes Soil slope Edaphic factors Soil water Minerals Physical nature of the soil Soil air
-
 ![Environmental factors affecting a plant](6.1.png "img-class")
 
-a. Light Light is a well known factor needed for the basic physiological processes of plants, such as photosynthesis, transpiration, seed germination and flowering. The portion of the sunlight which can be resolved by the human eye is called visible light. The visible part of light is made- up of wavelength from about 40. nm (violet) to 70. nm (re d) . The rate of photosynthesis is maximum at blue ( 40. – ## nm) and red (600 –
+**a. Light**
 
-70.  nm). The green (## – 600 nm) wave length of spectrum is less strongly absorbed by plants. Effects of light on plants Light regulates L S e t a e f m Photosynthesis fo a rm nd ation Opening and Closin g of st omata
+Light is a well known factor needed for the basic physiological processes of plants, such as photosynthesis, transpiration, seed germination and flowering. The portion of the sunlight which can be resolved by the human eye is called **visible light**. The visible part of light is made- up of wavelength from about 40. nm (**violet**) to 70. nm (re d) . The rate of photosynthesis is maximum at **blue** ( 40. – ## nm) and red (600 –70.  nm). The **green** (## – 600 nm) wave length of spectrum is less strongly absorbed by plants. 
 
-![Various effects of light upon a ](6.2.png "img-class")
+**Effects of light on plants** 
 
-green plant 
+![Various effects of light upon a green plant  ](6.2.png "img-class")
 
-Movem G e er n m t i s nation of F s lo e wer e ing ds Tuber fo rmation Run ner Pro duc tion Based on the tolerance to intensities of light, the plants are divided into two types. They are
+Based on the tolerance to intensities of light, the plants are divided into two types. They are
 
-1.  Heliophytes - Light loving plants. Example: Angiosperms.
+**1.Heliophytes** - Light loving plants. Example: Angiosperms.
     
-2.  Sciophytes - Shade loving plants. Example: Bryophytes and Pteridophytes. In deep sea (>500m), the environment is dark and its inhabitants are not aware of the existence of celestial source of energy called Sun. What, then is their source of energy? Palaeoclimatology–Helps to reconstruct past climates of our planet and flora, fauna and ecosystem in which they lived. Example: Air bubbles trapped in ice for tens of thousands of years with fossilized pollen, coral, plant and animal debris. b. Temperature Temperature is one of the important factors which affect almost all the metabolic activities of an organism. Every physiological process in an organism requires an optimum temperature at which it shows the maximum metabolic rate. Three limits of temperature can be recognized for any organism. They are
+**2.Sciophytes** - Shade loving plants. Example: Bryophytes and Pteridophytes. 
+
+In deep sea (>500m), the environment is dark and its inhabitants are not aware of the existence of celestial source of energy called Sun. What, then is their source of energy? 
+
+```hint { role="warm" }
+Do You Know
+
+**Palaeoclimatology**– Helps to reconstruct past climates of our planet and flora, fauna and ecosystem in which they lived. Example: Air bubbles trapped in ice for tens of thousands of years with fossilized pollen, coral, plant and animal debris.
+
+```
+
+**b. Temperature**
+
+Temperature is one of the important factors which affect almost all the metabolic activities of an organism. Every physiological process in an organism requires an optimum temperature at which it shows the maximum metabolic rate. Three limits of temperature can be recognized for any organism. They are
     
-3.  Minimum temperature - Physiological activities are lowest.
+1.  **Minimum temperature** - Physiological activities are lowest.
     
-4.  Optimum temperature - Physiological activities are maximum.
+2.  **Optimum temperature** - Physiological activities are maximum.
     
-5.  Maximum temperature - Physiological activities will stop. Based on the temperature prevailing in an area, Raunkiaer classified the world’s vegetation into the following four types. They are megatherms, mesotherms, microtherms and hekistotherms. In thermal springs and deep sea hydrothermal vents the average temperature exceed 100oc.
-    
+3.  **Maximum temperature** - Physiological activities will stop. 
+
+Based on the temperature prevailing in an area, **Raunkiaer** classified the world’s vegetation into the following four types. They are megatherms, mesotherms, microtherms and hekistotherms. In thermal springs and deep sea hydrothermal vents the average temperature exceed 100oc.
 
 Based on the range of thermal tolerance, organisms are divided into two types.
 
+**1. Eurythermal**: Organisms which can tolerate a wide range of temperature fluctuations.
 
-Learning Objectives 
-aquatic habitat. The change in the temperature profile with increasing depth in a water body is called thermal stratification. There are three levels of thermal stratifications. Epilimnion Metalimnion Hypolimnion
+*Example: Zostera (A marine Angiosperm)and Artemisia tridentata*
+
+**2. Stenothermal**: Organisms which can tolerate only small range of temperature variations. Example: Mango and Palm (Terrestrial Angiosperms).
+
+Mango plant does not grow in temperate countries like Canada and Germany.
     
+**Thermal Stratification**
+It is usually found in aquatic habitat. The change in the temperature profile with increasing depth in a water body is called thermal stratification. There are three levels of thermal stratifications
 
 ![Thermal stratification of pond](6.3.png "img-class")
 
-1.  Epilimnion – The upper layer of warmer water.
+**1.Epilimnion** – The upper layer of warmer water.
     
-2.  Metalimnion – The middle layer with a zone of gradual decrease in temperature.
+**2.Metalimnion** – The middle layer with a zone of gradual decrease in temperature.
     
-3.  Hypolimnion - The bottom layer of colder water.
+**3.Hypolimnion** - The bottom layer of colder water.
     
+### Temperature based zonation
 
-Temperature based zonation Variations in latitude and altitude do affect the temperature and the vegetation on the earth surface. The latitudinal and altitudinal zonation of vegetation is illustrated below: Latitude: Latitude is an angle which ranges from 0. at the equator to ## at the poles. Altitude: How high a place is located above the sea level is called the altitude of the place.
+Variations in latitude and altitude do affect the temperature and the vegetation on the earth surface. The latitudinal and altitudinal zonation of vegetation is illustrated below: 
 
-Ice/ T Sn u ow ndra s uo u Dec id for es t Grassland or desert Tropical EQUATOR rain forest
+**Latitude:** Latitude is an angle which ranges from 0. at the equator to ## at the poles. 
+
+**Altitude:** How high a place is located above the sea level is called the altitude of the place.
+
 
 ![Latitudinal zonation of vegetation ](6.4.png "img-class")
 
-type 14, 500. Snow 12, 000. 13,000' Tundra Coniferous 10,000'
-
-7500.  forest 6500' Deciduous forest
-    
-7501.  3000'
-    
-7502.  Grassland or desert 1300' Tropical rain forest
-    
-
 ![Altitudinal zonation of vegetation](6.5.png "img-class")
 
-Timber line / Tree line : It is an imaginary line in a mountain or higher areas of land that marks the level above which trees do not grow. The altitudinal limit of normal tree growth is about 300. to 4000m. Effects of temperature The following physiological processes are influenced by temperature:
+**Timber line / Tree line:** It is an imaginary line in a mountain or higher areas of land that marks the level above which trees do not grow. The altitudinal limit of normal tree growth is about **3000 to 4000m.** 
+
+**Effects of temperature** 
+
+The following physiological processes are influenced by temperature:
 - Temperature affects the enzymatic action of all the bio-chemical reactions in a plant body.
 
 - It influences CO2 and O2 solubility in the biological systems. Increases respiration and stimulates growth of seedlings.
 - Low temperature with high humidity can cause spread of diseases in plants.
 - The varying temperature with moisture determines the distribution of the vegetation types.
 
-Tree line Con fo if r e e r s o t us c. Water Water is one of the most important climatic factors. It affects the vital processes of all living organisms. It is believed that even life had originated only in water during the evolution of Earth. Water covers more than 70. of the earth’s surface. In nature, water is available to plants in three ways. They are atmospheric moisture, precipitation and soil water. Evergreen forests – Found where heavy rainfall occurs throughout the year. Sclerophyllous forests – Found where heavy rainfall occurs during winter and low rainfall during summer. The productivity and distribution of plants depend upon the availability of water. Further the quality of water is also important especially for the aquatic organisms. The total amount of water salinity in different water bodies are :i). 5. in inland water (Fresh water) ii). 3. – 35% in sea water and iii). More than 100. in hypersaline water (Lagoons) Based on the range of tolerance of salinity, organisms are divided into two types.
+**c. Water** 
+Water is one of the most important climatic factors. It affects the vital processes of all living organisms. It is believed that even life had originated only in water during the evolution of Earth. Water covers more than 70. of the earth’s surface. In nature, water is available to plants in three ways. They are **atmospheric moisture, precipitation and soil water.**
+
+Evergreen forests – Found where heavy rainfall occurs throughout the year. Sclerophyllous forests – Found where heavy rainfall occurs during winter and low rainfall during summer. The productivity and distribution of plants depend upon the availability of water. Further the quality of water is also important especially for the aquatic organisms. The total amount of water salinity in different water bodies are :i). 5. in inland water (Fresh water) ii). 3. – 35% in sea water and iii). More than 100. in hypersaline water (Lagoons) Based on the range of tolerance of salinity, organisms are divided into two types.
 
 1.  Euryhaline: Organisms which can live in water with wide range of salinity. Examples: Marine algae and marina angiosperms
     
