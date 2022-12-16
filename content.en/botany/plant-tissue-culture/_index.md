@@ -29,7 +29,7 @@ The property of live plant cells that they have the genetic potential when cultu
 ### Differentiation 
 The process of biochemical and structural changes by which cells become specialized in form and function.
 
-![Totipotency](5.1.png.png "")
+![Totipotency](5.1.png "")
 
 **Redifferentiation** 
 The further differentiation of already differentiated cell into another type of cell. For example, when the component cells of callus have the ability to form a whole plant in a nutrient medium, the phenomenon is called redifferentiation.
