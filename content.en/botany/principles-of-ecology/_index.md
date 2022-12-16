@@ -399,78 +399,87 @@ Other examples:
 
 **b. Commensalism:** It is an interaction between two organisms in which one is benefitted and the other is neither benefitted nor harmed. The species that derives benefit is called the **commensal**, while the other species is called the host. The common examples of commensalism are listed below: 
 
-Epiphytes The plants Leaves which are found growing on Supporting other plants plant without harming Clinging them are called root epiphytes. They Arial absorping root are commonly Figure 6. 11. An epiphytic plant-Vanda found in tropical rain forest.
+#### Epiphytes 
+
+The plants Leaves which are found growing on Supporting other plants plant without harming Clinging them are called root epiphytes. They Arial absorping root are commonly Figure 6. 11. An epiphytic plant-Vanda found in tropical rain forest.
+![Figure 6.11: An epiphytic plant-Vanda](6.11.png "img-class")
 
 The epiphytic higher plant (Orchi d) gets its nutrients and water from the atmosphere with the help of the hygroscopic roots which contain special type of spongy tissue called Velamen. It prepares its own food and does not depend on the host. Using the host plant only they support and does not harm it in any way.
 
 - Many orchids, ferns, lianas, hanging mosses, Peperomia, money plant and Usnea (Lichen) are some of the examples of epiphytes.
-- Spanish Moss –Tillandsia grows on the bark of Oak and Pine trees. Proto Cooperation An interaction between organisms of different species in which both organisms benefit but neither is dependent on the relationship. Example: Soil bacteria / fungi and plants growing in the soil. Negative interactions When one of the interacting species is benefitted and the other is harmed, it is called negative interaction . Examples: predation, parasitism, competition and amensalism. a. Predation: It is an interaction between two species, one of which captures, kills and eats up the other. The species which kills is called a predator and the species which is killed is called a prey. The predator is benefitted while the prey is harmed.
 
-Examples:
-- A number of plants like Drosera Lamina (Sun dew Plant), Lid Nepenthes (Pitcher Tendril Plant), Dionaea Pitcher (Venus fly trap), Insect Utricularia (Bladder Fluid wort) and Sarracenia are predators which Figure 6. 12. Pitcher consume insects and plant – with insect other small animals for their food as a source of nitrogen. They are also called as insectivorous plants. Sensitive hair Capsule wall Absorptive Valve Insect larva hairs Section view Natural form Bladder
+- Spanish Moss –Tillandsia grows on the bark of Oak and Pine trees. 
 
+```hint { role="info" }
+
+Proto Cooperation An interaction between organisms of different species in which both organisms benefit but neither is dependent on the relationship. Example: Soil bacteria / fungi and plants growing in the soil. 
+```
+
+##### Negative interactions
+
+When one of the interacting species is benefitted and the other is harmed, it is called **negative interaction**. Examples: predation, parasitism, competition and amensalism. 
+
+**a. Predation:** It is an interaction between two species, one of which captures, kills and eats up the other. The species which kills is called a **predator** and the species which is killed is called a **prey**. The predator is benefitted while the prey is harmed.
+![Figure 6.12: Pitcher plant – with insect](6.12.png "img-class")
+
+**Examples:**
+- A number of plants like Drosera Lamina (Sun dew Plant), Lid Nepenthes (Pitcher Tendril Plant), Dionaea Pitcher (Venus fly trap), Insect Utricularia (Bladder Fluid wort) and Sarracenia are predators which Figure 6. 12. Pitcher consume insects and plant – with insect other small animals for their food as a source of nitrogen. They are also called as insectivorous plants. 
 ![Insectivorous plant Utricularia](6.13.png "img-class")
 
-- Many herbivores are predators. Cattles, Camels, Goats etc., frequently browse on the tender shoots of herbs, shrubs and trees. Generally annuals suffer more than the perennials. Grazing and browsing may cause remarkable changes in vegetation. Nearly 2. percent of all insects are known as phytophagous(feeds on plant sap and other parts of plant)
-- Many defense mechanisms are evolved to avoid their predations by plants. Examples: Calotropis produces highly poisonous cardiac glycosides, Tobacco produces nicotine, coffee plants produce caffeine, Cinchona plant produces quinine. Thorns of Bougainvillea, spines of Opuntia, and latex of cacti also protect them from predators. 
+- Many herbivores are **predators.** Cattles, Camels, Goats etc., frequently browse on the tender shoots of herbs, shrubs and trees. Generally annuals suffer more than the perennials. Grazing and browsing may cause remarkable changes in vegetation. Nearly 2. percent of all insects are known as phytophagous(feeds on plant sap and other parts of plant)
+- Many **defense mechanisms** are evolved to avoid their predations by plants. Examples: Calotropis produces highly poisonous cardiac glycosides, Tobacco produces nicotine, coffee plants produce caffeine, Cinchona plant produces quinine. Thorns of Bougainvillea, spines of Opuntia, and latex of cacti also protect them from predators. 
 
-b. Parasitism: It is an interaction between two different species in which the smaller partner (parasit e) obtains food from the larger partner (host or plant). So the parasitic species is benefited while the host species is harmed. Based on the host-parasite relationship, parasitism is classified into two types they are holoparasite and hemiparasite.
+**b. Parasitism:** It is an interaction between two different species in which the **smaller partner** (parasit e) obtains food from the **larger partner** (host or plant). So the parasitic species is benefited while the host species is harmed. Based on the host-parasite relationship, parasitism is classified into two types they are holoparasite and hemiparasite.
 
-Holoparasites The organisms which are dependent upon the host plants for their entire nutrition are called Holoparasites. They are also called total parasites.
-
-T.S of host along with Cuscuta Cuscuta on the host
-
-a) Parasite Haustoria Host Xylem Phloem
-
-b) c) Flower Parasite Host Haustoria Root Tuber Host
-
+##### Holoparasites 
+The organisms which are dependent upon the host plants for their entire nutrition are called **Holoparasites**. They are also called **total parasites**.
 ![a) Holoparasite – Cuscuta  ](6.14.png "img-class")
 
-b) A Partial stem parasite – Viscum
+**Examples:**
 
-c) Root parasite on the brinjal root Orobanche spp. Examples:
 - Cuscuta is a total stem parasite of the host plant Acacia, Duranta and many other plants. Cuscuta even gets flower inducing hormone from its host plant.
-- Balanophora, Orobanche and Rafflesia are the total root parasites found on higher plants.
 
+- Balanophora, Orobanche and Rafflesia are the total root parasites found on higher plants
 
-
-Hemiparasites The organisms which derive only water and minerals from their host plant while synthesizing their own food by photosynthesis are called Hemiparasites. They are also called partial parasites.
+**Hemiparasites** 
+The organisms which derive only water and minerals from their host plant while synthesizing their own food by photosynthesis are called **Hemiparasites**. They are also called **partial parasites**.
 
 Examples:
-- Viscum and Loranthus are partial stem parasites.
+- Viscum and Loranthus are **partial stem parasites.**
 
-- Santalum (Sandal Woo d) is a partial root parasite.
+- Santalum (Sandal Woo d) is a **partial root parasite.**
 
-The parasitic plants produce the haustorial roots inside the host plant to absorb nutrients from the vascular tissues of host plants. c. Competition: It is an interaction between two organisms or species in which both the organisms or species are harmed. Competition is the severest in population that has irregular distribution. Competition is classified into intraspecific and interspecific.
+The parasitic plants produce the **haustorial roots** inside the host plant to absorb nutrients from the vascular tissues of host plants. 
 
-1.  Intraspecific competition: It is an interaction between individuals of the same species. This competition is very severe because all the members of species have similar requirements of food, habitat, pollination etc. and they also have similar adaptations to fulfill their needs.
+**c.Competition:** It is an interaction between two organisms or species in which both the organisms or species are harmed. Competition is the severest in population that has irregular distribution. Competition is classified into intraspecific and interspecific.
+
+**1.Intraspecific competition:** 
+It is an interaction between individuals of the same species. This competition is very severe because all the members of species have similar requirements of food, habitat, pollination etc. and they also have similar adaptations to fulfill their needs.
     
-2.  Interspecific competition: It is an interaction between individuals of different species. In grassland, many species of grasses grow well as there is little competition when enough nutrients and water is available. During drought shortage of water occurs . A life and death competition starts among the different species of grass lands. Survival in both these competitions is determined by the quantity of nutrients, availability of water and migration to new areas. Different species of herbivores, larvae and grass hopper competing for fodder or forage plants. Trees, shrubs and herbs in a forest struggle for sunlight, water and nutrients and also for pollination and dispersal of fruits and seeds. The Utricularia (Bladderwort) competes with tiny fishes for small crustaceans and insects.
+**2.Interspecific competition:** 
+It is an interaction between individuals of different species. In grassland, many species of grasses grow well as there is little competition when enough nutrients and water is available. During drought shortage of water occurs . A life and death competition starts among the different species of grass lands. Survival in both these competitions is determined by the quantity of nutrients, availability of water and migration to new areas. Different species of herbivores, larvae and grass hopper competing for fodder or forage plants. Trees, shrubs and herbs in a forest struggle for sunlight, water and nutrients and also for pollination and dispersal of fruits and seeds. The Utricularia (Bladderwort) competes with tiny fishes for small crustaceans and insects.
     
 
-d. Amensalism: It is an interspecific interaction in which one species is inhibited while the other species is neither benefitted nor harmed. The inhibition is achieved by the secretion of certain chemicals called allelopathic substances. Amensalism is also called antibiosis.
+**d.Amensalism:** 
+It is an interspecific interaction in which one species is inhibited while the other species is neither benefitted nor harmed. The inhibition is achieved by the secretion of certain chemicals called **allelopathic** substances. Amensalism is also called **antibiosis.**
+
 - Penicillium notatum produces penicillin to inhibit the growth of a variety of bacteria especially Staphylococcus.
 - Trichoderma inhibits the growth of fungus Aspergillus.
 
-- Roots and hulls of Black Walnut Juglans nigra secretes an alkaloid Juglone which inhibits the growth of seedlings of Apple, Tomato and Alfalfa around it. Interspecific interactions/ Co-evolutionary dynamics i. Mimicry: It is a phenomenon in which living organism modifies its form, appearance, structure or behavior and looks like another living organism as a self defence and increases the chance of its survival. Floral mimicry is for usually inviting pollinators but animal mimicry is often protective. Mimicry is a result of evolutionary significance due to shape and sudden heritable mutation and preservation by natural selection.
+- Roots and hulls of Black Walnut Juglans nigra secretes an alkaloid Juglone which inhibits the growth of seedlings of Apple, Tomato and Alfalfa around it.
 
-a) b)
-
+#### Interspecific interactions/ Co-evolutionary dynamics 
+i. Mimicry: It is a phenomenon in which living organism modifies its form, appearance, structure or behavior and looks like another living organism as a self defence and increases the chance of its survival. Floral mimicry is for usually inviting pollinators but animal mimicry is often protective. Mimicry is a result of evolutionary significance due to shape and sudden heritable mutation and preservation by natural selection.
 ![Mimicry ](6.15.png "img-class")
 
-a) Phyllium frondosum
-b) Carausium morosus Example:
 - The plant, Ophrys an orchid, the flower looks like a female insect to attract the male insect to get pollinated by the male insect and it is otherwise called ‘floral mimicry ‘.
 - Carausium morosus – stick insect or walking stick. It is a protective mimicry.
-
 - Phyllium frondosum – leaf insect, another example of protective mimicry.
-ii. Myrmecophily: Sometimes, ants take their shelter on some trees such as Mango, Litchi, Jamun, Acacia etc. These ants act as body guards of the plants against any disturbing agent and the plants in turn provide food and shelter to these ants. This phenomenon is known as Myrmecophily. Example: Acacia and acacia ants.
 
-Ant
-
+**ii. Myrmecophily:** Sometimes, ants take their shelter on some trees such as Mango, Litchi, Jamun, Acacia etc. These ants act as body guards of the plants against any disturbing agent and the plants in turn provide food and shelter to these ants. This phenomenon is known as Myrmecophily. Example: Acacia and acacia ants.
 ![Myrmecophily](6.16.png "img-class")
 
-iii. Co-evolution: The interaction between organisms, when continues for generations, involves reciprocal changes in genetic and morphological characters of both organisms. This type of evolution is called Co-evolution. It is a kind of co- adaptation and mutual change among interactive species.
+**iii.Co-evolution:** The interaction between organisms, when continues for generations, involves reciprocal changes in genetic and morphological characters of both organisms. This type of evolution is called Co-evolution. It is a kind of co- adaptation and mutual change among interactive species.
 
 ![Co-evolution](6.17.png "img-class")
 
@@ -479,53 +488,57 @@ Examples:
 - Bird’s beak shape and flower shape and size.
 - More examples: Horn bills and birds of Scrub jungles ,Slit size of pollinia of Apocynaceae members and leg size of insects.
 
-
-
 ## Ecological adaptations
 
-The modifications in the structure of organisms to survive successfully in an environment are called adaptations of organisms. Adaptations help the organisms to exist under the prevailing ecological habitat. Based on the habitats and the corresponding adaptations of plants, they are classified as hydrophytes, xerophytes, mesophytes, epiphytes and halophytes. Hydrophytes The plants which are living in water or wet places are called hydrophytes. According to their relation to water and air, they are sub- divided into following categories: i) Free floating hydrophytes,
+The modifications in the structure of organisms to survive successfully in an environment are called adaptations of organisms. Adaptations help the organisms to exist under the prevailing ecological habitat. Based on the habitats and the corresponding adaptations of plants, they are classified as hydrophytes, xerophytes, mesophytes, epiphytes and halophytes. 
+### Hydrophytes 
+
+The plants which are living in water or wet places are called hydrophytes. According to their relation to water and air, they are sub- divided into following categories: i) Free floating hydrophytes,
 ii. Rooted- floating hydrophytes,
-iii. Submerged floating hydrophytes, iv) Rooted -submerged hydrophytes, v) Amphibious hydrophytes. i. Free floating hydrophytes: These plants float freely on the surface of water. They remain in contact with water and air, but not with soil. Examples: Eichhornia, Pistia and Wolffia (smallest flowering plant).
-ii. Rooted floating hydrophytes: In these plants, the roots are fixed in mud, but their leaves and flowers are floating on the surface of water. These plants are in contact with soil, water and air. Examples: Nelumbo, Nymphaea, Potomogeton and Marsilea. Lotus seeds show highest longevity in plant kingdom.
+iii. Submerged floating hydrophytes, iv) Rooted -submerged hydrophytes, v) Amphibious hydrophytes. 
 
-iii. Submerged floating hydrophytes: These plants are completely submerged in water and not in contact with soil and air. Examples: Ceratophyllum and Utricularia. iv. Rooted- submerged hydrophytes: These plants are completely submerged in water and rooted in soil and not in contact with air. Examples: Hydrilla, Vallisneria and Isoetes. v. Amphibious hydrophytes (Rooted emergent hydrophytes): These plants are adapted to both
+##### i.Free floating hydrophytes: 
+These plants float freely on the surface of water. They remain in contact with water and air, but not with soil. Examples: Eichhornia, Pistia and Wolffia (smallest flowering plant).
 
+##### ii. Rooted floating hydrophytes: 
+In these plants, the roots are fixed in mud, but their leaves and flowers are floating on the surface of water. These plants are in contact with soil, water and air. Examples: Nelumbo, Nymphaea, Potomogeton and Marsilea. Lotus seeds show highest longevity in plant kingdom.
 
+##### iii. Submerged floating hydrophytes: 
+These plants are completely submerged in water and not in contact with soil and air. Examples: Ceratophyllum and Utricularia. 
+##### iv. Rooted- submerged hydrophytes: 
+These plants are completely submerged in water and rooted in soil and not in contact with air. Examples: Hydrilla, Vallisneria and Isoetes. 
 
-a)
-b) Lamina Floating leaves Inflated petiole Stolen Fibrous roots Offset Water Fibrous roots Root pocket Root pockets i) Free floating hydrophyte
-
-a) Eichhornia
-b) Pistia
-
-c) d) Flower Leaf lets Lamina Petiole Petiole Flower bud Water Water Young leaf Rhizome Root Rhizome Roots Mud Mud
-ii. Rooted floating hydrophyte
-
-c) Nymphaea d) Marsilea
-
-e) f) Water Stem Submerged leaves
-iii. Submerged floating hydrophyte
-
-e) Ceratophyllum f) Utricularia
-
-g) h) Female plant Male plant Female flower Flower Water Whorls of submerged leaves Water Male flower Stolen Branch Roots Roots Mud Mud iv) Rooted - submerged hydrophyte
-
-g) Vallisneria h) Hydrilla i) Flower j) Flowers Emergent leaves Emergent or aerial leaves Stem Submerged Submerged leaves dissected leaves Stolen Water Roots Roots Mud Mud v) Rooted emergent hydrophyte-Heterophylly i) Sagittaria j) Ranunculus
+##### v. Amphibious hydrophytes (Rooted emergent hydrophytes): 
+These plants are adapted to both
 
 ![Hydrophytes](6.18.png "img-class")
 
-aquatic and terrestrial modes of life. They grow in shallow water. Examples: Ranunculus, Typha and Sagittaria.
+aquatic and terrestrial modes of life. They grow in shallow water. 
+*Examples: Ranunculus, Typha and Sagittaria.*
 
-Hygrophytes: The plants which can grow in moist damp and shady places are called hygrophytes. Examples: Habenaria (Orchi d) , Mosses (Bryophytes), etc. Morphological adaptations of Hydrophytes: In root
+##### Hygrophytes: 
+The plants which can grow in moist damp and shady places are called hygrophytes. Examples: Habenaria (Orchi d) , Mosses (Bryophytes), etc. 
+
+##### Morphological adaptations of Hydrophytes: In root
+
 - Roots are totally absent in Wolffia and Salvinia or poorly developed in Hydrilla or well developed in Ranunculus.
-- The root caps are replaced by root pockets. Example: Eichhornia In stem
+- The root caps are replaced by root pockets. Example: Eichhornia 
+
+##### In stem
+
 - The stem is long, slender, spongy and flexible in submerged forms.
 
 - In free floating forms the stem is thick, short stoloniferous and spongy; and in rooted floating forms, it is a rhizome .
-- Vegetative propagation is through runners, stolon, stem and root cuttings , tubers, dormant apices and offsets. In leaves
+- Vegetative propagation is through runners, stolon, stem and root cuttings , tubers, dormant apices and offsets.
+
+##### In leaves
+
 - The leaves are thin, long and ribbon shaped in Vallisneria or long and linear in Potamogeton or finely dissected in Ceratophyllum
 - The floating leaves are large and flat as in Nymphaea and Nelumbo. In Eichhornia and Trapa petioles become swollen and spongy.
-- In emergent forms, the leaves show heterophylly (Submerged leaves are dissected and aerial leaves are entir e) . Example: Ranunculus, Limnophila heterophylla and Sagittaria Anatomical adaptations
+- In emergent forms, the leaves show **heterophylly** (Submerged leaves are dissected and aerial leaves are entir e) . Example: Ranunculus, Limnophila heterophylla and Sagittaria
+
+##### Anatomical adaptations
+
 - Cuticle is either completely absent or if present it is thin and poorly developed
 - Single layer of epidermis is present
 
@@ -536,36 +549,55 @@ Hygrophytes: The plants which can grow in moist damp and shady places are called
 
 ![T.S. of Hydrilla stem](6.19.png "img-class")
 
-Physiological adaptations of Hydrophytes:
+##### Physiological adaptations of Hydrophytes:
+
 - Hydrophytes have the ability to withstand anaerobic conditions .
-- They possess special aerating organs. Xerophytes The plants which are living in dry or xeric condition are known as Xerophytes. Xerophytic habitat can be of two different types. They are: a. Physical dryness: In these habitats, soil has a little amount of water due to the inability of the soil to hold water because of low rainfall. b. Physiological dryness: In these habitats, water is sufficiently present but plants are unable to absorb it because of the absence of capillary spaces. Example: Plants in salty and acidic soil. Based on adaptive characters xerophytes are classified into three categories. They are Ephemerals, Succulents and Non succulent plants.
+- They possess special aerating organs. 
 
+##### Xerophytes 
 
+The plants which are living in dry or xeric condition are known as Xerophytes. Xerophytic habitat can be of two different types. They are: 
 
-i. Ephemerals: These are also called drought escapers or drought evaders. These plants complete their life cycle within Figure 6. 20.  
+**a.Physical dryness:** In these habitats, soil has a little amount of water due to the inability of the soil to hold water because of low rainfall. 
+
+**b.Physiological dryness:** In these habitats, water is sufficiently present but plants are unable to absorb it because of the absence of capillary spaces. Example: Plants in salty and acidic soil. 
+
+Based on adaptive characters xerophytes are classified into three categories. They are Ephemerals, Succulents and Non succulent plants.
+
+**i.Ephemerals:** 
+These are also called drought escapers or drought evaders. These plants complete their life cycle within   
 a short period Argemone mexicana-Ephemerals (single season). These are not true xerophytes. Examples: Argemone, Mollugo, Tribulus and Tephrosia.
-ii. Succulents: These are also called drought enduring plants. These plants store water in their plant parts during the dry period. These plants develop certain adaptive characters to resist extreme drought conditions. Examples: Opuntia, Aloe, Bryophyllum and Begonia.
-iii. Non succulents: These are also called drought resistant plants ( true xerophytes). They face both external and internal dryness. They have many adaptations to resist dry conditions. Examples: Casuarina, Nerium, Zizyphus and Acacia.
 
-a)
-b) Marginal spines Leaf Succulent leaves Rhizome Stipular Roots spines
+![T.S. of Hydrilla stem](6.20.png "img-class")
+
+**ii.Succulents:** 
+These are also called drought **enduring plants**. These plants store water in their plant parts during the dry period. These plants develop certain adaptive characters to resist extreme drought conditions. Examples: Opuntia, Aloe, Bryophyllum and Begonia.
+
+**iii. Non succulents:** These are also called **drought resistant plants ( true xerophytes)**. They face both external and internal dryness. They have many adaptations to resist dry conditions. 
+*Examples: Casuarina, Nerium, Zizyphus and Acacia.*
 
 ![a)Succulent xerophyte – Aloe ](6.21.png "img-class")
 
-b) Non succulent perennial - Ziziphus Morphological Adaptations In root
+##### Morphological Adaptations 
+
+**In root**
 - Root system is well developed and is greater than that of shoot system.
 - Root hairs and root caps are also well developed.
 
+In xerophytic plants with the leaves and stem covered with hairs are called 
+**trichophyllous plants.**
 
+*Example: Cucurbits (Melothria and Mukia)*
 
-In xerophytic plants with the leaves and stem covered with hairs are called trichophyllous plants . Example: Cucurbits (Melothria and Mukia ) In stem
+**In stem**
+
 - Stems are mostly hard and woody. They may be aerial or underground
-- The stems and leaves are covered with wax coating or covered with dense hairs.
-- In some xerophytes all the internodes in the stem are modified into a fleshy leaf structure called phylloclades (Opunti a) .
-- In some of the others single or occasionally two internodes modified into fleshy green structure called cladode (Asparagus). In some the petiole is modified into a fleshy leaf like structure called phyllode (Acacia melanoxylon).
 
-a)
-b) Flower Spines Stipular Phylloclade spine Stem c d c) Petiole ## Leaves Scale leaves 1 Stem 4 Phyllode ### and 4 the gradual development Spine of phyllodes in Acacia
+- The stems and leaves are covered with wax coating or covered with dense hairs.
+
+- In some xerophytes all the internodes in the stem are modified into a fleshy leaf structure called **phylloclades** (Opuntia).
+
+- In some of the others single or occasionally two internodes modified into fleshy green structure called cladode (Asparagus). In some the petiole is modified into a fleshy leaf like structure called **phyllode** (Acacia melanoxylon).
 
 ![Xerophytes](6.22.png "img-class")
 
@@ -577,10 +609,13 @@ c) Cladode of Asparagus
 
 d) Phyllode – Acacia
 
-In leaves
+##### In leaves
+
 - Leaves are generally leathery and shiny to reflect light and heat.
 - In some plants like Euphorbia, Acacia, Ziziphus and Capparis, the stipules are modified into spines.
-- The entire leaves are modified into spines (Opuntia ) or reduced to scales (Asparagus). Anatomical adaptations
+- The entire leaves are modified into spines (Opuntia ) or reduced to scales (Asparagus).
+
+##### Anatomical adaptations
 - Presence of multilayered epidermis with heavy cuticle to prevent water loss due to transpiration.
 
 - Hypodermis is well developed with sclerenchymatous tissues.
@@ -591,93 +626,134 @@ In leaves
 - Mesophyll is well differentiated into palisade and spongy parenchyma.
 - In succulents the stem possesses a water storage region.
 
-Thick cuticle Multi-layered epidermis Palisade parenchyma Spongy parenchyma Stomata Guard cells Pit (Cavity) Trichomes (Hairs) Lower epidermis Cuticle
-
 ![T.S. of Nerium leaf](6.23.png "img-class")
-
-Water storage cells Palisade parenchyma Spongy parenchyma Lower epidermis
 
 ![A Succulent leaf of Peperomia (T.S.)](6.24.png "img-class")
 
 (lateral wing portion only)
 
-Upper epidermis Physiological adaptations
+##### Physiological adaptations
+
 - Most of the physiological processes are designed to reduce transpiration.
-- Life cycle is completed within a short period (Ephemerals). Mesophytes The plants which are living in moderate conditions (neither too wet nor too dry) are known as mesophytes. These are common land plants. Example: Maize and Hibiscus. Morphological adaptations
+- Life cycle is completed within a short period (Ephemerals). 
+
+##### Mesophytes 
+
+The plants which are living in moderate conditions (neither too wet nor too dry) are known as **mesophytes.** These are common land plants. Example: Maize and Hibiscus.
+
+##### Morphological adaptations
 - Root system is well developed with root caps and root hairs
 - Stems are generally aerial, stout and highly branched.
 
 - Leaves are generally large, broad, thin with different shapes.
 
-Anatomical adaptations
+##### Anatomical adaptations
 - Cuticle in aerial parts are moderately developed.
-
 - Epidermis is well developed and stomata are generally present on both the epidermis.
 - Mesophyll is well differentiated into palisade and spongy parenchyma.
-- Vascular and mechanical tissues are fairly developed and well differentiated. Physiological adaptations
+- Vascular and mechanical tissues are fairly developed and well differentiated.
+
+##### Physiological adaptations
+
 - All physiological processes are normal.
-- Temporary wilting takes place at room temperature when there is water scarcity. Tropophytes are plants which behave as xerophytes at summer and behave as mesophytes (or) hydrophytes during rainy season.
+- Temporary wilting takes place at room temperature when there is water scarcity.
 
-Epiphytes Epiphytes are plants which grow perched on other plants (Supporting plants). They use the supporting plants only as shelter and not for water or food supply. These epiphytes 
+##### Tropophytes
+are plants which behave as xerophytes at summer and behave as mesophytes (or) hydrophytes during rainy season.
 
+##### Epiphytes 
+Epiphytes are plants which grow perched on other plants (Supporting plants). They use the supporting plants only as shelter and not for water or food supply. These epiphytes 
 are commonly seen in tropical rain forests. Examples: Orchids, Lianas, Hanging Mosses and Money plant.
 
-Morphological adaptations
-- Root system is extensively developed. These roots may be of two types. They are Clinging roots and Aerial roots. Clinging roots fix the epiphytes firmly on the surface of the supporting objects. Aerial roots are green coloured roots which may hang downwardly and absorb moisture from the atmosphere with the help of a spongy tissue called velamen.
+#### Morphological adaptations
+- Root system is extensively developed. These roots may be of two types. They are Clinging roots and Aerial roots. 
+**Clinging roots** fix the epiphytes firmly on the surface of the supporting objects. 
+**Aerial roots** are green coloured roots which may hang downwardly and absorb moisture from the atmosphere with the help of a spongy tissue called **velamen.**
 - Stem of some epiphytes are succulent and develop pseudobulb or tuber.
 - Generally the leaves are lesser in number and may be fleshy and leathery
-- Myrmecophily is a common occurrence in the epiphytic vegetation to prevent the predators.
+- **Myrmecophily** is a common occurrence in the epiphytic vegetation to prevent the predators.
 
-- The fruits and seeds are very small and usually dispersed by wind, insects and birds. Anatomical adaptations
+- The fruits and seeds are very small and usually dispersed by wind, insects and birds. 
+
+#### Anatomical adaptations
 - Multilayered epidermis is present. Inner to the velamen tissue, the peculiar exodermis layer is present.
 
 - Presence of thick cuticle and sunken stomata greatly reduces transpiration.
-- Succulent epiphytes contain well developed parenchymatous cells to store water. Epidermis Velamen Exodermis Cortex Endodermis Pith Pericycle Metaxylem Protoxylem Conjuctive tissue Phloem
+- Succulent epiphytes contain well developed parenchymatous cells to store water. 
 
 ![T.S. of an aerial root of Orchid ](6.25.png "img-class")
 
-showing velamen tissue
+#### Physiological 
 
+Special adaptations Special absorption processes of water by velamen tissue .
 
+**Halophytes**
 
-Physiological adaptations Special absorption processes of water by velamen tissue .
+There are special type of **Halophytic plants** which grow on soils with high concentration of salts. *Examples: Rhizophora, Sonneratia and Avicennia.*
 
-Halophytes There are special type of Halophytic plants which grow on soils with high concentration of salts. Examples: Rhizophora, Sonneratia and Avicennia.
+Halophytes are usually found near the sea- shores and Estuaries. The soils are physically wet but physiologically dry. As plants cannot use salt water directly they require filtration of salt using physiological processes. This vegetation is also known as **mangrove forest** and the plants are called **mangroves.**
 
-Halophytes are usually found near the sea- shores and Estuaries. The soils are physically wet but physiologically dry. As plants cannot use salt water directly they require filtration of salt using physiological processes. This vegetation is also known as mangrove forest and the plants are called mangroves. Morphological adaptations
+#### Morphological adaptations
 - The temperate halophytes are herbaceous but the tropical halophytes are mostly bushy
 - In addition to the normal roots, many stilt roots are developed
-- A special type of negatively geotropic roots called pneumatophores with pneumathodes to get sufficient aeration are also present. They are called breathing roots. Example: Avicennia Pneumathode Pneumatophores Pneumatophores (or) Lenticel Roots Figure 6.26a: Pneumatophores of mangrove plant
+- A special type of negatively geotropic roots called **pneumatophores** with **pneumathodes** to get sufficient aeration are also present. They are called breathing roots. Example: Avicennia 
+
+![T.S. of an aerial root of Orchid ](6.37.png "img-class")
+
 - Presence of thick cuticle on the aerial parts of the plant body
 - Leaves are thick, entire, succulent and glossy. Some species Figure 6.26b: are aphyllous (without Succulent leaves). halophyte - Salicornia
+![T.S. of an aerial root of Orchid ](6.38.png "img-class")
 
 - Viviparous mode of seed germination is found in halophytes Calyx Leaf Fruit Radicle Hypocotyl Water Mud
 
 ![Viviparous type of seed germination](6.27.png "img-class")
 
-Anatomical adaptations
+##### Anatomical adaptations
 - Epidermal cells of stem is heavy cutinized, almost squarish and are filled with oil and tannins.
 
-- ‘Star’ shaped sclereids and ‘H’ shaped heavy thickened spicules that provide mechanical strength to cortex are present in the stem.
-- The leaves may be dorsiventral or isobilateral with salt secreting glands. Physiological adaptations
-- H igh osmotic pressure exists in some plants .
-- S eeds germinate in the fruits while on the mother plant (Vivipary). Out of three districts of Tamil Nadu (Nagapattinam, Thanjavur and Thiruvarur), Muthupet (Thiruvarur district) was less damaged by Gaja cyclone ( November 2018. due to the presence of mangrove forest.
+- **‘Star’shaped** sclereids and **‘H’shaped**heavy thickened spicules that provide mechanical
+strength to cortex are present in the stem.
+
+#### Physiological adaptations
+
+- High osmotic pressure exists in some plants .
+
+- Seeds germinate in the fruits while on the mother plant (Vivipary).
 
 ## Dispersal of Fruits and Seeds
 
-Both fruits and seeds possess attractive colour, odour, shape and taste needed for the dispersal by birds, mammals, reptiles, fish, ants and insects even earthworms. The seed consists of an embryo, stored food material and a
+Both fruits and seeds possess attractive colour, odour, shape and taste needed for the dispersal by birds, mammals, reptiles, fish, ants and insects even earthworms. The seed consists of an embryo, stored food material and a protective covering called **seed coat.** As seeds contain miniature but dormant future plants, their dispersal is an important criterion for distribution and establishment of plants over a wide geographical area. The dissemination of seeds and fruits to various distances from the parent plant is called seed and fruit dispersal. It takes place with the help of ecological factors such as wind, water and animals. 
 
-protective covering called seed coat. As seeds contain miniature but dormant future plants, their dispersal is an important criterion for distribution and establishment of plants over a wide geographical area. The dissemination of seeds and fruits to various distances from the parent plant is called seed and fruit dispersal. It takes place with the help of ecological factors such as wind, water and animals. Seed dispersal is a regeneration process of plant populations and a common means of colonizing new areas to avoid seedling level competition and from natural enemies like herbivores, frugivores and pathogens. Fruit maturation and seed dispersal is influenced by many ecologically favourable conditions such as Season (Example: Summer), suitable environment, and seasonal availability of dispersal agents like birds, insects etc. Seeds require agents for dispersal which are crucial in plant community dynamics in many ecosystems around the globe. They offer many benefits to communities such as food and nutrients, migration of seeds across habitats and helps spreading plant genetic diversity.
+Seed dispersal is a regeneration process of plant populations and a common means of colonizing new areas to avoid seedling level competition and from natural enemies like herbivores, frugivores and pathogens. 
+
+Fruit maturation and seed dispersal is influenced by many ecologically favourable conditions such as Season (Example: Summer), suitable environment, and seasonal availability of dispersal agents like birds, insects etc. 
+
+Seeds require agents for dispersal which are crucial in plant community dynamics in many ecosystems around the globe. They offer many benefits to communities such as food and nutrients, migration of seeds across habitats and helps spreading plant genetic diversity.
 
 ### Dispersal by Wind (Anemochory)
 
-The individual seeds or the whole fruit may be modified to help for the dispersal by wind. Wind dispersal of fruits and seeds is quite common in tall trees. The adaptation of the wind dispersed plants are \`\`form a wing. Examples: Maple, Gyrocarpus, Dipterocarpus and Terminalia
+The individual seeds or the whole fruit may be modified to help for the dispersal by wind. Wind dispersal of fruits and seeds is quite common in tall trees. The adaptation of the wind dispersed plants are 
+
+
+- Minute seeds: Seeds are minute, very
+small, light and with inflated covering.
+Example: Orchids.
+
+
+- Wings: Seeds or whole fruits are flattened to
+form a wing. Examples: Maple, Gyrocarpus,
+**Dipterocarpus and Terminalia**
 
 ![Asclepias Figure 6.29: Gyrocarpus](6.28.png "img-class")
 
-- Feathery Appendages: Seeds or fruits may have feathery appendages which greatly increase their buoyancy to disperse to high altitudes. Examples: Vernonia and Asclepias. 
+![Asclepias Figure 6.29: Gyrocarpus](6.29.png "img-class")
 
-- Censor mechanisms: The fruits of many plants open in such a way that the seeds can escape only when the fruit is violently shaken by a strong wind. Examples: Aristolochia and Poppy. Guess!! Who am I…….? I am dispersed by ant and I have caruncle.
+
+- **Feathery Appendages:**
+Seeds or fruits may have feathery appendages which greatly increase their buoyancy to disperse to high altitudes. Examples: Vernonia and Asclepias. 
+
+- **Censor mechanisms:** 
+The fruits of many plants open in such a way that the seeds can escape only when the fruit is violently shaken by a strong wind. Examples: Aristolochia and Poppy. Guess!! Who am I…….? I am dispersed by ant and I have caruncle.
 
 ### Dispersal by Water (Hydrochory)
 
@@ -690,19 +766,23 @@ Dispersal of seeds and fruits by water usually occurs in those plants which grow
 
 ![Nelumbo Figure 6.31: Coconut](6.30.png "img-class")
 
+![Nelumbo Figure 6.31: Coconut](6.31.png "img-class")
+
 ### Dispersal by Animals (Zoochory)
 
 Birds and mammals, including human beings play an efficient and important role in the dispersal of fruit and seeds. They have the following devices.
 
-i. Hooked fruit: The surface of the fruit or seeds have hooks,(Xanthium), barbs (Andropogon), spines (Aristid a) by means of which they adhere to the body of animals or clothes of human beings and get dispersed.
-ii. Sticky fruits and seeds: a. Some fruits have sticky glandular hairs by
+**i. Hooked fruit:** The surface of the fruit or seeds have hooks,(Xanthium), barbs (Andropogon), spines (Aristid a) by means of which they adhere to the body of animals or clothes of human beings and get dispersed.
 
+**ii. Sticky fruits and seeds:**
+a. Some fruits have sticky glandular hairs by which they adhere to the fur of grazing animals. Example: Boerhaavia and Cleome. 
+b. Some fruits have viscid layer which adhere to the beak of the bird which eat them and when they rub them on to the branch of the tree, they disperse and germinate. Example: Cordia and Alangium
 
-
-which they adhere to the fur of grazing animals. Example: Boerhaavia and Cleome. b. Some fruits have viscid layer which adhere to the beak of the bird which eat them and when they rub them on to the branch of the tree, they disperse and germinate. Example: Cordia and Alangium
-iii. Fleshy fruits: Some fleshy fruits with conspicuous colours are dispersed by human beings to distant places after consumption. Example: Mango and Diplocyclos
+**iii. Fleshy fruits:** Some fleshy fruits with conspicuous colours are dispersed by human beings to distant places after consumption.*Example: Mango and Diplocyclos*
 
 ![Sunflower Figure 6.33: Papaya](6.32.png "img-class")
+
+![Sunflower Figure 6.33: Papaya](6.33.png "img-class")
 
 ### Dispersal by Explosive Mechanism
 
@@ -715,357 +795,30 @@ iii. Fleshy fruits: Some fleshy fruits with conspicuous colours are dispersed by
 
 ![Ecballium Figure 6.35: Impatents](6.34.png "img-class")
 
-Human aided seed dispersal Seed Ball : Seed ball is an ancient Japanese technique of encasing seeds in a mixture of clay and soil humus (also in cow dun g)  
+![Ecballium Figure 6.35: Impatents](6.35.png "img-class")
+
+### Human aided seed dispersal 
+Seed Ball : Seed ball is an ancient Japanese technique of encasing seeds in a mixture of clay and soil humus (also in cow dun g)  
 and scattering them on to suitable ground, not planting of trees manually. This method Figure 6. 36. Seed ball is suitable for barren and degraded lands for tree regeneration and vegetation before monsoon period where the suitable dispersal agents become rare.
+![Ecballium Figure 6.35: Impatents](6.36.png "img-class")
 
-Guess? what is atelochory or Achory? Ecologically important days March 2. - World forest day April 2. - Earth day May 2. - World bio diversity day June 0. - World environment day July 0. - Van Mahostav day September
-
-1.  *   International Ozone day Advantages of seed dispersal:
+### Advantages of seed dispersal:
 - Seeds escape from mortality near the parent plants due to predation by animals or getting diseases and also avoiding competition.
 
 - Dispersal also gives a chance to occupy favourable sites for growth.
 - It is an important process in the movement of plant genes particularly this is the only method available for self-fertilized flowers and maternally transmitted genes in outcrossing plants.
 
 - Seed dispersal by animals help in conservation of many species even in human altered ecosystems.
-- Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems. Summary Ecology is a division of biology and deals with the study of environment in relation to organisms. Ecology is mainly divided into two branches Autecology and Synecology. The environment (surroundin g) includes physical, chemical and biological components. These factors can be classified into living (bioti c)  
-and non-living (abioti c) , which make the environment of an organism. The ecological factors are meaningfully grouped into four classes, which are as follows:
+- Understanding of fruits and seed dispersal acts as a key for proper functioning and establishment of many ecosystems from deserts to evergreen forests and also for the maintenance of biodiversity conservation and restoration of ecosystems. 
 
-1.  Climatic factors
-    
+#### Summary 
+
+Ecology is a division of biology and deals with the study of environment in relation to organisms. Ecology is mainly divided into two branches Autecology and Synecology. The environment (surroundin g) includes physical, chemical and biological components. These factors can be classified into living (bioti c)  and non-living (abioti c) , which make the environment of an organism. The ecological factors are meaningfully grouped into four classes, which are as follows:1.  Climatic factors
 2.  Edaphic factors 3. Topographic factors 4. Biotic factors.
     
 
-Climate is one of the important natural factors controlling the plant life. The climatic factors includes light, temperature, water, wind, fire, etc. Edaphic factors, the abiotic factors related to soil, include the physical and chemical composition of the soil formed in a particular area. The surface features of earth are called topography. Topographic influence on the climate of any area is determined by the interaction of solar radiation, temperature, humidity ,rainfall, latitude and altitude. The interactions among living organisms, the plants and animals are called biotic factors, which may cause marked effects upon vegetation. The modifications in the structure of organisms to survive successfully in an environment are called adaptations of organisms. Based on the habitats and the corresponding adaptations of plants, they are classified into
+Climate is one of the important natural factors controlling the plant life. The climatic factors includes light, temperature, water, wind, fire, etc. Edaphic factors, the abiotic factors related to soil, include the physical and chemical composition of the soil formed in a particular area. The surface features of earth are called topography. Topographic influence on the climate of any area is determined by the interaction of solar radiation, temperature, humidity ,rainfall, latitude and altitude. The interactions among living organisms, the plants and animals are called biotic factors, which may cause marked effects upon vegetation. 
 
+The modifications in the structure of organisms to survive successfully in an environment are called adaptations of organisms. Based on the habitats and the corresponding adaptations of plants, they are classified into
 1.  Hydrophytes 2) Xerophytes 
-    
-2.  Mesophytes 4) Epiphytes and 5) Halophytes. The dissemination of seeds and fruits to various distances from the parent plant is called seed and fruit dispersal. It takes place with the help of ecological factors such as wind, water and animals.
-    
-
-Evaluation
-
-1.  Arrange the correct sequence of ecological hierarchy starting from lower to higher level.
-
-a) Individual organism → Population Landscape → Ecosystem
-
-b) Landscape → Ecosystem → Biome → Biosphere
-
-c) community → Ecosystem → Landscape → Biome
-
-d) Population → organism → Biome → Landscape
-
-2.  Ecology is the study of an individual species is called i) Community ecology
-ii. Autecology
-iii. Species ecology iv) Synecology
-
-a) i only
-b) ii only
-
-c) i and iv only d) ii and
-ii. only
-
-3.  A specific place in an ecosystem, where an organism lives and performs its functions is
-
-a) habitat
-b) niche
-
-c) landscape d) biome
-
-4.  Read the given statements and select the correct option.
-
-i) H ydrophytes possess aerenchyma to support themselves in water.
-ii. S eeds of Viscum are positively photoblastic as they germinate only in presence of light.
-iii. H ygroscopic water is the only soil water available to roots of plant growing in soil as it is present inside the micropores. iv) H igh temperature reduces use of water and solute absorption by roots.
-
-
-
-a) i,
-ii. and
-ii. only b)
-ii. iii and iv
-
-c) ii and
-ii. only d) i and ii only
-
-5.  Which of the given plant produces cardiac glycosides?
-
-a) Calotropis
-b) Acacia
-
-c) Nepenthes d) Utricularia
-
-6.  Read the given statements and select the correct option.
-
-i) L oamy soil is best suited for plant growth as it contains a mixture of silt, sand and clay.
-ii. Th e process of humification is slow in case of organic remains containing a large amount of lignin and cellulose.
-iii. C apillary water is the only water available to plant roots as it is present inside the micropores. iv) L eaves of shade plant have more total chlorophyll per reaction centre, low ratio of chl a and chl b are usually thinner leaves.
-
-a) i, ii and
-ii. only b)
-ii. iii and iv only
-
-c) i, ii and iv only d) ii and
-ii. only
-
-7.  Read the given statements and select the correct option.
-
-Statement A : Cattle do not graze on weeds of Calotropis.
-
-Statement B : Calotropis have thorns and spines, as defense against herbivores.
-
-a) Both statements A and B are incorrect.
-
-b) Statement A is correct but statement B is incorrect.
-
-c) Both statements A and B are correct but statement B is not the correct explanation of statement A.
-
-d) Both statements A and B are correct and statement B is the correct explanation of statement A.
-
-8.  In soil water available for plants is
-
-a) gravitational water
-
-b) chemically bound water
-
-c) capillary water
-
-d) hygroscopic water
-
-9.  Read the following statements and fill up the blanks with correct option. i) T otal soil water content in soil is called
-
-* * *
-
-ii) S oil water not available to plants is called
-
-* * *
-
-iii) S oil water available to plants is called
-
-* * *
-
-(i) (ii) (iii) ( a) Holard Echard Chresard (
-b) Echard Holard Chresard ( c) Chresard Echard Holard ( d) Holard Chresard Echard
-
-10.  Column I represent the size of the soil particles and Column II represents type of soil components. Which of the following is correct match for the Column I and Column IL Column - I Column - II I). ## to 2.
-11.  mm i) Slit soil II) Less than 0.
-12.  mm
-ii. Clayey soil III) 0.
-13.  to ## mm
-iii. Sandy soil IV) 0.
-14.  to ## mm iv) Loamy soil I II III IV
-
-a) ii
-ii. iv i
-
-b) iv i
-ii. ii
-
-c)
-ii. ii i iv
-
-d) None of the above
-
-11.  The plant of this group are adapted to live partly in water and partly above substratum and free from water
-
-a) Xerophytes
-b) Mesophytes
-
-c) Hydrophytes d) Halophytes
-
-1.  . Identify the A, B, C and D in the given table Effects on Effects on Interaction species X species Y Mutualism A (+) B (+) (-) Competition (-) C D (-) 0
-
-A B C D
-
-a) (+) Parasitism (-) Amensalism
-
-b) (-) Mutalism (+) Competition
-
-c) (+) Competition ( 0. Mutalism
-
-d) ( 0. Amensalism (+) Parasitism
-
-13.  Ophrys an orchid resembling the female of an insect so as to able to get pollinated is due to phenomenon of
-
-a) Myrmecophily
-
-b) Ecological equivalents
-
-c) Mimicry
-
-d) None of these
-
-14.  A free living nitrogen fixing cyanobacterium which can also form symbiotic association with the water fern Azolla
-
-a) Nostoc
-b) Anabaena
-
-c) chlorella d) Rhizobium
-
-15.  Pedogenesis refers to
-
-a) Fossils
-b) Water c) Population d) Soil
-
-16.  Mycorrhiza promotes plant growth by
-
-a) Serving as a plant growth regulators
-
-b) Absorbing inorganic ions from soil
-
-c) Helping the plant in utilizing atmospheric nitrogen
-
-d) Protecting the plant from infection
-
-17.  Which of the following plant has a non- succulent xerophytic and thick leathery leaves with waxy coating
-
-a) Bryophyllum
-b) Ruscus
-
-c) Nerium d) Calotropis
-
-18.  In a fresh water environment like pond, rooted autotrophs are
-
-a) Nymphaea and typha
-
-b) Ceratophyllum and Utricularia
-
-c) Wolffia and pistia
-
-d) Azolla and lemna 
-
-19.  Match the following and choose the correct combination from the options given below: Column I Column II (Interaction) (Examples) I. Mutualism i). T richoderma and Penicillium II. Commensalism ii). B alanophora, Orobanche III. Parasitism iii). Orchids and Ferns IV. Predation iv). L ichen and Mycorrhiza V. Amensalism v). N epenthes and Diaonaea I II III IV V
-
-a) i ii
-ii. iv v
-
-b) ii
-ii. iv v i
-
-c)
-ii. iv v i ii
-
-d) iv
-ii. ii v i
-
-20.  Strong, sharp spines that get attached to animal’s feet are found in the fruits of
-
-a) Argemone
-b) Ecballium
-
-c) Heritier d) Crossandra
-
-21.  Sticky glands of Boerhaavia and Cleome support
-
-a) Anemochory
-b) Zoochory
-
-c) Autochory d) Hydrochory
-
-22.  Define ecology.
-    
-23.  What is ecological hierarchy? Name the levels of ecological hierarchy.
-    
-24.  What are ecological equivalents? Give one example .
-    
-25.  Distinguish habitat and niche
-    
-26.  Why are some organisms called as eurythermals and some others as stenohaline ?
-    
-27.  ‘Green algae are not likely to be found in the deepest strata of the ocean’. Give at least one reason.
-    
-
-
-
-28.  What is Phytoremediation ?
-    
-29.  What is Albedo effect and write their effects?
-    
-30.  The organic horizon is generally absent from agricultural soils because tilling, e.g., plowing, buries organic matter. Why is an organic horizon generally absent in desert soils ?
-    
-31.  Soil formation can be initiated by biological organisms. Explain how?
-    
-32.  Sandy soil is not suitable for cultivation. Explain why?
-    
-33.  Describe the mutual relationship between the fig and wasp and comment on the phenomenon that operates in this relationship.
-    
-34.  Lichen is considered as a good example of obligate mutualism. Explain.
-    
-35.  What is mutualism? Mention any two example where the organisms involved are commercially exploited in modern agriculture.
-    
-36.  List any two adaptive features evolved in parasites enabling them to live successfully on their host?
-    
-37.  Mention any two significant roles of predation plays in nature.
-    
-38.  How does an orchid ophrys ensures its pollination by bees ?
-    
-39.  Water is very essential for life. Write any three features for plants which enable them to survive in water scarce environment.
-    
-40.  Why do submerged plants receive weak illumination than exposed floating plants in a lake?
-    
-41.  What is vivipary? Name a plant group which exhibits vivipary.
-    
-42.  What is thermal stratification? Mention their types.
-    
-43.  How is rhytidome act as the structural defence by plants against fire?
-    
-44.  What is myrmecophily?
-    
-45.  What is seed ball?
-    
-46.  How is anemochory differ from zoochory?
-    
-47.  What is co evolution?
-    
-48.  Explain Raunkiaer classification in the world’s vegetation based on the temperature.
-    
-49.  List out the effects of fire to plants.
-    
-50.  What is soil profile? Explain the characters of different soil horizons.
-    
-51.  Give an account of various types of parasitism with examples.
-    
-52.  Explain different types of hydrophytes with examples.
-    
-53.  Enumerate the anatomical adaptations of xerophytes.
-    
-54.  List out any five morphological adaptations of halophytes.
-    
-55.  What are the advantages of seed dispersal?
-    
-56.  Describe dispersal of fruit and seeds by animals.
-    
-
-Glossary Antibiosis: An association of two organisms which is harmful to one of them. Biome: A major regional community of plants and animals with similar life forms and environmental conditions. Biosphere: The envelope containing all living organisms on earth.
-
-Community: A group of organism living in the same place.
-
-Flora: The kinds of plants in region Frugivores: Fruit eating organisms Hekistotherms: (Temperature less than 70°C) Where very low temperature prevails and the dominant vegetation is alpine vegetation. Landscape: The visible features of an area of land.
-
-Lianes: Twining vines with woody stems, common in forest of warm climate. Megatherms: (Temperature more than 240°C) Where high temperature prevails throughout the year and the dominant vegetation is tropical rain forest.
-
-Mesotherms: (Temperature ranges between 170°C and 240°C) Where high temperature alternates with low temperature and the dominant vegetation is tropical deciduous forest.
-
-Microtherms: (Temperature ranges between 70°C and 170°C) Where low temperature prevails and the dominant vegetation is mixed coniferous forest.
-
-Population: A group of individuals of a single species.
-
-Scotoactive type of stomata: Stomata opens during night in succulent plants and closes during the day.
-
-Vivipary: When seeds or embryos begin to develop before they detach from the parent. 
-
-ICT Corner Principles o Let us know about the Environmental Studies- Complete Reference Guide in detail.
-
-Steps
-- Type the URL or scan the QR code to page will open.
-
-- Click on the Content icon in the introdu
-- Click on the topic you like.
-- To know more applications related to th Step 1 Step URL: https://play.google.com/store/apps/details?id=com EnvironmentalStudies
-
-*   Pictures are indicative only
-
-
-
-f Ecology open the activity page then Introduction ction page.
-
-is title click on More apps. 2 Step 3 .dhavaldev.
+2.  Mesophytes 4) Epiphytes and 5) Halophytes. The dissemination of seeds and fruits to various distances from the parent plant is called **seed and fruit dispersal.** It takes place with the help of ecological factors such as wind, water and animals.
