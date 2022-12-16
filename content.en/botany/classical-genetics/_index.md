@@ -297,7 +297,7 @@ Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is domi
 
 **Table 2.1:** 
 
-**Inter-genic or non-allelic interaction**
+**Intra-genic or non-allelic interaction**
 
 | S.No 	| Gene<br>interaction 	| Example 	| F2<br>Phenotypic<br>ratio 	|
 |---	|---	|---	|---	|
@@ -305,6 +305,8 @@ Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is domi
 | 2 	| Codominance 	| ABO Blood<br>group system in<br>humans 	| 1:2:1 	|          	|
 
 **Table 2.2:** 
+
+
 
 
 
