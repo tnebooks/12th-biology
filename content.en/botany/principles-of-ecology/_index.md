@@ -387,7 +387,18 @@ It is an interaction between two species of organisms in which both are benefitt
 
 Rhizobium (Bacterium) forms nodules in the roots of leguminous plants and lives symbiotically. The Rhizobium obtains food from leguminous plant and in turn fixes atmospheric nitrogen into nitrate, making it available to host plants. 
 
-table 6.4
+|                            	| Interaction type 	| Combination 	| Effects                                                                                 	| Examples                          	|
+|----------------------------	|------------------	|-------------	|-----------------------------------------------------------------------------------------	|-----------------------------------	|
+|   1.Positive interaction   	|                  	|             	|                                                                                         	|                                   	|
+| 1. Mutualism               	|        (+)       	| (0)         	| Both species benefitted                                                                 	| Lichen, Mycorrhiza etc.           	|
+| 2. Commensalism            	|        (+)       	| (-)         	| One species is benefitted and <br>the other species is neither<br>benefitted nor harmed 	| orchids, Lianas etc.              	|
+| **2.Negative interaction** 	|                  	|             	|                                                                                         	|                                   	|
+| 4. Predation               	|        (+)       	| (-)         	| One species benefitted, the<br>other species are harmed                                 	| Drosera, Nepenthes etc.           	|
+| 5. Parasitism              	|        (+)       	| (-)         	| One species benefitted, the<br>other species are harmed                                 	| Cuscuta, Duranta,<br>Viscum etc.  	|
+| 6.Competition              	|        (-)       	| (-)         	| Harmful for both                                                                        	| Grassland species                 	|
+| 7.Amensalism               	|        (-)       	| (0)         	| Harmful for one, but the<br>other species are unaffected                                	| Penicillium and<br>Staphylococcus 	|
+
+
 Other examples: 
 - Water fern (*Azolla*) and Root hair Nitrogen fixing Cyanobacterium Bacteria (*Anabaena*).
 - *Anabaena* present in coralloid Figure 6. 10. roots of Cycas. A nodulated legume (Gymnosperm) 
