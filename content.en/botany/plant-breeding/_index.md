@@ -24,7 +24,7 @@ From the very early times, human beings have co-existed with plants which played
 Domestication is the process of bringing a plant species under the control of humans and gradually changing it through careful selection, genetic alteration and handling so that it is more useful to people. The domesticated species are renewable sources that have provided food and other benefits to human. The possible changes in the plant species due to domestication are listed below. 
 
 - Adaptation to a greater diversity of environments and a wider geographical range.
-- Simultaneous /uniform flowering and fruiting.
+- Simultaneous/uniform flowering and fruiting.
 - Lack of shattering or scattering of seeds.
 - Increased size of fruits and seeds. 
 - Change from a perennial to annual habit. 
@@ -40,7 +40,9 @@ Archeological evidence for earliest record of agriculture is found in the fertil
 The earlier Greek and Roman naturalists like Theophrastus, Dioscorides, Pliny the elder and Galen laid down the scientific foundation in understanding origin and domestication of cultivated plants.
 
 ## Organic Agriculture
-Organic farming is an alternative agricultural system which originated early in the twentieth century in reaction to rapidly changing farming practices. It is a production system that sustains the health of the soils, ecosystems and people. It relies on ecological processes, biodiversity and cycles adapted to local conditions rather than the use of inputs with adverse effects. ### Biofertilizers
+Organic farming is an alternative agricultural system which originated early in the twentieth century in reaction to rapidly changing farming practices. It is a production system that sustains the health of the soils, ecosystems and people. It relies on ecological processes, biodiversity and cycles adapted to local conditions rather than the use of inputs with adverse effects. 
+
+### Biofertilizers
 Biofertilizers are defined as preparations containing living cells or latent cells of efficient strains of microorganisms that help crop plants uptake of nutrients by their interactions in the rhizosphere when applied through seed or soil. Biofertilizers could be also called as microbial cultures, bioinoculants, bacterial inoculants or bacterial fertilizers.
 
 They are efficient in fixing nitrogen, solubilising phosphate and decomposing cellulose. They are designed to improve the soil fertility, plant growth, and also the number and biological activity of beneficial microorganisms in the soil. They are eco-friendly organic agro inputs and are more efficient and cost effective than chemical fertilizers.
@@ -77,7 +79,7 @@ Arbuscular mycorrhizae (AM) is formed by the symbiotic association between certa
 
 **Seaweed Liquid Fertilizer** 
 ![Seaweed – Kelp](9.5.png "")
-Seaweed liquid Fertilizer **(**SLF) contains c y t o k i n i n , g i b b e r e l l i n s and auxin apart from macro and micro n u t r i e n t s . Most seaweed based fertilizers are made from kelp(brown algae) which grows to length of 150 metres. Liquid seaweed fertilizer is not only organic but also eco-friendly. The alginates in the seaweed that reacts with metals in the soil and form long, cross-linked polymers in the soil. These polymers improve the crumbing in the soil, swell up when they get wet and retain moisture for a long time. They are especially useful in organic gardening which provides carbohydrates for plants. Seaweed has more than 70 minerals, vitamins and enzymes. It promotes vigorous growth. Improves resistance of plants to frost and disease. Seeds soaked in seaweed extract germinate much rapidly and develop a better root system.
+Seaweed liquid Fertilizer **(**SLF) contains cytokinin , gibberellins and auxin apart from macro and micro n u t r i e n t s . Most seaweed based fertilizers are made from kelp(brown algae) which grows to length of 150 metres. Liquid seaweed fertilizer is not only organic but also eco-friendly. The alginates in the seaweed that reacts with metals in the soil and form long, cross-linked polymers in the soil. These polymers improve the crumbing in the soil, swell up when they get wet and retain moisture for a long time. They are especially useful in organic gardening which provides carbohydrates for plants. Seaweed has more than 70 minerals, vitamins and enzymes. It promotes vigorous growth. Improves resistance of plants to frost and disease. Seeds soaked in seaweed extract germinate much rapidly and develop a better root system.
 
 **Bio-Pesticides** 
 Bio-pesticides are biological agents used for the control of plant pests. They are in high use due to their non-toxic, cheaper and eco-friendly characteristics as compared to chemical or synthetic pesticides. Bio- pesticides have become an integral component of pest management in terms of the environmental and health issues attributed to the use of chemicals in agriculture.
@@ -141,7 +143,6 @@ Plant breeding is the science of improvement of crop varieties with higher yield
 
 ## Conventional Plant Breeding Methods
 
-
 Conventional plant breeding methods resulting in hybrid varieties had a tremendous impact on agricultural productivity over the last decades. It develops new plant varieties by the process of selection and seeks to achieve expression of genetic material which is already present within the species. In this chapter we will discuss about some of the conventional methods of plant breeding.
 
 ### Plant Introduction
@@ -151,9 +152,10 @@ The newly introduced plant has to adapt itself to the new environment. This adju
 
 Introduction may be classified as Primary introduction and Secondary introduction 
 
-(1) **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype. 
+1. **Primary introduction** - When the introduced variety is well adapted to the new environment without any alternation to the original genotype. 
 
-(2) **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. Example : Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. 
+2. **Secondary introduction** - When the introduced variety is subjected to selection to isolate a superior variety and hybridized with a local variety to transfer one or a few characters to them. The botanical gardens in different parts of the world also played a significant role in plant introduction. 
+   **Example :** Tea varieties collected from China and North East India initially grown in Botanical Garden of Kolkata from which appropriate clones have selected and introduced to different parts of India. 
 
 ### Selection
 Selection is the choice of certain individuals from a mixed population for a one or more desirable traits. Selection is the oldest and basic method of plant breeding. There are two main types of Selection.
@@ -166,9 +168,9 @@ National Bureau of plant Genetic Resources (NBPGR)
 The Bureau is responsible for introduction and maintenance of germ plasm of various agricultural and horticultural station in our country. It is also responsible for maintenance of plant materials of botanical and medicinal interest. It is located at Rangpuri, New Delhi and has four regional plant quarantine stations at Amristsar, Kolkata, Mumbai and Chennai at Meenambakkam  
 ```
 
-**ii. Artificial Selection: It is a human involved** process in having better crop from a mixed population where the individuals differ in character. The following are the three main types of artificial selection.
+**ii. Artificial Selection:** It is a human involved process in having better crop from a mixed population where the individuals differ in character. The following are the three main types of artificial selection.
 
-a. **Mass Selection:** In mass selection a large number of plants of similar phenotype or morphological characters are selected and their seeds are mixed together to constitute a new variety. The population obtained from the selected plants would be more uniform than the original population and are not individually tested. After repeated selection for about five to six years, selected seeds are multiplied and distributed to the farmers. The only disadvantage of mass selection is that it is difficult to distinguish the hereditary variation from environmental variation.
+**a. Mass Selection:** In mass selection a large number of plants of similar phenotype or morphological characters are selected and their seeds are mixed together to constitute a new variety. The population obtained from the selected plants would be more uniform than the original population and are not individually tested. After repeated selection for about five to six years, selected seeds are multiplied and distributed to the farmers. The only disadvantage of mass selection is that it is difficult to distinguish the hereditary variation from environmental variation.
 
 ![Mass](9.9.png "")
 
@@ -186,13 +188,9 @@ Hybridization is the method of producing new crop varieties in which two or more
 Steps involved in hybridization are as follows. 
 
 1. **Selection of Parents:** Male and female plants of the desired characters are selected. It should be tested for their homozygosity.
-
 2. **Emasculation:** It is a process of removal of anthers to prevent self pollination before dehiscence of anther.
-
-3. Bagging: The stigma of the flower is protected against any undesirable pollen grains, by covering it with a bag .
-
+3. **Bagging:** The stigma of the flower is protected against any undesirable pollen grains, by covering it with a bag .
 4. **Crossing:** Transfer of pollen grains from selected male flower to the stigma of the female emasculated flower.
-
 5. Harvesting seeds and raising plants: The pollination leads to fertilization and finally seed formation takes place. The seeds are grown into new generation which are called hybrids.
 
 ![Emasculation and Bagging(Wheat)](9.11.png "")
@@ -208,30 +206,34 @@ iii. Interspecific hybridization - The cross between the plants belonging to dif
 
 ![(a) _G. hirsutum_ (b) _G. arboreum_](9.12.png "")
 
-**iv. Intergeneric hybridization – The crosses** are made between the plants belonging to two different genera. The disadvantages are hybrid sterility, time consuming and expensive procedure. **Example:** _Raphanobrassica, Triticale._ (Refer chapter 4 for detailed illustration)
+**iv. Intergeneric hybridization – The crosses** are made between the plants belonging to two different genera. The disadvantages are hybrid sterility, time consuming and expensive procedure. 
+**Example:** _Raphanobrassica, Triticale._ (Refer chapter 4 for detailed illustration)
 
 ### Heterosis
 Heterosis (hetero- different; sis - condition) G.H. Shull was the first scientist to use the term heterosis in 1912. The superiority of the F1 hybrid in performance over its parents is called heterosis or hybrid vigour. Vigour refers to increase in growth, yield, greater adaptability of resistance to diseases, pest and drought. Vegetative propagation is the best suited measure for maintaining hybrid vigour, since the desired characters are not lost and can persist over a period of time. Many breeders believe that the magnitude of heterosis is directly related to the degree of genetic diversity between the two parents. Depending on the nature, origin, adaptability and reproducing ability heterosis can be classified as: 
+
 **i. Euheterosis-**
 This is the true heterosis which is inherited and is further classified as: 
+
 **a. Mutational Euheterosis** - Simplest type of euheterosis and results from the sheltering or eliminating of the deleterious, unfavourable often lethal, recessive, mutant genes by their adaptively superior dominant alleles in cross pollinated crops.
 
 **b. Balanced Euheterosis** – Well balanced gene combination which is more adaptive to environmental conditions and agricultural usefulness.
 
-**ii.** **Pseudoheterosis** – Also termed as luxuriance. Progeny possess superiority over parents in vegetative growth but not in yield and adaptation, usually sterile or poorly fertile.
+**ii.Pseudoheterosis** – Also termed as luxuriance. Progeny possess superiority over parents in vegetative growth but not in yield and adaptation, usually sterile or poorly fertile.
 
 ### Mutation Breeding
 Muller and Stadler (1927- 1928) coined the term mutation breeding. It represents a new method of conventional breeding procedures as they have the advantage of improving the defect without losing agronomic and quality character in agriculture and crop improvement. Mutation means the sudden heritable changes in the genotype or phenotype of an organism. Gene mutations are of considerable importance in plant breeding as they provide essential inputs for evolution as well as for re-combination and selection. It is the only method for improving seedless crops.
 
-Radiation such as UV short wave, X-ray, Alpha (α), Beta (β), Gamma waves and many chemicals such as cesium, EMS (ethyl methane sulfonate), nitromethylurea induce mutation to develop new varieties of crops. **Example:** Triple gene dwarf wheat with increase in yield and height. Atomita 2 - rice with salinity tolerance and pest resistance. ### Polyploid Breeding Majority of flowering plants are diploid (2n). The plants which possess more than two sets of chromosome are called polyploids. Polyploidy is a major force in the evolution of both wild and cultivated plants. Polyploidy often exhibits increased hybrid vigour, increased heterozygosity, increase tolerance to both biotic and abiotic stresses, buffering of deleterious mutations. In addition, polyploidy often results in reduced fertility due to meiotic error allowing the production of seedless varieties. When chromosome number is doubled by itself in the same plant, is called autopolyploidy. Example: A triploid condition in sugarbeets, apples and pear has resulted in the increase in vigour and fruit size, large root size, large leaves, flower, more seeds and sugar content in them. It also resulted in seedless tomato, apple, watermelon and orange. Polyploidy can be induced by the use of colchicine to double the chromosome number. Allopolyploids are produced by multiplication of chromosome sets that are initially derived from two different species. Example: _Triticale (Triticum durum x secale cereale) Raphanobrassica (Brassica oleraceae x Raphanus sativus)_.
+Radiation such as UV short wave, X-ray, Alpha (α), Beta (β), Gamma waves and many chemicals such as cesium, EMS (ethyl methane sulfonate), nitromethylurea induce mutation to develop new varieties of crops. 
+
+**Example:** Triple gene dwarf wheat with increase in yield and height. Atomita 2 - rice with salinity tolerance and pest resistance. ### Polyploid Breeding Majority of flowering plants are diploid (2n). The plants which possess more than two sets of chromosome are called polyploids. Polyploidy is a major force in the evolution of both wild and cultivated plants. Polyploidy often exhibits increased hybrid vigour, increased heterozygosity, increase tolerance to both biotic and abiotic stresses, buffering of deleterious mutations. In addition, polyploidy often results in reduced fertility due to meiotic error allowing the production of seedless varieties. When chromosome number is doubled by itself in the same plant, is called autopolyploidy. Example: A triploid condition in sugarbeets, apples and pear has resulted in the increase in vigour and fruit size, large root size, large leaves, flower, more seeds and sugar content in them. It also resulted in seedless tomato, apple, watermelon and orange. Polyploidy can be induced by the use of colchicine to double the chromosome number. Allopolyploids are produced by multiplication of chromosome sets that are initially derived from two different species. Example: _Triticale (Triticum durum x secale cereale) Raphanobrassica (Brassica oleraceae x Raphanus sativus)_.
 
 ### Green Revolution
- Green revolution the term was coined by William
+Green revolution the term was coined by William
 
 **Gamma Garden or Atomic Garden**: 
 Is a form of mutation breeding where plants are exposed to radioactive sources typically cobalt-60 or caesium-137 in order to generate desirable mutation in crop plants. The first Gamma garden in India is Bose Research Institute at Calcutta in 1959 and the second is IARI in 1960 which produced large variation in short type.
   
-
 S.Gaud in (1968). It is defined as the cumulative result of a series of research, development, innovation and technology transfer initiatives. Agricultural production (especially wheat and rice) manifolds worldwide particularly in the developing countries between the 1940’s and the late 1960’s.
 
 The Green revolution or third Agricultural Revolution is the intensive plan of 1960’s to increase crop yield in developing countries by introducing the high yielding, resistant varieties, increased irrigation facilities, fertilizer application and better agricultural management.
@@ -282,6 +284,7 @@ In the milestones of plant breeding methods Genetic Engineering, Plant tissue cu
 **New Plant Engineering Techniques / New Breeding Techniques (NBT)** 
 
 NBT are a collection of methods that could increase and accelerate the development of new traits in plant breeding. These techniques often involve genome editing, to modify DNA at specific locations within the plants to produce new traits in crop plants. The various methods of achieving these changes in traits include the following. 
+
 - Cutting and modifying the genome during the repair process by tools like CRISPR /Cas.
 - Genome editing to introduce changes in few base pairs using a technique called Oligonucleotide-directed mutagenesis (ODM).
 - Transferring a gene from an identical or closely related species (cisgenesis)
@@ -301,33 +304,33 @@ Seed is one of the most crucial elements in the livelihoods of agricultural comm
 ### Modern Methods of Seed Protection
 The various modern methods of seed protection are as follows:
 
-**1\. Seed Treatment** 
+1. **Seed Treatment** 
 In agriculture and horticulture, seed treatment or seed dressing is a chemical, typically antimicrobial or antifungal, with which seeds are treated (or dressed) prior to planting.
 
-**Benefits of seed treatment**. 
-- Prevents spread of plant disease. 
-- Protects seed from seedling blights. 
-- Improves germination. 
-- Provides protection from storage insects. 
-- Controls soil insects.
+    **Benefits of seed treatment**. 
+    - Prevents spread of plant disease. 
+    - Protects seed from seedling blights. 
+    - Improves germination. 
+    - Provides protection from storage insects. 
+    - Controls soil insects.
 
-**2\. Seed Hardening** 
+2. **Seed Hardening** 
 Seed hardening is a physiological preconditioning of the seed by soaking of seed in water or chemical solution for definite duration in proper ratio (Seed : Solution) and shade drying to bring back the seed to original moisture content.
 
-**Benefits:**. 
-- It increases the yield, root growth and vigour of seed germinatio. 
-- The uniformity of seedling emergence. 
-- Flowering occurs 2-3 days earlie. 
-- Uniform seed set and maturit. 
-- Exposes the seed to drought tolerance.
+    **Benefits:**. 
+    - It increases the yield, root growth and vigour of seed germinatio. 
+    - The uniformity of seedling emergence. 
+    - Flowering occurs 2-3 days earlie. 
+    - Uniform seed set and maturit. 
+    - Exposes the seed to drought tolerance.
 
-**3\. Seed Pelleting** 
+3. **Seed Pelleting** 
 The process of enclosing seed in a filter inert material using an adhesive with bioactive chemicals. Seed pelleting increases the weight, size and shape of seeds by allowing percale maturing and spacing of seed in the field.
 
-**4\. Seed coating** 
+4. **Seed coating** 
 Seed coating is a thicker form of covering of seed and may contain fertilizer, growth promoters, rhizobium inoculum, nutritional elements and repulsive agents. Chemical, pesticides added to the seed by adhesive agents cause increased seed performance and seed germination.
 
-**5\. Bio Priming of Seeds** 
+5. **Bio Priming of Seeds** 
 Bio-Priming is a process of biological seed treatment that refers to combination of seed hydration (physiological aspect of disease control) and inoculation (biological aspect of disease control) of seed with beneficial organism to protect seed. It is an ecological approach using selected fungal antagonists against the soil and seed borne pathogens. This seed treatments may provide an alternative to chemical control.
 
 ## Seed Storage
@@ -346,13 +349,12 @@ Roberts (1973) classified seeds based on physiological behaviour during storing
 1. **ORTHODOX SEED** Seeds dried to low moisture of 5% (wet basis) and stored at low or Sub- freezing temperature for long period. Example:Cereals, pulses and oil seeds.
 2. **RECALCITRANT SEED** Seeds dried to high moisture of 20 - 50% (wet basis) and which cannot be successfully stored for long period. Example: Mango, Jack fruit, Coconut etc
 
-
 ### Methods of Seed Storage
 
-**i. Conventional Methods of Seed Storage** 
+**i. Conventional Methods** 
 Conventional storage includes storage in Bamboo structure, mud and earthen structure, wooden structure and underground structure. In village level storage is done in large level in concrete/ cement silos, Metal or plastic drums and metal silos. Improved rural level storage structure includes storage in coal tar drum, udaipur bin, bamboo bin, pusa bin and metal bins.
 
-**ii. Modern Methods of Seed Storage**
+**ii. Modern Methods**
 **a. Seed storage in cryopreservation:** 
 It is the technique of germplasm conservation (storage of cells, tissue, embryo or seeds) by ultra-low temperature in liquid nitrogen at -196oC. It is not practical for commercial seed storage purpose, but is useful to store the valuable germplasm for use in future which cannot be preserved by conventional methods.
 
@@ -360,13 +362,11 @@ It is the technique of germplasm conservation (storage of cells, tissue, embryo 
 In gene bank, seed storage is the preservation of seed under controlled environmental condition which will prolong the viability of the seeds for long periods. The temperature, relative humidity and seed moisture content. Containers and distribution arrangement vary for each and every type of seed.
 
 **c. Svalbard seed bank:**
-
 The seeds are stored in four ply sealed envelopes, and then placed into plastic tote containers on metal shelving racks. The storage rooms are kept at -18oC. The low temperature and limited access to O2 will ensure low metabolic activity and delayed seed ageing. The permafrost surrounding will help to maintain low temperature of the seed when the electricity supply fails.
 ![Svalbard](9.13.png "")
 
-**Nanotechnology in Agriculture:** Currently nanotechnology provides different nano
-
-devices and nano material that have a unique role in agriculture. For example Nano biosensors to detect moisture content and nutrient status in the soil. Nanotechnology can offer Nano-fertilizers for efficient nutrient management, Nano- herbicides for selective weed control in crop field, Nanonutrient particles to increase seed vigor, Nano-pesticides for efficient pest management. Hence, nanotechnology have greater role in crop production with environmental safety, ecological sustainability and economic stability.
+**Nanotechnology in Agriculture:** 
+Currently nanotechnology provides different nano devices and nano material that have a unique role in agriculture. For example Nano biosensors to detect moisture content and nutrient status in the soil. Nanotechnology can offer Nano-fertilizers for efficient nutrient management, Nano- herbicides for selective weed control in crop field, Nanonutrient particles to increase seed vigor, Nano-pesticides for efficient pest management. Hence, nanotechnology have greater role in crop production with environmental safety, ecological sustainability and economic stability.
 
 
 ### Seed Certification
@@ -389,56 +389,24 @@ Economic Botany deals with the relationship between people and economically impo
 
 **Strain :** A group of similar individuals from a common origin.
 
-| Vavilov ’s Centre of Crop Origin |Crops domesticated |
-|------|------|------|
-| 1 |China |Foxtail millet, soybean, bamboo, onion, crucifers. |
-| 2 |India |Rice, sugarcane, mango, orange, eggplant, sesame. |
-| 2 a |South East Asia |Rice, banana, coconut, clove , hemp. |
-| 3 |Central East |Wheat, pea, hemp, cotton etc. |
-| 4 |e Near East |Wheat, r ye, many subtropical and tropical fruits. |
-| 5 |Mediterranean |Olive, vegetables, oil yielding plants, wheats |
-| 6 |Ethiopia (Abyssinian) |Wheat, barley, sesame, castor, coee. |
-| 7 |Mesoamerica (South Mexican & Central American Centre) |Maize, bean, sweet potato, papaya, guava, tobacco. |
-| 8 |South America |Tomato, pine-apple |
-| 8 a |e Chiloe Centre |Potato |
-| 8 b |e Brazilian –Paraguayan Centre |Groundnut, cashew nut, pine apple, peppers, rubber. |
+| Vavilov ’s Centre of Crop Origin | Crops domesticated |
+|------|------|
+|China |Foxtail millet, soybean, bamboo, onion, crucifers. |
+|India |Rice, sugarcane, mango, orange, eggplant, sesame. |
+|South East Asia |Rice, banana, coconut, clove , hemp. |
+|Central East |Wheat, pea, hemp, cotton etc. |
+|Near East |Wheat, r ye, many subtropical and tropical fruits. |
+|Mediterranean |Olive, vegetables, oil yielding plants, wheats |
+|Ethiopia (Abyssinian) |Wheat, barley, sesame, castor, coee. |
+|Mesoamerica (South Mexican & Central American Centre) |Maize, bean, sweet potato, papaya, guava, tobacco. |
+|South America |Tomato, pine-apple |
+|Chiloe Centre |Potato |
+|Brazilian –Paraguayan Centre |Groundnut, cashew nut, pine apple, peppers, rubber. |
   
 
-**Crop Domestication** Farmers select the best wild species to create crops
 
-**Mutagenesis** Developing new genetic diversity by exposing crop plants to chemical agents or radiation
 
-**19401926**
-
-Unders the stru James w identify t
-
-**1**
-
-Plant **Gen** Deve by wo
-
-Domestication of wheat
-
-More vigorous hybrid corn
-
-**10,000 BC**
-
-**Hybrid breeding** Crossing two genetically different individuals to de better performing hybrid
-
-Plant breeding based on **Cross breeding** Development of improved varieties by combining good characteristics from two parents
-
-**1865**
-
-**Mendel's laws** Gregor Mendel describes the inheritance of traits from one generation to the next. His laws become the core of classical genetics
-
-Blast-resistant rice
-
-For 10,000 years, farmers and breeders have been developing and improving crops
-
-For 150 years, plant scientists and breeders have improved plant breeding on a scientific basis
-
-Milestones in P
-
-**Biofortification** – breeding crops with higher lev and healthier fats – is the most practical means to Breeding for improved nutritional quality is unde
+**Biofortification** – breeding crops with higher lev and healthier fats – is the most practical means to Breeding for improved nutritional quality is undertaken with the objectives of improving
 
 - Protein content and qualit. 
 - Oil content and qualit. 
@@ -448,42 +416,3 @@ Milestones in P
 In 2000, maize hybrids that had twice the amount o to existing maize hybrids were developed. Wheat has been used a donor for improving cultivated fortified rice variety containing over five times as The Indian Agricultural Research Institute, New that are rich in vitamins and minerals, example: vitamin C enriched bitter gourd, bathua, mustard protein enriched beans – broad, lablab, French ga
 
 **Sugar cane:** _Saccharum bareri_ was originally grown yield. Tropical canes grown in South India _Saccharu_ content but did not grow well in North India. These cane varieties combining the desirable qualities of hig in the sugarcane areas of North India.  
-
-**MILESTONES IN PLANT BREEDING**
-
-tanding cture of **DNA** atson and Francis Crick he double helix of DNA
-
-**953**
-
-breeding Based on **etic information** lopment of improved varieties rking directly with DNA
-
-velop **GMO** Introducing foreign genes into the DNA of a plant
-
-**Marker-assisted Selection** Locating desirable traits in a plant for efficient selection and breeding
-
-**1994 2000 now**
-
-Waxy corn
-
-**future**
-
-Insect - resistant cotton
-
-Barely resistant to yellow dwarf virus
-
-**Targeted Breeding** Using modern tools such as genome editing for more targeted breeding
-
-Today, farmers feed at least 10 times more people using almost same amount of lands as 100 years ago
-
-By 2050, we will need 50% more food to feed the rapid growing population
-
-lant Breeding
-
-els of vitamins and minerals or higher protein improve public health. rtaken with the objectives of improving
-
-f amino acids, lysine and tryptophan, compared variety, Atlas 66 having a high protein content, wheat. It has been possible to develop an iron much iron as in commonly consumed varieties. Delhi has also released several vegetable crops vitamin A enriched carrots, spinach, pumpkin; , tomato; iron and calcium enriched spinach and rden peas.
-
-in North India, but had poor sugar content and _m officinarum had thicker stems and higher sugar_ two species were successfully crossed to get sugar h yield, thick stems, high sugar and ability to grow
-
-
-
