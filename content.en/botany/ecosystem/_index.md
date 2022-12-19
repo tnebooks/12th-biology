@@ -219,7 +219,7 @@ The pyramid of number in a parasite **ecosystem** is always **inverted**, becaus
 
 A graphical representation of the amount of organic material (biomass) present at each successive trophic level in an ecosystem is called **pyramid of biomass**.
 
-![Figure 7.8: Pyramids of numbers (individuals per unit area) in different types of ecosystems](7.7.png "")](7.8.png "")
+![Figure 7.8: Pyramids ofbiomass](7.8.png "")
 
 
 In **grassland** and **forest ecosystems**, there is a gradual decrease in biomass of organisms at successive trophic levels from producers to top carnivores (Tertiary consumer). Therefore, these two ecosystems show pyramids as **upright** pyramids of biomass.
@@ -228,57 +228,15 @@ However, in **pond ecosystem**, the bottom of the pyramid is occupied by the pro
 
 **3. Pyramid of energy**
 
-A graphical representation of energy flow at each successive trophic level in an ecosystem is called pyramid of energy. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
+A graphical representation of energy flow at each successive trophic level in an ecosystem is called **pyramid of energy**. The bottom of the pyramid of energy is occupied by the producers. There is a gradual decrease in energy transfer at successive tropic levels from producers to the upper levels. Therefore, the pyramid of energy is **always upright**.
 
-![Pyramids of energy( Kcal/unit area/unit time ) in any ecosystem](pyramids-of-energy.png "")
-
-**Primary consumers**
-
-**Secondary consumers**
-
-**Tertiary consumers**
-
-**Producers**
-
-## Joules
-
-**10 Joules**
-
-**1 Joule 0.1 Joule**
-
-## Joules
-
-**Sunlight**
+![Pyramids of energy( Kcal/unit area/unit time ) in any ecosystem](7.9.png "")
 
 ### Decomposition:
 
 Decomposition is a process in which the detritus (dead plants, animals and their excreta) are broken down in to simple organic matter by the decomposers. It is an essential process for recycling and balancing the nutrient pool in an ecosystem. **Nature of decomposition** The process of decomposition varies based
 
-T1 - Producers | T2 - Herbivores | T3 - Secondary consumers | T4 - Tertiary consumers
 
-**A B C**
-
-**T1**
-
-**T2**
-
-**T3**
-
-**T1**
-
-**T2**
-
-**T3**
-
-**T4**
-
-**T1**
-
-**T2**
-
-**T3**
-
-**T4**
 
 **Figure 7.8: Pyramids of biomass ( dry weight per unit area)in different types of ecosystems. Upright**\-A) Grassland ecosystem B) Forest ecosystem, **Inverted**\- C)Pond ecosystem
 
