@@ -23,12 +23,12 @@ Have you seen lakes, ponds and pools in your surroundings? They are all called w
 
 ```
 **Parallel terms for ecosystem coined by various ecologists** 
-• Biocoenosis – Karl Mobius 
-• Microcosm – S.A. Forbes 
-• Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
-• Holocoen - Friederichs 
-• Biosystem – Thienemann 
-• Bioenert body – Vernadsky
+-  Biocoenosis – Karl Mobius 
+-  Microcosm – S.A. Forbes 
+-  Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
+-  Holocoen - Friederichs 
+-  Biosystem – Thienemann 
+-  Bioenert body – Vernadsky
 
 ```
 
@@ -287,68 +287,28 @@ is known as the **carbon cycle**. Carbon is an inevitable part of all biomolecul
 
 **Phosphorus cycle**
 
-It is a type of sedimentary cycle. Already we know that phosphorus is found in the biomolecules like DNA, RNA, ATP, NADP and phospholipid molecules of living organisms. Phosphorus is not abundant in the biosphere, whereas a bulk quantity of phosphorus is present in rock deposits, marine sediments and guano. It is released from these deposits by weathering **7.2.10 Types of ecosystem**
+It is a type of sedimentary cycle. Already we know that phosphorus is found in the biomolecules like DNA, RNA, ATP, NADP and phospholipid molecules of living organisms. Phosphorus is not abundant in the biosphere, whereas a bulk quantity of phosphorus is present in rock deposits, marine sediments and guano. It is released from these deposits by weathering 
+
+###7.2.10 Types of ecosystem
 
 Biosphere consists of different types of ecosystems, which are as follows:
 
 **Ecosystem**
 
-Natural Ecosystem
-
-(With or without human
-
-interference)
-
-Artificial or Manmade Ecosystem
-
-(Artifically maintained by man)
-
-Example: Rice field and Maize field
-
-Aquatic ecosystem
-
-(Open water)
-
-Terrrestrial Ecosystem Example: Forest ecosystem
-
-Grass land ecosystem Desert ecosystem
-
-Fresh water ecosystem Marine ecosystem
-
-Lotic (Running water
-
-bodies) Example: River
-
-Spring and Stream
-
-Lentic (Standing water
-
-bodies) Example: Pond
-
-and Lake
-
+Though there are many types of ecosystems as charted above. Only the pond ecosystem is detailed below.
 
 
 **Structure of Pond ecosystem**
 
-Producers
-
-Consumers
-
-Decomposers
-
-Abiotic components
-
-**Mud**
-
-![Diagram shows structure of pond ecosystem with abiotic and biotic components.](abiotic-biotic.png "")
-
 It is a classical example for natural, aquatic, freshwater, lentic type of ecosystem. It helps us to understand the structure and function of an ecosystem. When rain water gathers in a shallow area, gradually over a period of time, different kinds of organisms (microbes, plants, animals) become part of this ecosystem. This pond ecosystem is a self sustaining and self regulatory fresh water ecosystem, which shows a complex interaction between the abiotic and biotic components in it.
 
-Activity
+![Diagram shows structure of pond ecosystem with abiotic and biotic components.](7.14.png "")
 
+```
+**Activity**
 Collect few living and nonliving components from any water body found near by.
 
+```
 **Abiotic components** A pond ecosystem consists of dissolved inorganic (CO2, O2, Ca, N, Phosphate) and organic substances (amino acids and humic acid) formed from the dead organic matter. The function of pond ecosystem is regulated by few factors like the amount of light, temperature, pH value of water and other climatic conditions.
 
 **Biotic components** They constitute the producers, variety of consumers and decomposers (microorganisms).
@@ -357,9 +317,12 @@ Collect few living and nonliving components from any water body found near by.
 
 **b. Consumers** The animals represent the consumers of a pond ecosystem which include zooplanktons like _Paramoecium_ and _Daphnia_ (primary consumers); benthos (bottom living animals) like mollusces and annelids; secondary consumers like water beetles and frogs; and tertiary consumers (carnivores) like duck , crane and some top carnivores which include large fish, hawk ,man, etc.
 
-Sea grasses and mangroves of Estuarine and coastal ecosystems are the most efficient in carbon sequestration. Hence,
+```hint { role ="warm" }
+Do You Know 
 
-these ecosystems are called as “ **Blue carbon ecosystems”. They are not properly utilized** and maintained all over the world although they have rich bioresources potential.
+Sea grasses and mangroves of Estuarine and coastal ecosystems are the most efficient in carbon sequestration. Hence,these ecosystems are called as “ **Blue carbon ecosystems”. They are not properly utilized** and maintained all over the world although they have rich bioresources potential.
+
+```
 
 **c. Decomposers**
 
@@ -367,85 +330,76 @@ They are also called as microconsumers. They help to recycle the nutrients in th
 
 The cycling of nutrients between abiotic and biotic components is evident in the pond ecosystem, making itself self sufficient and self regulating.
 
-**Limnology** It is the study of biological, chemical, physical and geological
 
-components of inland fresh water aquatic ecosystems (ponds, lakes, etc.).
+```hint { role ="warm" }
+Do You Know 
+
+**Limnology** It is the study of biological, chemical, physical and geological components of inland fresh water aquatic ecosystems (ponds, lakes, etc.).
 
 **Oceanography** – It is the study of biological, chemical, physical and geological components of ocean.
+```
 
 **Stratification of pond ecosystem**
 
-Sun
-
-LITTORAL ZONE
-
-PROFUNDAL ZONE
-
-light LIMNETIC ZONE
-
-compensation level
-
-BENTHIC ZONE
-
-![Diagrammatic sketch shows stratification of Pond ecosystem](stratification-of-pond-ecosystem.png "")
+![Diagrammatic sketch shows stratification of Pond ecosystem](7.14.png "")
 
 Based on the factors like distance from the shore, penetration of light, depth of water, types of plants and animals, there may be three zones, littoral, limnetic and profundal. The littoral zone, which is closest to the shore with shallow water region, allows easy penetration of light. It is warm and occupied by rooted plant species. The limnetic zone refers the open water of the pond with an effective penetration of light and domination of planktons. The deeper region of a pond below the limnetic zone is called profundal zone with no effective light penetration and predominance of heterotrophs. The bottom zone of a pond is termed benthic and is occupied by a community of organisms called benthos (usually decomposers).The primary productivity through photosynthesis of littoral and limnetic zone is more due to greater penetration of light than the profundal zone.
 
 
 ### Ecosystem services ( Benefits)
+
 Ecosystem services are defined as the benefits that people derive from nature. Robert Constanza et al (1927) stated “Ecosystem services are the benefits provided to human, through the transformation of resources (or Environmental assets including land, water, vegetation and atmosphere) into a flow of essential goods and services”.
 
 Study on ecosystem services acts as an effective tool for gaining knowledge on ecosystem benefits and their sustained use. Without such knowledge gain, the fate of any ecosystem will be at stake and the benefits they provide to us in future will become bleak.
 
-Robert Constanza and his colleagues estimated the value of global ecosystem services based on various
 
-parameters. According to them in 1997, the average global value of ecosystems services estimated was US $ 33 trillion a year. The updated estimate for the total global ecosystem services in 2011 is US $ 125 trillion / year, indicating a four-fold increase in ecosystem services from 1997 to 2011.
+```hint { role ="warm" }
+Do You Know 
+
+Robert Constanza and his colleagues estimated the value of global ecosystem services based on various parameters. According to them in 1997, the average global value of ecosystems services estimated was US $ 33 trillion a year. The updated estimate for the total global ecosystem services in 2011 is US $ 125 trillion / year, indicating a four-fold increase in ecosystem services from 1997 to 2011.
+
+```
+
+```hint { role ="warm" }
 
 **Mangrove ecosystem services**
+
+![Diagrammatic sketch shows stratification of Pond ecosystem](7.15.png "")
+
 - Offers habitat and act as nursery for aquatic plants and animals
 - Provides medicine, fuel wood and timber.
 - Act as bridge between sea and rivers by balancing sedimentation and soil erosion.
 - Help to reduce water force during cyclones, tsunamis and high tide periods.
 - Help in wind break, O2 production, carbon sequestration and prevents salt spray from waves.
+```
 
-**How do anthropogenic activities affect ecosystem services?** Now, we all exploit the ecosystem more than that of our needs. The Millennium Ecosystem **Assessment (2005)** found that “over the past 50 years, humans have changed the ecosystem more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, medicine, timber, fiber and fuel.”
+**How do anthropogenic activities affect ecosystem services?** 
+
+Now, we all exploit the ecosystem more than that of our needs. **The Millennium Ecosystem Assessment (2005)** found that “over the past 50 years, humans have changed the ecosystem more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, medicine, timber, fiber and fuel.”
 
 The varieties of benefits obtained from the ecosystem are generally categorized into the following four types
 
-**Ecosystem services**
 
-**Provisoning services**
-- Food, fiber and fuel
-- Genetic resources
-- Bio-chemicals • Fresh water • Medicines
-
-**Cultural services** • Spiritual and
-
-religious values • Knowledge system • Education and
-
-inspiration • Recreation and
-
-aesthetic values • Ecotourism
-
-**Supporting services** • Primary production • Provision of habitat • Nutrient cycling • Soil formation and
-
-retention • Production of
-
-atmospheric oxygen • Water cycling
-
-**Regulating services** • Invasion resistance • Herbivory pollination • Seed dispersal • Climate regulation • Pest regulation • Disease regulation • Erosion regulation • Water purification • Natural hazard protection
+![Diagrammatic sketch shows stratification of Pond ecosystem](7.19.png "")
 
 
-  
 
 
-Generally the following human activities disturb or re-engineer an ecosystem every day. • Habitat destruction • Deforestation and over grazing • Erosion of soils • Introduction of non-native species • Over harvesting of plant material • Pollution of land, water and air • Run off pesticides, fertilizers and animal wastes
+Generally the following human activities disturb or re-engineer an ecosystem every day. 
+- Habitat destruction 
+-  Deforestation and over grazing 
+-  Erosion of soils 
+-  Introduction of non-native species 
+-  Over harvesting of plant material 
+-  Pollution of land, water and air 
+-  Run off pesticides, fertilizers and animal wastes
 
-**Ecosystem resilience** Ecosystem is damaged by disturbances from fire, flood, predation,
+```hint { role ="warm" }
+**Ecosystem resilience** Ecosystem is damaged by disturbances from fire, flood, predation,infection, drought, etc., removing a great amount of biomasss. However, ecosystem is endowed with the ability to resist the damage and recover quickly. This ability of ecosystem is called ecosystem resilience or ecosystem robustness.
+```
 
-infection, drought, etc., removing a great amount of biomasss. However, ecosystem is endowed with the ability to resist the damage and recover quickly. This ability of ecosystem is called ecosystem resilience or ecosystem robustness.
-
-**How to protect the ecosystem?** It is a practice of protecting ecosystem at individual, organisational and governmental levels for the benefits of both nature and humans. Threats to ecosystems are many, like adverse human activities, global warming, pollution, etc. Hence, if we change our everyday life style, we can help to protect the planet and its ecosystem.
+**How to protect the ecosystem?** 
+It is a practice of protecting ecosystem at individual, organisational and governmental levels for the benefits of both nature and humans. Threats to ecosystems are many, like adverse human activities, global warming, pollution, etc. Hence, if we change our everyday life style, we can help to protect the planet and its ecosystem.
 
 **“If we fail to protect environment, we will fail to save posterity”.**
 
@@ -460,30 +414,33 @@ Therefore, we have to practice the following in our day today life:
 - Maintain your cars and vehicles properly. (In order to reduce carbon emission)
 - Create awareness and educate about ecosystem protection among your friends and family members and ask them to find out solution to minimise this problem.
 
-**Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** • Close the tap when not in use. • Switch off the electrical gadgets
+```hint { role ="warm" }
+**Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** 
 
-when not in use. • Never use plastics and replace them
-
-with biodegradable products • Always use ecofriendly technology
-
+-  Close the tap when not in use.
+ -  Switch off the electrical gadgets
+when not in use.
+-  Never use plastics and replace them
+with biodegradable products 
+-  Always use ecofriendly technology
 and products. **“USE ECOSYSTEM BUT DON’T LOSE ECOSYSTEM; MAKE IT SUSTAINABLE”**
+```
 
 ### Ecosystem Management
- It is a process that integrates ecological, socio economic and institutional factors into a comprehensive strategy in order to sustain and enhance the quality of the ecosystem to meet current and future needs.
+
+It is a process that integrates ecological, socio economic and institutional factors into a comprehensive strategy in order to sustain and enhance the quality of the ecosystem to meet current and future needs.
 
 Ecosystem management emphasis on human role in judicious use of ecosystem
-
-
 and for sustained benefits through minimal human impacts on ecosystems. Environmental degradation and biodiversity loss will result in depletion of natural resources, ultimately affecting the existence of human
 
+```hint { role ="warm" }
 "By 2025, at least 3.5 billion people, nearly 50% of the world’s population are projected to face water
-
 scarcity." – IUCN. "Forests house approximately 50% of global bio-diversity and at least 300 million people are dependent on forest’s goods and services to sustain their livelihood." – IUCN
+```
 
-**Strategy of ecosystem management** • It is used to maintain biodiversity of
-
-ecosystems. • It helps in indicating the damaged
-
+**Strategy of ecosystem management** -  It is used to maintain biodiversity of
+ecosystems. 
+-  It helps in indicating the damaged
 ecosystem (Some species indicate the health of the ecosystem: such species are called a **flagship species).**
 - It is used to recognize the inevitability of ecosystem change and plan accordingly.
 - It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
@@ -491,41 +448,23 @@ ecosystem (Some species indicate the health of the ecosystem: such species are c
 - It involves collaborative management with government agencies, local population, communities and NGO’s.
 - It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
 
+```hint { role ="warm" }
 **Urban ecosystem restoration model** Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously. Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem. Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
 
-**Adayar Poonga**
+![Adayar Poongha](7.16.png "")
+
+```
 
 ## Plant Succession
- We very often see that forests and lands in our areas are drastically affected by natural calamities (Flood, earthquake) and anthropogenic activities (Fire, over grazing, cutting of trees). Due to these reasons all plants of an area are destroyed and the areas become nude. When we observe this area, over a period of a time we can see that
 
-
-
-
-
-  
-
-
-it will be gradually covered by plant community again and become fertile. Such successive replacement of one type of plant community by the other of the same area/ place is known as plant succession. The first invaded plants in a barren area are called **pioneers**. On the other hand, a series of transitional developments of plant communities one after another in a given area are called **seral communities**. At the end a final stage and a final plant community gets established which are called as climax and climax community respectively.
-
-### Causes of Succession
- Ever since the onset of origin of life, organic evolution and ecological succession are taking place parallelly. Ecological succession is a complex process. There are three types of causes for any ecological succession. They are
-
-a. **Initiating causes -** Activity of abiotic (light, temperature, water, fire, soil erosion and wind) and biotic factors (competition among organisms) leads to formation of a barren area or destruction of the existing community of an area, initiating primary or secondary succession respectively.
-
-b. Continuing causes - The processes of migration, aggregation, competition, reaction etc, are the continuing causes which lead to change the plant communities and nature of the soil in an area.
-
-c. Stabilizing causes - The stabilization of the plant community in an area is primarly controlled by climatic factors rather than other factors.
+We very often see that forests and lands in our areas are drastically affected by natural calamities (Flood, earthquake) and anthropogenic activities (Fire, over grazing, cutting of trees). Due to these reasons all plants of an area are destroyed and the areas become nude. When we observe this area, over a period of a time we can see that it will be gradually covered by plant community again and become fertile. Such successive replacement of one type of plant community by the other of the same area/ place is known as plant succession. The first invaded plants in a barren area are called **pioneers**. On the other hand, a series of transitional developments of plant communities one after another in a given area are called **seral communities**. At the end a final stage and a final plant community gets established which are called as climax and climax community respectively.
 
 ### Characteristics of ecological succession
- • It is a systematic process which
-
-causes changes in specific structure of plant community.
+- It is a systematic process which causes changes in specific structure of plant community.
 - It is resultant of changes of abiotic and biotic factors.
 - It transforms unstable community
-
-into a stable community. • Gradual progression in species diversity,
-
-total biomass, niche specialisation, and humus content of soil takes place.
+into a stable community. 
+-  Gradual progression in species diversity, total biomass, niche specialisation, and humus content of soil takes place.
 - It progresses from simple food chain to complex food web.
 - It modifies the lower and simple life form to the higher life forms.
 - It creates inter-dependence of plants and animals.
@@ -533,53 +472,24 @@ total biomass, niche specialisation, and humus content of soil takes place.
 ### Types of succession
  The various types of succession have been classified in different ways on the basis of different aspects. These are as follows:
 
-**1. Primary succession - The development** of plant community in a barren area where no community existed before is called primary succession. The plants which colonize first in a barren area is called **pioneer species** or **primary community** or **primary colonies**. Generally, Primary succession takes a very long time for the occurrence in any region.
+#### 1. Primary succession - 
+The development of plant community in a barren area where no community existed before is called primary succession. The plants which colonize first in a barren area is called **pioneer species** or **primary community** or **primary colonies**. Generally, Primary succession takes a very long time for the occurrence in any region.
 
 **Example:** Microbes, Lichen, Mosses.
 
-**2. Secondary succession - The development of** a plant community in an area where an already developed community has been destroyed by some natural disturbance (Fire, flood, human activity) is known as **secondary succession**. Generally, This succession takes less time than the time taken for primary succession.
+#### 2. Secondary succession - 
+The development of** a plant community in an area where an already developed community has been destroyed by some natural disturbance (Fire, flood, human activity) is known as **secondary succession**. Generally, This succession takes less time than the time taken for primary succession.
 
-**Example: The forest destroyed by fire and** excessive lumbering may be re-occupied by herbs over a period of time.
-
-**Secondary Succession**
-
-Fire Annual plants
-
-0 Year 1 - 2 Years 3 - 4 Years 5 - 150 Years 150 + Years
-
-Grasses and
-
-Perennials Grasses, Shrubs Shrubs and trees
-
-Intermediate Species
-
-Climax CommunityPioneer Species
-
-![Diagrammatic representation of secondary succession](secondary-succession.png "")
+|         	|                       **Primary succession**                      	|               **Secondary succession**                  	|
+|:-------:	|:-----------------------------------------------------------------:	|:-------------------------------------------------------:	|
+| 1       	| Developing in an <br>barren area                                  	| Developing in<br>disturbed area                         	|
+|    2    	| Initiated due to a<br>biological or any<br>other external factors 	| Starts due to external<br>factors only                  	|
+|    3    	| No soil, while<br>primary succession<br>starts                    	| t starts where soil<br>covers is already<br>present     	|
+|    4    	| Pioneer species<br>come from outside<br>environment               	| Pioneer species<br>develop from existing<br>environment 	|
+|    5    	| It takes more time to<br>complete                                 	| It takes comparatively<br>less time to complete         	|
 
 
-
-Primary succession Secondary succession 1 Developing in an
-
-barren area Developing in disturbed area
-
-2 Initiated due to a biological or any other external factors
-
-Starts due to external factors only
-
-3 No soil, while primary succession starts
-
-It starts where soil covers is already present
-
-4 Pioneer species come from outside environment
-
-Pioneer species develop from existing environment
-
-5 It takes more time to complete
-
-It takes comparatively less time to complete
-
-**Table 1: Differences between primary and** secondary succession
+**Example:** The forest destroyed by fire and excessive lumbering may be re-occupied by herbs over a period of time.
 
 **3. Allogenic succession**
 
@@ -587,882 +497,63 @@ Allogeneic succession occurs as a result of abiotic factors. The replacement of 
 
 Example: In a forest ecosystem soil erosion and leaching alter the nutrient value of the soil leading to the change of vegetation in that area.
 
-**4. Autotrophic succession**
-
-If the autotrophic organisms like green plants are dominant during the early stages of succession it is called **autotrophic succession**, this occurs in the habitat which is rich in inorganic substances. Since, green plants dominate in the beginning of this succession, there is a gradual increase in organic matter and subsequently the energy flow in the ecosystem.
-
-### Process of succession
- There are a number of sequential processes in primary autotrophic succession. They are (1) Nudation, (2) Invasion (migration) (3) Ecesis, (4) Aggregation, (5) Competition, (6) Reaction (7) Stabilization (climax).
-
-**1. Nudation - This is the development of a** barren area without any form of life. The barren area may be developed due to topographic (soil erosion, wind action), climatic (hails, storm, fire), and biotic (human activities, epidemics, etc.,) factors.
-
-**2. Invasion -** If species invade or reach a barren area from any other area it is called invasion. When the seeds, spores or other propagules of plant species reach the barren area, by air, water and various other agent, it is known as migration.
-
-**3. Ecesis (Establishment) - After reaching a new** area (invasion), the successful establishment of the species, as a result of adjustment with the conditions prevailing in the area, is known as **ecesis.** If the establishment is complete, the plant will be able to reproduce sexually in that particular area.
-
-4. Aggregation - The successful establishment of species, as a result of reproduction and increase in population of the species than the earlier stage is called aggregation.
-
-5. **Competition -** It refers to the aggregation of a particular species in an area which leads to inter specific and intraspecific competition among the individuals for water, nutrient,radiant energy, CO2, O2 and space, etc.
-
-
-
-```goat
-
-                                                                                                                                                               
-                                                      +--------------------------------+                                   -                                   
-                                                      |                                |                                                                       
-                                                      |     Types of succession        |                                                                       
-                                                      +----------------|---------------+                                                                       
-                                                                       |                                                      -                                
-              |------------------------|--------------------|----------|----------|-----------------------|-------------------|                                
-              |                        |                    |                     |                       |                   |                                
-              |                        |                    |                    -|                       |                   |                                
-     +------------------+    +---------|---------+  +-------|------+    +---------|--------+    +---------|---------+  +------|-------+                        
-     |   Primary        |    | Secondary         |  | Autogenic    |    |   Allogenic      |    |Autotropic         |  |Heterotrophic |                        
-     |   Succession     |    | Succession        |  | Succession   |    |  +Succession     |    |Succession         |  |Succession    |                        
-     |   Development    |    | Development       |  | Controlled   |    |   Controlled     |    |It occurs in the   |  |It occurs     |                        
-     |   of plant       |    | of plant          |  | by biotic    |    |   by abiotic     |    |medium that is     |  |in the        |                        
-     |   community on   |    | community on      |  | components of|    |   components     |    |rich in inorganic  |  |medium that is|                        
-     |   barren area.   |    | disturbed area.   |  | ecosystem.   |    |   of ecosystem.  |    |substances .       |  |rich in organic                        
-     +------------------+    +-------------------+  +--------------+    +------------------+    +-------------------+  +substances.---+                        
-                                                                                                                                          
-
-```
-
-6. Reaction - The species occupying a habitat gradually modify the environmental condition, where the existing species community is displaced or replaced by another. This is called reaction. The community which is replaced by another community is called **seral community**.
-
-**7. Stabilization (Climax stage) - The final** establishment of plant community is called stabilization. This establishment of a plant community which maintains itself in equilibrium with climax of the area and not replaced by others is known as **climax community** and the stage is climax stage.
-
 ### Classification of plant succession
- Detailed study of Hydrosere and Lithosere are discussed below:
 
-**Hydrosere** (Succession
+Detailed study of Hydrosere and Lithosere are discussed below:
 
-starts in regions where
+![Diagrammatic sketch shows stratification of Pond ecosystem](7.20.png "")              
+  
 
-water is plenty)
+#### Hydrosere
 
-Example: Ponds, lakes,
+The succession in a freshwater ecosystem is also referred to as hydrosere. Succession in a pond, begins with colonization of the pioneers like phytoplankton and finally ends with the formation of climax community like forest stage. It includes the following stages Fig 7.21. 
 
-stream , swamps
+**1.Phytoplankton stage** 
 
-**Mesosere** (Succession
+It is the first stage of succession consisting of the pioneer community like blue green algae, green algae, diatoms, bacteria, etc., The colonization of these organisms enrich the amount of organic matter and nutrients of pond due to their life activities and death. This favors the development of the next seral stages.
 
-starts in regions where
+**2. Submerged plant stage**
 
-moisture condition
+As the result of death and decomposition of planktons, silt brought from land by rain water, lead to a loose mud formation at the bottom of the pond. Hence, the rooted submerged hydrophytes begin to appear on the new substratum. Example: Chara, Utricularia, Vallisneria and Hydrilla etc. The death and decay of these plants will build up the substratum of pond to become shallow. Therefore, this habitat now replaces another group of plants which are of floating type. 
 
-is adequate)
+**3. Submerged free floating stage** 
 
-**Xerosere** (Succession
-
-starts in regions where
-
-moisture is present
-
-in minimal amount with
-
-water
-
-**Lithosere** (Initiating on a barren rock)
-
-**Halosere** (Initiating in saline water)
-
-**Psammosere** (Initiating on
-
-a sand)
-
-Plant succession
-
-**Figure 7.19: Classification of plant succession**
-
-**Hydrosere** The succession in a freshwater ecosystem is also referred to as hydrosere. Succession in a pond, begins with colonization of the pioneers like phytoplankton and finally ends with the formation of climax community like forest stage. It includes the following stages Fig 7.20.
-
-**1. Phytoplankton stage - It is the first stage** of succession consisting of the pioneer
-
-community like blue green algae, green algae, diatoms, bacteria, etc., The colonization of these organisms enrich the amount of organic matter and nutrients of pond due to their life activities and death. This favors the development of the next seral stages.
-
-**2. Submerged plant stage -** As the result of death and decomposition of planktons, silt brought from land by rain water, lead to a loose mud formation at the bottom of the pond. Hence, the rooted submerged hydrophytes begin to appear on the new substratum. Example: _Chara, Utricularia, Vallisneria_ and _Hydrilla etc. The death and decay of these_ plants will build up the substratum of pond to become shallow. Therefore, this habitat now replaces another group of plants which are of floating type.
-
-**3. Submerged free floating stage - During** this stage, the depth of the pond will become almost 2-5 feet. Hence, the rooted hydrophytic plants and with floating large leaves start colonising the pond. Example: Rooted floating plants like _Nelumbo, Nymphaea_ and _Trapa_. Some free floating species like Azolla, Lemna, _Wolffia and Pistia are also present in this stage._ By death and decomposition of these plants, further the pond becomes more shallow. Due to this reason, floating plant species is gradually replaced by another species which makes new seral stage.
-
-**4. Reed-swamp stage -** It is also called an amphibious stage. During this stage, rooted floating plants are replaced by plants which can live successfully in aquatic as well as aerial environment. Example: _Typha, Phragmites, Sagittaria_ and _Scirpus_ etc. At the end of this stage, water level is very much reduced, making it unsuitable for the continuous growth of amphibious plants.
-
-**5. Marsh meadow stage -** When the pond becomes swallowed due to decreasing water level, species of Cyperaceae and Poaceae such as
+During this stage, the depth of the pond will become almost 2-5 feet. Hence, the rooted hydrophytic plants and with floating large leaves start colonising the pond. Example: Rooted floating plants like Nelumbo, Nymphaea and Trapa. Some free floating species like Azolla, Lemna, Wolffia and Pistia are also present in this stage. By death and decomposition of these plants, further the pond becomes more shallow. Due to this reason, floating plant species is
 
 
-_Carex, Juncus, Cyperus_ and _Eleocharis_ colonise the area. They form a mat-like vegetation with the help of their much branched root system. This leads to an absorption and loss of large quantity of water. At the end of this stage, the soil becomes dry and the marshy vegetation disappears gradually and leads to shurb stage.
+![Diagrammatic sketch shows stratification of Pond ecosystem](7.18.png "")    
 
-**6. Shrub stage -** As the disappearance of marshy vegetation continues, soil becomes dry. Hence, these areas are now invaded by terrestrial plants like shrubs (_Salix_ and _Cornus) and trees (Populus and Alnus). These_ plants absorb large quantity of water and make the habitat dry. Further, the accumulation of humus with a rich flora of microorganisms produce minerals in the soil, ultimately favouring the arrival of new tree species in the area.
+**4. Reed-swamp stage** 
 
-**7. Forest stage -** It is the climax community of hydrosere. A variety of trees invade the area and develop any one of the diverse type of vegetation. Example:Temperate mixed forest (_Ulmus,Acer_ and _Quercus_), Tropical rain forest (_Artocarpus_ and _Cinnamomum_ ) and Tropical deciduous forest (_Bamboo_ and _Tectona_).
+It is also called an amphibious stage. During this stage, rooted floating plants are replaced by plants which can live successfully in aquatic as well as aerial environment. Example: Typha, Phragmites, Sagittaria and Scirpus etc. At the end of this stage, water level is very much reduced, making it unsuitable for the continuous growth of amphibious plants.
+
+**5. Marsh meadow stage** 
+When the pond becomes swallowed due to decreasing water level, species of Cyperaceae and Poaceae such as Carex, Juncus, Cyperus and Eleocharis colonise the area. They form a mat-like vegetation with the help of their much branched root system. This leads to an absorption and loss of large quantity of water. At the end of this stage, the soil becomes dry and the marshy vegetation disappears gradually and leads to shurb stage
+
+
+**6.Shrub stage**
+As the disappearance of marshy vegetation continues, soil becomes dry. Hence, these areas are now invaded by terrestrial plants like shrubs (Salix and Cornus) and trees (Populus and Alnus). These plants absorb large quantity of water and make the habitat dry. Further, the accumulation of humus with a rich flora of microorganisms produce minerals in the soil, ultimately favouring the arrival of new tree species in the area. 
+
+**7.Forest stage**
+
+It is the climax community of hydrosere. A variety of trees invade the area and develop any one of the diverse type of vegetation. Example:Temperate mixed forest (Ulmus,Acer and Quercus), Tropical rain forest (Artocarpus and Cinnamomum ) and Tropical deciduous forest (Bamboo and Tectona). 
 
 In the 7 stages of hydrosere succession, stage1 is occupied by pioneer community, while the stage 7 is occupied by the climax community. The stages 2 to 6 are occupied by seral communities.
 
-**Lithosere** Lithosere is a type of xerosere initiating on a barren rock surface. The barren rock is devoid of water and organic matter. A barren rock surface gets mineral deposits due to weathering. This results in the colonization of pioneer organisms like crustose lichens. Through a series of successive seral stages, forest stage (Climax community) is achieved finally. These series of stages are given below Fig 7.21.
-
-**1. Crustose lichen stage - The pioneers like** crustose lichens (_Rhizocarpon_ and _Lecanora_) secrete some acids which enhance the
-
-**Fi gu**
-
-**re 7**
-
-**.2 0:**
-
-D ia
-
-gr am
-
-m at
-
-ic re
-
-pr es
-
-en ta
-
-tio n
-
-sh ow
-
-s d iff
-
-er en
-
-t s ta
-
-ge s o
-
-f h yd
-
-ro se
-
-re .
-
-Ph yt
-
-op la
-
-nk to
-
-n st
-
-ag e
-
-Su bm
-
-er ge
-
-d pl
-
-an t
-
-st ag
-
-e Su
-
-bm er
-
-ge d
-
-fr ee
-
-flo
-
-at in
-
-g st
-
-ag e
-
-Re ed
-
-\-s w
-
-am p
-
-st ag
-
-e M
-
-ar sh
-
-m ea
-
-do w
-
-st
-
-ag e
-
-Sh ru
-
-b st
-
-ag e
-
-Fo re
-
-st st
-
-ag e
-
-
-
-
-  
-
-
-weathering of rock. Due to this continuous process, small particles of rocks are formed, which together with decaying lichen make the first thin layer of soil on rock surface. However, this process is very slow. At the end, this habitats become less fit for existing plants and is gradually replaced by another type of lichens called foliose lichen.
-
-**2. Foliose lichen stage -** Gradually crustose lichens are replaced by foliose lichen like _Parmelia and Dermatocarpon etc. These plants_ have leaf like structures. They also secrete some acids which further loosen the rocks into small soil particles. This process enhances water retaining capacity of the habitat and causes further accumulation of soil particles and humus. Gradual changes make the area less favourable for existing foliose lichen.
-
-**3. Moss stage -** When the habitat is changed, the existing foliose lichen starts disappearing and favours the growth of some xerophytic moss like _Polytrichum, Tortula_ and _Grimmia_. The luxurious growth of moss competes with lichens. Due to the death and decay of mosses, further addition of humus and moisture to the habitat takes place. Therefore, the next seral community tries to replace the moss community.
-
-**4. Herb stage -** With the gradual disappearance of moss stage, herbaceous plant communities like _Aristida, Festuca_ and _Poa,_ etc., invade the habitat. The extensive growth of these herbs alter the habitat. The decaying leaves, stems, root and other parts of these plants get deposited on the soil surface in the form of humus. It further increases the water holding capacity of soil. These conditions become more suitable for shrubs.
-
-**5. Shrub stage - The habitat change** results in the invasion of shrubs like _Rhus, Zizyphus, Capparis_ and dominated by herbaceous plants. The death and decaying of
-
-**Fi gu**
-
-**re 7**
-
-**.2 1:**
-
-D ia
-
-gr am
-
-m at
-
-ic re
-
-pr es
-
-en ta
-
-tio n
-
-sh ow
-
-s d iff
-
-er en
-
-t s ta
-
-ge s o
-
-f l ith
-
-os er
-
-e
-
-C ru
-
-st os
-
-e lic
-
-he n
-
-st ag
-
-e Fo
-
-lio se
-
-lic
-
-he n
-
-st ag
-
-eM os
-
-s s ta
-
-ge H
-
-er b
-
-st ag
-
-e Sh
-
-ru b
-
-st ag
-
-e Fo
-
-re st
-
-st ag
-
-e
-
-
-
-
-  
-
-
-shrubs further enrich the habitat with soil and humus. Therefore, the shrubs are replaced by trees which constitute the climax community.
-
-**6. Forest stage - The trees capable of growing** in xerophytic condition try to invade the area which was occupied previously by shrubs. Further increasing the humus content of the soil favours the arrival of more trees and vegetation finally become mesophytes. As the trees are deeply rooted and much branched, they absorb more quantity of water and nutrients. After a long interval, a complete harmony is established among the plant communities. The climax stage remains unchanged unless some major environmental changes disturb it
-
-Of the 6 stages of lithosere succession, stage 1 is occupied by pioneer community and the stage 6 is occupied by climax community. The stages 2 to 5 are occupied by seral communities. Seral stages occurring on the same rock surfaces.
 
 ### Significance of Plant Succession
- • Succession is a dynamic process. Hence
-
+-  Succession is a dynamic process. Hence
 an ecologist can access and study the seral stages of a plant community found in a particular area.
 - The knowledge of ecological succession helps to understand the controlled growth of one or more species in a forest.
 - Utilizing the knowledge of succession, even dams can be protected by preventing siltation.
 - It gives information about the techniques to be used during reforestation and afforestation.
 - It helps in the maintenance of pastures.
 - Plant succession helps to maintain species diversity in an ecosystem.
-- Patterns of diversity during succession are influenced by resource availability and
-
-disturbance by various factors.
+- Patterns of diversity during succession are influenced by resource availability and disturbance by various factors.
 - Primary succession involves the colonization of habitat of an area devoid of life.
 - Secondary succession involves the reestablishment of a plant community in disturbed area or habitat.
 - Forests and vegetation that we come across all over the world are the result of plant succession.
 
-## Vegetation
- Vegetation refers to the plant cover of an area. Geographically, India is a tropical country and also has strong monsoon climate and differs from other tropical regions of the World. India has four major climatic regions such as wet zone, intermediate zone, dry zone and arid zone, These regions are characterized by different types of natural vegetation. Nature of vegetation is also determined by several factors like altitude, types of plants, animals, climate, soil type, etc. Vegetation in Indian sub-continent is influenced by biotic factors and the existing human culture for a long time. The influence of man on plant formation and distribution is called anthropogenic effect on vegetation.
-
-Tamil Nadu has a rich biodiversity right from the Gulf of Mannar to Western Ghats. Tamil Nadu shares the Western Ghats with states of Kerala, Karnataka, Goa, Maharashtra, Gujarat while Eastern Ghats is shared with the State of Andhra Pradesh. Of the 10 geographic zones in India, Coramandel (or) East Coast and Western Ghats are from Tamil Nadu.
-
-### Vegetation types of India and Tamil Nadu
- Vegetation of India and Tamil Nadu consists of variety of plant communities and also possesses rich bio-diversity. It is classified in to the following four types, Which are explained with reference to their unique characteristics and distribution in India and Tamil Nadu:
-
-
-
-  
-
-
-Forest vegetation Grassland vegetation Riparian vegetation Aquatic and semi aquatic vegetation
-
-**Forest Vegetation** Champion and Seth (1968) recognized a total of 16 forest types in India, Whereas 9 types of them in Tamil Nadu.
-
-**I) Moist Tropical Forests**
-
-It is in the warmer plains. It is characterised by very dense, multi-storeyed diverse trees, shrubs, lianas and scrub jungles. These areas experience a high rainfall and dry climate. These are further classified into the following types on the basis of wetness.
-
-1. **Tropical wet evergreen forests**
-
-This type is found at an altitude of nearly 1500 m on the slopes of hills and mountains .These are also called tropical rain forests or tropical wet evergreen forests, where annual rainfall is more than 250 cm.. Vegetation consists of luxuriantly growing huge trees of more than 45 m in height, shrubs, lianas and abundant epiphytes. The common plants are _Dipterocarpus, Artocarpus, Mangifera, Emblica and Ixora. These forests_ occur in Andaman and Nicobar Islands, Western Coasts, Anamalai hills and Assam. This type is also found in western ghats of Thirunelveli, Kanyakumari, Anamalai Hills of Tamil Nadu
-
-2. **Tropical semi-evergreen forests**
-
-This type occurs on the slopes of hills and mountain usually up to 1000 m altitude.The annual rainfall in these forests is between 200 to 250 cm. Vegetation consists of luxuriantly growing evergreen species of giant trees and shrubs. The common tree species are Terminalia, _Bambusa, Ixora, Artocarpus, Michelia, Eugenia,_ and _Shorea._ Orchids, ferns, some grasses,and herbs are also dominant. These forest are found in Western Coasts, Eastern Orissa and Upper Assam. This type is also present in Coimbatore, Thirunvelveli and Kanyakumar District of
-
-Tamil Nadu
-
-3. **Tropical moist deciduous forests**
-
-The annual rainfall of these forests is 100 to 200 cm with short dry periods. These are spread over an extensive part of the country. Many of the plants shed their leaves in hot summer. Some are ever green and semi-evergreen. The common plant species are _Terminalia, Grewia, Adina, Melia, Albizzia, Dalbergia_ and _Shorea._ The most dominant plants are Tectona and Sal. These are found in Kerala, Karnataka, South Madhya Pradesh, northern parts of Uttar Pradesh, Bihar, Bengal, Orissa and Assam. This type is also present in Kanyakumari, Theni, Gudalur, Dindigul, Madurai and Nilgiris of Tamil Nadu.
-
-4. **Littoral and swamp forests**
-
-These include beach forests, tidal forests, mangrove forests and fresh water swamp forests.
-
-a. **Beach forests**
-
-These are found all along the sea coasts and river deltas. These areas have sandy soil which consists of large amount of lime and salts but poor in nitrogen and other mineral nutrients. The rainfall varies from 75 cm to 500 cm with moderate temperature. The common tree species are _Casuarina, Borassus, Phoenix, Pandanus , Morinda and Thespesia with many_ twiners and climbers.
-
-**b. Tidal or mangrove forests**
-
-Tidal forests grow near the estuaries, swampy margins of islands and along sea coasts. The plants are halophytes characterized by the presence of stilt roots, pneumatophores and viviparous germinations of seed. The common plants are _Rhizophora, Avicennia,_ and Sonneratia. These are found near sea coast,Gujarat, Ganges, delta regions of Mahanadhi, Godavari, Krishna, Sundarbans and Pulicat, Pichavaram, Ramanathapuram of Tamil Nadu.
-
-
-**c. Fresh water swamp forests**
-
-These forests grow in low lying land areas where rain or river water gets collected for some time. So the water table is closer to the earth surface. The common plants are _Salix, Acer, Ficus_ and all varieties of grasses and sedges. These forests are found in wetlands of Kanchipuram, Kanniyakumari of Tamil Nadu.
-
-**II. Dry Tropical Forests**
-
-These are classified into three types: Tropical dry deciduous forests, tropical thorn forests and tropical dry evergreen forests
-
-5. **Tropical dry deciduous forests**
-
-These forests are found at about 400 to 800 m MSL .These forests are found in the areas where annual rainfall is usually low, ranging between 70 and 100 cm. The largest forest area of the country is occupied by tropical dry deciduous forest. The dry season is long and most of the trees remain leafless during this season. The forest trees are not dense, and grow up to 10 to 15 m in height. The common plant species are Dalbergia, _Diospyros, Terminalia, Acacia, Chloroxylon,_
-
-**IV. Montane Temperate Forests**
-
-11. Montane Wet temperate forests 12. Himalayan moist temperate forests 13. Himalayan dry temperate forests
-
-**V. Sub-Alpine Forests**
-
-14. Sub alpine forests
-
-**VI. Alpine Scrub**
-
-15. Moist alpine scrub 16. Dry alpine scrub
-
-**I. Moist Tropical Forests**
-
-01. Tropical wet evergreen forests
-
-02. Tropical semi-evergreen forests
-
-03. Tropical moist deciduous forests
-
-04. Littoral and swamp forests
-
-**II. Dry Tropical Forests**
-
-05. Tropical dry deciduous forests
-
-06. Tropical thorn forests
-
-07. Tropical dry evergreen forests
-
-**III. Montane Sub- Tropical Forests**
-
-08. Sub-tropical broad leaved hill forests
-
-09. Sub-tropical pine forests
-
-10. Sub-tropical dry evergreen forests
-
-**FOREST TYPES OF INDIA Champion and Seth (1968)**
-
-
-_Bauhinia_ and _Zizyphus._ Some common Climbers are _Combretum, Hiptage_: herbs like _Abutilon, Achyranthes_ and Tribulus.These are found in Andhra Pradesh, Punjab, Uttar Pradesh, Bihar, Orissa, Madhya Pradesh and also found in all districts of Tamil Nadu at lower elevations.
-
-6. **Tropical thorn forests**
-
-These forests extend from plains upto 400 M . Occur in the areas where annual rainfall is between 20 and 70 cm. The dry season is hot and very long. The vegetation is of open type consisting of small trees (8 to 10 m length) and thorny or spiny shrubs with a stunted growth. The plants remain leafless for most of the year and many species have latex.. In rainy season, there is a luxuriant growth of ephemeral herbs and grass. The most common plant species are _Acacia, Cassia, Calotropis, Albizzia, Zizyphus, Dichrostachys, Euphorbia, Capparis,_ and including unpalatable species. They are found in Karnataka, Andhra Pradesh, Maharashtra, South
-
-**FOREST TYPES IN TAMIL NADU** Champion and Seth (1968)
-
-**I. Moist tropical Forests** 1. Tropical wet evergreen forests 2. Tropical semi evergreen forests 3. Tropical moist deciduous
-
-forests 4. Littoral and swamp forests
-
-**II. Dry tropical Forests** 5. Tropical dry
-
-deciduous forests 6. Tropical thorn forests 7. Tropical dry
-
-evergreen forests
-
-**III. Montane Sub-Tropical Forests**
-
-8. Sub-tropical broad leaved hill forests
-
-**IV. Montane Temperate Forests**
-
-District Boundary
-
-**LEGEND**
-
-**TAMILNADU FOREST COVER MAP**
-
-**(DIAGRAMMATIC)**
-
-**FOREST TYPES** Tropical Wet Evergreen Forests
-
-Tropical Thorn Forests
-
-Tropical Semi - Evergreen Forests Tropical Moist Deciduous Forests
-
-Tropical Dry Evergreen Forests
-
-Tropical Dry Deciduous Forests
-
-Montane Subtropical Forests Montane Wet Temperate Forests
-
-al and Swamp Forests
-
-**e TAMILNADU FOREST DEPARTMENT**
-
-**CHENNAI**
-
-**CHENNAI**
-
-**KANCHEEPURAM THIRUVANNAMALAI**
-
-**VILLUPPURAM**
-
-**CUDDALORE**
-
-**PERAMBALUR**
-
-**ARIYA LU**
-
-**R**
-
-**VELLORE**
-
-**KRISHNAGIRI**
-
-**DHARMAPURI**
-
-**SALEM**
-
-**NAMAKKAL**
-
-**KARUR TRICHY**
-
-**TANJORE**
-
-**NAGAPATTINAM PUDUKKOTTAI**
-
-**RAMANATHA**
-
-**PURAM**
-
-**SIVAGANGAI**
-
-**V URIHT**
-
-**URA R**
-
-**ERODE**
-
-**THIRUPPUR**
-
-**DINDIGUL**
-
-**MADURAI**
-
-**VIRUTHUNAGAR**
-
-**THOOTHUKUDI**
-
-**KANYAKUMARI**
-
-**TI RU**
-
-**N EL**
-
-**VE LI**
-
-**THENI**
-
-**COIMBATORE**
-
-**NILGIRIS**
-
-**THIRUVALLUR**
-
-**YELAGIRIJAVADHU HILLS**
-
-**URIGAM GUTHIRAYAN**
-
-**CHITTERI HILLS**
-
-**KALRAYAN HILLS**
-
-**SHERVAROY HILLS BARGUR HILLS**
-
-**PALAMALAIGUTTIYALATTUR**
-
-**TALAMALAI HILLS**
-
-**KOLLIMALAI PACHAI MALAI**
-
-**ANAIMALAI**
-
-**PALANI HILLS KARANDA**
-
-**MALAI SIRUMALAI**
-
-**ALAGAR HILLSBODI HILLS**
-
-**CUMBUM VALLEY**
-
-**AGASTHYAMALAI**
-
-**KALAKAD-MUNDANTHURAI**
-
-Eastern Ghats Western Ghats
-
-EW
-
-N
-
-S
-
-**N o**
-
-**t to**
-
-**S c**
-
-**a le**
-
-
-
-
-  
-
-
-Punjab, most parts of Rajasthan and part of Gujarat and Thirunelveli in Tamil Nadu.
-
-7. **Tropical dry evergreen forests**
-
-This type of vegetation is found in areas where annual rainfall is in plenty but the dry season is comparatively longer. The trees are dense, evergreen, short and about 10 to 15 meter height. The common plant species are _Manilkara , Walsura, Diospyros and Memexylon_ These types of forests are found in the eastern parts of Tamil Nadu, East coat of Andhra pradesh. They are also found in all coastal districts in Tamil Nadu from Thiruvallur to Nagapatinum districts.
-
-**III. Montane Subtropical Forests**
-
-This type of vegetation occurs in the areas with fairly high rainfall but where the climate is cooler than the tropical and warmer than the temperate forests. They are found in the altitude between 1000 m and 2000 m. The common plants are _Eugenia, Syzygium_ and _Toona_ are mostly evergreens. Many epiphytes including orchids and ferns are present. These are found in Nilgiri, Mahabaleswar, Assam and Manipur. In Eastern Ghats,it is found in the upper slopes and plateau of shervaroys, Kollimalai and Pachamalai of Tamil Nadu
-
-These are further classified into
-
-**8. Sub-tropical broad leaved hill forests** (Tamil Nadu,Kerala,Karnataka and Assam).
-
-**9. Sub-tropical pine forests** (Punjab, U.P and a part of Sikkim)
-
-**10.** **Sub-tropical dry evergreen forests** (Shivaliks and foot hills of western Himalayas).
-
-**IV. Montane Temperate Forests**
-
-This type of vegetation occurs where humidity and temperature are comparatively low. These forests are very dense with an extensive growth of grass and evergreen trees of 15 – 45 meters tall. The common plants are _Artocarpus, Balanocarpus, Pterocarpus,_
-
-_Myristica_ and woody climbers besides ferns and epiphytes. It is also called mountain wet temperate forests. They are found in mountains of Himalayas. These are further classified into
-
-**11. Montane wet temperate forests.**
-
-**12. Himalayan moist temperate forests**.
-
-**13. Himalayan dry temperate forests**.
-
-In Tamil Nadu montane forest is mostly confined to moist and sheltered valleys, glens and hollows as in the Anamalis, Nilgiri and Palani hills tops at above 1000 m. They are known in Tamil as ‘Sholas’. The common vegetation of sholas are _Ilex, Syzygium, Michelia, Eurya_ and _Rhododendron_.
-
-**V Sub-Alpine Forests**
-
-**14 Sub-Alpine Forests**
-
-This type of vegetation is found in the altitude ranging between 2900 m to 3500 m, where snow fall occurs for several weeks in a year with less than 65 cm annual rainfall. Hence, strong winds and below 00 C temperature prevail for greater part of the year. The common tree species are _Abies, Pinus, Betula, Quercus, Salix, Rhododendron_ with plenty of epiphytic orchids ,mosses and lichens. They occur in Himalayas from Ladakh in the West to Arunachal in the East Bengal, Uttar Pradesh, Assam, Jammu and Kashmir.
-
-**VI Alpine - Scrub**
-
-This type of vegetation is found in the Himalayas at an altitude ranging from 3600 m to 4900 m. The height of the trees decreases with increasing altitudes. The common plants are small sized plants such as _Sedum, Primula, Saxifraga,_ _Rhododendron_ , _Juniperus_ and with many types of lichens. These are further classified into
-
-**15. Moist alpine scrubs**
-
-**16.** **Dry alpine scrubs**.
-
-
-Himalayan ranges, Nagaland, Himachal Pradesh and Western ghats.
-
-In Tamil Nadu ,these grasslands are found in higher regions of western ghats and are found between the sholas forest patches that occur in the depressions and furrows created by water courses flowing in these rolling downs are called as **rolling grassland** and also called **shola grassland. It shows different types of vegetation** like grasses, herbs, few shrubs and stunted trees.
-
-Existence of two climax communities under the influence of same climatic conditions are found in
-
-higher mountain hill tops, above 7000 feet MSL (Mean sea level) of Nilgiris. Example: Sholas and grasslands.
-
-**3. Riparian Vegetation**
-
-This type of vegetation is located along streams and rivers. The most common species are, _Terminalia, Diospyros,Salix,Ficus_ and grasses. They are found on the banks of Godavari, Krishna, Ganga, Brahmaputria, Narmadha Yamuna and riverbeds of Cauvery and Thamirabharani in Tamil Nadu.
-
-Activity
-
-Visit nearby forest and water bodies, observe the species found, describe and then identify the various types of vegetation
-
-**4. Aquatic And Semi-Aquatic Vegetation**
-
-This type of vegetation is found in lakes, ponds, puddles and marshy places. The common plant species are _Nelumbo, Nymphaea, Bacopa, Typha, Pandanus, Cyperus, Aeschynomene, Hydrilla, Aponogeton_ and _Potomogeton_. It is found in various parts of Tamil Nadu.
-
-**2. Grass land vegetation** Grassland refer to the vegetation community predominated by graminoids (i.e. grass and grass like plants). These are found in the altitude ranging from 150 to 2000 m and above mean sea level. The major plant families of the plants are Poaceae, Cyperaceae, Fabaceae , Gentianaceae and Asteraceae are common in this type of vegetation. The grass land not only comprises plants but also serves as habitats to a variety of micro and macro fauna. Based on the range of altitude, grasslands are categorized into: low altitude grasslands and high altitude grasslands.
-
-Grasslands created and maintained by human are called anthropogenic grasslands.
-
-**a. Low altitude grasslands**
-
-This type of grasslands are found at an altitude upto 1000 m. The common plant species are _Halopyrum,_ Wild _Saccharum, Arundinella, Heteropogon and Chrysopogon. These types_ of grasslands are spread over coastal areas, riverline and alluvial areas of Deccan plateau, Chota Nagpur plateau, Gangetic, Brahmaputra valley and Eastern Ghats.
-
-In Tamil Nadu, these are found in the Eastern Ghats .These are scattered and intermixed with local forests. They are exposed to considerable biotic interference. Fire is common during dry months.
-
-**b. Higher altitude grasslands**
-
-This type of grasslands are found in altitude above 1000 m.The common plants species are _Chrysopogon, A r u n d i n e l l a , Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca,_ and _Agrostis._. It is spread over the southern slopes of Himalayas, sub-vegetation, Riparian vegetation, Aquatic and semi aquatic vegetation). According to Champion and Seth (1968), forest vegetation of India and Tamil Nadu has been classified in to 16 and 9 types respectively.
-
-
-
-
-
 **Summary** The interaction between biotic and abiotic components in an environment is called ecosystem. Autotrophs and heterotrophs are the producers and consumers respectively. The function of ecosystem refers to creation of energy, flow of energy and cycling of nutrients. The amount of light available for photosynthesis is called Photo synthetically Active Radiation . It is essential for increase in the productivity of ecosystem. The rate of biomass production per unit area /time is called productivity. It is classified as primary productivity, secondary productivity and community productivity. The transfer of energy in an ecosystem can be termed as energy flow. It is explained through the food chain, food web , ecological pyramids ( pyramid of number, biomass and energy ) and biogeochemical cycle. Cycling of nutrients between abiotic and biotic components is evident in the pond ecosystem, making itself self sufficient and self regulating Ecosystem protected for the welfare of posterity is called ecosystem management.
 
 Successive replacement of one type of plant community by the other of the same area/ place is known as plant succession. The first invaded plants in a barren (nude) area are called pioneers (pioneers communities). On the other hand, a series of transitional developments of plant communities one after another in a given area are called seral communities. Succession is classified as primary succession, secondary succession, allogeneic succession and autotrophic succession. Plant succession is classified in to hydrosere (Initiating on a water bodies) ,Mesosere and xerosere. Further xerosere is subdivided in to Lithosere ( Initiating on a barren rock), Halosere and Pasmmosere.
-
-Vegetation refers to the plant cover of an area. Geographically, India and Tamil Nadu show tropical climate. Hence it has rich vegetation (Forest vegetation, Grassland
-
-**Evaluation** I Choose the most suitable answer from the given four alternatives and write the option code and the corresponding answer. 1. Which of the following is not a abiotic
-
-component of the ecosystem? a) Bacteria b) Humus c) Organic compounds d) Inorganic compounds
-
-2. Which of the following is / are not a natural ecosystem?
-
-a) Forest ecosystem b) Rice field c) Grassland ecosystem d) Desert ecosystem
-
-3. Pond is a type of a) forest ecosystem b) grassland ecosystem c) marine ecosystem d) fresh water ecosystem
-
-4. Pond ecosystem is a) not self sufficient and self regulating b) partially self sufficient and self regulating c) self sufficient and not self regulating d) self sufficient and self regulating 5. Profundal zone is predominated by
-
-heterotrophs in a pond ecosystem, because of a) with effective light penetration b) no effective light penetration c) complete absence of light d) a and b
-
-6. Solar energy used by green plants for photosynthesis is only
-
-a) 2 – 8% b) 2 – 10%
-
-
-
-  
-
-
-c) 3 – 10% d) 2 – 9% 7. Which of the following ecosystem has the
-
-highest primary productivity? a) Pond ecosystem b) Lake ecosystem c) Grassland ecosystem d) Forest ecosystem
-
-8. Ecosystem consists of a) decomposers b) producers c) consumers d) all of the above
-
-9. Which one is in descending order of a food chain
-
-a) Producers  Secondary consumers  Primary consumers  Tertiary consumers
-
-b) Tertiary consumers  Primary consumers  Secondary consumers  Producers
-
-c) Tertiary consumers  Secondary consumers  Primary consumers  Producers
-
-d) Tertiary consumers  Producers  Primary consumers  Secondary consumers
-
-10. Significance of food web is / are a) it does not maintain stability in nature b) it shows patterns of energy transfer c) it explains species interaction d) b and c
-
-11. The following diagram represents
-
-**T1**
-
-**T2**
-
-**T3**
-
-**T4**
-
-a) pyramid of number in a grassland ecosystem
-
-b) pyramid of number in a pond ecosystem c) pyramid of number in a forest ecosystem
-
-d) pyramid of biomass in a pond ecosystem
-
-12. Which of the following is / are not the mechanism of decomposition
-
-a) Eluviation b) Catabolism c) Anabolism d) Fragmentation
-
-13. Which of the following is not a sedimentary cycle
-
-a) Nitrogen cycle b) Phosphorous cycle c) Sulphur cycle d) Calcium cycle
-
-14. Which of the following are not regulating services of ecosystem services
-
-i) Genetic resources ii) Recreation and aesthetic values iii) Invasion resistance iv) Climatic regulation a) i and iii b) ii and iv c) i and ii d) i and iv 15. Productivity of profundal zone will be low.
-
-Why? 16. Discuss the gross primary productivity is
-
-more efficient than net primary productivity. 17. Pyramid of energy is always upright. Give
-
-reasons 18. Write some plants are found in sub alpine
-
-forest. 19. What will happen if all producers are
-
-removed from ecosystem? 20. Construct the food chain with the following
-
-data. Hawk, plants, frog, snake, grasshopper. 21. Name of the food chain which is generally
-
-present in all type of ecosystem. Explain and write their significance.
-
-22. Shape of pyramid in a particular ecosystem is always different in shape. Explain with example.
-
-23. Generally human activities are against to the ecosystem, where as you a student how will you help to protect ecosystem?
-
-24. Generally in summer the forest are affected by natural fire. Over a period of time it
-
-
-recovers itself by the process of successions . Find out the types of succession and explain.
-
-25. Draw a pyramid from following details and explain in brief.
-
-Quantities of organisms are given-Hawks-50, plants-1000.rabbit and mouse-250 +250, pythons and lizard- 100 + 50 respectively.
-
-26. Various stages of succession are given bellow. From that rearrange them accordingly. Find out the type of succession and explain in detail.
-
-Reed-swamp stage, phytoplankton stage, shrub stage, submerged plant stage, forest stage, submerged free floating stage, marsh medow stage.
-
-**Glossary**
-
-**Ecosystem:** Study of interaction between living and non-living components
-
-**Standing quality:** Total inorganic substances presents in any ecosystem at a given time and given area
-
-**Standing crops:** Amount of living material present in a population at any time.
-
-**Biomass:** Can be measured as fresh weight or dry weight of organisms
-
-**Benthic:** Bottom zone of the pond
-
-**Trophic:** Refers to the position of organisms in food chain
-
-**Omnivores: Those eats both plants and animals**
-
-**Food chain:** Refers movement of energy from producers up to top carnivores
-
-**Food web:** Interlocking pattern of food chain
-
-**Pyramid of number:** Refers number of organisms in a successive trophic level
-
-**Pyramid of biomass:** Refers to quantitative relationship of the standing crops
-
-**Pyramid of energy:** Refers transformation of energy at successive trophic levels
-
-**Ten per cent law:** refers only 10 per cent of energy is stored in each successive trophic levels
-
-**Bio geo chemical cycle:** Exchange of nutrients between organisms and environments
-
-**Carbon cycle:** Circulation of carbon among organisms and environments
-
-**Guano:** It is a accumulated excrement of sea birds and bats.
-
-**Phosphorus cycle:** Circulation of Phosphorus among organisms and environments
-
-**Succession:** Successive replacement of one type of plant communities by other on barren or disturbed area.
-
-**Pioneers:** Invaded plants on barren area
-
-**Primary succession:** Plants colonising on barren area
-
-**Secondary succession:** Plants colonising on disturbed area.
-
-**Climax communities:** Final establishment of plant communities which are not replaced by others.
-
-
-URL: **https://play.google.com/store/apps/details?id=com.ksolve. ecologyfree**
-
-**ICT Corner**
-
-**ECO SYSTEM**
-
-**Steps** • Type the URL or scan the QR code to open the activity page then Introduction page will open. • Click on the Learn icon in the introduction page to know in detail. • Click on the Flashcards icon in the introduction page to know about the topics easily. • Click on the Test icon to write a quiz test finally it displays the marks we scored.
-
-Let us know about the **Ecosystem** in detail through this activity.
-
-\* Pictures are indicative only
-
-**Step 3 Step 4Step 1 Step 2**
-
-
-
-
-
-
-
-
-
-
-
-
-
