@@ -221,7 +221,7 @@ A graphical representation of the amount of organic material (biomass) present a
 
 ![Figure 7.8: Pyramids ofbiomass](7.8.png "")
 
-
+          
 In **grassland** and **forest ecosystems**, there is a gradual decrease in biomass of organisms at successive trophic levels from producers to top carnivores (Tertiary consumer). Therefore, these two ecosystems show pyramids as **upright** pyramids of biomass.
 
 However, in **pond ecosystem**, the bottom of the pyramid is occupied by the producers, which comprise very small organisms possessing the least biomass and so, the value gradually increases towards the tip of the pyramid. Therefore, the pyramid of biomass is always **inverted** in shape.
@@ -234,16 +234,28 @@ A graphical representation of energy flow at each successive trophic level in an
 
 ### Decomposition:
 
-Decomposition is a process in which the detritus (dead plants, animals and their excreta) are broken down in to simple organic matter by the decomposers. It is an essential process for recycling and balancing the nutrient pool in an ecosystem. **Nature of decomposition** The process of decomposition varies based
+Decomposition is a process in which the detritus (dead plants, animals and their excreta) are broken down in to simple organic matter by the decomposers. It is an essential process for recycling and balancing the nutrient pool in an ecosystem. 
 
+**Nature of decomposition** 
+ The process of decomposition varies based on the nature of the organic compound, some of the copounds like carbohydrate, fat and protein are decomposed rapidly than the cellulose, lignin,chitin, hair and bone.
 
+**Mechanism of decomposition**
 
-**Figure 7.8: Pyramids of biomass ( dry weight per unit area)in different types of ecosystems. Upright**\-A) Grassland ecosystem B) Forest ecosystem, **Inverted**\- C)Pond ecosystem
+Decomposition is a step wise process of degradation mediated by enzymatic reactions. Detritus acts as a raw material for decomposition. It occurs in the following steps.
 
+![Diagrammatic representation – Process of decomposition and cycling of nutrients.](7.10.png "")
 
-inorganic compounds from the surface to the lower layer of soil or the carrying away of the same by water is called **leaching** or **eluviation**.
+**a. Fragmentation - The breaking down** 
 
-**d. Humification - It is a process by which** simplified detritus is changed into dark coloured amorphous substance called **humus**. It is highly resistant to microbial action, therefore decomposition is very slow. It is the reservoir of nutrients.
+The breaking down of detritus into smaller particles by detritivores like bacteria, fungi and earth worm is known as fragmentation. These detritivores secrete certain substances to enhance the fragmentation process and increase the surface area of detritus particles.
+
+**b. Catabolism - The decomposers produce** some extracellular enzymes in their surroundings to break down complex organic and inorganic compounds in to simpler ones. This is called **catabolism**
+
+**c.** **Leaching or Eluviation -** 
+The movement of decomposed, water soluble organic and and inorganic compounds from the surface to the lower layer of soil or the carrying away of the same by water is called leaching or eluviation.
+
+**d. Humification -** 
+It is a process by which** simplified detritus is changed into dark coloured amorphous substance called **humus**. It is highly resistant to microbial action, therefore decomposition is very slow. It is the reservoir of nutrients.
 
 **e.** **Mineralisation -** Some microbes are involved in the release of inorganic nutrients from the humus of the soil, such process is called **mineralisation**.
 
@@ -254,148 +266,24 @@ Decomposition is affected by climatic factors like temperature, soil moisture, s
 ### Biogeochemical cycles (Nutrient cycles)
 
 Exchange of nutrients between organisms and their environment is one of the essential aspects of an ecosystem. All organisms require nutrients for their growth, development, maintenance
-
 on the nature of the organic compounds, i.e., some of the compounds like carbohydrate, fat and protein are decomposed rapidly than the cellulose, lignin, chitin, hair and bone.
-
-**Mechanism of decomposition**
-
-Decomposition is a step wise process of degradation mediated by enzymatic reactions. Detritus acts as a raw material for decomposition. It occurs in the following steps.
-
-**a. Fragmentation - The breaking down** of detritus into smaller particles by detritivores like bacteria, fungi and earth worm is known as fragmentation. These detritivores secrete certain substances to enhance the fragmentation process and increase the surface area of detritus particles.
-
-**b. Catabolism - The decomposers produce** some extracellular enzymes in their surroundings to break down complex organic and inorganic compounds in to simpler ones. This is called catabolism
-
-**c.** **Leaching or Eluviation -** The movement of decomposed, water soluble organic and
-
-**Fragmentation**
-
-Senescence
-
-**Raw material for decomposition Catabolism**
-
-**HumificationMineralisation**
-
-**Absorption by plants**
-
-**Leaching**
-
-![Diagrammatic representation – Process of decomposition and cycling of nutrients.](process-of-decomposition-and-cycling.png "")
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
 and reproduction. Circulation of nutrients within the ecosystem or biosphere is known as **biogeochemical cycles** and also called as ‘cycling of materials.’ There are two basic types,
 
 1. **Gaseous cycle** – It includes atmospheric Oxygen, Carbon and Nitrogen cycles.
 
 2. **Sedimentary cycle** – It includes the cycles of Phosphorus, Sulphur and Calcium - Which are present as sediments of earth.
 
+
+![Diagrammatic Sketch showing Carbon cycle](7.11.png "")
+
 Many of the cycles mentioned above are studied by you in previous classes. Therefore, in this chapter, only the carbon and phosphorous cycles are explained.
 
 **Carbon cycle**
 
 The circulation of carbon between organisms and environment
+is known as the **carbon cycle**. Carbon is an inevitable part of all biomolecules and is substantially impacted by the change in global climate. Cycling of carbon between organisms and atmosphere is a consequence of two reciprocal processes of photosynthesis and respiration. The releasing of carbon in the atmosphere increases due to burning of fossile fuels, deforestration, forest fire, volcanic eruption and decomposition of dead organic matters. The details of carbon cycle are given in the figure 7.11.
 
-is known as the **carbon cycle**. Carbon is an inevitable part of all biomolecules and is substantially impacted by the change in global climate. Cycling of carbon between organisms and atmosphere is a consequence of two reciprocal processes of photosynthesis and respiration. The releasing of carbon in
-
-![Diagrammatic Sketch showing Carbon cycle](carbon-cycle.png "")
-
-Peat Coal
-
-Oil and Gas
-
-**Atmospheric CO2**
-
-**Diffusion**
-
-**Volcanic eruption**
-
-**Diffusion**
-
-**Respiration**
-
-**Photosynthesis**
-
-**Dead organic matter Deposition / Sediments**
-
-**Photosynthesis Forest fire**
-
-**Decomposition**
-
-**Respiration**
-
-**Combustion**
-
-**Fossil fuel Decomposition**
-
-**Dead organic matter (DOM)**
-
-**Transport (DOM)**
-
-![Diagrammatic sketch showing Phosphorous cycle](phosphorous-cycle.png "")
-
-**Decomposition Mineralization**
-
-**Urban/Industrial Food**
-
-**Agriculture**
-
-**Weathering Mining**
-
-**Guano**
-
-**Sediments**
-
-**Bacteria**
-
-**Death Excretion**
-
-**Dead organic matter Soil**
-
-**Uptake**
-
-**PI**
-
-**PI**
-
-**PI**
-
-**PI**
-
-**PO**
-
-**PI PI**
-
-**Phosphate rocks**
-
-Po = Organic phosphates PI = Inorganic phosphates
-
-**Fe rti**
-
-**lize rs**
-
-**Fertilizers**
-
-
-
-
-
-
-  
-
-
-the atmosphere increases due to burning of fossile fuels, deforestration, forest fire, volcanic eruption and decomposition of dead organic matters. The details of carbon cycle are given in the figure 7.11.
+![Diagrammatic sketch showing Phosphorous cycle](7.12.png "")
 
 **Phosphorus cycle**
 
@@ -464,12 +352,6 @@ Collect few living and nonliving components from any water body found near by.
 **Abiotic components** A pond ecosystem consists of dissolved inorganic (CO2, O2, Ca, N, Phosphate) and organic substances (amino acids and humic acid) formed from the dead organic matter. The function of pond ecosystem is regulated by few factors like the amount of light, temperature, pH value of water and other climatic conditions.
 
 **Biotic components** They constitute the producers, variety of consumers and decomposers (microorganisms).
-
-
-
-
-  
-
 
 **a. Producers** A variety of phytoplanktons like _Oscillatoria, Anabaena, Chlamydomonas, Pandorina Eudorina, Volvox_ and _Diatoms._ Filamentous algae such as _Ulothrix, Spirogyra, Cladophora_ and Oedogonium; floating plants Azolla, _Salvia, Pistia, Wolffia and Eichhornia; sub-_ merged plants _Potamogeton_ and _Phragmitis_; rooted floating plants Nymphaea and Nelumbo; macrophytes like _Typha_ and _Ipomoea,_ constitute the major producers of a pond ecosystem.
 
