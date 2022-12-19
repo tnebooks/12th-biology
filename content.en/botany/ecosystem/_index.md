@@ -14,6 +14,7 @@ weight: 8
 - Discuss about the importance and conservation of ecosystem
 - Explain causes, process and types of plant succession
 - Classify vegetation types of India and Tamil Nadu
+
 ```
 
 
@@ -21,17 +22,24 @@ weight: 8
 Have you seen lakes, ponds and pools in your surroundings? They are all called water bodies with many components in them. Can you list out the things which are found in water bodies? Mud, nutrients, clay, dissolved gases, planktons, microorganisms, plants like algae, _Hydrilla, Nelumbo, Nymphaea_ and animals like snake, small fish, large fish, frog, tortoise and crane are the components of the water bodies which constitutes **ecosystem**. Further, we all know that plants and animals are prominent living components in the environment. They interact with space components such as air, water, soil, sunlight, etc. For example, you have studied in class XI, one of the life processes, photosynthesis which utilizes sunlight , water, carbondioxide, nutrients from the soil and release oxygen to the atmosphere. From this, we understand that the exchange of materials takes place between living and space components. Likewise, you can study the structure, function and types of ecosystem in this chapter. The term ‘ecosystem’ was proposed by A.G. Tansley (1935), who defined it as ‘the system resulting from the **integration of all the living and nonliving factors of the environment’**. Whereas, Odum (1962) defined ecosystem ‘as the structural and **functional unit of ecology’.**
 
 ```
-**Parallel terms for ecosystem coined by various ecologists** • Biocoenosis – Karl Mobius • Microcosm – S.A. Forbes • Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov • Holocoen - Friederichs • Biosystem – Thienemann • Bioenert body – Vernadsky
+**Parallel terms for ecosystem coined by various ecologists** 
+• Biocoenosis – Karl Mobius 
+• Microcosm – S.A. Forbes 
+• Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
+• Holocoen - Friederichs 
+• Biosystem – Thienemann 
+• Bioenert body – Vernadsky
+
 ```
 
-## Ecosystem
+##  Structure of Ecosystem
 Ecosystem comprises of two major components. They are: 
 
 i) **Abiotic (non-living) components**: 
 
 It includes climatic factors (air, water, sunlight, rainfall, temperature and humidity), edaphic factors (soil air, soil water and pH of soil),topography (latitude, altitude), organic components (carbohydrates, proteins, lipids and humic substances) and inorganic substances (C, H, O, N and P ). Abiotic components play vital role in any ecosystem and hence the total inorganic substances present in any ecosystem at a given time is called **standing quality** (or) **standing state**.
 
-ii) **Biotic (living) components**: It **i**ncludes all living organisms like plants, animals, fungi and bacteria. They form the trophic structures of any ecosystem. On the basis of nutritional relationships, trophic levels of an ecosystem have two components. (1) autotrophic components and (2) heterotrophic components.
+ii) **Biotic (living) components**: It includes all living organisms like plants, animals, fungi and bacteria. They form the trophic structures of any ecosystem. On the basis of nutritional relationships, trophic levels of an ecosystem have two components. (1) autotrophic components and (2) heterotrophic components.
 
 **(1) Autotrophic components:** Autotrophs are organisms which can manufacture the organic compounds from simple inorganic components through a process called photosynthesis. In most of the ecosystems, green plants are the autotrophs and are also called **producers**.
 
@@ -39,12 +47,12 @@ ii) **Biotic (living) components**: It **i**ncludes all living organisms like pl
 
 The amount of living materials present in a population at any given time is known as **standing crop**, which may be expressed in terms of number or biomass per unit area. **Biomass** can be measured as fresh weight or dry weight or carbon weight of organisms. Biotic components are essential to construct the food chain, food web and ecological pyramids.
 
-## Functions of ecosystem
+### Functions of ecosystem
 The function of ecosystem include creation of energy creation, sharing of energy and cycling of materials between the living and nonliving components of an ecosystem.
 
 Before studying the productivity in any ecosystem, we should understand the essential role of sunlight used by producers of the first trophic level. The quantity of sunlight is directly proportional to the production of energy by plants.
 
-### Photosynthetically Active Radiation (PAR)
+#### Photosynthetically Active Radiation (PAR)
 
 The amount of light available for photosynthesis of plants is called **P**hotosynthetically **A**ctive **R**adiation (PAR) which is from 400-700 nm in wave length. It is essential for photosynthesis and plant growth. PAR is not always constant because of clouds, tree shades, air, dust particles, seasons, latitudes and length of the daylight availability. Generally plants absorb more blue and red light for efficient photosynthesis.
 
@@ -54,7 +62,7 @@ PAR is generally expressed in millimoles / square meter / second by using silico
 
 
 nm wavelength of light. PAR values range from 0 to 3000 millimoles /square meter / second. At night PAR is zero and during midday in the summer, PAR often reaches 2000 – 3000 millimoles /square meter/second.
-
+```
 **Types of Carbon**
 
 **Green carbon** – carbon stored in the biosphere (by the process
@@ -68,6 +76,7 @@ of photosynthesis).
 **Brown carbon** – carbon stored in industrialized forests (wood used in making commercial articles)
 
 **Black carbon** – carbon emitted from gas, diesel engine and coal fired power plants.
+```
 
 ### Productivity of an ecosystem
 
@@ -85,13 +94,13 @@ The chemical energy or organic matter generated by autotrophs during the process
 
 **a.** **Gross Primary Productivity (GPP)** The total amount of food energy or organic matter or biomass produced in an ecosystem by autotrophs through the process of photosynthesis is called **gross primary productivity**
 
-**b.** **Net Primary Productivity (NPP)**
+**b. Net Primary Productivity (NPP)**
 
 The proportion of energy which remains after respiration loss in the plant is called **net primary productivity**. It is also called as apparent photosynthesis. Thus the difference between GPP and respiration is known as NPP.
 
-```
+
 NPP = GPP – Respiration
-```
+
 
 NPP of whole biosphere is estimated to be about 170 billion tons (dry weight) per year. Out of which NPP of oceanic producers is only 55 billion tons per year.
 
