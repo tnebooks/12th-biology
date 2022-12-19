@@ -79,7 +79,7 @@ of photosynthesis).
 ```
 
 ### Productivity of an ecosystem
-\e rate of biomass production per unit area in a unit time is called productivity. It can be expressed in terms of gm /m2/year or Kcal/m2/ year. It is classified as given bellow.
+The rate of biomass production per unit area in a unit time is called productivity. It can be expressed in terms of gm /m2/year or Kcal/m2/ year. It is classified as given bellow.
 
 1. Primary productivity
 
