@@ -238,8 +238,58 @@ Apart from monohybrid, dihybrid and trihybrid crosses, there are exceptions to M
 
 A single phenotype is controlled by more than one set of genes, each of which has two or more alleles. This phenomenon is called Gene Interaction. Many characteristics of the organism including structural and chemical which constitute the phenotype are the result of interaction between two or more genes.
 
-table
+```goat
+                  ┌──────────────────┐
+                  │ Gene interactions│
+                  └───────┬──────────┘
+                          │
+                          │
+       ┌──────────────────┴─────────────────────────┐
+       │                                            │
+       │                                            │
+┌──────┴──────────┐                           ┌─────┴───────────┐
+│   Intralocus    │                           │                 │
+│  interactions   │                           │    Interlocus   │
+│                 │                           │   interactions  │
+│                 │                           │                 │
+│    (Allelic     │                           │                 │
+│   interactions) │                           │   (Non-allelic  │
+│                 │                           │  interactions)  │
+└───────┬─────────┘                           └───────┬─────────┘
+        │                                             │
+        │                                             │
+        │                             ┌───────────────┴──────────────┐
+        │                             │                              │
+        │                   ┌─────────┴───────┐             ┌────────┴────────┐
+        │                   │                 │             │                 │
+        │                   │   Epistatic/    │             │   Additive/     │
+        │                   │ Non-epistatic   │             │  Polygenic      │
+        │                   │   interactions  │             │  interactions   │
+        │                   │                 │             │                 │
+        │                   └─────────────────┘             └─────────────────┘
+        │
+        │
+ ┌──────┴────────────────────────────────┐
+ │I.Dominant relationship                │
+ │                                       │
+ │  a) Complete dominance                │
+ │ Example: Tall and dward pea plants    │
+ │  b) Incomplete dominance              │
+ │  c) Codominance                       │
+ │  d) Over dominance                    │
+ │                                       │
+ │II. Lethal genes                       │
+ │                                       │
+ │   a) Dominant lethals                 │
+ │   b) Recessive lethals                │
+ │   c) Conditional lethals              │
+ │   d) Sex linked lethals               │
+ │   e) Balanced lethals                 │
+ │                                       │
+ │III. Multiple alleles                  │
+ └───────────────────────────────────────┘
 
+```
 Mendelian experiments prove that a single gene controls one character. But in the post Mendelian findings, various exception have been noticed, in which different types of interactions are possible between the genes. This gene interaction concept was introduced and explained by W. Bateson. This concept is otherwise known as Factor hypothesis or Bateson’s factor hypothesis. According to Bateson’s factor hypothesis, the gene interactions can be classified as
 - Intragenic gene interactions or Intra allelic or allelic interactions 
 - Intergenic gene interactions or inter allelic
@@ -267,7 +317,7 @@ Interactions take place between the alleles of the same gene i.e., alleles at th
 
 ### Codominance (1 : 2 : 1) 
 
-**This pattern occurs due to simultaneous (joint) expression of both alleles in the heterozygote** - The phenomenon in which two** alleles are both expressed in the heterozygous individual is known as codominance. Example: Red and white flowers of Camellia, inheritance of sickle cell haemoglobin, ABO blood group system in humanbeings. In humanbeings, IA and IB alleles of I gene are codominant which follows Mendels law of segregation. The codominance was demonstrated in plants with the help of electrophoresis or chromatography for protein or flavonoid substance. Example: Gossypium _hirsutum_ and _Gossypium sturtianum_, their F1 hybrid (amphiploid) was tested for seed proteins by electrophoresis. Both the parents have different banding patterns for their seed proteins. In hybrids, additive banding pattern was noticed. Their hybrid shows the presence of both the types of proteins similar to their parents.
+**This pattern occurs due to simultaneous (joint) expression of both alleles in the heterozygote** - The phenomenon in which two** alleles are both expressed in the heterozygous individual is known as codominance. Example: Red and white flowers of Camellia, inheritance of sickle cell haemoglobin, ABO blood group system in humanbeings. In humanbeings, IA and IB alleles of I gene are codominant which follows Mendels law of segregation. The codominance was demonstrated in plants with the help of electrophoresis or chromatography for protein or flavonoid substance. Example: Gossypium _hirsutum_ and _Gossypium sturtianum_, their F1 hybrid (amphiploid) was tested for seed proteins by electrophoresis.Both the parents have different banding patterns for their seed proteins. In hybrids, additive banding pattern was noticed. Their hybrid shows the presence of both the types of proteins similar to their parents.
 
 The heterozygote genotype gives rise to a phenotype distinctly different from either of the homozygous genotypes. The F1 heterozygotes produce a F2 progeny in a phenotypic and genotypic ratios of 1 : 2 : 1. 
 
