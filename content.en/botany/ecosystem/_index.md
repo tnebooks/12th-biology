@@ -1244,7 +1244,7 @@ Now, we all exploit the ecosystem more than that of our needs. **The Millennium 
 The varieties of benefits obtained from the ecosystem are generally categorized into the following four types
 
 
-![Diagrammatic sketch shows stratification of Pond ecosystem](7.19.png "")
+
 
 
 
@@ -1365,7 +1365,7 @@ Example: In a forest ecosystem soil erosion and leaching alter the nutrient valu
 
 Detailed study of Hydrosere and Lithosere are discussed below:
 
-![Diagrammatic sketch shows stratification of Pond ecosystem](7.20.png "")              
+         
   
 
 #### Hydrosere
