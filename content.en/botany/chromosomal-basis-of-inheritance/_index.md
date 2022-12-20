@@ -1150,7 +1150,7 @@ Sometimes the chromosome number of somatic cells are changed due to addition or 
 
 It is a condition in which diploid number is altered either by addition or deletion of one or more chromosomes. Organisms showing aneuploidy are known as **aneuploids** or heteroploids. They are of two types, Hyperploidy and Hypoploidy (Figure 3.11).
 
-![Table 3.7: Major types of mutations](3.32.png "")
+![Table 3.7: Major types of mutations](3.31.png "")
 
 **1. Hyperploidy**
 
