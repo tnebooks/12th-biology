@@ -142,19 +142,19 @@ Decrease in species diversity occurs as one ascends a high mountain due to drop 
 
 The reasons for the richness of biodiversity in the Tropics are:
 
-• Warm tropical regions between the tropic of Cancer and Capricorn on either side of equator possess congenial habitats for living organisms.
+- Warm tropical regions between the tropic of Cancer and Capricorn on either side of equator possess congenial habitats for living organisms.
 
-• Environmental conditions of the tropics are favourable not only for speciation  
+- Environmental conditions of the tropics are favourable not only for speciation  
 
 but also for supporting both variety and number of organisms.
 
-• The temperatures vary between 25⁰C to 35⁰C, a range in which most metabolic activities of living organisms occur with ease and efficiency.
+- The temperatures vary between 25⁰C to 35⁰C, a range in which most metabolic activities of living organisms occur with ease and efficiency.
 
-• The average rainfall is often more than 200 mm per year.
+- The average rainfall is often more than 200 mm per year.
 
-• Climate, seasons, temperature, humidity, photoperiods are more or less stable and encourage both variety and numbers.
+- Climate, seasons, temperature, humidity, photoperiods are more or less stable and encourage both variety and numbers.
 
-• Rich resource and nutrient availability.
+- Rich resource and nutrient availability.
 
 **Species - Area relationships** German Naturalist and Geographer
 
@@ -217,9 +217,9 @@ a) Ecosystem services b) Biological resources c) Social benefits of biodiversity
 
 of ecosystems world over is effected and dependent on biodiversity and its richness. The major functional attributes are:
 
-• continuity of nutrient cycles or biogeochemical cycles (N2, C, H2O, P, S cycles)
+- continuity of nutrient cycles or biogeochemical cycles (N2, C, H2O, P, S cycles)
 
-• soil formation, conditioning or maintenance of soil health (fertility) by soil microbial diversity along with the different trophic members
+- soil formation, conditioning or maintenance of soil health (fertility) by soil microbial diversity along with the different trophic members
 
 
 
@@ -235,21 +235,21 @@ of ecosystems world over is effected and dependent on biodiversity and its richn
 
 202Biodiversity and its Conservation
 
-• increases ecosystem productivity and provide food resources
+- increases ecosystem productivity and provide food resources
 
-• act as water traps, filters, water flow regulators and water purifiers (forest cover and vegetation)
+- act as water traps, filters, water flow regulators and water purifiers (forest cover and vegetation)
 
-• climate stability (forests are essential for rainfall, temperature regulation, CO2
+- climate stability (forests are essential for rainfall, temperature regulation, CO2
 
 absorption, which in turn regulate the density and type of vegetation)
 
-• forest resource management and sustainable development
+- forest resource management and sustainable development
 
-• maintaining balance between biotic components
+- maintaining balance between biotic components
 
-• cleaning up of pollutants – microbes are the biggest degraders of molecules including many anthropogenic ones which are present in effluents, sewage, garbage and agro-chemicals
+- cleaning up of pollutants – microbes are the biggest degraders of molecules including many anthropogenic ones which are present in effluents, sewage, garbage and agro-chemicals
 
-• ecological stability – the varieties and richness of species contribute to ecological
+- ecological stability – the varieties and richness of species contribute to ecological
 
 **Table 12.1. Biogeographical Zones Of India S. No.**
 
@@ -265,9 +265,9 @@ absorption, which in turn regulate the density and type of vegetation)
 
 stability and survival of species. Biodiverse regions are reservoirs of biological resources like food resources, gene pool, genetic resource, medicinal resources, bio-prospecting
 
-• to provide unique aesthetic value and hot spots for Ecotourism. Along with forest resources and wildlife it has commercial significance
+- to provide unique aesthetic value and hot spots for Ecotourism. Along with forest resources and wildlife it has commercial significance
 
-• an indicator of the health of the ecosystem. Endemism is a crucial indicator of richness.
+- an indicator of the health of the ecosystem. Endemism is a crucial indicator of richness.
 
 **12.3 Biogeographical regions of India**
 
@@ -410,27 +410,27 @@ fruit bats of Guam (South East Asia). The fruit bats are a delicacy here, and he
 
 **12.5 Causes of biodiversity loss** The major causes for biodiversity decline are:
 
-• Habitat loss, fragmentation and destruction (affects about 73% of all species)
+- Habitat loss, fragmentation and destruction (affects about 73% of all species)
 
-• Pollution and pollutants (smog, pesticides, herbicides, oil slicks, GHGs)
+- Pollution and pollutants (smog, pesticides, herbicides, oil slicks, GHGs)
 
-• Climate change
+- Climate change
 
-• Introduction of alien/exotic species
+- Introduction of alien/exotic species
 
-• Over exploitation of resources (poaching, indiscriminate cutting of trees, over fishing, hunting, mining)
+- Over exploitation of resources (poaching, indiscriminate cutting of trees, over fishing, hunting, mining)
 
-• Intensive agriculture and aquacultural practices
+- Intensive agriculture and aquacultural practices
 
-• Hybridization between native and non- native species and loss of native species
+- Hybridization between native and non- native species and loss of native species
 
-• Natural disasters (Tsunami, forest fire, earth quake, volcanoes)  
+- Natural disasters (Tsunami, forest fire, earth quake, volcanoes)  
 
 205 Biodiversity and its Conservation
 
-• Industrialization, Urbanization, infrastructure development, Transport – Road and Shipping activity, communication towers, dam construction, unregulated tourism and monoculture are common area of specific threats
+- Industrialization, Urbanization, infrastructure development, Transport – Road and Shipping activity, communication towers, dam construction, unregulated tourism and monoculture are common area of specific threats
 
-• Co-extinction
+- Co-extinction
 
 **Habitat Loss** Development of human society is
 
@@ -621,15 +621,15 @@ implementation of several international conventions on nature conservation and b
 
 of taxa facing risk of extinction. IUCN – International Union of Conservation of Nature and Natural Resources, which is renamed as WCU – World Conservation Union (Morges Switzerland) maintains the Red Data book. The concept of Red list was mooted in 1963. The purpose of preparation of Red List are:
 
-• To create awareness on the degree of threat to biodiversity
+- To create awareness on the degree of threat to biodiversity
 
-• Identification and documentation of species at high risk of extinction
+- Identification and documentation of species at high risk of extinction
 
-• Provide global index on declining biodiversity
+- Provide global index on declining biodiversity
 
-• Preparing conservation priorities and help in conservation of action
+- Preparing conservation priorities and help in conservation of action
 
-• Information on international agreements on conservation of biological diversity
+- Information on international agreements on conservation of biological diversity
 
 Red list has eight categories of species i) Extinct ii) Extinct in wild iii) Critically Endangered iv) Endangered v) Vulnerable vi) Lower risk vii) Data deficiency viii) Not evaluated.
 
@@ -643,15 +643,15 @@ Conservation of biodiversity is protection and scientific management of biodiver
 
 General strategies in conservation
 
-• identify and protect all threatened species
+- identify and protect all threatened species
 
-• identify and conserve in protected areas the wild relatives of all the economically important organisms
+- identify and conserve in protected areas the wild relatives of all the economically important organisms
 
-• identify and protect critical habitats for feeding, breeding, nursing, resting of each species
+- identify and protect critical habitats for feeding, breeding, nursing, resting of each species
 
-• air, water and soil should be conserved on priority basis
+- air, water and soil should be conserved on priority basis
 
-• wildlife Protection Act should be implemented
+- wildlife Protection Act should be implemented
 
 There are two aspects of conservation strategies **(Table 12.4).**
 
@@ -826,17 +826,17 @@ in Endangered Species (CITES) of wild fauna and flora, also known as the Washing
 
 **ZOOLOGICAL SURVEY OF INDIA** The Zoological Survey of India (ZSI)
 
-was established in 1916 to promote survey, exploration and research leading to the advancement in our knowledge of various aspects of biodiversity of our country. **The objectives of ZSI are:** • Exploration, Survey, Inventorying and
+was established in 1916 to promote survey, exploration and research leading to the advancement in our knowledge of various aspects of biodiversity of our country. **The objectives of ZSI are:** - Exploration, Survey, Inventorying and
 
 Monitoring of faunal diversity in various states, ecosystems and protected areas of India.
 
-• Periodic review of the status of threatened and endemic species.
+- Periodic review of the status of threatened and endemic species.
 
-• Preparation of Red Data Book and Fauna of India.
+- Preparation of Red Data Book and Fauna of India.
 
-• Biological studies on selected important species.
+- Biological studies on selected important species.
 
-• Maintenance and Development of National Zoological Collections.
+- Maintenance and Development of National Zoological Collections.
 
 It aims to ensure that international trade in specimens of wild animals and plants should not be a threat to the survival of the species in the wild. It accords varying degrees of protection to more than 35,0000 species of animals and plants.
 

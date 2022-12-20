@@ -159,25 +159,25 @@ is essential for the survival of all forms of life. About three-fourth of the ea
 
 There are two types of water on Earth. They are the Fresh water (rivers, lakes, ponds) and the Salt water (seas and oceans). Based on the dissolved salts, water can be hard water (sulphates/nitrates of Calcium/Magnesium) or soft water. If hardness can be removed by boiling, it is temporary hard water, and if boiling does not help, it is permanent hard water.
 
-**Essential properties of water** • Water is one of the main agents in
+**Essential properties of water** - Water is one of the main agents in
 
-Pedogenesis (soil formation). • It is the medium for several different
+Pedogenesis (soil formation). - It is the medium for several different
 
-ecosystems. • It is present as moisture in the atmosphere
+ecosystems. - It is present as moisture in the atmosphere
 
 and the outer layers of the lithosphere and is uneven in distribution on the earth.
 
-• Water is heavier than air and imparts greater buoyancy to the aquatic medium. This enables organism to float at variable levels.
+- Water is heavier than air and imparts greater buoyancy to the aquatic medium. This enables organism to float at variable levels.
 
-• Water has high heat capacity and latent heat, due to which it can withhold large amounts of heat. Thus, oceans and lakes tend to maintain a relatively constant temperature, and the biosphere is relatively thermostable.
+- Water has high heat capacity and latent heat, due to which it can withhold large amounts of heat. Thus, oceans and lakes tend to maintain a relatively constant temperature, and the biosphere is relatively thermostable.
 
-• Water is physically unique because it is less dense as a solid (ice) than as a liquid.
+- Water is physically unique because it is less dense as a solid (ice) than as a liquid.
 
-• When water freezes (0⁰C), it contracts. The maximum density of liquid water occurs at 4ºC. Below that, it expands markedly. This enables ice to float on the top of water bodies. Hence, only the surface of water bodies will freeze, while below the surface, water will be in liquid form, sustaining life (**Fig. 11.3).**
+- When water freezes (0⁰C), it contracts. The maximum density of liquid water occurs at 4ºC. Below that, it expands markedly. This enables ice to float on the top of water bodies. Hence, only the surface of water bodies will freeze, while below the surface, water will be in liquid form, sustaining life (**Fig. 11.3).**
 
-• Water is considered as the Universal solvent. It is the main medium by which chemical constituents are transported from abiotic components to the living components of an ecosystem.  
+- Water is considered as the Universal solvent. It is the main medium by which chemical constituents are transported from abiotic components to the living components of an ecosystem.  
 
-• Water has high surface tension. This allows pollen, dust, and even water striders to remain at the surface of a water body even though they are denser than the water.
+- Water has high surface tension. This allows pollen, dust, and even water striders to remain at the surface of a water body even though they are denser than the water.
 
 **Fig. 11.3 Thermal zones in cold water bodies**
 
@@ -185,7 +185,7 @@ and the outer layers of the lithosphere and is uneven in distribution on the ear
 
 gases, liquids and organisms that together support life. The soil zone is known as **Pedosphere**. Soil is formed from rocks which are the parent materials of soil, by weathering and is called embryonic soil (Pedogenesis). It has four major functions-
 
-• medium for plant growth • means for water storage and purification • modifier of earth’s atmosphere • habitat for many organisms, which in turn
+- medium for plant growth - means for water storage and purification - modifier of earth’s atmosphere - habitat for many organisms, which in turn
 
 modify the soil Soil is formed of many horizontal layers called as Soil Profile.
 
@@ -230,9 +230,9 @@ Animals are known to modify their response to environmental changes (stress) in 
 
 Biomes are large regions of earth that have similar or common vegetation and climatic conditions. They play a crucial role in sustaining life on Earth. They are defined by their soil, climate, flora and fauna. Biomes have distinct biological communities that have been formed in response to a shared physio-chemical climate. Biomes are seen to even spread across continents. Thus, it can be observed that a biome is a broader term than habitat. Any biome can comprise a variety of habitats. Factors such as temperature, light, water availability determine what type of organisms and adaptations are observed in a biome (**Fig. 11.4).**
 
-**Characters of a Biome** • Location, Geographical position (Latitude,
+**Characters of a Biome** - Location, Geographical position (Latitude,
 
-Longitude) • Climate and physiochemical environment • Predominant plant and animal life • Boundaries between biomes are not always
+Longitude) - Climate and physiochemical environment - Predominant plant and animal life - Boundaries between biomes are not always
 
 sharply defined. Transition or transient zones are seen as in case of grassland and forest biomes. (**Fig. 11.5)**
 
@@ -285,13 +285,13 @@ rainforest, and deciduous and coniferous forests. Terrestrial biomes are disting
 
 biome, Alpine biome, Forest biome and Desert biome.
 
-**Tundra Biome** • This is the almost treeless plain in the
+**Tundra Biome** - This is the almost treeless plain in the
 
 northern parts of Asia, Europe and North America.
 
-• Winters are long with little daylight, Summers are short, with long daylight hours.
+- Winters are long with little daylight, Summers are short, with long daylight hours.
 
-• Precipitation is less than 250 mm per year. It is a zone of permafrost.
+- Precipitation is less than 250 mm per year. It is a zone of permafrost.
 
 **geographical distribution**
 
@@ -300,51 +300,51 @@ northern parts of Asia, Europe and North America.
 
   
 
-• Dwarf willows, birches, mosses, grasses, sedges are the flora here.
+- Dwarf willows, birches, mosses, grasses, sedges are the flora here.
 
-• Reindeer, arctic hare, musk ox, lemmings are important Tundra herbivores. Some important carnivores are the arctic fox, arctic wolf, bobcat and snowy owl. Polar bears live along coastal areas.
+- Reindeer, arctic hare, musk ox, lemmings are important Tundra herbivores. Some important carnivores are the arctic fox, arctic wolf, bobcat and snowy owl. Polar bears live along coastal areas.
 
-• Because of the severe winters, many of the animals are migratory. For example, the many shore birds and waterfowl such as ducks and geese, nest in the Tundra during the summer and migrate south for the winter.
+- Because of the severe winters, many of the animals are migratory. For example, the many shore birds and waterfowl such as ducks and geese, nest in the Tundra during the summer and migrate south for the winter.
 
-**Taiga Biome** • The Taiga is 1300-1450 km wide zone south
+**Taiga Biome** - The Taiga is 1300-1450 km wide zone south
 
-of the Tundra. • This area has long and cold winters. • Summer temperature ranges from 10⁰ C to 21⁰ C. • Precipitation ranges about 380-1000 mm
+of the Tundra. - This area has long and cold winters. - Summer temperature ranges from 10⁰ C to 21⁰ C. - Precipitation ranges about 380-1000 mm
 
-annually. • The Taiga is a forest of coniferous trees such
+annually. - The Taiga is a forest of coniferous trees such
 
 as spruce, fir and pine. This is a major source for the logging industry.
 
-• Important migratory herbivores include moose, elk, deer and reindeer. Moose and reindeer migrate to the Taiga for winter and to the Tundra for summers. The common smaller mammals are herbivorous squirrels, snowshoe hare and predatory pine martens. Important predators include the timber wolf, grizzly bear, black bear, bobcat and wolverines. (**Fig. 11.6)**
+- Important migratory herbivores include moose, elk, deer and reindeer. Moose and reindeer migrate to the Taiga for winter and to the Tundra for summers. The common smaller mammals are herbivorous squirrels, snowshoe hare and predatory pine martens. Important predators include the timber wolf, grizzly bear, black bear, bobcat and wolverines. (**Fig. 11.6)**
 
 **Fig. 11.6 Taiga biome**
 
-**Grassland Biome** • Grasslands occur in temperate and in the
+**Grassland Biome** - Grasslands occur in temperate and in the
 
 tropical regions.  
 
 183 Organisms and Populations
 
-• They have hot summers, cold winters, and irregular rainfall.
+- They have hot summers, cold winters, and irregular rainfall.
 
-• Often they are characterized by high winds.
+- Often they are characterized by high winds.
 
-• The low irregular rainfall is the factor which makes the difference between a temperate deciduous forest and a temperate grassland.
+- The low irregular rainfall is the factor which makes the difference between a temperate deciduous forest and a temperate grassland.
 
-• Herbivores like antelope, bison, wild horse, jack rabbit, ground squirrel and prairie dogs are abundant.
+- Herbivores like antelope, bison, wild horse, jack rabbit, ground squirrel and prairie dogs are abundant.
 
-• Predators include coyotes, foxes, hawks and snakes.
+- Predators include coyotes, foxes, hawks and snakes.
 
-• In India, fauna of grasslands includes Elephant, Gaur, Rhino, Antelope.
+- In India, fauna of grasslands includes Elephant, Gaur, Rhino, Antelope.
 
-• Flora of grasslands include purple needle grass, wild oats, foxtail, ryegrass and buffalo grass (**Fig. 11.7).**
+- Flora of grasslands include purple needle grass, wild oats, foxtail, ryegrass and buffalo grass (**Fig. 11.7).**
 
 **Fig. 11.7 Grassland biome**
 
-**Alpine Biome** • The alpine zone (zone between timber line
+**Alpine Biome** - The alpine zone (zone between timber line
 
 and snow zone) includes in the descending order, a sub-snow zone immediately below the snow zone, a meadow zone in the centre and a shrub zone which gradually merges into the timber zone.
 
-• The snow zone of Himalayas lies over 5100m above mean sea level and alpine zone exists at a height of 3600m. From an ecological view point, the zone above the limits of tree growth (timber line) exhibits extreme environmental conditions which greatly influence the biota of this region.
+- The snow zone of Himalayas lies over 5100m above mean sea level and alpine zone exists at a height of 3600m. From an ecological view point, the zone above the limits of tree growth (timber line) exhibits extreme environmental conditions which greatly influence the biota of this region.
 
 
 
@@ -353,17 +353,17 @@ and snow zone) includes in the descending order, a sub-snow zone immediately bel
 
 184Organisms and Populations
 
-• Alpine zone of Himalayas is characterized by sparseness of animal groups. Many invertebrates of alpine zone are predatory and occur in lakes, streams and ponds. Among vertebrates, fishes and amphibians are totally lacking and reptilian fauna is greatly impoverished.
+- Alpine zone of Himalayas is characterized by sparseness of animal groups. Many invertebrates of alpine zone are predatory and occur in lakes, streams and ponds. Among vertebrates, fishes and amphibians are totally lacking and reptilian fauna is greatly impoverished.
 
-• Flora of alpines includes alpine phacelia, bear grass, bristlecone pine, moss campion, polylepis forest, pygmy bitterroot, and wild potato.
+- Flora of alpines includes alpine phacelia, bear grass, bristlecone pine, moss campion, polylepis forest, pygmy bitterroot, and wild potato.
 
 **Forest Biome** Forest is a broad term used to describe
 
 areas where there are a large number of trees (Fig. 11.8). The forest biomes include a complex assemblage of different kinds of biotic communities. The major forest biomes are the Tropical forests and the Temperate forests.
 
-**Tropical forest** • They occur near the equator (between
+**Tropical forest** - They occur near the equator (between
 
-latitudes 23.5⁰ at north and 23.5⁰ at south). • The major characteristic of tropical forests is
+latitudes 23.5⁰ at north and 23.5⁰ at south). - The major characteristic of tropical forests is
 
 their distinct seasons. Only two seasons are present (rainy and dry). Winter is absent.
 
@@ -373,68 +373,68 @@ be a lush landscape with river flowing through it. Accordingly, appropriate faun
 
 The length of daylight is about 12 hours and varies little.
 
-• The average annual temperature ranges between 20° C and 25° C.
+- The average annual temperature ranges between 20° C and 25° C.
 
-• Precipitation is evenly distributed throughout the year with annual rainfall exceeding 2000 mm.
+- Precipitation is evenly distributed throughout the year with annual rainfall exceeding 2000 mm.
 
-• Soil is nutrient-poor and acidic. Decomposition is rapid and soils are subject to heavy leaching.
+- Soil is nutrient-poor and acidic. Decomposition is rapid and soils are subject to heavy leaching.
 
-• Tree canopy is multilayered and continuous, allowing little light penetration.
+- Tree canopy is multilayered and continuous, allowing little light penetration.
 
-• Flora is highly diverse: one square kilometer may contain as many as 100 different tree species. Trees are 25-35 m tall, with buttressed trunks and shallow roots, mostly evergreen, with large dark green leaves. Common vegetation are orchids, bromeliads, vines (lianas), ferns, mosses, and palms.
+- Flora is highly diverse: one square kilometer may contain as many as 100 different tree species. Trees are 25-35 m tall, with buttressed trunks and shallow roots, mostly evergreen, with large dark green leaves. Common vegetation are orchids, bromeliads, vines (lianas), ferns, mosses, and palms.
 
-• They are characterized by the greatest diversity of fauna which includes birds, bats, small mammals, and insects.
+- They are characterized by the greatest diversity of fauna which includes birds, bats, small mammals, and insects.
 
 **More than half of earth’s tropical forests have already been destroyed.**
 
 **Fig. 11.8 Forest biome**
 
-**Temperate forest** • These forests occur in eastern North
+**Temperate forest** - These forests occur in eastern North
 
 America, northeastern Asia and western and central Europe.
 
-• Have well-defined seasons with a distinct winter. Moderate climate and a growing season of 140-200 days during 4-6 frost- free months distinguish temperate forests.
+- Have well-defined seasons with a distinct winter. Moderate climate and a growing season of 140-200 days during 4-6 frost- free months distinguish temperate forests.
 
 
 
 
   
 
-• Annual temperature varies from -30° C to 30° C.
+- Annual temperature varies from -30° C to 30° C.
 
-• Precipitation (750-1500 mm) is distributed evenly throughout the year.
+- Precipitation (750-1500 mm) is distributed evenly throughout the year.
 
-• Soil is fertile, enriched with decaying litter.
+- Soil is fertile, enriched with decaying litter.
 
-• Canopy is moderately dense and allows light to penetrate, resulting in well-developed and richly diversified understorey vegetation and stratification of animals.
+- Canopy is moderately dense and allows light to penetrate, resulting in well-developed and richly diversified understorey vegetation and stratification of animals.
 
-• Flora is characterized by 3-4 tree species per km2. Trees have broad leaves that are lost annually such as oak, hickory, beech, hemlock, maple, basswood, cottonwood, elm, willow, and spring-flowering herbs.
+- Flora is characterized by 3-4 tree species per km2. Trees have broad leaves that are lost annually such as oak, hickory, beech, hemlock, maple, basswood, cottonwood, elm, willow, and spring-flowering herbs.
 
-• Fauna consists of squirrels, rabbits, skunks, birds, deer, mountain lion, bobcat, timber wolf, fox, and black bear.
+- Fauna consists of squirrels, rabbits, skunks, birds, deer, mountain lion, bobcat, timber wolf, fox, and black bear.
 
 **Only scattered remnants of original temperate forests remain today.**
 
-**Desert Biome** • Deserts cover about one fifth of the earth's
+**Desert Biome** - Deserts cover about one fifth of the earth's
 
 surface and occur where rainfall is >500 mm/year.
 
-• Rainfall is usually very low and/or concentrated in short bursts between long rainless periods. Evaporation rates regularly exceed rainfall rates.
+- Rainfall is usually very low and/or concentrated in short bursts between long rainless periods. Evaporation rates regularly exceed rainfall rates.
 
-• Soils are course-textured, shallow, rocky or gravely with good drainage and have no subsurface water. The finer dust and sand particles are blown elsewhere, leaving heavier pieces behind. Sand dunes are common.
+- Soils are course-textured, shallow, rocky or gravely with good drainage and have no subsurface water. The finer dust and sand particles are blown elsewhere, leaving heavier pieces behind. Sand dunes are common.
 
-• Mean annual temperatures range from 20-25° C. The extreme maximum ranges from 43.5 - 49° C. Minimum temperatures sometimes drop to -18° C. Based on the temperature range, deserts can be Hot deserts and Cold deserts.  
+- Mean annual temperatures range from 20-25° C. The extreme maximum ranges from 43.5 - 49° C. Minimum temperatures sometimes drop to -18° C. Based on the temperature range, deserts can be Hot deserts and Cold deserts.  
 
 185 Organisms and Populations
 
-• **Hot deserts** such as the Sahara of North Africa and the deserts of the southwestern U.S., Mexico, Australia and India (Thar desert) occur at low latitudes.
+- **Hot deserts** such as the Sahara of North Africa and the deserts of the southwestern U.S., Mexico, Australia and India (Thar desert) occur at low latitudes.
 
-• Hot deserts have a considerable amount of specialized vegetation (xerophytes), aloe, agave, Opuntia species, Euphorbia royleana as well as specialized vertebrate and invertebrate animals.
+- Hot deserts have a considerable amount of specialized vegetation (xerophytes), aloe, agave, Opuntia species, Euphorbia royleana as well as specialized vertebrate and invertebrate animals.
 
-• The dominant animals of warm deserts are reptiles and small mammals. The Indian Spiny-tailed lizard, the blackbuck, the white-footed fox are the common fauna of the Thar deserts. There are also insects, arachnids and birds.
+- The dominant animals of warm deserts are reptiles and small mammals. The Indian Spiny-tailed lizard, the blackbuck, the white-footed fox are the common fauna of the Thar deserts. There are also insects, arachnids and birds.
 
-• **Cold deserts** occur in Antarctic, Greenland and the Nearctic realm, parts of USA and in parts of western Asia and the Ladakh region in India.
+- **Cold deserts** occur in Antarctic, Greenland and the Nearctic realm, parts of USA and in parts of western Asia and the Ladakh region in India.
 
-• Widely distributed animals are jack rabbits, kangaroo rats, kangaroo mice, pocket mice, grasshopper mice, antelope and ground squirrels.
+- Widely distributed animals are jack rabbits, kangaroo rats, kangaroo mice, pocket mice, grasshopper mice, antelope and ground squirrels.
 
 **Rainfall** is lowest in the Atacama Desert of Chile, where it averages less than 15 mm. Some years are even rainless.
 
@@ -453,15 +453,15 @@ its environment. There are various ways by which organisms respond to abiotic co
 
 **Fig. 11.9 Organisms’ response to environmental stressors**
 
-**The types of responses observed are** • **Regulate:** Some organisms are able to
+**The types of responses observed are** - **Regulate:** Some organisms are able to
 
 maintain homeostasis by physiological means which ensures constant body temperature, ionic / osmotic balance. Birds, mammals and a few lower vertebrate and invertebrate species are capable of such regulation.
 
-• **Conform**: Most animals cannot maintain a constant internal environment. Their body temperature changes with the ambient temperature. In aquatic animals like fishes, the osmotic concentration of the body fluids changes with that of the ambient water osmotic concentration. Such animals are called **Conformers**. In case of extreme condition, the inhabitants relocate themselves as in migration.
+- **Conform**: Most animals cannot maintain a constant internal environment. Their body temperature changes with the ambient temperature. In aquatic animals like fishes, the osmotic concentration of the body fluids changes with that of the ambient water osmotic concentration. Such animals are called **Conformers**. In case of extreme condition, the inhabitants relocate themselves as in migration.
 
-• **Migrate:** Organisms tend to move away temporarily from a stressful habitat to a new, hospitable area and return when the stressful period is over. Birds migrate from Siberia to Vedanthangal in Tamilnadu to escape from the severe winter periods.
+- **Migrate:** Organisms tend to move away temporarily from a stressful habitat to a new, hospitable area and return when the stressful period is over. Birds migrate from Siberia to Vedanthangal in Tamilnadu to escape from the severe winter periods.
 
-• **Suspend:** In certain conditions, if the organisms is unable to migrate, it may avoid the stress by becoming inactive. This is seen commonly in bears going into **hibernation** during winter. Some snails and fish go into **aestivation** to avoid summer related  
+- **Suspend:** In certain conditions, if the organisms is unable to migrate, it may avoid the stress by becoming inactive. This is seen commonly in bears going into **hibernation** during winter. Some snails and fish go into **aestivation** to avoid summer related  
 
 problems like heat and desiccation. Some lower animals suspend a certain phase of their life cycle, which is referred to as **diapause**.
 
@@ -715,13 +715,13 @@ The common types of interspecific inter actions are: **AMENSALISM (--, 0): This 
 
 **MUTUALISM (+, +):** It is the type of interaction where both species benefit from the interaction. Mutualism may be facultative when the species involved are capable of existence independent of one another, or obligate, when the relationship is imperative of the existence of one or both species. Examples:
 
-• Certain bacteria in the caeca and intestine of herbivores aid in the digestion of cellulose. In return the host provides suitable environment for the growth of the bacteria.
+- Certain bacteria in the caeca and intestine of herbivores aid in the digestion of cellulose. In return the host provides suitable environment for the growth of the bacteria.
 
-• The cross pollination of flowers by insects and birds seeking nectar and pollen which is of great importance in agriculture.
+- The cross pollination of flowers by insects and birds seeking nectar and pollen which is of great importance in agriculture.
 
-• Small birds cleaning the teeth of crocodiles. Here the birds gets food and the teeth of crocodile is cleaned.
+- Small birds cleaning the teeth of crocodiles. Here the birds gets food and the teeth of crocodile is cleaned.
 
-• The hermit crab carries along on its shell a Sea anemone (a sedentary coelenterate). The crab is protected from its enemies by the stinging cells of the anemone while the anemone gets its food (**Fig. 11.12).**
+- The hermit crab carries along on its shell a Sea anemone (a sedentary coelenterate). The crab is protected from its enemies by the stinging cells of the anemone while the anemone gets its food (**Fig. 11.12).**
 
 **Table 11.3 Analysis of two species population inte**
 
@@ -751,7 +751,7 @@ The common types of interspecific inter actions are: **AMENSALISM (--, 0): This 
 
 **COMMENSALISM (+, 0):** This defines the interaction in which two or more species are mutually associated in activities centering on food and one species at least, derives benefit from the association while the other associates are neither benefited nor harmed. The concept of commensalism has been broadened in recent years, to apply to coactions other than those centering on food such as cover, support, production, and locomotion. Examples:
 
-• Barnacles attached to Whales travel thousands of miles collecting and filtering food from the moving water. The whales are not affected by the barnacles.
+- Barnacles attached to Whales travel thousands of miles collecting and filtering food from the moving water. The whales are not affected by the barnacles.
 
 **ractions**
 
@@ -798,7 +798,7 @@ Lion predatory on deer
 
 192Organisms and Populations
 
-• Egrets usually are present near cattle. They catch insects which are disturbed by the cattle. The bird benefits, while the cattles are not affected (**Fig. 11.13).**
+- Egrets usually are present near cattle. They catch insects which are disturbed by the cattle. The bird benefits, while the cattles are not affected (**Fig. 11.13).**
 
 **Fig. 11.13 Egrets near cattle; barnacles on whale COMPETITION (--, --):** It refers to the type of interaction in which individuals of a species or members of different species vie for limited availability of food, water, nesting space, cover, mates or other resources. When resources are in more than adequate to meet the demands of the organisms seeking them, competition does not occur, but when inadequate to satisfy the need of the organisms seeking them, the weakest, least adapted, or least aggressive individuals are often forced to face challenges. This phenomenon is known as the **competitive exclusion** principle of Hardin.
 

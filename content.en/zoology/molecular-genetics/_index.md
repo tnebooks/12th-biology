@@ -58,17 +58,17 @@ unit of heredity. The concept of the gene was first explained by **Gregor Mendel
 
 According to the classical concept of gene introduced by Sutton in 1902, genes have been defined as discrete particles that follow Mendelian rules of inheritance, occupy a definite locus in the chromosome and are responsible for the expression of specific phenotypic character. They show the following properties:
 
-• Number of genes in each organism is more than the number of chromosomes; hence several genes are located on the same chromosome.
+- Number of genes in each organism is more than the number of chromosomes; hence several genes are located on the same chromosome.
 
-• The genes are arranged in a single linear order like beads on a string.
+- The genes are arranged in a single linear order like beads on a string.
 
-• Each gene occupies a specific position called locus.
+- Each gene occupies a specific position called locus.
 
-• Genes may exist in several alternate forms called alleles.
+- Genes may exist in several alternate forms called alleles.
 
-• Genes may undergo sudden change in positions and composition called mutations.
+- Genes may undergo sudden change in positions and composition called mutations.
 
-• Genes are capable of self-duplication producing their own copies.  
+- Genes are capable of self-duplication producing their own copies.  
 
 **5.2 In search of the genetic material** As early as 1848, Wilhelm Hofmeister,
 
@@ -194,7 +194,7 @@ separated RNA from the protein of TMV viruses. Three molecular biologists in the
 
 clearly indicates that it is DNA that acts as a genetic material. However, in some viruses like Tobacco mosaic virus (TMV), bacteriophage θB, RNA acts as the genetic material. A molecule that can act as a genetic material should have the following properties:
 
-• **Self Replication:** It should be able to replicate. According to the rule of base pairing and complementarity, both nucleic acids (DNA and RNA) have the ability to
+- **Self Replication:** It should be able to replicate. According to the rule of base pairing and complementarity, both nucleic acids (DNA and RNA) have the ability to
 
 
 
@@ -203,11 +203,11 @@ clearly indicates that it is DNA that acts as a genetic material. However, in so
 
 direct duplications. Proteins fail to fulfill this criteria.
 
-• **Stability:** It should be stable structurally and chemically. The genetic material should be stable enough not to change with different stages of life cycle, age or with change in physiology of the organism. Stability as one of property of genetic material was clearly evident in Griffith’s transforming principle. Heat which killed the bacteria did not destroy some of the properties of genetic material. In DNA the two strands being complementary, if separated (denatured) by heating can come together (renaturation) when appropriate condition is provided. Further 2' OH group present at every nucleotide in RNA is a reactive group that makes RNA liable and easily degradable. RNA is also known to be catalytic and reactive. Hence, DNA is chemically more stable and chemically less reactive when compared to RNA. Presence of thymine instead of uracil in DNA confers additional stability to DNA.
+- **Stability:** It should be stable structurally and chemically. The genetic material should be stable enough not to change with different stages of life cycle, age or with change in physiology of the organism. Stability as one of property of genetic material was clearly evident in Griffith’s transforming principle. Heat which killed the bacteria did not destroy some of the properties of genetic material. In DNA the two strands being complementary, if separated (denatured) by heating can come together (renaturation) when appropriate condition is provided. Further 2' OH group present at every nucleotide in RNA is a reactive group that makes RNA liable and easily degradable. RNA is also known to be catalytic and reactive. Hence, DNA is chemically more stable and chemically less reactive when compared to RNA. Presence of thymine instead of uracil in DNA confers additional stability to DNA.
 
-• **Information storage:** It should be able to express itself in the form of ‘**Mendelian characters**’. RNA can directly code for protein synthesis and can easily express the characters. DNA, however depends on RNA for synthesis of proteins. Both DNA and RNA can act as a genetic material, but DNA being more stable stores the genetic information and RNA transfers the genetic information.
+- **Information storage:** It should be able to express itself in the form of ‘**Mendelian characters**’. RNA can directly code for protein synthesis and can easily express the characters. DNA, however depends on RNA for synthesis of proteins. Both DNA and RNA can act as a genetic material, but DNA being more stable stores the genetic information and RNA transfers the genetic information.
 
-• **Variation through mutation:** It should be able to mutate. Both DNA and RNA are able to mutate. RNA being unstable, mutates at a faster rate. Thus viruses having
+- **Variation through mutation:** It should be able to mutate. Both DNA and RNA are able to mutate. RNA being unstable, mutates at a faster rate. Thus viruses having
 
 **Fig. 5.3 Co and Histo**
 
@@ -602,25 +602,25 @@ proteins to be synthesized which makes an organism unique.
 
 The salient features of genetic code are as follows:
 
-• The genetic codon is a **triplet code** and 61 codons code for amino acids and 3 codons do not code for any amino acid and function as **stop codon (**Termination**)**.
+- The genetic codon is a **triplet code** and 61 codons code for amino acids and 3 codons do not code for any amino acid and function as **stop codon (**Termination**)**.
 
-• The genetic code is universal. It means that all known living systems use nucleic acids and the same three base codons (triplet codon) direct the synthesis of protein from amino acids. For example, the mRNA (UUU) codon codes for phenylalanine in all cells of all organisms. Some exceptions are reported in prokaryotic, mitochondrial and  
+- The genetic code is universal. It means that all known living systems use nucleic acids and the same three base codons (triplet codon) direct the synthesis of protein from amino acids. For example, the mRNA (UUU) codon codes for phenylalanine in all cells of all organisms. Some exceptions are reported in prokaryotic, mitochondrial and  
 
 75 Molecular Genetics
 
 chloroplast genomes. However similarities are more common than differences.
 
-• A non-overlapping codon means that the same letter is not used for two different codons. For instance, the nucleotide sequence GUU GUC represents only two codons.
+- A non-overlapping codon means that the same letter is not used for two different codons. For instance, the nucleotide sequence GUU GUC represents only two codons.
 
-• It is comma less, which means that the message would be read directly from one end to the other i.e., no punctuation are needed between two codes.
+- It is comma less, which means that the message would be read directly from one end to the other i.e., no punctuation are needed between two codes.
 
-• A degenerate code means that more than one triplet codon could code for a specific amino acid. For example, codons GUU, GUC, GUA and GUG code for valine.
+- A degenerate code means that more than one triplet codon could code for a specific amino acid. For example, codons GUU, GUC, GUA and GUG code for valine.
 
-• Non-ambiguous code means that one codon will code for one amino acid.
+- Non-ambiguous code means that one codon will code for one amino acid.
 
-• The code is always read in a fixed direction i.e. from 5'→3' direction called polarity.
+- The code is always read in a fixed direction i.e. from 5'→3' direction called polarity.
 
-• AUG has dual functions. It acts as a initiator codon and also codes for the amino acid methionine.
+- AUG has dual functions. It acts as a initiator codon and also codes for the amino acid methionine.
 
 
 
@@ -635,7 +635,7 @@ chloroplast genomes. However similarities are more common than differences.
 
 76Molecular Genetics
 
-• UAA, UAG and UGA) codons are designated as termination (stop) codons and also are known as “non-sense” codons.
+- UAA, UAG and UGA) codons are designated as termination (stop) codons and also are known as “non-sense” codons.
 
 **5.10.1 Mutation and genetic code** Comparative studies of mutations (sudden
 
@@ -876,13 +876,13 @@ The main goals of Human Genome Project are as follows
 
   
 
-• Identify all the genes (approximately 30000) in human DNA.
+- Identify all the genes (approximately 30000) in human DNA.
 
-• Determine the sequence of the three billion chemical base pairs that makeup the human DNA.
+- Determine the sequence of the three billion chemical base pairs that makeup the human DNA.
 
-• To store this information in databases. • Improve tools for data analysis. • Transfer related technologies to other
+- To store this information in databases. - Improve tools for data analysis. - Transfer related technologies to other
 
-sectors, such as industries. • Address the ethical, legal and social issues
+sectors, such as industries. - Address the ethical, legal and social issues
 
 (ELSI) that may arise from the project.
 
@@ -894,23 +894,23 @@ sequences, called **microsatellites**. The latest method of sequencing even long
 
 **5.14.2 Salient features of Human Genome Project:**
 
-• The human genome contains 3 billion nucleotide bases.
+- The human genome contains 3 billion nucleotide bases.
 
-• An average gene consists of 3000 bases, the largest known human gene being **dystrophin** with 2.4 million bases.
+- An average gene consists of 3000 bases, the largest known human gene being **dystrophin** with 2.4 million bases.
 
-• The chromosomal organization of human genes shows diversity.
+- The chromosomal organization of human genes shows diversity.
 
-• There may be 35000-40000 genes in the genome and almost 99.9 nucleotide bases are exactly the same in all people.
+- There may be 35000-40000 genes in the genome and almost 99.9 nucleotide bases are exactly the same in all people.
 
-• Functions for over 50 percent of the discovered genes are unknown.
+- Functions for over 50 percent of the discovered genes are unknown.
 
-• Less than 2 percent of the genome codes for proteins.
+- Less than 2 percent of the genome codes for proteins.
 
-• Repeated sequences make up very large portion of the human genome. Repetitive sequences have no direct coding functions but they shed light on chromosome structure, dynamics and evolution (genetic diversity).
+- Repeated sequences make up very large portion of the human genome. Repetitive sequences have no direct coding functions but they shed light on chromosome structure, dynamics and evolution (genetic diversity).
 
-• Chromosome 1 has 2968 genes whereas chromosome Y has 231 genes.
+- Chromosome 1 has 2968 genes whereas chromosome Y has 231 genes.
 
-• Scientists have identified about 1.4 million locations where single base DNA differences (**SNPs – Single nucleotidepolymorphism** – pronounce as ‘**snips**’) occur in humans. Identification of ‘**SNIPS**’ is helpful in finding chromosomal locations for disease associated sequences and tracing human history.
+- Scientists have identified about 1.4 million locations where single base DNA differences (**SNPs – Single nucleotidepolymorphism** – pronounce as ‘**snips**’) occur in humans. Identification of ‘**SNIPS**’ is helpful in finding chromosomal locations for disease associated sequences and tracing human history.
 
 
 
@@ -921,13 +921,13 @@ sequences, called **microsatellites**. The latest method of sequencing even long
 
 **5.14.3 Applications and future challenges**
 
-The mapping of human chromosomes is possible to examine a person’s DNA and to identify genetic abnormalities. This is extremely useful in diagnosing diseases and to provide genetic counselling to those planning to have children. This kind of information would also create possibilities for new gene therapies. Besides providing clues to understand human biology, learning about non-human organisms, DNA sequences can lead to an understanding of their natural capabilities that can be applied towards solving challenges in healthcare, agriculture, energy production and environmental remediation. A new era of molecular medicine, characterized by looking into the most fundamental causes of disease than treating the symptoms will be an important advantage. • Once genetic sequence becomes easier
+The mapping of human chromosomes is possible to examine a person’s DNA and to identify genetic abnormalities. This is extremely useful in diagnosing diseases and to provide genetic counselling to those planning to have children. This kind of information would also create possibilities for new gene therapies. Besides providing clues to understand human biology, learning about non-human organisms, DNA sequences can lead to an understanding of their natural capabilities that can be applied towards solving challenges in healthcare, agriculture, energy production and environmental remediation. A new era of molecular medicine, characterized by looking into the most fundamental causes of disease than treating the symptoms will be an important advantage. - Once genetic sequence becomes easier
 
 to determine, some people may attempt to use this information for profit or for political power.
 
-• Insurance companies may refuse to insure people at ‘genetic risk’ and this would save the companies the expense of future medical bills incurred by ‘less than perfect’ people.
+- Insurance companies may refuse to insure people at ‘genetic risk’ and this would save the companies the expense of future medical bills incurred by ‘less than perfect’ people.
 
-• Another fear is that attempts are being made to “breed out” certain genes of people from the human population in order to create a ‘perfect race’.
+- Another fear is that attempts are being made to “breed out” certain genes of people from the human population in order to create a ‘perfect race’.
 
 Pharmacogenomics is the study of how genes affect a person’s response to drugs. This relatively
 
@@ -1043,15 +1043,15 @@ After the probe hybridizes and the excess probe washed off, a photographic film 
 
 The radioactive label exposes the film to form an image (image of bands) corresponding to specific DNA bands. The thick and thin dark bands form a pattern of **bars** which constitutes a genetic fingerprint.
 
-**Application of DNA finger printing** • **Forensic analysis** \- It can be used in the
+**Application of DNA finger printing** - **Forensic analysis** \- It can be used in the
 
 identification of a person involved in criminal activities, for settling paternity or maternity disputes, and in determining relationships for immigration purposes.
 
-• **Pedigree analysis** – inheritance pattern of genes through generations and for detecting inherited diseases.
+- **Pedigree analysis** – inheritance pattern of genes through generations and for detecting inherited diseases.
 
-• **Conservation of wild life** – protection of endangered species. By maintaining DNA records for identification of tissues of the dead endangered organisms.
+- **Conservation of wild life** – protection of endangered species. By maintaining DNA records for identification of tissues of the dead endangered organisms.
 
-• **Anthropological studies**–It is useful in determining the origin and migration of human populations and genetic diversities.
+- **Anthropological studies**–It is useful in determining the origin and migration of human populations and genetic diversities.
 
 **Summary** In the twentieth century, one of the landmark
 

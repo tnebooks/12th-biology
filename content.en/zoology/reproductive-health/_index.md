@@ -51,16 +51,16 @@ normal reproductive organs. Healthy people have healthier babies and are able to
 
 India is amongst the first few countries in the world to initiate the **‘Family planning programme’** since 1951 and is periodically assessed every decade. These programmes are popularly named as ‘**Reproductive and Child Health Care** (RCH). Major tasks carried out under these programmes are:
 
-• Creating awareness and providing medical assistance to build a healthy society.
+- Creating awareness and providing medical assistance to build a healthy society.
 
-• Introducing sex education in schools to provide information about adolescence and adolescence related changes.
+- Introducing sex education in schools to provide information about adolescence and adolescence related changes.
 
-• Educating couples and those in the marriageable age groups about the available birth control methods and family planning norms.
+- Educating couples and those in the marriageable age groups about the available birth control methods and family planning norms.
   
 
-• Creating awareness about care for pregnant women, post-natal care of mother and child and the importance of breast feeding.
+- Creating awareness about care for pregnant women, post-natal care of mother and child and the importance of breast feeding.
 
-• Encouraging and supporting governmental and non-governmental agencies to identify new methods and/or to improve upon the existing methods of birth control.
+- Encouraging and supporting governmental and non-governmental agencies to identify new methods and/or to improve upon the existing methods of birth control.
 
 Health care programmes such as massive child immunization, supply of nutritional food to the pregnant women, Janani Suraksha Yojana, Janani Shishu Suraksha Karyakaram, RMNCH+A approach (an integrated approach for reproductive, maternal, new born, child and adolescent health), Pradhan Mantri Surakshit Matritva Abhiyan, etc., are taken up at the national level by the Government of India.
 
@@ -334,13 +334,13 @@ even after unprotected sexual cohabitation is called infertility. That is, the i
 
 The causes for infertility are tumours formed in the pituitary or reproductive organs, inherited mutations of genes responsible for the biosynthesis of sex hormones, malformation of the cervix or fallopian tubes and inadequate nutrition before adulthood. Long-term stress damages many aspects of health especially the menstrual cycle. Ingestion of toxins (heavy metal cadmium), heavy use of alcohol, tobacco and marijuana, injuries to the gonads and aging also cause infertility.
 
-**Other causes of infertility** • Pelvic inflammatory disease (PID), uterine
+**Other causes of infertility** - Pelvic inflammatory disease (PID), uterine
 
 fibroids and endometriosis are the most common causes of infertility in women.
 
-• Low body fat or anorexia in women. i.e. a psychiatric eating disorder characterised by the fear of gaining weight.
+- Low body fat or anorexia in women. i.e. a psychiatric eating disorder characterised by the fear of gaining weight.
 
-• Undescended testes and swollen veins (varicocoele) in scrotum.
+- Undescended testes and swollen veins (varicocoele) in scrotum.
 
 
 
@@ -352,11 +352,11 @@ fibroids and endometriosis are the most common causes of infertility in women.
 | Fungal STIAttacks mouth, throat, intestinal tract and vagina.Candidiasis Candida albicans Vaginal itching or soreness, abnormal  _vaginal discharge and pain during Protozurin oa an Stion. TIVaginitis , greenish yellow vaginal discharge,  itching and burning Trichomoniasis Trichomonas vaginalis 4-28 dayssensation, urethritis, epididymitis and prostatitis |
   
 
-• Tight clothing in men may raise the temperature in the scrotum and affect sperm production.
+- Tight clothing in men may raise the temperature in the scrotum and affect sperm production.
 
-• Under developed ovaries or testes. • Female may develop antibodies against
+- Under developed ovaries or testes. - Female may develop antibodies against
 
-her partner's sperm. • Males may develop an autoimmune
+her partner's sperm. - Males may develop an autoimmune
 
 response to their own sperm.
 
@@ -482,17 +482,17 @@ being in all aspects of reproduction. Providing medical facilities and care to t
 
 An overall improvement in reproductive health has taken place in our country as indicated by reduced maternal and infant mortality rates, assistance to infertile couples, etc. Improved health facilities and better living conditions promote an explosive growth of population. Such a growth necessitated intense propagation of contraceptive methods. Various contraceptive options are available now such as natural, traditional, barrier, IUDs, pills, injectables, implants and surgical methods. Though contraceptives are not regular
 
-• Vitamin E is known as anti-sterility vitamin as it helps in the normal functioning of reproductive structures.
+- Vitamin E is known as anti-sterility vitamin as it helps in the normal functioning of reproductive structures.
 
-• Sex hormones were discovered by Adolf Butenandt.
+- Sex hormones were discovered by Adolf Butenandt.
 
-• 11th July is observed as World Population Day.
+- 11th July is observed as World Population Day.
 
-• 1st December is observed as World AIDS Day.
+- 1st December is observed as World AIDS Day.
 
-• NACO (National AIDS Control Organisation) was established in 1992.
+- NACO (National AIDS Control Organisation) was established in 1992.
 
-• Syphilis and gonorrhoea are commonly called as international diseases.
+- Syphilis and gonorrhoea are commonly called as international diseases.
 
 
 

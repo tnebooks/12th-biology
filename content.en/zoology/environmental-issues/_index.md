@@ -36,17 +36,17 @@ UNIT - V
 hint { role="info" }
 **Learning Objectives**
 
-**•** _Gain knowledge about our environment and its importance._
+**-** _Gain knowledge about our environment and its importance._
 
-**•** _Get to know about the effects and after effects of human activities on climate and ecosystem._
+**-** _Get to know about the effects and after effects of human activities on climate and ecosystem._
 
-**•** _Know about eco-friendly practices for pollution mitigation._
+**-** _Know about eco-friendly practices for pollution mitigation._
 
-**•** _Acquire insights into solutions to environmental problems._
+**-** _Acquire insights into solutions to environmental problems._
 
-**•** _Understand the need for peoples’ participation in environmental protection._
+**-** _Understand the need for peoples’ participation in environmental protection._
 
-**•** _Understand the importance of clean environment._
+**-** _Understand the importance of clean environment._
 
 A clean environment is very necessary to live a peaceful and healthy life. But
 
@@ -117,33 +117,33 @@ XII Std Zoology Chapter 13 EM.indd 220 18/12/2021 15:19:14
 
 221 Environmental Issues
 
-**• Area sources** – agricultural - wood / stubble burning, fireplaces
+**- Area sources** – agricultural - wood / stubble burning, fireplaces
 
-**• Natural sources** – wind-blown dust, wildfires, volcanoes.
+**- Natural sources** – wind-blown dust, wildfires, volcanoes.
 
-**13.2.2 Effects of Air Pollution** **•** Affects all organisms as they depend on the
+**13.2.2 Effects of Air Pollution** **-** Affects all organisms as they depend on the
 
 atmosphere for respiration.
 
-**•** Causes irritation in the throat, nose, lungs and eyes. It causes breathing problems and aggravates existing health conditions such as emphysema and asthma.
+**-** Causes irritation in the throat, nose, lungs and eyes. It causes breathing problems and aggravates existing health conditions such as emphysema and asthma.
 
-**•** Contaminated air reduces the body’s defense mechanism and decreases the body’s capacity to fight other infections in the respiratory system.
+**-** Contaminated air reduces the body’s defense mechanism and decreases the body’s capacity to fight other infections in the respiratory system.
 
-**•** Frequent exposure to polluted air increases the risk of cardiovascular diseases. Breathing air that is filled with fine particulate matter can induce hardening of the arteries, triggering cardiac arrhythmia or even a heart attack.
+**-** Frequent exposure to polluted air increases the risk of cardiovascular diseases. Breathing air that is filled with fine particulate matter can induce hardening of the arteries, triggering cardiac arrhythmia or even a heart attack.
 
-**•** People who exercise outdoors can sometimes be susceptible to adverse effects of air pollution because it involves deeper and faster breathing. Hence it is advisable to walk or jog in the mornings in places with ample tree cover.
+**-** People who exercise outdoors can sometimes be susceptible to adverse effects of air pollution because it involves deeper and faster breathing. Hence it is advisable to walk or jog in the mornings in places with ample tree cover.
 
-**•** Gas leaks can be lethal or affect the quality of air in the affected area.
+**-** Gas leaks can be lethal or affect the quality of air in the affected area.
 
-**•** CO in the atmosphere interferes with O2 transport since haemoglobin has greater affinity for carbon monoxide. At low concentration it causes headache and blurred vision. In higher concentration, it can lead to coma and death.
+**-** CO in the atmosphere interferes with O2 transport since haemoglobin has greater affinity for carbon monoxide. At low concentration it causes headache and blurred vision. In higher concentration, it can lead to coma and death.
 
 **Sameer**, an App provides hourly updates on the National Air Quality Index (AQI) published by CPCB.
 
 on organisms and human health. Along with atmospheric factors (humidity, precipitation, wind, air currents, altitude) prevailing at a place and time, its effects can be far reaching and catastrophic.
 
-Air pollutants can be • discharge of dusts or particulate matter
+Air pollutants can be - discharge of dusts or particulate matter
 
-(PM: 2.5-10 µm) • discharge of gases (SO2, NO2, CO, CO2)
+(PM: 2.5-10 µm) - discharge of gases (SO2, NO2, CO, CO2)
 
 Carbon monoxide (CO) is produced mainly due to incomplete combustion of fossil fuels. Automobiles are major causes of CO pollution in large cities and towns Automobile exhausts, fumes from factories, emission from power plants, forest fires and burning of fire-wood contribute to CO pollution.
 
@@ -155,9 +155,9 @@ Particulate matters are tiny particles of solid matter suspended in a gas or liq
 
 **13.2.1 Sources** The main sources of air pollution (Fig 13.1) are:
 
-**• Transport sources** – cars, buses, airplanes, trucks, trains
+**- Transport sources** – cars, buses, airplanes, trucks, trains
 
-**• Stationary sources** – power plants, incinerators, oil refineries, industrial facilities, and factories
+**- Stationary sources** – power plants, incinerators, oil refineries, industrial facilities, and factories
 
 XII Std Zoology Chapter 13 EM.indd 221 18/12/2021 15:19:14
 
@@ -169,31 +169,31 @@ XII Std Zoology Chapter 13 EM.indd 221 18/12/2021 15:19:14
 
 reduce their presence or prevent their entry into the atmosphere.
 
-**•** Trees are the best remedy for urban particulate and gaseous pollution
+**-** Trees are the best remedy for urban particulate and gaseous pollution
 
-**•** Forests act as carbon sinks and lungs of the planet
+**-** Forests act as carbon sinks and lungs of the planet
 
-**•** Catalytic converters in vehicles help to reduce polluting gases drastically
+**-** Catalytic converters in vehicles help to reduce polluting gases drastically
 
-**•** Diesel exhaust filters in automobiles cuts particulates
+**-** Diesel exhaust filters in automobiles cuts particulates
 
-**•** Electrostatic precipitators reduce release of industrial pollutants.
+**-** Electrostatic precipitators reduce release of industrial pollutants.
 
-**•** Cost effective air pollution treatment systems like indoor plants and high performance biofilters can improve indoor air quality.
+**-** Cost effective air pollution treatment systems like indoor plants and high performance biofilters can improve indoor air quality.
 
 The Taj Mahal, a UNESCO world heritage site, is facing deterioration and damage by industrial gases due to several industrial units around Agra. The white marble has decolorized to yellow.
 
-**13.2.5 Legal Protection** **•** The Air (Prevention and Control of
+**13.2.5 Legal Protection** **-** The Air (Prevention and Control of
 
 Pollution) **Act** was enacted in 1981 and amended in 1987 for the prevention, control and abatement of Air pollution in India.
 
-**•** Traffic Emissions Standards: The Government has decided to enforce Bharat Stage VI norms from 2020.
+**-** Traffic Emissions Standards: The Government has decided to enforce Bharat Stage VI norms from 2020.
 
-**•** The Green Bench and the National Green Tribunal (NGT) give judicial safeguard to environmental protection.
+**-** The Green Bench and the National Green Tribunal (NGT) give judicial safeguard to environmental protection.
 
 Steps taken by the Central and the State governments in India:
 
-**•** Road traffic rationing, encourage public transport, carpooling
+**-** Road traffic rationing, encourage public transport, carpooling
 
 **13.2.3 Other notable effects of Air Pollution**
 
@@ -235,17 +235,17 @@ polluted by natural causes, water pollution is usually caused by human activitie
 
 **Non-point sources:** Sources that cannot be traced to a single site of discharge like acid rain, dumping of the plastics in water bodies, agriculture chemical run off are common examples **(Fig. 13.2 b)**.
 
-**•** Increase green cover alongside roads (planting avenue trees)
+**-** Increase green cover alongside roads (planting avenue trees)
 
-**•** Promoting Swachh Bharat Abhiyan **•** Enactment and Enforcement of stricter
+**-** Promoting Swachh Bharat Abhiyan **-** Enactment and Enforcement of stricter
 
-environmental laws **•** Maintenance of air standards by proper
+environmental laws **-** Maintenance of air standards by proper
 
 enforcement and monitoring
 
-**•** Reducing carbon emissions **•** Encourage use of renewable energy **•** Limiting the sale of firecrackers and
+**-** Reducing carbon emissions **-** Encourage use of renewable energy **-** Limiting the sale of firecrackers and
 
-developing eco-friendly crackers **•** Make Environmental Impact Assessment
+developing eco-friendly crackers **-** Make Environmental Impact Assessment
 
 mandatory **Air Quality Index** (AQI) is a number used
 
@@ -351,17 +351,17 @@ prohibit the pollution of a stream or well by disposal of polluting matter.
 
 5\. National river conservation plan (NRCP) was enacted in 1995 to improve the water quality of the rivers, which are the major fresh water resources in our country. This important assignment taken up under the NRCP includes, To capture the raw sewage flowing into the river through open drains and divert them for treatment. Setting up sewage treatment plants for treating the diverted sewage. Construction of low cost sanitation toilets to prevent open defecation on river banks.
 
-**Prevention** **•** Regulate or control of pollutant(s)
+**Prevention** **-** Regulate or control of pollutant(s)
 
-discharge at the point of generation. **•** Wastewater can be pretreated by scientific
+discharge at the point of generation. **-** Wastewater can be pretreated by scientific
 
 methods before discharge to municipal treatment sources.
 
-**•** Setting up of Sewage Treatment Plants (STP) and Effluent Treatment Plants (ETP).
+**-** Setting up of Sewage Treatment Plants (STP) and Effluent Treatment Plants (ETP).
 
-**•** Regulate or restrict the use of synthetic fertilisers and pesticides.
+**-** Regulate or restrict the use of synthetic fertilisers and pesticides.
 
-**•** Public awareness and peoples’ involvement is essential.
+**-** Public awareness and peoples’ involvement is essential.
 
 XII Std Zoology Chapter 13 EM.indd 225 18/12/2021 15:19:14
 
@@ -371,29 +371,29 @@ XII Std Zoology Chapter 13 EM.indd 225 18/12/2021 15:19:14
 
 226Environmental Issues
 
-**13.4.2 Effect of Noise Pollution** **•** According to the USEPA (United States
+**13.4.2 Effect of Noise Pollution** **-** According to the USEPA (United States
 
 Environmental Protection Agency) there are direct links between noise and health. Heart disease, high blood pressure, stress related illness, sleep disruption, hearing loss (deafness), and productivity loss are the problems related to noise pollution.
 
-**•** Increased stress and tension, nervousness, irritability, anxiety, depression and panic attacks.
+**-** Increased stress and tension, nervousness, irritability, anxiety, depression and panic attacks.
 
-**•** Peptic ulcer, severe head ache, memory loss.
+**-** Peptic ulcer, severe head ache, memory loss.
 
-**•** Marine animals are affected by noise pollution from offshore activities and port activities.
+**-** Marine animals are affected by noise pollution from offshore activities and port activities.
 
-**•** Fire crackers frighten animals. Birds are often affected by increased air traffic.
+**-** Fire crackers frighten animals. Birds are often affected by increased air traffic.
 
-**13.4.3 Control** **•** Planting trees in and around noise sources
+**13.4.3 Control** **-** Planting trees in and around noise sources
 
 is an effective solution for noise pollution as plants are known to absorb noise and bring down sound levels.
 
-**•** Regular servicing and tuning of automobile engines can effectively reduce noise pollution by vehicles and machinery.
+**-** Regular servicing and tuning of automobile engines can effectively reduce noise pollution by vehicles and machinery.
 
-**•** Workers should be provided with ear plugs and earmuffs at work sites that generate high noise levels.
+**-** Workers should be provided with ear plugs and earmuffs at work sites that generate high noise levels.
 
-**•** Lubrication of machinery and regular servicing minimizes noise levels.
+**-** Lubrication of machinery and regular servicing minimizes noise levels.
 
-**•** Regulations should be imposed to restrict the usage of loudspeakers in crowded areas and public places.
+**-** Regulations should be imposed to restrict the usage of loudspeakers in crowded areas and public places.
 
 **13.4.4 Legal Protection** Article 48-A and Article 51-A of the Constitution of India, Noise Pollution (Regulation and Control) Rules 2000, and Tamil Nadu State Environment Policy 2017 are some of the legal relief from noise pollution.
 
@@ -421,15 +421,15 @@ XII Std Zoology Chapter 13 EM.indd 226 18/12/2021 15:19:14
 
 227 Environmental Issues
 
-**•** Consumption can lead to poisoning, side effects and after effects.
+**-** Consumption can lead to poisoning, side effects and after effects.
 
-**•** Chemicals can cause skin rashes and irritation of eyes.
+**-** Chemicals can cause skin rashes and irritation of eyes.
 
-**•** Many of these chemicals are reported to be carcinogenic.
+**-** Many of these chemicals are reported to be carcinogenic.
 
-**•** They can trigger hormonal disorders and neurotoxicity.
+**-** They can trigger hormonal disorders and neurotoxicity.
 
-**•** Beneficial insects and animals can be affected.
+**-** Beneficial insects and animals can be affected.
 
 **13.6 Biomagnification** Food chains are components of all
 
@@ -471,13 +471,13 @@ growth of plants and pest control are called agrochemicals or agrichemicals.
 
 Overuse of agrochemicals have been observed to generate residues that cause nutrient imbalance, and
 
-**•** May kill beneficial bacteria and soil organisms.
+**-** May kill beneficial bacteria and soil organisms.
 
-**•** Can cause eutrophication in water bodies. **•** Affect aquatic animals and their productivity. **•** Pesticide containing water, even in trace
+**-** Can cause eutrophication in water bodies. **-** Affect aquatic animals and their productivity. **-** Pesticide containing water, even in trace
 
-quantities is unfit for human consumption. **•** Particles (aerosols) and residues of these
+quantities is unfit for human consumption. **-** Particles (aerosols) and residues of these
 
-chemicals cause air pollution. **•** Inhalation of contaminated air can cause
+chemicals cause air pollution. **-** Inhalation of contaminated air can cause
 
 respiratory problems.
 
@@ -688,13 +688,13 @@ much of the radioactivity in nuclear reactors and accelerators is very short liv
 
 **Control and Management** Three ways are employed to manage nuclear
 
-wastes **• Spent Fuel Pools - The spent fuel discharged**
+wastes **- Spent Fuel Pools - The spent fuel discharged**
 
 from the reactors is temporarily stored in the reactor pool. The Spent fuel rods are used in stored cooling ponds. They protect the surroundings from radiation and absorb the heat generated during radioactive decay.
 
-**• Vitrification method – This prevents** reaction or degradation of nuclear waste for extended periods of time and encased in dry cement caskets.
+**- Vitrification method – This prevents** reaction or degradation of nuclear waste for extended periods of time and encased in dry cement caskets.
 
-**• Geological Repositories -** A deep geological repository is a nuclear waste repository excavated deep within a stable geologic environment. It is suited to provide a high level of long-term isolation and containment without future maintenance. In India at Tarapur and Kalpakkam, a wet storage facility of Spent Fuel is the main mode of storage.
+**- Geological Repositories -** A deep geological repository is a nuclear waste repository excavated deep within a stable geologic environment. It is suited to provide a high level of long-term isolation and containment without future maintenance. In India at Tarapur and Kalpakkam, a wet storage facility of Spent Fuel is the main mode of storage.
 
 **13.9.3 Medical waste** Any kind of waste that contains infectious
 
@@ -716,9 +716,9 @@ Recycling and disposal of e-waste may involve significant risk to the health of 
 
 Plastics are low molecular weight organic polymers that are non-degradable in the natural environment. They are used in several items, including cars, bulletproof vests, toys, hospital equipment, carry bags and food containers. Packaging materials used in supermarkets, retail outlets, manufacturing industries, households, hotels, hospitals, restaurants and transport companies are major contributors to plastic waste generation. Plastic waste constitutes a major part of municipal solid waste.
 
-• Remedies: ‘4R’- Refuse, Reduce, Reuse and Recycle mantra is the best available remedy for plastic waste pollution.
+- Remedies: ‘4R’- Refuse, Reduce, Reuse and Recycle mantra is the best available remedy for plastic waste pollution.
 
-• Tamil Nadu State government successfully implemented the ban on single use plastics from 1st January 2019.
+- Tamil Nadu State government successfully implemented the ban on single use plastics from 1st January 2019.
 
 **13.10 Ecosan Toilets** About 150 liters of wastewater at an average
 

@@ -497,15 +497,15 @@ According to Darwin, nature is the most powerful selective force. He compared or
 
 **Objections to Darwinism** Some objections raised against Darwinism were –
 
-• Darwin failed to explain the mechanism of variation.
+- Darwin failed to explain the mechanism of variation.
 
-• Darwinism explains the survival of the fittest but not the arrival of the fittest.
+- Darwinism explains the survival of the fittest but not the arrival of the fittest.
 
-• He focused on small fluctuating variations that are mostly non-heritable.
+- He focused on small fluctuating variations that are mostly non-heritable.
 
-• He did not distinguish between somatic and germinal variations.
+- He did not distinguish between somatic and germinal variations.
 
-• He could not explain the occurrence of vestigial organs, over specialization of some organs like large tusks in extinct mammoths, oversized antlers in the extinct Irish deer, etc.,
+- He could not explain the occurrence of vestigial organs, over specialization of some organs like large tusks in extinct mammoths, oversized antlers in the extinct Irish deer, etc.,
 
 **Neo Darwinism** Neo Darwinism is the interpretation
 
@@ -526,13 +526,13 @@ Hugo de Vries believed that Mutations are random and directionless, but Darwinia
 
 Hugo de Vries believed that speciation are due to Mutation and called saltation (single step large Mutation).
 
-**Salient features of Mutation Theory** • Mutations or discontinuous variation are
+**Salient features of Mutation Theory** - Mutations or discontinuous variation are
 
-transmitted to other generations. • In naturally breeding populations, mutations
+transmitted to other generations. - In naturally breeding populations, mutations
 
-occur from time to time. • There are no intermediate forms, as they are
+occur from time to time. - There are no intermediate forms, as they are
 
-fully fledged. • They are strictly subjected to natural
+fully fledged. - They are strictly subjected to natural
 
 selection.
 

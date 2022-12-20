@@ -23,12 +23,12 @@ Have you seen lakes, ponds and pools in your surroundings? They are all called w
 
 ```
 **Parallel terms for ecosystem coined by various ecologists** 
-• Biocoenosis – Karl Mobius 
-• Microcosm – S.A. Forbes 
-• Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
-• Holocoen - Friederichs 
-• Biosystem – Thienemann 
-• Bioenert body – Vernadsky
+- Biocoenosis – Karl Mobius 
+- Microcosm – S.A. Forbes 
+- Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
+- Holocoen - Friederichs 
+- Biosystem – Thienemann 
+- Bioenert body – Vernadsky
 
 ```
 
@@ -417,29 +417,29 @@ The varieties of benefits obtained from the ecosystem are generally categorized 
 **Provisoning services**
 - Food, fiber and fuel
 - Genetic resources
-- Bio-chemicals • Fresh water • Medicines
+- Bio-chemicals - Fresh water - Medicines
 
-**Cultural services** • Spiritual and
+**Cultural services** - Spiritual and
 
-religious values • Knowledge system • Education and
+religious values - Knowledge system - Education and
 
-inspiration • Recreation and
+inspiration - Recreation and
 
-aesthetic values • Ecotourism
+aesthetic values - Ecotourism
 
-**Supporting services** • Primary production • Provision of habitat • Nutrient cycling • Soil formation and
+**Supporting services** - Primary production - Provision of habitat - Nutrient cycling - Soil formation and
 
-retention • Production of
+retention - Production of
 
-atmospheric oxygen • Water cycling
+atmospheric oxygen - Water cycling
 
-**Regulating services** • Invasion resistance • Herbivory pollination • Seed dispersal • Climate regulation • Pest regulation • Disease regulation • Erosion regulation • Water purification • Natural hazard protection
+**Regulating services** - Invasion resistance - Herbivory pollination - Seed dispersal - Climate regulation - Pest regulation - Disease regulation - Erosion regulation - Water purification - Natural hazard protection
 
 
   
 
 
-Generally the following human activities disturb or re-engineer an ecosystem every day. • Habitat destruction • Deforestation and over grazing • Erosion of soils • Introduction of non-native species • Over harvesting of plant material • Pollution of land, water and air • Run off pesticides, fertilizers and animal wastes
+Generally the following human activities disturb or re-engineer an ecosystem every day. - Habitat destruction - Deforestation and over grazing - Erosion of soils - Introduction of non-native species - Over harvesting of plant material - Pollution of land, water and air - Run off pesticides, fertilizers and animal wastes
 
 **Ecosystem resilience** Ecosystem is damaged by disturbances from fire, flood, predation,
 
@@ -460,11 +460,11 @@ Therefore, we have to practice the following in our day today life:
 - Maintain your cars and vehicles properly. (In order to reduce carbon emission)
 - Create awareness and educate about ecosystem protection among your friends and family members and ask them to find out solution to minimise this problem.
 
-**Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** • Close the tap when not in use. • Switch off the electrical gadgets
+**Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** - Close the tap when not in use. - Switch off the electrical gadgets
 
-when not in use. • Never use plastics and replace them
+when not in use. - Never use plastics and replace them
 
-with biodegradable products • Always use ecofriendly technology
+with biodegradable products - Always use ecofriendly technology
 
 and products. **“USE ECOSYSTEM BUT DON’T LOSE ECOSYSTEM; MAKE IT SUSTAINABLE”**
 
@@ -480,9 +480,9 @@ and for sustained benefits through minimal human impacts on ecosystems. Environm
 
 scarcity." – IUCN. "Forests house approximately 50% of global bio-diversity and at least 300 million people are dependent on forest’s goods and services to sustain their livelihood." – IUCN
 
-**Strategy of ecosystem management** • It is used to maintain biodiversity of
+**Strategy of ecosystem management** - It is used to maintain biodiversity of
 
-ecosystems. • It helps in indicating the damaged
+ecosystems. - It helps in indicating the damaged
 
 ecosystem (Some species indicate the health of the ecosystem: such species are called a **flagship species).**
 - It is used to recognize the inevitability of ecosystem change and plan accordingly.
@@ -517,13 +517,13 @@ b. Continuing causes - The processes of migration, aggregation, competition, rea
 c. Stabilizing causes - The stabilization of the plant community in an area is primarly controlled by climatic factors rather than other factors.
 
 ### Characteristics of ecological succession
- • It is a systematic process which
+ - It is a systematic process which
 
 causes changes in specific structure of plant community.
 - It is resultant of changes of abiotic and biotic factors.
 - It transforms unstable community
 
-into a stable community. • Gradual progression in species diversity,
+into a stable community. - Gradual progression in species diversity,
 
 total biomass, niche specialisation, and humus content of soil takes place.
 - It progresses from simple food chain to complex food web.
@@ -916,7 +916,7 @@ shrubs further enrich the habitat with soil and humus. Therefore, the shrubs are
 Of the 6 stages of lithosere succession, stage 1 is occupied by pioneer community and the stage 6 is occupied by climax community. The stages 2 to 5 are occupied by seral communities. Seral stages occurring on the same rock surfaces.
 
 ### Significance of Plant Succession
- • Succession is a dynamic process. Hence
+ - Succession is a dynamic process. Hence
 
 an ecologist can access and study the seral stages of a plant community found in a particular area.
 - The knowledge of ecological succession helps to understand the controlled growth of one or more species in a forest.
@@ -1446,7 +1446,7 @@ URL: **https://play.google.com/store/apps/details?id=com.ksolve. ecologyfree**
 
 **ECO SYSTEM**
 
-**Steps** • Type the URL or scan the QR code to open the activity page then Introduction page will open. • Click on the Learn icon in the introduction page to know in detail. • Click on the Flashcards icon in the introduction page to know about the topics easily. • Click on the Test icon to write a quiz test finally it displays the marks we scored.
+**Steps** - Type the URL or scan the QR code to open the activity page then Introduction page will open. - Click on the Learn icon in the introduction page to know in detail. - Click on the Flashcards icon in the introduction page to know about the topics easily. - Click on the Test icon to write a quiz test finally it displays the marks we scored.
 
 Let us know about the **Ecosystem** in detail through this activity.
 

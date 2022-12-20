@@ -511,15 +511,15 @@ methods were carried out to improve the genetic characteristics of live stock an
 
 The various steps involved in the production of transgenic organisms are
 
-• Identification and separation of desired gene.
+- Identification and separation of desired gene.
 
-• Selection of a vector (generally a virus) or direct transmission.
+- Selection of a vector (generally a virus) or direct transmission.
 
-• Combining the desired gene with the vector. • Introduction of transferred vector
+- Combining the desired gene with the vector. - Introduction of transferred vector
 
 into cells, tissues, embryo or mature individual.
 
-• Demonstration of integration and  
+- Demonstration of integration and  
 
 expression of foreign gene in transgenic tissue or animals. Transgenic animals such as mice, rat, rabbit, pig, cow, goat, sheep and fish have been produced (Fig. 10.7).
 
@@ -539,24 +539,24 @@ Transgenic goat
 
 Milk from transgenic goat
 
-**Uses Of Transgenesis** • Transgenesis is a powerful tool to study
+**Uses Of Transgenesis** - Transgenesis is a powerful tool to study
 
 gene expression and developmental processes in higher organisms.
 
-• Transgenesis helps in the improvement of genetic characters in animals. Transgenic animals serve as good models for understanding human diseases which help in the investigation of new treatments for diseases. Transgenic models exist for many human diseases such as cancer, Alzheimer’s, cystic fibrosis, rheumatoid arthritis and sickle cell anemia.
+- Transgenesis helps in the improvement of genetic characters in animals. Transgenic animals serve as good models for understanding human diseases which help in the investigation of new treatments for diseases. Transgenic models exist for many human diseases such as cancer, Alzheimer’s, cystic fibrosis, rheumatoid arthritis and sickle cell anemia.
 
 
 
 
   
 
-• Transgenic animals are used to produce proteins which are important for medical and pharmaceutical applications.
+- Transgenic animals are used to produce proteins which are important for medical and pharmaceutical applications.
 
-• Transgenic mice are used for testing the safety of vaccines.
+- Transgenic mice are used for testing the safety of vaccines.
 
-• Transgenic animals are used for testing toxicity in animals that carry genes which make them sensitive to toxic substances than non-transgenic animals exposed to toxic substances and their effects are studied.
+- Transgenic animals are used for testing toxicity in animals that carry genes which make them sensitive to toxic substances than non-transgenic animals exposed to toxic substances and their effects are studied.
 
-• Transgenesis is important for improving the quality and quantity of milk, meat, eggs and wool production in addition to testing drug resistance.
+- Transgenesis is important for improving the quality and quantity of milk, meat, eggs and wool production in addition to testing drug resistance.
 
 **10.6 Biological products and their uses**
 
@@ -605,27 +605,27 @@ Dolly
 
 **Fig. 10. 8 Cloning of dolly Advantages and Disadvantages Of Cloning Animals**
 
-• Offers benefits for clinical trials and medical research. It can help in the production of proteins and drugs in the field of medicine.
+- Offers benefits for clinical trials and medical research. It can help in the production of proteins and drugs in the field of medicine.
 
-• Aids stem cell research. • Animal cloning could help to save endangered
+- Aids stem cell research. - Animal cloning could help to save endangered
 
-species. • Animal and human activists see it as a threat
+species. - Animal and human activists see it as a threat
 
 to biodiversity saying that this alters evolution which will have an impact on populations and the ecosystem.
 
-• The process is tedious and very expensive.  
+- The process is tedious and very expensive.  
 
-• It can cause animals to suffer. • Reports show that animal surrogates were
+- It can cause animals to suffer. - Reports show that animal surrogates were
 
 manifesting adverse outcomes and cloned animals were affected with disease and have high mortality rate.
 
-• It might compromise human health through consumption of cloned animal meat.
+- It might compromise human health through consumption of cloned animal meat.
 
-• Cloned animals age faster than normal animals and are less healthy than the parent organism as discovered in Dolly.
+- Cloned animals age faster than normal animals and are less healthy than the parent organism as discovered in Dolly.
 
-• Cloning can lead to occurrence of genetic disorders in animals.
+- Cloning can lead to occurrence of genetic disorders in animals.
 
-• More than 90% of cloning attempts fail to produce a viable offspring.
+- More than 90% of cloning attempts fail to produce a viable offspring.
 
 Ian Wilmut and Campbell removed 277 cells from the udder of an adult sheep and fused those cells with 277 unfertilised
 
@@ -715,13 +715,13 @@ Transferred genes could mutate and caus unexpected risks.
 
 pathogens. Worsening the effects of existing pests through hybridization with related transgenic organisms (**Table 10.2).**
 
-• Harming non-target species such as soil organisms, non-pest insects, birds and other animals.
+- Harming non-target species such as soil organisms, non-pest insects, birds and other animals.
 
-• Disrupting biotic communities including agro ecosystems.
+- Disrupting biotic communities including agro ecosystems.
 
-• Irreparable loss or changes in species diversity or genetic diversity within species.
+- Irreparable loss or changes in species diversity or genetic diversity within species.
 
-• Creating risks for human health. The release of GMOs into the environment
+- Creating risks for human health. The release of GMOs into the environment
 
 could also have far reaching consequences. This is because the living GMOs proliferate, persist, disperse and sometimes may transfer their DNA into other organisms. GEOs could also displace the existing organism and create new species which may cause severe environmental damage. Due to these risks the regulatory authorities are very careful in permitting the field trials of GMOs into the environment.
 
@@ -784,9 +784,9 @@ A patent is a Government issued document that allows the person for an exclusive
 
 172Applications of Biotechnology
 
-patenting in biotechnology ensures fair financial returns for those who have invested finances, ideas, time and hard work for an invention. The following criteria must be satisfied for patenting : • The invention must be novel and useful; • The product must be inventive and
+patenting in biotechnology ensures fair financial returns for those who have invested finances, ideas, time and hard work for an invention. The following criteria must be satisfied for patenting : - The invention must be novel and useful; - The product must be inventive and
 
-reproducible; • The patent application should provide the
+reproducible; - The patent application should provide the
 
 full description of the invention and the invention must be patentable.
 

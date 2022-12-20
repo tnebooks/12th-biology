@@ -150,11 +150,11 @@ The Pasteur effect is the inhibiting effect of oxygen on the fermentation proces
 
 151 Microbes in Human Welfare
 
-**Alcohol content in various beverages** • Beer contains 3 to 5 percent of alcohol. • Wine contains 9 to 14 percent alcohol.
+**Alcohol content in various beverages** - Beer contains 3 to 5 percent of alcohol. - Wine contains 9 to 14 percent alcohol.
 
 Wine coolers are made of wine mixed with carbonated water and flavourings. Wine coolers have about 4 to 6 percent alcohol.
 
-• Distilled spirits such as whiskey, gin, scotch and vodka usually contain 35 to 50 percent alcohol.
+- Distilled spirits such as whiskey, gin, scotch and vodka usually contain 35 to 50 percent alcohol.
 
 In some parts of South India, a traditional drink called **pathaneer** is obtained from fermenting sap of palms and coconut trees. A common source is tapping of unopened spadices of coconut. It is a refreshing drink, which on boiling produces jaggery or palm sugar. When pathaneer is left undisturbed for few hours it gets fermented to form **toddy** with the help of naturally occurring yeast, to form a beverage that contains 4 percent alcohol. After 24 hours **toddy** becomes unpalatable and is used for the production of vinegar.
 

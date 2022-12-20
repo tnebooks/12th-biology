@@ -62,11 +62,11 @@ Bacteria spread through air, water or by inhaling the droplets/aerosols or even 
 
 **Common hum**
 
-**Bacterial diseases** • Dysentery • Plague • Diphtheria • Cholera • Typhoid • Pneumonia
+**Bacterial diseases** - Dysentery - Plague - Diphtheria - Cholera - Typhoid - Pneumonia
 
-**Viral diseases** • Common cold • Mumps • Measles • Viral hepatitis • Dengue fever • Chikungunya • Chicken pox • Poliomyelitis
+**Viral diseases** - Common cold - Mumps - Measles - Viral hepatitis - Dengue fever - Chikungunya - Chicken pox - Poliomyelitis
 
-**Funga** • Can • Ath  
+**Funga** - Can - Ath  
 
 113 Human Health and Diseases
 
@@ -74,25 +74,25 @@ Bacteria spread through air, water or by inhaling the droplets/aerosols or even 
 
 **l diseases** didiasis lete’s foot
 
-**Protozoan diseases** • Malaria • Amoebiasis • African
+**Protozoan diseases** - Malaria - Amoebiasis - African
 
 sleeping sickness
 
-• Kala-azar
+- Kala-azar
 
-**Helminthic diseases** • Ascariasis • Filariasis
+**Helminthic diseases** - Ascariasis - Filariasis
 
 **Bacterial resistance** If an antibiotic is used too often to
 
 fight a specific bacterial infection, the bacteria may become resistant to the specific antibiotic. Hence the specific antibiotic can no longer be used to treat the bacterial infection. Some bacteria have developed resistance to many antibiotics. Therefore, infections caused by these bacteria are difficult to be cured.
 
-**Risk of bacterial resistance can be reduced by observing the following steps** • Avoid using antibiotics to treat minor
+**Risk of bacterial resistance can be reduced by observing the following steps** - Avoid using antibiotics to treat minor
 
 infections that can be taken care by our immune system.
 
-• Do not use an antibiotic to treat viral infections such as common cold or flu.
+- Do not use an antibiotic to treat viral infections such as common cold or flu.
 
-• Always follow the prescription. Skipping doses or failing to complete the prescription may allow antibiotic resistance to develop.
+- Always follow the prescription. Skipping doses or failing to complete the prescription may allow antibiotic resistance to develop.
 
 living cells. Outside the living cells they cannot carry out the characteristics of a living organism. Viruses invade living cells, forcing the cells to create new viruses. The new viruses break out of the cell, killing it and invade other cells in the body, causing
 
@@ -678,31 +678,31 @@ of thirty to sixty due to life style related disorders.
 
 The following facts will help in better understanding of life style disorders.
 
-• Life style disorder causes **cardiovascular diseases** resulting in 31 percent of global deaths.
+- Life style disorder causes **cardiovascular diseases** resulting in 31 percent of global deaths.
 
-• The sedentary life style also causes deficiency of vitamins such as **vitamin D** resulting in fatigue, tiredness, back pain, depression, bone loss, muscle pain, etc,
+- The sedentary life style also causes deficiency of vitamins such as **vitamin D** resulting in fatigue, tiredness, back pain, depression, bone loss, muscle pain, etc,
 
-• Life style disorder also includes **social isolation** resulting in age related problems.
+- Life style disorder also includes **social isolation** resulting in age related problems.
 
-• **Eating junk** foods that have high caloric values, rich in carbohydrates and fat can lead to obesity and early health issues.
+- **Eating junk** foods that have high caloric values, rich in carbohydrates and fat can lead to obesity and early health issues.
 
-• Consumption of processed and packaged food, which lacks in fiber may result in constipation.
+- Consumption of processed and packaged food, which lacks in fiber may result in constipation.
 
-• Several people today complain of irritable bowel syndrome with stomach discomfort or pain and trouble with bowel movements, causing diarrhoea. The main cause of irritable bowel syndrome is stress and other illnesses.
+- Several people today complain of irritable bowel syndrome with stomach discomfort or pain and trouble with bowel movements, causing diarrhoea. The main cause of irritable bowel syndrome is stress and other illnesses.
 
-**Life style modifications** • Avoid eating junk food and foods that have
+**Life style modifications** - Avoid eating junk food and foods that have
 
 preservatives and colouring agents.
 
-• Physical exercises such as brisk walking and yoga can be done regularly.
+- Physical exercises such as brisk walking and yoga can be done regularly.
 
-• Following medical advice, if any health problems in addition to life style disorders.
+- Following medical advice, if any health problems in addition to life style disorders.
 
-• To avoid smoking drugs and drinking alcohol.
+- To avoid smoking drugs and drinking alcohol.
 
-• To follow a healthy balanced diet rich in vitamins and proteins.
+- To follow a healthy balanced diet rich in vitamins and proteins.
 
-• 7 – 8 hours of sleep every day is required.
+- 7 – 8 hours of sleep every day is required.
 
 
 

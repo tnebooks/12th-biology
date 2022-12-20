@@ -86,16 +86,16 @@ A diploid eukaryotic cell has two haploid sets of chromosomes, one set from each
 
 **Thomas Hunt Morgan (1933)** received Nobel Prize in Physiology or Medicine for his discoveries concerning the role played by chromosomes in heredity.
 
-![Thomas Hunt Morgan](3.2.png "")
+![Thomas Hunt Morgan](thomas-hunt-morgan.png "")
 
 
 ## Linkage
- The genes which determine the character of an individual are carried by the chromosomes. The genes for different characters may be present either in the same chromosome or in different chromosomes. When the genes are present in different chromosomes, they assort independently according to Mendel’s Law of Independent Assortment. Biologists came across certain genetic characteristics that did not assort out independently in other organisms after Mendel’s work. One such case was reported in Sweet pea **_(Lathyrus odoratus)_** by **William Bateson** and **Reginald C. Punnet in 1906. They crossed one homozygous** strain of sweet peas having purple flowers and long **pollen grains** with another homozygous strain having red flowers and round pollen grains. All the F1 progenies had purple flower and long pollen grains indicating purple flower long pollen (PL/ **PL) was dominant over red flower round pollen (pl/pl).** When they crossed the F1 with double recessive parent (test cross) in results, F2 progenies did not exhibit in 1:1:1:1 ratio as expected with independent assortment. A greater number of F2 plants had purple flowers and long pollen or red flowers and round pollen. So they concluded that genes for purple colour and long pollen grain and the genes for red colour and round pollen grain were found close together in the same homologous pair of chromosomes. These genes do not allow themselves to be separated. So they do not assort independently. This type of tendency of genes to stay together during separation of chromosomes is called **Linkage.**
+ The genes which determine the character of an individual are carried by the chromosomes. The genes for different characters may be present either in the same chromosome or in different chromosomes. When the genes are present in different chromosomes, they assort independently according to Mendel’s Law of Independent Assortment. Biologists came across certain genetic characteristicsthat did not assort out independently in other organisms after Mendel’s work. One such case was reported in Sweet pea **_(Lathyrus odoratus)_** by **William Bateson** and **Reginald C. Punnet** in 1906. They crossed one homozygous strain of sweet peas having **purple flowers** and long **pollen grains** with another homozygous strain having **red flowers** and **round pollen grains**. All the F1 progenies had purple flower and long pollen grains indicating purple flower long pollen **(PL/ PL)** was dominant over red flower round pollen **(pl/pl)**. When they crossed the F1 with double recessive parent (test cross) in results, F2 progenies did not exhibit in 1:1:1:1 ratio as expected with independent assortment. A greater number of F2 plants had purple flowers and long pollen or red flowers and round pollen. So they concluded that genes for purple colour and long pollen grain and the genes for red colour and round pollen grain were found close together in the same homologous pair of chromosomes. These genes do not allow themselves to be separated. So they do not assort independently. This type of tendency of genes to stay together during separation of chromosomes is called **Linkage.**
 
- ![Arrangement of linked and unlinked genes on chromosome](3.3.png "")
+ ![Arrangement of linked and unlinked genes on chromosome](3.2.png "")
 
 
-Genes located close together on the same chromosome and inherited together are called **linked genes.** But the two genes that are sufficiently far apart on the same chromosome are called **unlinked genes or syntenic genes** (Figure 3.3). Such condition is known as **synteny. It is to be differentiated by the value of** recombination frequency. If the recombination frequency value is more than 50 % the two genes show unlinked. when the recombination frequency value is less than 50 %, they show linked. Closely located genes show strong linkage, while genes widely located show weak linkages.
+Genes located close together on the same chromosome and inherited together are called **linked genes.** But the two genes that are sufficiently far apart on the same chromosome are called **unlinked genes or syntenic genes** (Figure 3.4). Such condition is known as **synteny**. It is to be differentiated by the value of recombination frequency. If the recombination frequency value is more than 50 % the two genes show unlinked. when the recombination frequency value is less than 50 %, they show linked. Closely located genes show strong linkage, while genes widely located show weak linkages.
 
 ```
 **Fossil Genes:** Some of the junk DNA is made up of pseudo genes, the sequences presence in that was once working genes.
@@ -104,9 +104,9 @@ They lost their ability to make proteins. They tell the story of evolution throu
 ```
 ### Coupling and Repulsion theory
 
- The two dominant alleles or recessive alleles occur in the same homologous chromosomes, tend to inherit together into same gamete are called **coupling or cis configuration** (Figure: 3.6 ). If dominant or recessive alleles are present on two different, but homologous chromosomes they inherit apart into different gamete are called **repulsion or trans configuration** (Figure: 3.7).
+ The two dominant alleles or recessive alleles occur in the same homologous chromosomes, tend to inherit together into same gamete are called **coupling or cis configuration** (Figure: 3.5). If dominant or recessive alleles are present on two different, but homologous chromosomes they inherit apart into different gamete are called **repulsion or trans configuration** (Figure: 3.6).
 
- ![Cis-Trans arrangement of genes](3.4.png "")
+ ![Cis-Trans arrangement of genes](3.3.png "")
 
  ### Kinds of Linkage 
 
@@ -120,13 +120,13 @@ If the chances of separation of two linked genes are not possible those genes al
 
 If two linked genes are sufficiently apart, the chances of their separation are possible. As a result, parental and non-parental combinations are observed. The linked genes exhibit some crossing over. This phenomenon is called**incomplete linkage**. This was observed in maize. It was reported by Hutchinson.
 
-![Alleles in coupling or cis configuration](3.5.png "")
+![Alleles in coupling or cis configuration](3.4.png "")
 
 ### Linkage Groups
 
  The groups of linearly arranged linked genes on a chromosome are called **Linkage groups**. In any species the number of linkage groups corresponds to the number haploid set of chromosomes. Example:
 
-![Alleles in repulsion or trans configuration Name of organism Link](3.6.png "")
+![Alleles in repulsion or trans configuration Name of organism Link](3.5.png "")
 
 
 | Name of organism | Linkage groups |
@@ -171,7 +171,7 @@ chromosomes is initiated during zygotene stage of prophase I of meiosis I. Homol
 
 **(iii) Cross Over** After tetrad formation, crossing over occurs in pachytene stage. The non-sister chromatids of homologous pair make a contact at one or more points. These points of contact between non- sister chromatids of homologous chromosomes are called **Chiasmata** (singular-Chiasma). At chiasma, cross-shaped or X-shaped structures are formed, where breaking and rejoining of two chromatids occur. This results in reciprocal exchange of equal and corresponding segments between them.
 
-![Structure of Synaptonemal Complex](3.7.png "")
+![Structure of Synaptonemal Complex](3.6.png "")
 
 **(iv) Terminalisation** 
 
@@ -191,7 +191,7 @@ After crossing over, chiasma starts to move towards the terminal end of chromati
 
 - If a useful new combination is formed it can be used in plant breeding. 
 
-![Mechanism of crossing over](3.8.png "")
+![Mechanism of crossing over](3.7.png "")
 
 
 ### Recombination 
@@ -220,9 +220,6 @@ autosome but are so far apart that a crossover occurs between them.
 ### Genetic Mapping
 
  Genes are present in a linear order along the chromosome. They are present in a specific location called locus (plural: loci). The diagrammatic representation of position of genes and related distances between the adjacent genes is called **genetic mapping**. It is directly proportional to the frequency of recombination between them. It is also called as linkage map. The concept of gene mapping was first developed by Morgan’s student **Alfred H Sturtevant** in 1913. It provides clues about where the genes lies on that chromosome. **Map distance** The unit of distance in a genetic map is called a **map unit** (m.u). One map unit is equivalent to one percent of crossing over (Figure 4. ). One map unit is also called a centimorgan (cM) in honour of **T.H. Morgan**. 100 centimorgan is equal to one Morgan (M). For example: A distance between A and B genes is estimated to be 3.5 map units. It is equal to 3.5 centimorgans or 3.5 % or 0.035 recombination frequency between the genes.
-
-![](3.9.png "")
-
 
 **Uses of genetic mapping** 
 
@@ -257,18 +254,22 @@ There may be multiple alleles within the population, but individuals have only t
 ### Self-sterility in _Nicotiana_
  In plants, multiple alleles have been reported in association with self-sterility or self- incompatibility. Self-sterility means that the pollen from a plant is unable to germinate on its own stigma and will not be able to bring about fertilization in the ovules of the same plant. **East (1925)** observed multiple alleles in **_Nicotiana_** which are responsible for self-incompatibility or self-sterility. The gene for self-incompatibility can be designated as S, which has allelic series S1, S2, S3, S4 and S5 (Figure 3.8).
 
-![The self-incompatibility in relation to its genotype in tobacco](3.10.png "")
+![The self-incompatibility in relation to its genotype in tobacco](3.8.png "")
 
-The cross-fertilizing tobacco plants were not always homozygous as S_1S_1 or S_2S_2, but all plants were heterozygous as S_1S_2, S_3S_4, S_5S_6. When crosses were made between different S_1S_2 plants, the pollen tube did not develop normally. But effective pollen tube development was observed when crossing was made with other than S_1S_2 for example S_3S_4.
+The cross-fertilizing tobacco plants were not always homozygous as S_1S_1 or S_2S_2, but all plants were heterozygous as S<sub>1</sub>S<sub>2</sub> 	| , S<sub>3</sub>S<sub>4</sub> 	| , S_5S_6. When crosses were made between different S<sub>1</sub>S<sub>2</sub> 	|  plants, the pollen tube did not develop normally. But effective pollen tube development was observed when crossing was made with other than S<sub>1</sub>S<sub>2</sub> 	  for example S<sub>3</sub>S<sub>4</sub>.
 
-table
+| Female<br>parent 	| Male parent <br> 	| (Pollen 	| source) 	|
+|---	|---	|---	|---	|
+| **Stigma spot** 	| S<sub>1</sub>S<sub>2</sub> 	| S<sub>2</sub>S<sub>3</sub> 	| S<sub>3</sub>S<sub>4</sub> 	|
+| S<sub>1</sub>S<sub>2</sub> 	| Self<br>Sterile 	| S<sub>3</sub>S<sub>2</sub><br>S<sub>3</sub>S<sub>1</sub> 	| S<sub>3</sub>S<sub>1</sub><br>S<sub>3</sub>S<sub>2</sub><br>S<sub>4</sub>S<sub>1</sub><br>S<sub>4</sub>S<sub>2</sub> 	|
+| S<sub>2</sub>S<sub>3</sub> 	| S<sub>1</sub>S<sub>2</sub><br>S<sub>1</sub>S<sub>3</sub> 	| Self<br>Sterile 	| S<sub>4</sub>S<sub>2</sub><br>S<sub>4</sub>S<sub>3</sub> 	|
+| S<sub>3</sub>S<sub>4</sub> 	| S<sub>1</sub>S<sub>3</sub><br>S<sub>1</sub>S<sub>4</sub><br>S<sub>2</sub>S<sub>3</sub><br>S<sub>2</sub>S<sub>4</sub> 	| S<sub>2</sub>S<sub>3</sub><br>S<sub>2</sub>S<sub>4</sub> 	| Self<br>Sterile 	|
 
-When crosses were made between seed parents with S_1S_2 and pollen parents with S2S3, two kinds of pollen tubes were distinguished. Pollen grains carrying S2 were not effective, but the pollen grains carrying S3 were capable of fertilization. Thus, from the cross S_1S_2XS_3S_4, all the pollens were effective and four kinds of progeny resulted: S1S3, S1S4, S2S3 and S2S4. Some combinations are showed in the table-3.5.
-
+When crosses were made between seed parents with S<sub>1</sub>S<sub>2</sub>  and pollen parents with S<sub>2</sub>S<sub>3</sub> , two kinds of pollen tubes were distinguished. Pollen grains carrying S<sub>2</sub> were not effective, but the pollen grains carrying S<sub>3</sub> were capable of fertilization. Thus, from the cross S<sub>1</sub>S<sub>2</sub>XS<sub>3</sub>S<sub>4</sub>, all the pollens were effective and four kinds of progeny resulted: S1S3, S<sub>1</sub>S<sub>4</sub>, S2S3 and S<sub>2S</sub>4. Some combinations are showed in the table
 
 ### Sex determination in maize 
 
-Zea mays (maize) is an example for monoecious, which means male and female flowers are present on the same plant. There are two types of i n f l o r e s c e n c e . The terminal i n f l o r e s c e n c e which bears staminate florets develops from shoot apical meristem called tassel. The lateral inflorescence which develop pistillate florets from axillary bud is called ear or cob. Unisexuality in maize occurs through the selective abortion of stamens in ear florets and pistils in tassel florets. A substitution of two single gene pairs '**ba**' for barren plant and '**ts**' for tassel seed makes the difference between monoecious and dioecious (rare) maize plants. The allele for barren plant (ba) when homozygous makes the stalk staminate by eliminating silk and ears. The allele for tassel seed (ts) transforms tassel into a pistillate structure that produce no pollen. The table-3.6 is the resultant sex expression based on the combination of these alleles. Most of these mutations are shown to be defects in gibberellin biosynthesis. Gibberellins play an important role in the suppression of stamens in florets on the ears. ![Inflorescence of Zea mays](3.11.png "")
+Zea mays (maize) is an example for monoecious, which means male and female flowers are present on the same plant. There are two types of i n f l o r e s c e n c e . The terminal i n f l o r e s c e n c e which bears staminate florets develops from shoot apical meristem called tassel. The lateral inflorescence which develop pistillate florets from axillary bud is called ear or cob. Unisexuality in maize occurs through the selective abortion of stamens in ear florets and pistils in tassel florets. A substitution of two single gene pairs '**ba**' for barren plant and '**ts**' for tassel seed makes the difference between monoecious and dioecious (rare) maize plants. The allele for barren plant (ba) when homozygous makes the stalk staminate by eliminating silk and ears. The allele for tassel seed (ts) transforms tassel into a pistillate structure that produce no pollen. The table-3.6 is the resultant sex expression based on the combination of these alleles. Most of these mutations are shown to be defects in gibberellin biosynthesis. Gibberellins play an important role in the suppression of stamens in florets on the ears. ![Inflorescence of Zea mays](zea-mays.png "")
  
 | **Genotype**           | **Dominant/<br>recessive**   | **Modification**                                                      | **Sex**               |
 |------------------------|------------------------------|-----------------------------------------------------------------------|-----------------------|
@@ -278,15 +279,14 @@ Zea mays (maize) is an example for monoecious, which means male and female flowe
 | ba^+/ba^+<br>ts/ts     | Dominant<br>and<br>recessive | Bears cob<br>and lacks<br>tassel                                      | Normal<br>female      |
 
 **Table 3.6:** Sex determination in Maize (Superscript (+) denotes dominant character)
-
 ## Mutation
 
 
-![Mutant Leaf](3.12.png "")
+![Mutant Leaf](mutant-leaf.png "")
 
 Genetic variation among individuals provides the raw material for the ultimate source of evolutionary changes. Mutation and recombination are the two major processes responsible for genetic variation. A sudden change in the genetic material of an organisms is called **mutation**. The term mutation was introduced by **Hugo de Vries** (1901) while he has studying on the plant, evening primrose **(Oenothera lamarkiana)** and proposed **‘Mutation theory’**. There are two broad types of changes in genetic material. They are point mutation and chromosomal mutations. Mutational events that take place within individual genes are called gene mutations or point mutation, whereas the changes occur in structure and number of chromosomes is called chromosomal mutation. Agents which are responsible for mutation are called **mutagens,** that increase the rate of mutation. Mutations can occur either spontaneously or induced. The production of mutants through exposure of mutagens is called mutagenesis, and the organism is said to be **mutagenized.**
 
-![Types of point mutation](3.13.png "")
+![Types of point mutation](3.9.png "")
 
 ## Types of mutation
  

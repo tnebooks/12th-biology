@@ -117,11 +117,11 @@ XII Std Zoology Introduction EM.indd 4 12/14/2021 10:56:06 AM
 
 **Institutes affiliated to Dr. M.G.R. Medical University, Chennai.**
 
-**Occupation Therapy Colleges:** • College of Occupational Therapy, Christian Medical College, Vellore
+**Occupation Therapy Colleges:** - College of Occupational Therapy, Christian Medical College, Vellore
 
-**Physiotherapy Colleges:** • Govt. College of Physiotherapy, Trichy • Govt. Institute of Rehabilitation Medicine, Chennai • College of Physiotherapy, Christian Medical College, Vellore • Tamilnadu Paramedical Institutions College of Physiotherapy, Chennai
+**Physiotherapy Colleges:** - Govt. College of Physiotherapy, Trichy - Govt. Institute of Rehabilitation Medicine, Chennai - College of Physiotherapy, Christian Medical College, Vellore - Tamilnadu Paramedical Institutions College of Physiotherapy, Chennai
 
-**Siddha Colleges:** • Govt. Siddha Medical College, Chennai • Govt. Siddha Medical College, Tirunelveli • National Institute of Siddha, Chennai
+**Siddha Colleges:** - Govt. Siddha Medical College, Chennai - Govt. Siddha Medical College, Tirunelveli - National Institute of Siddha, Chennai
 
 Who can participate? : Secondary and Higher Secondary students
 
@@ -157,67 +157,67 @@ XII Std Zoology Introduction EM.indd 5 12/14/2021 10:56:06 AM
 ![](introduction-5-2.jpg "")
   
 
-**Pharmacy Colleges:** • Coimbatore Medical College, Coimbatore • College of Pharmacy, Madras Medical
+**Pharmacy Colleges:** - Coimbatore Medical College, Coimbatore - College of Pharmacy, Madras Medical
 
-College, Chennai • College of Pharmacy, Madurai Medical
+College, Chennai - College of Pharmacy, Madurai Medical
 
-College, Madurai • Thanjavur Medical College, Thanjavur • College of Allied Medical Sciences,
+College, Madurai - Thanjavur Medical College, Thanjavur - College of Allied Medical Sciences,
 
-Madurai • Department of Pharmacy, Annamalai
+Madurai - Department of Pharmacy, Annamalai
 
 University, Cuddalore
 
-**Nursing Colleges:** • College of Nursing, Madras Medical
+**Nursing Colleges:** - College of Nursing, Madras Medical
 
-College, Chennai • College of Nursing, Madurai Medical
+College, Chennai - College of Nursing, Madurai Medical
 
 College, Madurai
 
-**Medical Colleges:** • Cancer Institute, College of Oncological
+**Medical Colleges:** - Cancer Institute, College of Oncological
 
-Sciences, Chennai • Chengalpattu Medical College,
+Sciences, Chennai - Chengalpattu Medical College,
 
-Chengalpattu • Christian Medical College, Vellore • Coimbatore Medical College, Coimbatore • Government Dharamapuri Medical
+Chengalpattu - Christian Medical College, Vellore - Coimbatore Medical College, Coimbatore - Government Dharamapuri Medical
 
-College, Dharampuri • Kanyakumari Govt. Medical College,
+College, Dharampuri - Kanyakumari Govt. Medical College,
 
-Kanyakumari • Kilpauk Medical College, Chennai • Madras Medical College and Research
+Kanyakumari - Kilpauk Medical College, Chennai - Madras Medical College and Research
 
-Institute, Chennai • Madurai Medical College, Madurai • Stanley Medical College, Chennai • Thanjavur Medical College, Thanjavur • Theni Government Medical College,
+Institute, Chennai - Madurai Medical College, Madurai - Stanley Medical College, Chennai - Thanjavur Medical College, Thanjavur - Theni Government Medical College,
 
-Theni • Thoothukudi Govt. Medical College,
+Theni - Thoothukudi Govt. Medical College,
 
-Thoothukudi • Tirunelveli Medical College, Tirunelveli
+Thoothukudi - Tirunelveli Medical College, Tirunelveli
 
-• Vellore Govt. Medical College, Vellore
+- Vellore Govt. Medical College, Vellore
 
-**Homeopathy Colleges:** • Govt. Homeopathic Medical College
+**Homeopathy Colleges:** - Govt. Homeopathic Medical College
 
-and Hospital, Tirumangalam • Tamilnadu Homeopathy Medical
+and Hospital, Tirumangalam - Tamilnadu Homeopathy Medical
 
 College, Salem
 
-**Dental Colleges:** • Tamilnadu Govt. Dental College,
+**Dental Colleges:** - Tamilnadu Govt. Dental College,
 
 Chennai
 
-**Ayush Institutions In Tamilnadu** • Ayurveda College, 242-B, Trichy
+**Ayush Institutions In Tamilnadu** - Ayurveda College, 242-B, Trichy
 
 Road, Sulur, 215 Pathanjalipuri (Post), Coimbatore – 641402
 
-• Venkataramana Ayurveda College, 216 596,A1&A2,31st St. TNHB Colony, Periyar Nagar, Korattur, Chennai
+- Venkataramana Ayurveda College, 216 596,A1&A2,31st St. TNHB Colony, Periyar Nagar, Korattur, Chennai
 
-• Sri Sai Ram Ayurvedic Medical College & 217 Research Centre, Saileo Nagar, Poonthandalam Village, Sriperumbudur, Chennai – 600044
+- Sri Sai Ram Ayurvedic Medical College & 217 Research Centre, Saileo Nagar, Poonthandalam Village, Sriperumbudur, Chennai – 600044
 
-• Dharma Ayurvedic Medical College and Hosp, 48 218 Grand West Trunk Road, Sriperumbudur, Kanchipuram, 602 105
+- Dharma Ayurvedic Medical College and Hosp, 48 218 Grand West Trunk Road, Sriperumbudur, Kanchipuram, 602 105
 
-• Sri Sankara College of Ayurveda, Sannasipatti, 219 Poolankulathupatti (Post) Trichy-620009
+- Sri Sankara College of Ayurveda, Sannasipatti, 219 Poolankulathupatti (Post) Trichy-620009
 
-• Tamilnadu Veterinary University, Chennai
+- Tamilnadu Veterinary University, Chennai
 
-• Veterinary College and Research Institute, Namakkal
+- Veterinary College and Research Institute, Namakkal
 
-• Fishery College and Research Institute, Thoothukudi
+- Fishery College and Research Institute, Thoothukudi
 
 **Prospects of Zoology**
 
@@ -231,39 +231,39 @@ XII Std Zoology Introduction EM.indd 6 12/14/2021 10:56:06 AM
 
   
 
-• Tamilnadu Agricultural University, Coimbatore
+- Tamilnadu Agricultural University, Coimbatore
 
-• Agricultural College and Research Institute, Kanniyakumari
+- Agricultural College and Research Institute, Kanniyakumari
 
-• Agricultural Engineering College and Research Institute, Coimbatore
+- Agricultural Engineering College and Research Institute, Coimbatore
 
-• Avvaiyar Government College for Women, Kodaikanal
+- Avvaiyar Government College for Women, Kodaikanal
 
-• Horticulture College and Research Institute, Periyakulam
+- Horticulture College and Research Institute, Periyakulam
 
 **Institutes conducting Researches in Zoology**
 
 **Indian Institute of Science (IISC) Bangalore**
 
-• Biochemistry (BC) • Central Animal Facility (CAF) • Centre for Ecological Sciences (CES) • Centre for Infectious Disease Research
+- Biochemistry (BC) - Central Animal Facility (CAF) - Centre for Ecological Sciences (CES) - Centre for Infectious Disease Research
 
-(CIDR) • Centre for Neuroscience (CNS) • Microbiology and Cell Biology (MCB) • Molecular Biophysics Unit (MBU)
+(CIDR) - Centre for Neuroscience (CNS) - Microbiology and Cell Biology (MCB) - Molecular Biophysics Unit (MBU)
 
-**IFS (Indian Forest Service Examination) Examination** • Conducting authority - UPSC • Educational - B.Sc. in any one degree like Physics, Chemistry, Botany, Zoology,
+**IFS (Indian Forest Service Examination) Examination** - Conducting authority - UPSC - Educational - B.Sc. in any one degree like Physics, Chemistry, Botany, Zoology,
 
-Qualification: Agriculture, Maths, Geology, or B.E or B.V.Sc. • Age - Minimum 21, Maximum 32 Yrs • Weblink - https://upsconline.nic.in
+Qualification: Agriculture, Maths, Geology, or B.E or B.V.Sc. - Age - Minimum 21, Maximum 32 Yrs - Weblink - https://upsconline.nic.in
 
-**Salim Ali Centre for Ornithology and Natural History (SACON) Coimbatore** • National Ornithological Databank
+**Salim Ali Centre for Ornithology and Natural History (SACON) Coimbatore** - National Ornithological Databank
 
-(NOD) Cell • GIS Laboratory • Ecotoxicology Laboratory • Conservation Genetics Laboratory
+(NOD) Cell - GIS Laboratory - Ecotoxicology Laboratory - Conservation Genetics Laboratory
 
-**Institute of Basic Medical Science (IBMS) Tharamani, Chennai** • Blood transfusion • Chromatography • Mass spectroscopy • Clinical Data interpretation • Diagnosis of blood courses
+**Institute of Basic Medical Science (IBMS) Tharamani, Chennai** - Blood transfusion - Chromatography - Mass spectroscopy - Clinical Data interpretation - Diagnosis of blood courses
 
-**Centre for Marine Fisheries and Research Institute (CMFRI)** • Marine capture fisheries • Mariculture • Biodiversity • Marine Biotechnology • Fishery environment
+**Centre for Marine Fisheries and Research Institute (CMFRI)** - Marine capture fisheries - Mariculture - Biodiversity - Marine Biotechnology - Fishery environment
 
-**National Environmental Engineering Research Institute (NEERI)** • Air Pollution control • Climate sustainability and skill
+**National Environmental Engineering Research Institute (NEERI)** - Air Pollution control - Climate sustainability and skill
 
-development • Cleaner technology and modeling • Environmental Biotechnology and
+development - Cleaner technology and modeling - Environmental Biotechnology and
 
 Genomic division
 

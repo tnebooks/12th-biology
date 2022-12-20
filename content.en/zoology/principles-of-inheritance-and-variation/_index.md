@@ -68,15 +68,15 @@ IA allele produces N-acetyl galactose transferase and can add N-acetyl galactosa
 
 From the phenotypic combinations it is evident that the alleles IA and IB are dominant to IO, but co-dominant to each other (IA=IB). Their dominance hierarchy can be given as (IA=IB> IO). A child receives one of three alleles from each parent, giving rise to six possible genotypes and four possible blood types (phenotypes). The genotypes are IAIA, IA IO, IBIB, IB IO, IAIB and IO IO.
 
-• Antigens similar to those found among human beings have been recognized in the blood of other organisms.
+- Antigens similar to those found among human beings have been recognized in the blood of other organisms.
 
 A-type antigens have been found in Chimpanzees and in Gibbons, A, B and AB antigen in Orangutans.
 
-• New world monkeys (Platyrrhina) and Lemurs have a substance similar but not identical with B antigen in humans.
+- New world monkeys (Platyrrhina) and Lemurs have a substance similar but not identical with B antigen in humans.
 
-• Three blood groups have been distinguished in cats with a genetic system similar to those in humans.
+- Three blood groups have been distinguished in cats with a genetic system similar to those in humans.
 
-• The secretors (antigens found in the body fluids) can be detected in tears, saliva, urine, semen, gastric juice and in the milk of animals.
+- The secretors (antigens found in the body fluids) can be detected in tears, saliva, urine, semen, gastric juice and in the milk of animals.
 
 
 
@@ -261,9 +261,9 @@ A+X 2A + XX Diploid Female
 
 2A + XY Diploid Male
 
-• X-Chromosome was discovered by Henking (1891)
+- X-Chromosome was discovered by Henking (1891)
 
-• Y-Chromosome was discovered by Stevens (1902)
+- Y-Chromosome was discovered by Stevens (1902)
 
 When the X **:** A ratio is 1.00 as in a normal female, or greater than 1.00, the organism is a female. When this ratio is 0.50 as in a normal male or less than 0.50 the organism is a male. At 0.67, the organism is an intersex. metamales
 
@@ -354,7 +354,7 @@ does the organism compensate for this dosage differences between the sexes? In m
 
 Mary Lyon suggested that Barr bodies represented an inactive chromosome, which in females becomes tightly coiled into a heterochromatin, a condensed and visible form of chromatin (Lyon’s hypothesis). The number of Barr bodies observed in cell was one less than the number of X-Chromosome. XO females have no Barr body, whereas XXY males have one Barr body.
 
-• The number of Barr bodies follows N-1 rule (N minus one rule), where N is the total number of X chromosomes present.
+- The number of Barr bodies follows N-1 rule (N minus one rule), where N is the total number of X chromosomes present.
 
 **Haplodiploidy in Honeybees** In hymenopteran insects such as
 
@@ -418,15 +418,15 @@ from a cell and the chromosomes are arranged in pairs. An idiogram refers to a d
 
 Tjio and Levan (1960) described a simple method of culturing lymphocytes from the human blood. Mitosis is induced followed by addition of colchicine to arrest cell division at metaphase stage and the suitable spread of metaphase chromosomes is photographed. The individual chromosomes are cut from the photograph and are arranged in an orderly fashion in homologous pairs. This arrangement is called a **karyotype**. Chromosome banding permits structural definitions and differentiation of chromosomes. **Applications of Karyotyping**
 
-• It helps in gender identification. • It is used to detect the chromosomal
+- It helps in gender identification. - It is used to detect the chromosomal
 
 aberrations like deletion, duplication, translocation, nondisjunction of chromosomes.
 
-• It helps to identify the abnormalities of chromosomes like aneuploidy.
+- It helps to identify the abnormalities of chromosomes like aneuploidy.
 
-• It is also used in predicting the evolutionary relationships between species.
+- It is also used in predicting the evolutionary relationships between species.
 
-• Genetic diseases in human beings can be detected by this technique.
+- Genetic diseases in human beings can be detected by this technique.
 
 **Fig. 4.5 Human karyotype (male)**  
 
