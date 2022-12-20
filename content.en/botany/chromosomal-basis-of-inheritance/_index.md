@@ -385,7 +385,6 @@ Addition of one or more chromosomes to diploid sets are called **hyperploidy**. 
 flow chart (3.10)
 
 **(c) Pentasomy**
-
 Addition of three individual chromosome from different chromosomal pairs to normal diploid set are called pentasomy (2n+3).
  
 **2. Hypoploidy**
