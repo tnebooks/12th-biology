@@ -17,31 +17,20 @@ weight: 8
 
 ```
 
-
-
 Have you seen lakes, ponds and pools in your surroundings? They are all called water bodies with many components in them. Can you list out the things which are found in water bodies? Mud, nutrients, clay, dissolved gases, planktons, microorganisms, plants like algae, _Hydrilla, Nelumbo, Nymphaea_ and animals like snake, small fish, large fish, frog, tortoise and crane are the components of the water bodies which constitutes **ecosystem**. Further, we all know that plants and animals are prominent living components in the environment. They interact with space components such as air, water, soil, sunlight, etc. For example, you have studied in class XI, one of the life processes, photosynthesis which utilizes sunlight , water, carbondioxide, nutrients from the soil and release oxygen to the atmosphere. From this, we understand that the exchange of materials takes place between living and space components. Likewise, you can study the structure, function and types of ecosystem in this chapter. The term ‘ecosystem’ was proposed by A.G. Tansley (1935), who defined it as ‘the system resulting from the **integration of all the living and nonliving factors of the environment’**. Whereas, Odum (1962) defined ecosystem ‘as the structural and **functional unit of ecology’.**
 
 ```
 **Parallel terms for ecosystem coined by various ecologists** 
-<<<<<<< HEAD
 - Biocoenosis – Karl Mobius 
 - Microcosm – S.A. Forbes 
 - Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
 - Holocoen - Friederichs 
 - Biosystem – Thienemann 
 - Bioenert body – Vernadsky
-=======
--  Biocoenosis – Karl Mobius 
--  Microcosm – S.A. Forbes 
--  Geobiocoenosis – V. V. Dokuchaev, G.F. Morozov 
--  Holocoen - Friederichs 
--  Biosystem – Thienemann 
--  Bioenert body – Vernadsky
->>>>>>> 00c5e568c59725396a869085782276971ae5da6c
 
 ```
 
-##  Structure of Ecosystem
+## Ecosystem
 Ecosystem comprises of two major components. They are: 
 
 i) **Abiotic (non-living) components**: 
@@ -56,7 +45,7 @@ ii) **Biotic (living) components**: It includes all living organisms like plants
 
 The amount of living materials present in a population at any given time is known as **standing crop**, which may be expressed in terms of number or biomass per unit area. **Biomass** can be measured as fresh weight or dry weight or carbon weight of organisms. Biotic components are essential to construct the food chain, food web and ecological pyramids.
 
-### Functions of ecosystem
+## Functions of ecosystem
 The function of ecosystem include creation of energy creation, sharing of energy and cycling of materials between the living and nonliving components of an ecosystem.
 
 Before studying the productivity in any ecosystem, we should understand the essential role of sunlight used by producers of the first trophic level. The quantity of sunlight is directly proportional to the production of energy by plants.
@@ -71,6 +60,7 @@ PAR is generally expressed in millimoles / square meter / second by using silico
 
 
 nm wavelength of light. PAR values range from 0 to 3000 millimoles /square meter / second. At night PAR is zero and during midday in the summer, PAR often reaches 2000 – 3000 millimoles /square meter/second.
+
 ```
 **Types of Carbon**
 
@@ -85,6 +75,7 @@ of photosynthesis).
 **Brown carbon** – carbon stored in industrialized forests (wood used in making commercial articles)
 
 **Black carbon** – carbon emitted from gas, diesel engine and coal fired power plants.
+
 ```
 
 ### Productivity of an ecosystem
@@ -120,7 +111,7 @@ The amount of energy stored in the tissues of heterotrophs or consumers is calle
 
 **b. Net secondary productivity** Storage of energy or biomass by consumers per unit area per unit time, after respiratory loss is called **net secondary productivity**.
 
-#### Community productivity
+### Community productivity
 
 The rate of net synthesis of organic matter (biomass) by a group of plants per unit area per unit time is known as **community productivity**.
 
@@ -138,9 +129,7 @@ Herbivores are eaten by carnivores, which occupy the third trophic level (T3). T
 
 ### Energy flow Sun
 
-The transfer of energy in an ecosystem between trophic levels can be termed as energy flow. It is the key function in an ecosystem. Part of the energy obtained from the sun by producers are transferred to consumers and decomposers
-
-through each trophic level, while some amount of energy is dissipated in the form of heat. Energy flow is always unidirectional in an ecosystem.
+The transfer of energy in an ecosystem between trophic levels can be termed as energy flow. It is the key function in an ecosystem. Part of the energy obtained from the sun by producers are transferred to consumers and decomposers through each trophic level, while some amount of energy is dissipated in the form of heat. Energy flow is always unidirectional in an ecosystem.
 
 ![Diagrammatic representation of energy flow](7.2.png "")
 
@@ -170,9 +159,11 @@ Light Energy ---> chemical Energy
 **Example:** It is shown that of the 1000 Joules of Solar energy trapped by producers. 100 Joules of energy is stored as chemical energy through photosynthesis. The remaining 900 Joules would be lost in the environment. In the next trophic level herbivores, which feed on producers get only 10 Joules of energy and the remaining 90 Joules is lost in the environment. Likewise, in the next trophic level, carnivores, which eat herbivores store only 1 Joule of energy and the remaining 9 Joules is dissipated. Finally, the carnivores are eaten by tertiary consumers which store only 0.1 Joule of energy and the remaining 0.9 Joule is lost in the environment. Thus, at the successive trophic level, only ten percent energy is stored.
 
 ### Food chain
+
 The movement of energy from producers upto top carnivores is known as **food chain**, i.e., in any food chain, energy flows from producers to primary consumers, then from primary consumers to secondary consumers, and finally secondary consumers to tertiary consumers. Hence, it shows linear network links. Generally, there are two types of food chain, (1) Grazing food chain and (2) Detritus food chain.
 
-**1. Grazing food chain** Main source of energy for the grazing food chain is the Sun. It begins with the first link,producers (plants). The second link in the food chain is primary consumers (mouse) which get their food from producers. The third link in the food chain is secondary consumers (snake) which get their food from primary consumers. Fourth link in the food chain is tertiary consumers (eagle) which get their food from secondary consumers.
+#### 1. Grazing food chain 
+Main source of energy for the grazing food chain is the Sun. It begins with the first link,producers (plants). The second link in the food chain is primary consumers (mouse) which get their food from producers. The third link in the food chain is secondary consumers (snake) which get their food from primary consumers. Fourth link in the food chain is tertiary consumers (eagle) which get their food from secondary consumers.
 
 ![Diagrammatic representation of Grazing food chain](7.4.png "")
 
@@ -298,11 +289,55 @@ is known as the **carbon cycle**. Carbon is an inevitable part of all biomolecul
 
 It is a type of sedimentary cycle. Already we know that phosphorus is found in the biomolecules like DNA, RNA, ATP, NADP and phospholipid molecules of living organisms. Phosphorus is not abundant in the biosphere, whereas a bulk quantity of phosphorus is present in rock deposits, marine sediments and guano. It is released from these deposits by weathering 
 
-###7.2.10 Types of ecosystem
+###  Types of ecosystem
 
 Biosphere consists of different types of ecosystems, which are as follows:
+```goat
 
-**Ecosystem**
+                +--------------+
+                | Ecosystem    |
+                +-----+--------+
+                      |
+  +-------------------+---------------------------+
+  v                                               v
++-----------+-+                     +------------------------+
+| Natural     |                     |Artificial or Manmade   |
+| Ecosystem   |                     |Ecosystem               |
++             |                     |(Artifically maintained |
+|(With or     |                     |by man)                 |
+|without      |                     |Example: Rice field and |
+|human        |                     |Maize field             |
+|interference)|                     +------------------------+
++----+--------+
+     |
+   +-+-----------------------------------------------+
+   v                                                 v
+ +-------------------------+                    +----------+
+ |Terrrestrial Ecosystem   |                    |Aquatic   |
+ |Example: Forest ecosystem|                    |ecosystem |
+ |Grass land ecosystem     |                    |(Open     |
+ |Desert ecosystem         |                    |water)    |
+ +-------------------------+                    +-----+----+
+                                                      |
+                                                      |
+                 +------------------------------------+-----------+
+                 v                                                v
+     +----------------------+                           +----------------+
+     |Fresh water ecosystem |                           |Marine ecosystem|
+     +-----------+----------+                           +----------------+
+                 |
+                 |
+      +----------+----------------------------------------------+
+      v                                                         v
+  +-----------------+                                   +----------------+
+  |Lotic            |                                   |Lentic          |
+  |(Running water   |                                   |(Standing water |
+  |bodies)          |                                   |bodies)         |
+  |Example: River   |                                   |Example: Pond   |
+  |Spring and Stream|                                   |and Lake        |
+  +-----------------+                                   +----------------+
+
+  ```
 
 Though there are many types of ecosystems as charted above. Only the pond ecosystem is detailed below.
 
@@ -311,7 +346,7 @@ Though there are many types of ecosystems as charted above. Only the pond ecosys
 
 It is a classical example for natural, aquatic, freshwater, lentic type of ecosystem. It helps us to understand the structure and function of an ecosystem. When rain water gathers in a shallow area, gradually over a period of time, different kinds of organisms (microbes, plants, animals) become part of this ecosystem. This pond ecosystem is a self sustaining and self regulatory fresh water ecosystem, which shows a complex interaction between the abiotic and biotic components in it.
 
-![Diagram shows structure of pond ecosystem with abiotic and biotic components.](7.14.png "")
+![Diagram shows structure of pond ecosystem with abiotic and biotic components.](7.13.png "")
 
 ```
 **Activity**
@@ -382,50 +417,31 @@ Robert Constanza and his colleagues estimated the value of global ecosystem serv
 - Help in wind break, O2 production, carbon sequestration and prevents salt spray from waves.
 ```
 
-<<<<<<< HEAD
 **How do anthropogenic activities affect ecosystem services?** Now, we all exploit the ecosystem more than that of our needs. The Millennium Ecosystem **Assessment (2005)** found that “over the past 50 years, humans have changed the ecosystem more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, medicine, timber, fiber and fuel.”
 
 The varieties of benefits obtained from the ecosystem are generally categorized into the following four types
 
-**Ecosystem services**
-
-**Provisoning services**
-- Food, fiber and fuel
-- Genetic resources
-- Bio-chemicals - Fresh water - Medicines
-
-**Cultural services** - Spiritual and
-
-religious values - Knowledge system - Education and
-
-inspiration - Recreation and
-
-aesthetic values - Ecotourism
-
-**Supporting services** - Primary production - Provision of habitat - Nutrient cycling - Soil formation and
-
-retention - Production of
-
-atmospheric oxygen - Water cycling
-
-**Regulating services** - Invasion resistance - Herbivory pollination - Seed dispersal - Climate regulation - Pest regulation - Disease regulation - Erosion regulation - Water purification - Natural hazard protection
-=======
-**How do anthropogenic activities affect ecosystem services?** 
-
-Now, we all exploit the ecosystem more than that of our needs. **The Millennium Ecosystem Assessment (2005)** found that “over the past 50 years, humans have changed the ecosystem more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, medicine, timber, fiber and fuel.”
-
-The varieties of benefits obtained from the ecosystem are generally categorized into the following four types
-
->>>>>>> 00c5e568c59725396a869085782276971ae5da6c
-
-![Diagrammatic sketch shows stratification of Pond ecosystem](7.19.png "")
-
-
-
-<<<<<<< HEAD
-Generally the following human activities disturb or re-engineer an ecosystem every day. - Habitat destruction - Deforestation and over grazing - Erosion of soils - Introduction of non-native species - Over harvesting of plant material - Pollution of land, water and air - Run off pesticides, fertilizers and animal wastes
-=======
->>>>>>> 00c5e568c59725396a869085782276971ae5da6c
+```goat
+                                                                        +------------------+
+                                                                        |Ecosystem services|
+                                                                        +------------------+
+     +--------------------------------------+---------------------------+-------+----------+----------------------------------+
+     |                                      |                                   |                                             |
+     |                                      |                                   |                                             v
+     v                                      v                                   v                              +-----------------------------+
++-----------------+                +-------------------+             +-----------------------+                 | Regulating services         |
+|Provisoning      |                | Cultural services |             |                       |                 | • Invasion resistance       |
+|services         |                | • Spiritual and   |             | Supporting services   |                 | • Herbivory pollination     |
+|• Food, fiber    |                | religious values  |             | • Primary production  |                 | • Seed dispersal            |
+|and fuel         |                | • Knowledge system|             | • Provision of habitat|                 | • Climate regulation        |
+|• Genetic        |                | • Education and   |             | • Nutrient cycling    |                 | • Pest regulation           |
+|resources        |                | inspiration       |             | • Soil formation and  |                 | • Disease regulation        |
+|• Bio-chemicals  |                | • Recreation and  |             | retention             |                 | • Erosion regulation        |
+|• Fresh water    |                | aesthetic values  |             | • Production of       |                 | • Water purification        |
+|• Medicines      |                | • Ecotourism      |             | atmospheric oxygen    |                 | • Natural hazard protection |
++-----------------+                +-------------------+             | • Water cycling       |                 |                             |
+                                                                     +-----------------------+                 +-----------------------------+
+```
 
 Generally the following human activities disturb or re-engineer an ecosystem every day. 
 - Habitat destruction 
@@ -456,16 +472,11 @@ Therefore, we have to practice the following in our day today life:
 - Maintain your cars and vehicles properly. (In order to reduce carbon emission)
 - Create awareness and educate about ecosystem protection among your friends and family members and ask them to find out solution to minimise this problem.
 
-<<<<<<< HEAD
 **Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** - Close the tap when not in use. - Switch off the electrical gadgets
 
 when not in use. - Never use plastics and replace them
 
 with biodegradable products - Always use ecofriendly technology
-=======
-```hint { role ="warm" }
-**Go green It refers to the changing of one’s lifestyle for the safety and benefits of the environments (Reduce, Reuse, Recycle)** **Way to go green and save green** 
->>>>>>> 00c5e568c59725396a869085782276971ae5da6c
 
 -  Close the tap when not in use.
  -  Switch off the electrical gadgets
@@ -488,16 +499,8 @@ and for sustained benefits through minimal human impacts on ecosystems. Environm
 scarcity." – IUCN. "Forests house approximately 50% of global bio-diversity and at least 300 million people are dependent on forest’s goods and services to sustain their livelihood." – IUCN
 ```
 
-<<<<<<< HEAD
-**Strategy of ecosystem management** - It is used to maintain biodiversity of
-
-ecosystems. - It helps in indicating the damaged
-
-=======
-**Strategy of ecosystem management** -  It is used to maintain biodiversity of
-ecosystems. 
--  It helps in indicating the damaged
->>>>>>> 00c5e568c59725396a869085782276971ae5da6c
+**Strategy of ecosystem management** - It is used to maintain biodiversity of ecosystems. 
+- It helps in indicating the damaged
 ecosystem (Some species indicate the health of the ecosystem: such species are called a **flagship species).**
 - It is used to recognize the inevitability of ecosystem change and plan accordingly.
 - It is one of the tools used for achieving sustainability of ecosystem through sustainable development programme (or projects).
@@ -505,7 +508,9 @@ ecosystem (Some species indicate the health of the ecosystem: such species are c
 - It involves collaborative management with government agencies, local population, communities and NGO’s.
 - It is used to build the capacity of local institutions and community groups to assume responsibility for long term implementation of ecosystem management activities even after the completion of the project.
 
+
 ```hint { role ="warm" }
+
 **Urban ecosystem restoration model** Adayar Poonga is located in Chennai and covers an area around a total of 358 acres of Adayar creek and estuary, of which 58 acres were taken up for eco restoration under the auspices of Government of Tamil Nadu. It is maintained by Chennai Rivers Restoration Trust (CRRT).This was a dumping site previously. Presently it has 6 species of mangroves, about 170 species of littoral and tropical dry evergreen forests (TDF) which have successfully established as a sustainable ecosystem. Restoration of plants species has brought other associated fauna such as butterflies, birds, reptiles, amphibians and other mammals of the ecosystem. Currently Adayar Poonga functions as an environmental education Centre for school and college students and the public. The entire area stands as one of the best examples for urban eco restoration in the state of Tamil Nadu.
 
 ![Adayar Poongha](7.16.png "")
@@ -517,7 +522,6 @@ ecosystem (Some species indicate the health of the ecosystem: such species are c
 We very often see that forests and lands in our areas are drastically affected by natural calamities (Flood, earthquake) and anthropogenic activities (Fire, over grazing, cutting of trees). Due to these reasons all plants of an area are destroyed and the areas become nude. When we observe this area, over a period of a time we can see that it will be gradually covered by plant community again and become fertile. Such successive replacement of one type of plant community by the other of the same area/ place is known as plant succession. The first invaded plants in a barren area are called **pioneers**. On the other hand, a series of transitional developments of plant communities one after another in a given area are called **seral communities**. At the end a final stage and a final plant community gets established which are called as climax and climax community respectively.
 
 ### Characteristics of ecological succession
-<<<<<<< HEAD
  - It is a systematic process which
 
 causes changes in specific structure of plant community.
@@ -527,13 +531,6 @@ causes changes in specific structure of plant community.
 into a stable community. - Gradual progression in species diversity,
 
 total biomass, niche specialisation, and humus content of soil takes place.
-=======
-- It is a systematic process which causes changes in specific structure of plant community.
-- It is resultant of changes of abiotic and biotic factors.
-- It transforms unstable community
-into a stable community. 
--  Gradual progression in species diversity, total biomass, niche specialisation, and humus content of soil takes place.
->>>>>>> 00c5e568c59725396a869085782276971ae5da6c
 - It progresses from simple food chain to complex food web.
 - It modifies the lower and simple life form to the higher life forms.
 - It creates inter-dependence of plants and animals.
@@ -548,6 +545,8 @@ The development of plant community in a barren area where no community existed b
 
 #### 2. Secondary succession - 
 The development of** a plant community in an area where an already developed community has been destroyed by some natural disturbance (Fire, flood, human activity) is known as **secondary succession**. Generally, This succession takes less time than the time taken for primary succession.
+
+![Diagrammatic sketch shows stratification of Pond ecosystem](7.17.png "")  
 
 |         	|                       **Primary succession**                      	|               **Secondary succession**                  	|
 |:-------:	|:-----------------------------------------------------------------:	|:-------------------------------------------------------:	|
@@ -593,7 +592,7 @@ Example: In a forest ecosystem soil erosion and leaching alter the nutrient valu
 
 Detailed study of Hydrosere and Lithosere are discussed below:
 
-![Diagrammatic sketch shows stratification of Pond ecosystem](7.20.png "")    
+  
 ``` goat
 
 
