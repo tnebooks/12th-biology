@@ -286,7 +286,7 @@ Zea mays (maize) is an example for monoecious, which means male and female flowe
 
 Genetic variation among individuals provides the raw material for the ultimate source of evolutionary changes. Mutation and recombination are the two major processes responsible for genetic variation. A sudden change in the genetic material of an organisms is called **mutation**. The term mutation was introduced by **Hugo de Vries** (1901) while he has studying on the plant, evening primrose **(Oenothera lamarkiana)** and proposed **‘Mutation theory’**. There are two broad types of changes in genetic material. They are point mutation and chromosomal mutations. Mutational events that take place within individual genes are called gene mutations or point mutation, whereas the changes occur in structure and number of chromosomes is called chromosomal mutation. Agents which are responsible for mutation are called **mutagens,** that increase the rate of mutation. Mutations can occur either spontaneously or induced. The production of mutants through exposure of mutagens is called mutagenesis, and the organism is said to be **mutagenized.**
 
-![Types of point mutation](3.9.png "")
+![Types of point mutation](3.11.png "")
 
 ## Types of mutation
  
@@ -295,7 +295,14 @@ Genetic variation among individuals provides the raw material for the ultimate s
 - Mutations affecting single base or base pair of DNA are called point mutation 
 
 - Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
-**Types of mutations Point mutation in DNA are categorised
+
+| **S.NO** 	| **Basis of<br>classification** 	| **Major types of mutations** 	| **Major features** 	|
+|---	|---	|---	|---	|
+| 1. 	| <br><br>Origin<br> 	| Spontaneous<br><br><br><br><br><br>Induced 	| Occurs in the absence of known<br>mutagen<br><br><br><br>Occurs in the presence of known<br>mutagen 	|
+| 2. 	| Cell type 	| Somatic<br><br><br>Germ-line 	| Occurs in non-reproductive cells<br><br><br>Occurs in reproductive cells 	|
+| 3. 	| Effect on<br>function<br><br><br><br><br> 	| Loss-of-function (knockout, null)<br><br>Hypomorphic(leaky)<br><br>Hypermorphic<br><br>Gain-of-function (ectopic<br>expression) 	| Eliminates normal function<br><br>Reduces normal function<br><br>Increases normal function<br><br>Expressed at incorrect time or<br>inappropriate cells 	|
+| 4. 	| Molecular<br>change 	| **Nucleotide substitution**<br><br>- Transition<br><br> <br><br>- Transversion<br><br><br><br>- Insertion<br><br><br><br>- Deletion 	| A base pair in DNA duplex is<br>replaced with a different base pair<br>Purine to purine(A -> G)or<br>pyrimidine to pyrimidine(T -> C)<br><br>Purine to pyrimidine(A -> T) or<br>pyrimidine to purine(C -> G)<br><br>One or more extra nucleotides are<br>present<br><br><br><br>One or more nucleotides are<br>missing 	|
+| 5. 	| Effect on<br>translation 	| - Silent (synonymous)<br><br>- Missense (non-synonymous)<br><br>- Nonsense(termination)<br><br><br>- Frameshift 	| No change in amino acid encoded<br><br>Change in amino acid encoded<br><br>Creates translational termination<br>codon (UAA, UAG, or UGA<br><br>Shifts triplet reading of codons out<br>of correct phase 	|
 
 **Table 3.7:** Major types of mutations
 
@@ -318,7 +325,9 @@ The factors which cause genetic mutation are called **mutagenic agents or mutage
 
 **Radiation:**
 
-The electromagnetic spectrum** contains shorter and longer wave length rays than the visible spectrum. These are classified into ionizing and non-ionizing radiation. Ionizing radiation are short wave length and carry enough higher energy to ionize electrons from atom. X rays, gamma rays, alfa rays, beta rays and cosmic rays which breaks the chromosomes (chromosomal mutation) and chromatids in irradiated cells. Non-ionizing radiation, UV rays have longer wavelengths and carry lower energy, so they have lower penetrating power than the ionizing radiations. It is used to treat unicellular microorganisms, spores, pollen grains which possess nuclei located near surface membrane. **Sharbati Sonora** 
+The electromagnetic spectrum** contains shorter and longer wave length rays than the visible spectrum. These are classified into ionizing and non-ionizing radiation. Ionizing radiation are short wave length and carry enough higher energy to ionize electrons from atom. X rays, gamma rays, alfa rays, beta rays and cosmic rays which breaks the chromosomes (chromosomal mutation) and chromatids in irradiated cells. Non-ionizing radiation, UV rays have longer wavelengths and carry lower energy, so they have lower penetrating power than the ionizing radiations. It is used to treat unicellular microorganisms, spores, pollen grains which possess nuclei located near surface membrane. 
+
+**Sharbati Sonora** 
 
 Sharbati Sonora is a mutant variety of wheat, which is developed from Mexican variety (Sonora 64) by irradiating of gamma rays. It is the work of Dr. **M.S.Swaminathan** who is known as **‘Father of Indian green revolution’** and his team.
 
@@ -355,7 +364,7 @@ The genome can also be modified on a larger scale by altering the chromosome str
 
 Each cell of living organisms possesses fixed number of chromosomes. It varies in different species. Even though some species of plants and animals are having identical number of chromosomes, they will not be similar in character. Hence the number of chromosomes will not differentiate the character of species from one another but the nature of hereditary material (gene) in chromosome that determines the character of species.
 
-Sometimes the chromosome number of somatic cells are changed due to addition or elimination of individual chromosome or basic set of chromosomes. This condition in known as **numerical chromosomal aberration** or **ploidy. There are two types of ploidy.**
+Sometimes the chromosome number of somatic cells are changed due to addition or elimination of individual chromosome or basic set of chromosomes. This condition in known as **numerical chromosomal aberration** or **ploidy**. There are two types of ploidy.
 
 (i). Ploidy involving individual chromosomes within a diploid set (**Aneuploidy**)
 
@@ -373,7 +382,7 @@ Addition of one or more chromosomes to diploid sets are called **hyperploidy**. 
 
 **(b) Tetrasomy** Addition of a pair or two individual pairs of chromosomes to diploid set is called **tetrasomy** (2n+2) and **Double tetrasomy** (2n+2+2)respectively. 
 
-table
+flow chart (3.10)
 
 **(c) Pentasomy**
 
@@ -391,7 +400,7 @@ Loss of a single chromosome from the diploid set are called **monosomy**(2n-1). 
 
 Loss of a pair of homologous chromosomes or two pairs of homologous chromosomes from the diploid set are called **Nullisomy** (2n-2) and **double Nullisomy** (2n-2-2) respectively. Selfing of monosomic plants produce nullisomics. They are usually lethal.
 
-![Types of aneuploidy](3.14.png "")
+![Types of aneuploidy](3.12.png "")
 
 **(ii) Euploidy**
 
@@ -412,7 +421,7 @@ Polyploidy is the condition where an organism possesses more than two basic sets
 
 An organism which possesses two or more basic sets of chromosomes derived from two different species is called allopolyploidy. It can be developed by interspecific crosses and fertility is restored by chromosome doubling with colchicine treatment. Allopolyploids are formed between closely related species only. (Figure 3.15)
 
-![Rhaphanobrassica](3.15.png "")
+![Rhaphanobrassica](3.13.png "")
 
 
 Example:1 **_Raphanobrassica_**, **G.D. Karpechenko** (1927) a Russian geneticist, crossed the radish (**_Raphanus sativus_**, 2n=18) and cabbage (**_Brassica oleracea_**, 2n=18) to produce F1 hybrid which was sterile. When he doubled the chromosome of F1 hybrid he got it fertile. He expected this plant to exhibit the root of radish and the leaves like cabbage, which would make the entire plant edible, but the case was vice versa, so he was greatly disappointed.
@@ -429,11 +438,11 @@ Hexaploidy Triticale hybrid plants demonstrate characteristics of both macaroni 
 
 For example, they combine the high-protein content of wheat with rye’s high content of the amino acid lysine, which is low in wheat. It can be explained by chart below (Figure: 3.16).
 
-![Triticale](3.16.png "")
+![Triticale](3.14.png "")
 
 
 **Colchicine** , an alkaloid is extracted from root and corms of **_Colchicum autumnale_**, when applied in low concentration to the growing tips of the plants it will induce polyploidy. Surprisingly it does not affect the source plant Colchicum, due to presence of anticolchicine.
-![Colchicine](3.17.png "")
+![Colchicine](colchicine.png "")
 
 
 **Significance of Ploidy** 
@@ -478,8 +487,8 @@ i. Simple translocation
 ii. Shift translocation 
 iii. Reciprocal translocation
 
-![Deletion](3.18.png "")
-![Duplication](3.19.png "")
+![Deletion](3.16.png "")
+![Duplication](3.17.png "")
 
 ## DNA Metabolism in Plants
 
@@ -504,7 +513,7 @@ Plants have effective DNA repair mechanism to prevent UV damage from sunlight. T
 ### Eukaryotic DNA replication
  Replication starts at a specific site on a DNA sequence known as the Origin of replication. There are more than one origin of replication in eukaryotes. **_Saccharomyces cerevisiae_** (yeast) has approximately 400 origins of replication. DNA replication in eukaryotes starts with the assembly of a prereplication complex (preRC) consisting of 14 different proteins. Part of a preRC is a group of 6 proteins called the origin recognition complex (ORC) which acts as initiator in eukaryotic DNA replication. The origin of replication in **yeast** is called as **ARS** **sites (Autonomously Replicating Sequences).** In yeast, ORC was identified as a protein complex which binds directly to ARS elements.
 
-![Eukaryotic replication fork](3.20.png "")
+![Eukaryotic replication fork](3.18.png "")
 
 Replication fork is the site (point of unwinding) of separation of parental DNA strands where new daughter strands are formed. Multiple replication forks are found in eukaryotes. The enzyme helicases are involved in unwinding of DNA by breaking hydrogen bonds holding the two strands of DNA and replication protein A (RPA) prevents the separated polynucleotide strand from getting reattached.
 
@@ -522,7 +531,7 @@ DNA Polymerase β does not play any role in the replication of normal DNA. Funct
 
 DNA Synthesis takes place in 5’->  3’ direction and it is semidiscontinuous. When DNA is synthesized in 5’ -> 3’ direction, only in the free 3’ end (OH end) DNA is elongated. In 1960s Reiji Okazaki and his colleagues found out that one of the new DNA strands is synthesized in short pieces called **Okazaki fragments**. In discontinuous  strand where the Okazakifragments are united by ligase is called Lagging strand where the replication direction is 5’-> 3’ which is opposite to the direction of fork movement. . The continuous strand is called Leading strand where the replication direction is 5’-> 3’ which is same to the direction to that of the replication fork movement. DNA ligase joins any nicks in the DNA by forming a phosphodiester bond between 3’ hydroxyl and 5’ phosphate group.
 
-![](3.21.png "")
+![Okazaki fragments](okazaki-fragments.png "")
 
 **Arabidopsis telomere sequence - TTTAGGG**
 
@@ -543,7 +552,7 @@ After the replication of the chromosomes, the enzyme **telomerase** adds several
 They labelled DNA with 3H Thymidine,_
 a radioactive precursor of DNA and performed autoradiography. They grew root tips in a medium in the presence of radioactive labelled thymidine, so that the radioactivity was incorporated into the DNA of these cells. The outline of this labelled chromosomes appears in the form of scattered black dots of silver grains on a photographic film.
 
-![Taylors Experiment on *_Vicia faba_*](3.22.png "")
+![Taylors Experiment on *_Vicia faba_*](3.20.png "")
 
 The root tips with labelled chromosomes were placed in an unlabelled medium containing colchicine to arrest the culture at the metaphase and examine the chromosome by autoradiography. The observations were,
 
@@ -559,7 +568,7 @@ The process of protein synthesis consists of two major steps, they are Transcrip
 
 
 
-![Protein synthesis in plants](3.23.png "") 
+![Protein synthesis in plants](3.21.png "") 
  
 ## Transcription
  
@@ -569,7 +578,7 @@ The process of protein synthesis consists of two major steps, they are Transcrip
 
 The transcription begins with unwinding of DNA double helix and the hydrogen bonds are broken at the site of the gene being transcribed. **Template Strand / Non-Coding Strand / Antisense Strand** The strand of DNA which is oriented in 3’-> 5’ direction that serves as a template for the synthesis of mRNA is called template strand.
 
-![Transcription](3.24.png "")
+![Transcription](3.22.png "")
 
 **Coding strand / Non-template strand / Sense Strand**
 
@@ -657,7 +666,7 @@ The protein coding regions are not continuous in eukaryotes. Split genes were in
 
 RNA Splicing is a process which involves the cutting or removing out of introns and knitting of exons. This process takes place in spherical particles which is a multiprotein complex called **SPLICISOMES.** It is approximately 40 – 60 nm in diameter. The spliceosomes have many small nuclear ribonucleic acids (snRNAs) and small nuclear ribonuclear protein particles (snRNPs) which identify and helps in the removal of introns.
 
-![RNA Splicing in plants](3.25.png "")
+![RNA Splicing in plants](3.23.png "")
 
 A spliceosome removes the introns with an enzyme ribozyme. Now the mature mRNA comes away from the spliceosomes through the nuclear pore and is transported out from the nucleus into cytoplasm, and gets attached to ribosome to carry out translation. The RNA and many proteins are transported through a nuclear pore complex by an energy dependent process.
 
@@ -688,7 +697,7 @@ A ribosome has one binding site for mRNA and two for tRNA. The two binding sites
 
 **2. Elongation of polypeptide chain** The P and A sites are nearby, so that two tRNA form base pairs with adjacent codon. The polypeptide chain is formed by the pairing of codons and anticodons according to the nucleotide sequence of the mRNA.
 
-![Translation](3.26.png "")
+![Translation](3.24.png "")
 
 **Translators of the genetic code - tRNA** 
 
@@ -710,7 +719,7 @@ Eukaryotes have cytosolic proteins called **release factors** which recognize th
 ### Alternative Splicing in plants
  It is very useful in regulating gene expression to overcome the environmental stress in plants.
 
- ![Alternative splicing in plants](3.27.png "")
+ ![Alternative splicing in plants](3.25.png "")
 
 Alternative splicing is an important mechanism / process by which multiple mRNA’s and multiple proteins products can be generated from a single gene. The different proteins generated are called isoforms. There are various modes of alternative splicing. When multiple introns are present in a gene, they are removed separately or as a unit. In certain cases one or more exons which is present between the introns are also removed.
 
@@ -735,7 +744,7 @@ In plant cells RNA editing by pyrimidine transitions occurs in mitochondria and 
 
 **Plant organelle gene expression is coordinated with the nuclear gene expression**
 
-![RNA Editing – Post](3.28.png "")
+![RNA Editing – Post](3.26.png "")
 
 **Significance of RNA Editing**
 
@@ -756,7 +765,7 @@ acids which include initiation and termination codon.
 
 ### Jumping Genes
 
-![Barbara McClintock](3.29.png "")
+![Barbara McClintock](3.27.png "")
 
  **Have you heard of Jumping Genes or Hopping Genes?**
 
@@ -790,7 +799,7 @@ _Arabidopsis thaliana_ – Thale cress, Mouse- ear cress
 6. In 1982, Arabidopsis has successfully completed its life cycle in Microgravity i.e. space. This shows that Human Space Missions with plant companions may be possible.
 
 
-![_Arabidopsis thaliana_](3.30.png "")
+![_Arabidopsis thaliana_](3.28.png "")
 
 
 ## SUMMARY 
