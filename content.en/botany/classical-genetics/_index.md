@@ -35,7 +35,7 @@ Genetics – The Science of heredity (Inheritance) - “Genetics” is the branc
 
 What is the reason for similarities, differences of appearance and skipping of generations?
 
- Genes – Functional Units of inheritance: The basic unit of heredity (biological information) which transmits biochemical, anatomical and behavioural traits from parents to offsprings.
+Genes – Functional Units of inheritance: The basic unit of heredity (biological information) which transmits biochemical, anatomical and behavioural traits from parents to offsprings.
 
 ``` 
 
@@ -44,7 +44,7 @@ What is the reason for similarities, differences of appearance and skipping of g
 
 **Heredity:** Heredity is the transmission of characters from parents to offsprings.
 
-**Variation: The organisms belonging to the** same natural population or species that shows a difference in the characteristics is called variation. Variation is of two types (i) Discontinuous variation and (ii) Continuous variation
+**Variation:** The organisms belonging to the same natural population or species that shows a difference in the characteristics is called variation. Variation is of two types (i) Discontinuous variation and (ii) Continuous variation
 
 **1. Discontinuous Variation:**
 
@@ -70,7 +70,7 @@ This variation may be due to the combining effects of environmental and genetic 
 The first Geneticist, Gregor Johann Mendel unraveled the mystery of heredity. He was born on 22nd July 1822 in Heinzendorf Silesia (now Hyncice, C z e c h o s l o v a k i a ) , Austria. After school education, later he studied botany, physics and mathematics at the University of Vienna. He then entered a monastery of St.Thomas at Brunn in Austria and continued his interest in plant hybridization. In 1849 Mendel got a temporary position in a school as a teacher and he performed a series of elegant experiments with pea plants in his garden. In 1856, he started his historic studies on pea plants. 1856 to 1863 was the period of Mendel’s hybridization experiments on pea plants. Mendel discovered the principles of heredity by studying the inheritance of seven pairs of contrasting traits of pea plant in his garden. Mendel crossed and catalogued 24,034 plants through many generations. His paper entitled **“Experiments on Plant Hybrids”** was presented and published in The Proceedings of the Brunn Society of Natural History in 1866. Mendel was the first systematic researcher in the field of genetics.
 
 
-![Gregor Johann Mendel (1822 – 1884)](gregormendel.jpg "")
+![Gregor Johann Mendel (1822 – 1884)](2.1.png "")
 
 
 **Mendel was successful because:** 
@@ -99,7 +99,7 @@ He chose pea plant because,
 
 Mendel’s theory of inheritance, known as the Particulate theory, establishes the existence of minute particles or hereditary units or factors, which are now called as **genes**. He performed artificial pollination or cross pollination experiments with several true-breeding lines of pea plants. A true breeding lines (Pure-breeding strains) means it has undergone continuous self pollination having stable trait inheritance from parent to offspring. Matings within pure breeding lines produce offsprings having specific parental traits that are constant in inheritance and expression for many generations. Pure line breed refers to homozygosity only. Fusion of male and female gametes produced by the same individual i.e pollen and egg are
 
-![Steps in cross Pollination Flowers](steps-in-cross-pollination-flowers.png "")
+![Steps in cross Pollination Flowers](2.2.png "")
 
 
 derived from the same plant is known as self- fertilization. Self pollination takes place in Mendel’s peas. The experimenter can remove the anthers (Emasculation) before fertilization and transfer the pollen from another variety of pea to the stigma of flowers where the anthers are removed. This results in cross-fertilization, which leads to the creation of hybrid varieties with different traits. Mendel’s work on the study of the pattern of inheritance and the principles or laws formulated, now constitute the Mendelian Genetics.
@@ -107,9 +107,9 @@ derived from the same plant is known as self- fertilization. Self pollination ta
 
 **The First Model Organism in Genetics – Garden Peas (_Pisum sativum_) – Seven characters studied by Mendel.**
 
-![](figure2.3.seven-characters-of-pisumsativum-studied-by-mendel.png "")
+![figure2.3.seven-characters-of-pisumsativum-studied-by-mendel](2.3.png "")
 
-![](seven-characters-of-pisumsativum-with-genes.png "")
+![seven-characters-of-pisumsativum-with-genes](2.4.png "")
 
 
 Mendel worked at the rules of inheritance and arrived at the correct mechanism before any knowledge of cellular mechanism, DNA, genes, chromosomes became available. Mendel insights and meticulous work into the mechanism of inheritance played an important role which led to the development of improved crop varieties and a revolution in crop hybridization.
@@ -117,7 +117,7 @@ Mendel worked at the rules of inheritance and arrived at the correct mechanism b
 Mendel died in 1884. In 1900 the work of Mendel’s experiments were rediscovered by three biologists, **Hugo de Vries** of Holland, **Carl Correns** of Germany and **Erich von Tschermak** of Austria.
 
 Can you identify Mendel’s gene for **regulating white colour in peas? Let us find** the **molecular answer** to understand the gene function. Now the **genetic mystery of Mendel’s white flowers is solved.** It is quite fascinating to trace the Mendel’s genes. In 2010, the gene responsible for regulating flower colour in peas were identified by an international team of researchers. It was called **Pea Gene A** which encodes a **protein** that functions as a transcription factor which is responsible for the production of **anthocyanin pigment. So the flowers are** purple. Pea plants with white flowers do not have anthocyanin, even though they have the gene that encodes the enzyme involved in anthocyanin synthesis. Researchers delivered normal copies of gene A into the cells of the petals of white flowers by the gene gun method. When Gene A entered in a small percentage of cells of white flowers it is expressed in those particular cells, accumulated anthocyanin pigments and became purple. In white flowers the gene A sequence showed a single-nucleotide change that makes the transcription factor inactive. So the mutant form of gene A do not accumulate anthocyanin and hence they are white.
-![Purple flower of Pea with Pea Gene A and White flower of Pea](purple-flower-ofpea-with-pea-gene-a-and-white-flower-of-pea.png "")
+![Purple flower of Pea with Pea Gene A and White flower of Pea](2.5.png "")
 
 ### Terminology related to Mendelism
 
@@ -141,7 +141,7 @@ and a heterozygous parent produces two kinds of gametes each having one allele w
 
  Monohybrid inheritance is the inheritance of a single character i.e. plant height.It involves the inheritance of two alleles of a single gene. When the F1 generation was selfed Mendel noticed that 787 of 1064 F2 plants were tall, while 277 of 1064 were dwarf. The dwarf trait disappeared in the F1 generation only to reappear in the F2 generation. The term **genotype** is the genetic constitution of an individual. The term **phenotype** refers to the observable characteristic of an organism. In a genetic cross the genotypes and phenotypes of offspring, resulting from combining gametes during fertilization can be easily understood with the help of a diagram called Punnett’s Square named after a British Geneticist Reginald C.Punnett. 
  
- ![Monohybrid Cross](monohybrid-cross.png "")
+ ![Monohybrid Cross](2.6.png "")
  
  
  It is a graphical representation to calculate the probability of all possible genotypes of offsprings in a genetic cross.The Law of Dominance and the Law of Segregation give suitable explanation to Mendel’s monohybrid cross.
@@ -166,21 +166,21 @@ In Mendel’s monohybrid cross all the plants are tall in F1 generation. In F2 t
 
 **If heterozygous tall test cross** 
 
-![Test Tall](heterozygous-tall-test-cross.png "")
+![Test Tall](2.7.png "")
 
 
-![Test Tall](homozygous-tall-test-cross.png "")
+![Test Tall](2.7.1.png "")
 
 
 **Why Mendel’s pea plants are tall and dwarf? Find out the molecular explanation.**
 
-Molecular characterization of Mendel’s gene for plant height.
+Molecular characterizationof Mendel’s gene for plant height.
 
 The plant height is controlled by a single gene with two alleles. The reason for this difference in plant height is due to the following facts: (i) the cells of the pea plant have the ability to convert a precursor molecule of gibberellins into an active form (GA1) (ii) Tall pea plants have one allele (Le) that codes for a protein (functional enzyme) which functions normally in the gibberellin-synthesis pathway and catalyzes the formation of gibberellins (GA1). The allele is dominant even if it is two (Le Le) or single (Le le), it produces gibberellins and the pea plants are tall. Dwarf pea plants have two recessive alleles (le le) which code for non-functional protein, hence they are dwarf.
 
 **Gene for plant height in Peas**
 
-![Gene for plant height in Peas](gene-for-plant-height-in-peas.png "")
+![Gene for plant height in Peas](2.8.png "")
 
 ### Back cross
 - Back cross is a cross of F1 hybrid with any
@@ -198,11 +198,10 @@ one of the parental genotypes. The back cross is of two types; they are dominant
 ### Dihybrid cross
  It is a genetic cross which involves individuals differing in two characters. Dihybrid inheritance is the inheritance of two separate genes each with two alleles.
 
+ ![Dihybrid cross – Segregation of gametes](2.9.png "")
+
 ### Law of Independent Assortment – 
 When two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent to the other pair of characters. Genes that are located in different chromosomes assort independently during meiosis. Many possible combinations of factors can occur in the gametes.
-
-
-![Dihybrid cross – Segregation of gametes](dihybrid-cross-segregation-of-gametes.png "")
 
 Independent assortment leads to genetic diversity. If an individual produces genetically dissimilar gametes it is the consequence of independent assortment. Through independent assortment, the maternal and paternal members of all pairs were distributed to gametes, so all possible chromosomal combinations were produced leading to genetic variation. In sexually reproducing plants / organisms, due to independent assortment, genetic variation takes place which is important in the process of evolution. The Law of Segregation is concerned with alleles of one gene but the Law of Independent Assortment deals with the relationship between genes.
 
@@ -216,7 +215,7 @@ The crossing of two plants differing in two pairs of contrasting traits is calle
 These four types of gametes of F1 dihybrids unite randomly in the process of fertilization and produce sixteen types of individuals in F2 in the ratio of 9:3:3:1 as shown in the figure. Mendel’s 9:3:3:1 dihybrid ratio is an ideal ratio based on the probability including segregation, independent assortment and random fertilization. In sexually reproducing organism / plants from the garden peas to human beings, Mendel’s findings laid the foundation for understanding inheritance and revolutionized the field of biology. The dihybrid cross and its result led Mendel to propose a second set of generalisations that we called Mendel's Law of independent assortment.
 
 
-![Dihybrid Cross in Garden peas](dihybrid-cross-in-garden-peas.png "")
+![Dihybrid Cross in Garden peas](2.10.png "")
 
 **How does the wrinkled gene make Mendel’s peas wrinkled? Find out the molecular explanation.**
 
@@ -225,21 +224,21 @@ The protein called starch branching enzyme (SBEI) is encoded by the wild-type al
 **The wrinkled gene make Mendel’s peas wrinkled**
 
 
-![Molecular explanation of round and wrinkled peas.](molecular-explanations-of-round-and-wrinkled-peas.png "")
+![Molecular explanation of round and wrinkled peas.](2.11.png "")
 
 ### The Dihybrid test cross
 **The Dihybrid test cross**
 
-![Dihybrid test cross](dihybrid-test-cross.png "")
+![Dihybrid test cross](2.12.png "")
 
 ### Extensions of Mendelian Genetics
- Apart from monohybrid, dihybrid and trihybrid crosses, there are exceptions to Mendelian principles, i.e. the occurrence of different phenotypic ratios. The more complex patterns of inheritance are the extensions of Mendelian Genetics. There are examples where phenotype of the organism is the result of the interactions among genes.
+Apart from monohybrid, dihybrid and trihybrid crosses, there are exceptions to Mendelian principles, i.e. the occurrence of different phenotypic ratios. The more complex patterns of inheritance are the extensions of Mendelian Genetics. There are examples where phenotype of the organism is the result of the interactions among genes.
 
-## Gene interaction – 
+**Gene interaction** – 
 
 A single phenotype is controlled by more than one set of genes, each of which has two or more alleles. This phenomenon is called Gene Interaction. Many characteristics of the organism including structural and chemical which constitute the phenotype are the result of interaction between two or more genes.
 
-![Gene Interaction](gene-interaction.png "")
+table
 
 Mendelian experiments prove that a single gene controls one character. But in the post Mendelian findings, various exception have been noticed, in which different types of interactions are possible between the genes. This gene interaction concept was introduced and explained by W. Bateson. This concept is otherwise known as Factor hypothesis or Bateson’s factor hypothesis. According to Bateson’s factor hypothesis, the gene interactions can be classified as
 - Intragenic gene interactions or Intra allelic or allelic interactions 
@@ -258,33 +257,36 @@ Interactions take place between the alleles of the same gene i.e., alleles at th
 
 **The German Botanist Carl Correns’s (1905) Experiment -** In 4 O’ clock plant, _Mirabilis jalapa_ when the pure breeding homozygous red (R1R1) parent is crossed with homozygous white (R2R2), the phenotype of the F1 hybrid is heterozygous pink (R1R2). The F1 heterozygous phenotype differs from both the parental homozygous phenotype. This cross did not exhibit the character of the dominant parent but an intermediate colour pink. When one allele is not completely dominant to another allele it shows incomplete dominance. Such allelic interaction is known as incomplete dominance. F1 generation produces intermediate phenotype pink coloured flower. When pink coloured plants of F1 generation were interbred in F2 both phenotypic and genotypic ratios were found to be identical as 1 : 2 : 1(1 red : 2 pink : 1 white). Genotypic ratio is 1 R1R1 : 2 R1R2 : 1 R2R2.From this we conclude that the alleles themselves remain discrete and unaltered proving the Mendel’s Law of Segregation. The phenotypic and genotypic ratios are the same. There is no blending of genes. In the F2 generation R1 and R2 genes segregate and recombine to produce red, pink and white in the ratio of 1 : 2 : 1. R1 allele codes for an enzyme responsible for the formation of red pigment. R2 allele codes for defective enzyme. R1 and R2 genotypes produce only enough red pigments to make the flower pink. Two R1R1 are needed for producing red flowers. Two R2R2 genes are needed for white flowers. If blending had taken place, the original pure traits would not have appeared and all F2 plants would have pink flowers. It is very clear that Mendel’s particulate inheritance takes place in this cross which is confirmed by the reappearance of original phenotype in F2.
 
-![**Figure 2.14:**Incomplete dominance in 4 O’ clock plant](incomplete-dominance-in-4clockplant.png "")
+![Incomplete dominance in 4 O’ clock plant](2.13.png "")
+
+```
 
 **How are we going to interpret the lack of dominance and give explanation to the intermediate heterozygote phenotype? How will you explain incomplete dominance at the molecular level?** Gene expression is explained in a quantitative way. Wild-type allele which is a functional allele when present in two copies (R1 R1) produces an functional enzyme which synthesizes red pigments. The mutant allele which is a defective allele in two copies (R2 R2) produces an enzyme which cannot synthesize necessary red pigments. The white flower is due to the mutation causing complete loss of function. The F1 intermediate phenotype heterozygote (R1R2) has one copy of the allele R1. R1 produces 50% of the functional protein resulting in half of the pigment of red flowered plant and so it is pink. The intermediate phenotype pink heterogyzote with 50% of functional protein is not enough to create the red phenotype homozygous, which makes 100% of the functional protein.
 
+```
 
 ### Codominance (1 : 2 : 1) 
 
-This pattern occurs due to simultaneous (joint) expression of both alleles in the heterozygote - The phenomenon in which two** alleles are both expressed in the heterozygous individual is known as codominance. Example: Red and white flowers of Camellia, inheritance of sickle cell haemoglobin, ABO blood group system in humanbeings. In humanbeings, IA and IB alleles of I gene are codominant which follows Mendels law of segregation. The codominance was demonstrated in plants with the help of electrophoresis or chromatography for protein or flavonoid substance. Example: Gossypium _hirsutum_ and _Gossypium sturtianum_, their F1 hybrid (amphiploid) was tested for seed proteins by electrophoresis. Both the parents have different banding patterns for their seed proteins. In hybrids, additive banding pattern was noticed. Their hybrid shows the presence of both the types of proteins similar to their parents.
+**This pattern occurs due to simultaneous (joint) expression of both alleles in the heterozygote** - The phenomenon in which two** alleles are both expressed in the heterozygous individual is known as codominance. Example: Red and white flowers of Camellia, inheritance of sickle cell haemoglobin, ABO blood group system in humanbeings. In humanbeings, IA and IB alleles of I gene are codominant which follows Mendels law of segregation. The codominance was demonstrated in plants with the help of electrophoresis or chromatography for protein or flavonoid substance. Example: Gossypium _hirsutum_ and _Gossypium sturtianum_, their F1 hybrid (amphiploid) was tested for seed proteins by electrophoresis. Both the parents have different banding patterns for their seed proteins. In hybrids, additive banding pattern was noticed. Their hybrid shows the presence of both the types of proteins similar to their parents.
 
 The heterozygote genotype gives rise to a phenotype distinctly different from either of the homozygous genotypes. The F1 heterozygotes produce a F2 progeny in a phenotypic and genotypic ratios of 1 : 2 : 1. 
 
 ### Lethal genes 
  
- **An allele which has the potential to cause the death of an organism is called a “Lethal Allele”.** In 1907, E. Baur reported a lethal gene in snapdragon (_Antirrhinum sp._). It is an example for recessive lethality. In snapdragon there are three kinds of plants.
+**An allele which has the potential to cause the death of an organism is called a “Lethal Allele”.** In 1907, E. Baur reported a lethal gene in snapdragon (_Antirrhinum sp._). It is an example for recessive lethality. In snapdragon there are three kinds of plants.
 
- 1. Green plants with chlorophyll. (CC)
+1. Green plants with chlorophyll. (CC)
  
- 2. Yellowish green plants with carotenoids are referred to as pale green, golden or aurea plants (Cc)
+2. Yellowish green plants with carotenoids are referred to as pale green, golden or aurea plants (Cc)
 
- 3. White plants without any chlorophyll. (cc) 
+3. White plants without any chlorophyll. (cc) 
  The genotype of the homozygous green plants is CC. The genotype of the homozygous white plant is cc.
 
 The aurea plants have the genotype Cc because they are heterozygous of green and white plants. When two such aurea plants are crossed the F1 progeny has identical phenotypic and genotypic ratio of 1 : 2 : 1 (viz. 1 Green (CC) : 2 Aurea (Cc) : 1 White (cc))
 
 Since the white plants lack chlorophyll pigment, they will not survive. So the F2 ratio is modified into 1 : 2. In this case the homozygous recessive genotype (cc) is lethal.
 
-![**Figure: 2.15:** Lethal genes](lethal-genes.png "")
+![Lethal genes](2.14.png "")
 
 
 The term “lethal” is applied to those changes in the genome of an organism which produces effects severe enough to cause death. Lethality is a condition in which the death of certain genotype occurs prematurely. The fully dominant or fully recessive lethal allele kills the carrier individual only in its homozygous condition. So the F2 genotypic ratio will be 2 : 1 or 1 : 2 respectively.
@@ -300,7 +302,7 @@ In Pleiotropy, the single gene affects multiple traits and alter the phenotype o
 
 In the summer squash the fruit colour locus has a dominant allele ‘W’ for whitecolour and a recessive allele ‘w’ for coloured fruit. ‘W’ allele is dominant that masks the expression of any colour. In another locus hypostatic allele ‘G’ is for yellow fruit and its recessive allele ‘g’ for green fruit. In the first locus the white is dominant to colour where as in the second locus yellow is dominant to green. When the white fruit with genotype WWgg is crossed with yellow fruit with genotype wwGG, the F1 plants have white fruit and are heterozygous (WwGg). When F1 heterozygous plants are crossed they give rise to F2 with the phenotypic ratio of 12 white : 3 yellow : 1 green.
 
-![Dominant epistasis in summer squash](dominant-epistasis-in-summer-squash.png "")
+![Dominant epistasis in summer squash](2.15.png "")
 
 Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is dominant, masks the effect of yellow or green. Homozygous recessive ww genotypes only can give the coloured fruits (4/16). Double recessive ‘wwgg’ will give green fruit (1/16). The Plants having only ‘G’ in its genotype (wwGg or wwGG) will give the yellow fruit(3/16).
 
@@ -314,10 +316,6 @@ Since W is epistatic to the alleles ‘G’ and ‘g’, the white which is domi
 |  2        	| Codominance            	| ABO Blood group system in humans                                                   	| 1 : 2 : 1                   	|
 
 **Table 2.2:** 
-
-
-
-
 
 **Inter-genic or non-allelic interaction**
 
@@ -343,9 +341,9 @@ The first experiment on polygenic inheritance was demonstrated by Swedish Geneti
 
 The R gene in an additive manner produces the red kernel colour. The number of each phenotype is plotted against the intensity of red kernel colour which produces a bell shaped curve. This represents the distribution of phenotype. Other example: Height and skin colour in humans are controlled by three pairs of genes.
 
-![polygenic-inheritance-in-wheat-kernel-colour](polygenic-inheritance-in-wheat-kernel-colour.png "")
+![polygenic-inheritance-in-wheat-kernel-colour](2.16.png "")
 
-![The genetic control of colour in wheat kernels](the-genetic-control-of-colour-in-wheat-kernels.png "")
+![The genetic control of colour in wheat kernels](2.17.png "")
 
 **Conclusion:**
 
@@ -353,17 +351,19 @@ Finally the loci that was studied by Nilsson – Ehle were not linked and the ge
 
 Later, researchers discovered the third gene that also affect the kernel colour of wheat. The three independent pairs of alleles were involved in wheat kernel colour. Nilsson – Ehle found the ratio of 63 red : 1 white in F2 generation – 1 : 6 : 15 : 20 : 15 : 6 : 1 in F2 generation.
 
-![Polygenic inheritance in wheat kernel colour](polygenic-inheritance-in-wheat-kernel.png "")
+![Polygenic inheritance in wheat kernel colour](2.18.png "")
 
 From the above results Nilsson – Ehle showed that the blending inheritance was not taking place in the kernel of wheat. In F2 generation plants have kernels with wide range of colour variation. This is due to the fact that the genes are segregating and recombination takes place. Another evidence for the absence of blending inheritance is that the parental phenotypes dark red and white appear again in F2. There is no blending of genes, only the phenotype. The cumulative effect of several pairs of gene interaction gives rise to many shades of kernel colour. He hypothesized that the two loci must contribute additively to the kernel colour of wheat. The contribution of each red allele to the kernel colour of wheat is additive.
 
 ## Extra Chromosomal Inheritance or Extra Nuclear Inheritance (Cytoplasmic Inheritance)
  DNA is the universal genetic material. Genes located in nuclear chromosomes follow Mendelian inheritance. But certain traits are governed either by the chloroplast or mitochondrial genes. This phenomenon is known as extra nuclear inheritance. It is a kind of Non-Mendelian inheritance. Since it involves cytoplasmic organelles such as chloroplast and mitochondrion that act as inheritance vectors, it is also called Cytoplasmic inheritance. It is based on independent, self-replicating extra chromosomal unit called plasmogene located in the cytoplasmic organelles, chloroplast and mitochondrion.
 
-**Chloroplast Inheritance** It is found in 4 O’ Clock plant (_Mirabilis jalapa_). In this, there are two types of variegated leaves namely dark green leaved plants and pale green leaved plants. When the pollen of dark green leaved plant (male) is transferred to the stigma of pale green leaved plant (female) and pollen of pale green leaved plant is transferred to the stigma of dark green leaved plant, the F1 generation of both the crosses must be identical as per Mendelian inheritance. But in the reciprocal cross the F1 plant differs from each other. In each cross, the F1 plant reveals the character of the plant which is used as female plant.
+**Chloroplast Inheritance** 
+
+It is found in 4 O’ Clock plant (_Mirabilis jalapa_). In this, there are two types of variegated leaves namely dark green leaved plants and pale green leaved plants. When the pollen of dark green leaved plant (male) is transferred to the stigma of pale green leaved plant (female) and pollen of pale green leaved plant is transferred to the stigma of dark green leaved plant, the F1 generation of both the crosses must be identical as per Mendelian inheritance. But in the reciprocal cross the F1 plant differs from each other. In each cross, the F1 plant reveals the character of the plant which is used as female plant.
 
 
-![Chloroplast inheritance](chloroplast-inheritance.png "")
+![Chloroplast inheritance](2.19.png "")
 
 This inheritance is not through nuclear gene. It is due to the chloroplast gene found in the ovum of the female plant which contributes the cytoplasm during fertilization since the male gamete contribute only the nucleus but not cytoplasm.
 
@@ -371,7 +371,7 @@ Recently it has been discovered that cytoplasmic genetic male sterility is commo
 
 So the combination of N cytoplasm with rfrf and S cytoplasm with RfRf produces plants with fertile pollens, while S cytoplasm with rfrf produces only male sterile plants.
 
-![A cellular explanation of the variegated phenotype of the leaves in _Mirabilis jalapa_](a-cellular-explanation-ofthe-varigated-phenotype-ofthe-leaves.png "")
+![A cellular explanation of the variegated phenotype of the leaves in _Mirabilis jalapa_](2.20.png "")
 
 
 **Atavism** 
