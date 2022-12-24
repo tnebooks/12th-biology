@@ -452,7 +452,7 @@ Visit to a nearby park and observe the different flowers. Record the adaptations
 **b. Hypohydrophily:**
 Pollination occurs inside the water. *Examples: Zostera marina and Ceratophyllum.* Zostera marina is a submerged marine sea grass and pollination takes place under water. The pollen grains are long, needle like. They are shed under water. The specific gravity of the pollen is same as that of sea water, so that, the pollen floats freely at any depth. The stigma is very large and long. The pollen comes in contact with the stigma and gets coiled around the stigma thus effecting pollination.
 
-![](1.36.png "")
+![Pollination ](1.19.png "")
 
 **3. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. 
 
@@ -474,7 +474,7 @@ Pollination occurs inside the water. *Examples: Zostera marina and Ceratophyllum
 
 **C. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among Lemna pollinate them.
 
-![Pollination ](1.19.png "")
+
 
 **D. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ant is called **myrmecophily.** Insects that are well adapted to bring pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees the insects. are the main flower visitors and dominant Pollination in Salvia (Lever mechanism): pollinators. Insects are chief pollinating agents The flower is protandrous and the corolla is and majority of angiosperms are adapted for RECURRENT bilabiate with 2 stamens. A lever mechanism insect pollination. It is the most common type of pollination.
 
