@@ -300,9 +300,9 @@ Funiculus is very long and surrounds the ovule. Example: Cactaceae
 
 ![Figure 1.8 Types of ovule](1.9.png "")
 
-**Megasporogenesis**
+## Megasporogenesis
 
- The process of development of a megaspore from a megaspore mother cell is called **megasporogenesis**.
+The process of development of a megaspore from a megaspore mother cell is called **megasporogenesis**.
 
 As the ovule develops, a single hypodermal cell in the nucellus becomes enlarged and functions as **archesporium**. In some plants, the archesporial cell may directly function as megaspore mother cell. In others, it may undergo a transverse division to form outer primary parietal cell and inner primary sporogenous cell. The parietal cell may remain undivided or divide by few periclinal and anticlinal divisions to embed the primary sporogenous cell deep into the nucellus. The primary sporogenous cell functions as a megaspore mother cell. The megaspore mother cell (MMC) undergoes meiotic division to form four haploid megaspores. Based on the number of megaspores that develop into the Embryo sac, we have three basic types of development: **monosporic, bisporic and tetrasporic.** The megaspores are usually arranged in a linear tetrad. Of the four megaspores formed, usually the chalazal one is functional and other three megaspores degenerate. The functional megaspore forms the female gametophyte or embryo sac. This type of development is called **monosporic** development (Example: _Polygonum_). Of the four megaspores formed if two are involved in Embryo sac formation the development is called **bisporic** (Example: _Allium_). If all the four megaspores are involved in Embryo sac formation the development is called **tetrasporic** (Example: _Peperomia_). An ovule generally has a single embryo sac. The development of monosporic embryo sac (_Polygonum_ type) is given in Figure 1.9.
 
@@ -448,6 +448,11 @@ Pollination occurs inside the water. Examples: *Zostera marina and Ceratophyllum
 Visit to a nearby park and observe the different flowers. Record the adaptations or modifications found in the flowers for different types of pollination.
 
 ```
+
+**b. Hypohydrophily:**
+Pollination occurs inside the water. *Examples: Zostera marina and Ceratophyllum.* Zostera marina is a submerged marine sea grass and pollination takes place under water. The pollen grains are long, needle like. They are shed under water. The specific gravity of the pollen is same as that of sea water, so that, the pollen floats freely at any depth. The stigma is very large and long. The pollen comes in contact with the stigma and gets coiled around the stigma thus effecting pollination.
+
+![](1.36.png "")
 
 **3. Zoophily:** Pollination by the agency of animals is called zoophily and flowers are said to be zoophilous. Animals that bring about pollination may be birds, bats, snails and insects. Of these, insects are well adapted to bring pollination. Larger animals like primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) have also been reported as pollinators. 
 
