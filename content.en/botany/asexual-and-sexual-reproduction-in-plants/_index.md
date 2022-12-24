@@ -475,7 +475,6 @@ Pollination occurs inside the water. *Examples: Zostera marina and Ceratophyllum
 **C. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among Lemna pollinate them.
 
 
-
 **D. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ant is called **myrmecophily.** Insects that are well adapted to bring pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees the insects. are the main flower visitors and dominant Pollination in Salvia (Lever mechanism): pollinators. Insects are chief pollinating agents The flower is protandrous and the corolla is and majority of angiosperms are adapted for RECURRENT bilabiate with 2 stamens. A lever mechanism insect pollination. It is the most common type of pollination.
 
 **The characteristic features of entomo philous flowers are as follows:** 
@@ -497,7 +496,53 @@ The pollen gets deposited on the back of the bee. When it visits another flower,
 
 ![Figure 1.17 Pollination in Salvia - Lever mechanism](1.20.png "")
 
+
+### Pollination in Calotropis
+**(Translator mechanism)**
+This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG system of classification). The flowers are bisexual with 5 stamens forming **gynostegium**(union of stigma with the androecium). The stigma is large and 5 – angled and is receptive on the underside. Each stamen at its back possesses a brightly coloured hood like outgrowth enclosing horn shaped nectar. The pollen in each anther lobe of a stamen unites into a mass, forming a pollinium. Pollinia are attached to a clamp or clip like sticky structure called **corpusculum.** The filamentous or thread like part arising from each pollinium is called **retinaculum.** The whole structure looks like inverted letter ‘Y’ and is called translator. When the insect visits the flower for nectar, the **translator** gets attached to the proboscis or leg of the visitor. During the visit to the next flower the pollinia come in contact with the receptive stigma carrying out pollination.
+
+![Figure 1.17 (b) Pollination in Calotropis -Translator mechanism](1.37.png "")
+
+### Pollination in Aristolochia (Trap mechanism)
+A special mechanism to accomplish pollination called trap mechanism is found in Aristolochia. The flowers are axillary and perianth is tubular with a hood at the top. The basal region is swollen and possesses gynostegium. The gynostegium has six anthers.
+![Figure 1.17 (c) Pollination in Aristolochia - Trap mechanism](1.38.png "")
+
+The inner wall of tubular middle part of the perianth is slippery and lined with stiff hairs which are pointed downwards. The young flowers are erect. During this stage small flies
+
+```
+Do You Know
+
+Pollination provides information about evolution, ecology, animal learning and foraging behaviour. Flowers not only supply nectar but also provide microclimate, site and shelter for egg laying insects. The association of insects benefits the flower by getting pollinated and ensures the propagation of its own progeny. The floral parts are well modified in shape, size to attract the pollinators to accomplish pollination . 
+
+The relationship between Yucca and moth (Tegeticula yuccasella) is an example for obligate mutualism. The moth bores a hole in the ovary of the flower and lays eggs in it. Then it collects pollen and pushes it in the form of balls down the hollow end of the stigma. Fertilization takes place and seeds develop. Larvae feed on developing seeds. Some seeds remain unconsumed for the propagation of the plant species. It is interesting that the moth cannot survive without Yucca flowers and the plant fails to reproduce sexually Bee Orchid without the moth. 
+![](1.39.png "")
+
+Similarly in Amorphophallus, flowers apart from providing floral rewards, also forms safe site for laying eggs. Many visitors consume pollen and nectar and do not help in pollination. They are called pollen / nectar robbers. 
+
+In Bee orchid (Ophrys) the morphology of the flower mimics that of female wasp (Colpa). The male wasp mistakes the flowers for a female wasp and tries to copulate. This act of pseudocopulation helps in polli nation. The pollination in Fig (Ficus carica) by the Wasp (Blastophaga psenes) is also an example for similar Plant – insect interaction.
+```
+enter and could not escape because they are
+trapped by the hairs. As soon as the anthers
+of the flower ripe, the hairs wither and flower
+bents down. The flies escape with pollen and
+enter another flower where it dusts pollen on
+the stigma bringing out pollination.
+Significance of Pollination
+
+- Pollination is a pre-requisite for the process
+of fertilisation. Fertilisation helps in the
+formation of fruits and seeds.
+- It brings the male and female gametes
+closer for the process of fertilisation.
+
+- Cross-pollination introduces variations in
+plants due to the mixing up of different genes.
+These variations help the plants to adapt to
+the environment and results in
+speciation.
+
 ## Fertilization
+
  The fusion of male and female gamete is called **fertilization**. **Double fertilization** is seen in angiosperms. 
  
  ### Events of fertilization
