@@ -105,10 +105,6 @@ The two dominant alleles or recessive alleles occur in the same homologous chrom
 
 ![Cis-Trans arrangement of genes](3.3.png "")
 
-![Alleles in coupling or cis configuration](3.4.png "")
-
-
-![Alleles in repulsion or trans configuration Name of organism Link](3.5.png "")
 
 ### Kinds of Linkage 
 
@@ -122,9 +118,14 @@ If the chances of separation of two linked genes are not possible those genes al
 
 If two linked genes are sufficiently apart, the chances of their separation are possible. As a result, parental and non-parental combinations are observed. The linked genes exhibit some crossing over. This phenomenon is called**incomplete linkage**. This was observed in maize. It was reported by Hutchinson.
 
+![Alleles in coupling or cis configuration](3.4.png "")
+
 ### Linkage Groups
 
- The groups of linearly arranged linked genes on a chromosome are called **Linkage groups**. In any species the number of linkage groups corresponds to the number haploid set of chromosomes. Example:
+![Alleles in coupling or cis configuration](3.4.png "")
+
+
+The groups of linearly arranged linked genes on a chromosome are called **Linkage groups**. In any species the number of linkage groups corresponds to the number haploid set of chromosomes. Example:
 
 | Name of organism | Linkage groups |
 |------------------|----------------|
@@ -368,7 +369,7 @@ Addition of one or more chromosomes to diploid sets are called **hyperploidy**. 
 
 **(b) Tetrasomy** Addition of a pair or two individual pairs of chromosomes to diploid set is called **tetrasomy** (2n+2) and **Double tetrasomy** (2n+2+2)respectively. 
 
-
+![Table 3.7: Major types of mutations](3.32.png "")
 
 **(c) Pentasomy**
 Addition of three individual chromosome from different chromosomal pairs to normal diploid set are called pentasomy (2n+3).
