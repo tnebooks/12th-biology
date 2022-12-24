@@ -1,6 +1,6 @@
 ---
 title: 'Principles of Ecology'
-weight: 7
+weight: 6
 ---
 
 ```hint { role="info" }

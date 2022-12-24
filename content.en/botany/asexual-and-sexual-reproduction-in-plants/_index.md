@@ -1,6 +1,6 @@
 ---
 title: 'Asexual and Sexual Reproduction in Plants'
-weight: 2
+weight: 1
 ---
 
 

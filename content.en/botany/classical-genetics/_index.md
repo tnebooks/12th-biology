@@ -1,6 +1,6 @@
 ---
 title: 'Classical Genetics'
-weight: 3
+weight: 2
 ---
 ```
 **Learning Objectives**

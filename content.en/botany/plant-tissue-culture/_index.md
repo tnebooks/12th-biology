@@ -1,6 +1,6 @@
 ---
 title: 'Plant Tissue Culture'
-weight: 6
+weight: 5
 ---
 
 ```hint { role="info" }
