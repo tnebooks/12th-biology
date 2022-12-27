@@ -319,13 +319,14 @@ Invasive species are fast growing and are more adapted. They alter the soil syst
 
 It has a negative impact on decomposition in the soils by causing stress to the neighbouring native species. Some of the alien species which cause environmental issues are discussed below
 
-![The false colour view of total ozone](8.18.png "")
+![Figure 8.5: Eichhornia crassipes](8.18.png "")
 
 **_Eichhornia crassipes_** It is an invasive weed native to South America. It was introduced as aquatic ornamental plant, which grows faster throughout the year. Its widespread growth is
 a major cause of biodiversity loss worldwide. It affects the growth of phytoplanktons and finally changing the aquatic ecosystem.
 
 It also decreases the oxygen content of the waterbodies which leads to eutrophication. It poses a threat to human health because it creates a breeding habitat for disease causing mosquitoes (particularly _Anopheles_) and snails with its free floating dense roots and semi submerged leaves. It also blocks sunlight entering deep and the waterways hampering agriculture, fisheries, recreation and hydropower.
 
+![Figure 8.6:Lantana camara](8.6.png "")
 
 **_Lantana camara_** Identified as one of the worst invasive species by Global Invasive Species Database. It is also an invasive weed native to South America introduced as ornamental plant. It occupies a widely adaptable range of habitats.
 
@@ -333,9 +334,13 @@ This species is spread by birds It exerts allelopathic effect, which reduces the
 
 **_Parthenium hysterophorus_** _Parthenium hysterophorus_ native to South America introduced accidently into many regions of the world along with imported food grains. It is a harmful weed in the forest which suppresses the growth of native species and reduces the availability of fodder for animals
 
+![Figure 8.7: Parthenium hysterophorus](8.7.png "")
+
 It infests pastures and farmland causing often loss of yield. The plant produces allelopathic chemicals that suppress crop and native plants and its pollen causes allergic rhinitis and asthma, dermatitis in humanbeing.
 
 **_Prosopis juliflora_** _Prosopis juliflora_ is an invasive species native to Mexico and South America. It was first introduced in Gujarat to counter d e s e r t i f i c a t i o n and later on in Andhra Pradesh, Tamil Nadu as a source of firewood. It is an aggressive coloniser and as a consequence the habitats are rapidly covered by this species. Its invasion reduced the cover of native medicinal herbaceous species. It is used to arrest wind erosion and stabilize sand dunes on coastal and desert areas. It can absorb hazardous chemicals from soil and it is the main source of charcoal.
+
+![Figure 8.8:Prosopis juliflora](8.8.png "")
 
 ## Conservation
  India due to its topography, geology and climate patterns has diverse life forms. Now this huge diversity is under threat due to many environmental issues for this conservation becomes an important tool by which we can reduce many species getting lost from our native land. By employing conservation management strategies like germplasm conservation, in situ, ex-situ, in-vitro methods, the endemic as well as threatened species can be protected
@@ -343,22 +348,18 @@ It infests pastures and farmland causing often loss of yield. The plant produces
 **In-situ conservation** It means conservation and management of genetic resources in their natural habitats. Here the plant or animal species are protected within the existing habitat. Forest trees, medicinal and aromatic plants under threat are conserved by this method. This is carried out by the
 
 
+![Figure 8.9: Flow chart on biodiversity conservation](8.9.png "")
 
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-community or by the State conservation which include wildlife, National park and Biosphere reserve. The ecologically unique and biodiversity rich regions are legally protected as wildlife sanctuaries, National parks and Biosphere reserves. Megamalai, Sathyamangalam wildlife, Guindy and Periyar National park, and Western ghats, Nilgiris, Agasthyamalai and Gulf of Mannar are the biosphere reserves of Tamil Nadu.
+community or by the State conservation which
+include wildlife, National park and Biosphere
+reserve. The ecologically unique and biodiversity
+rich regions are legally protected as wildlife
+sanctuaries, National parks and Biosphere
+reserves. Megamalai, Sathyamangalam wildlife,
+Guindy and Periyar National park, and Western
+ghats, Nilgiris, Agasthyamalai and Gulf of
+Mannar are the biosphere reserves of Tamil
+Nadu.
 
 **Sacred groves** These are the patches or grove of cultivated trees which are community protected and are based on strong religious belief systems which usually have a significant religious connotation for protecting community. Each grove is an abode of a deity mostly village God Or Goddesses like Aiyanar or Amman. 448 grooves were documented throughout Tamil Nadu, of which 6 groves (Banagudi shola, Thirukurungudi and Udaiyankudikadu, Sittannnavasal, Puthupet and Devadanam) were taken up for detailed floristic and faunistic studies. These groves provide a number of ecosystem services to the neighbourhood like protecting watershed, fodder, medicinal plants and micro climate control.
 
@@ -369,78 +370,29 @@ community or by the State conservation which include wildlife, National park and
 
 **IUCN Red List** IUCN Red List categories help us to evaluate the degree of threat and conservation priorities to the flora and fauna It is also a powerful tool for
 
-**Bio-diversity Conservation**
+**Conservation movement** A community level participation can help in preservation and conservation of our environment. Our environment is a common treasure for all the living organisms on earth. Every individual should be aware of this and participate actively in the programs meant for the conservation of the local environment. Indian history has witnessed many people movements for the protection of environment.
 
-In-situ Ex-situ
+**Chipko Movement** 
+The tribal women of Himalayas protested against the exploitation of forests in 1972. Later on it transformed into Chipko Movement by Sundarlal Bahuguna in Mandal village of Chamoli district in 1974. People protested by hugging trees together which were felled by a sports goods company. Main features of Chipko movement were,
 
-Protected area network
+- This movement remained non political
+	
+- It was a voluntary movement based on
+Gandhian thought.
 
-Sacred plants home gardens
+- It was concerned with the ecological balance
+of nature
 
-Seed banks, Pollen banks, Field gene, Cryopreservation
+- Main aim of Chipko movement was to give a
+slogan of five F’s – Food, Fodder, Fuel, Fibre
+and Fertilizer, to make the communities self
+sufficient in all their basic needs.
 
-Botanical gardens Arboreta, Zoological
+**Appiko Movement** The famous Chipko Andolen of Uttarakhand in the Himalayas inspired the villagers of Uttara Karnataka to launch a similar movement to save their forests. This movement started in Gubbi Gadde a small village near Sirsi in Karnataka by Panduranga Hegde. This movement started to protest against felling of trees, monoculture, forest policy and deforestation.
 
-parks, Aquaria Community
+persuading governments to protect threatened species and for most of the plant and animal species world-wide. IUCN has developed protected areas and developed criteria for threatened species. The criteria are as follows .
 
-Protected Government
-
-Protected
-
-Sacred groves Sacred lakes Biosphere
-
-Reserves National parks Wildlife Sanctuaries
-
-Terrestial Marine
-
-
-
-
-
-  
-
-
-A - Population reduction B - Geographic range C - Small population size and decline D - Very small or restricted population E - Quantitative analysis
-
-Erlinct (Ex)
-
-Adequate data
-
-Ex tin
-
-ct io
-
-n ris
-
-k
-
-+
-
-–
-
-Evaluated
-
-All species
-
-Extinct in the wild (EW)
-
-Threatened species
-
-Critically endangered
-
-Endangered EN
-
-Vulnerable VU
-
-Near threatened (NT)
-
-Least concerned (LC)
-
-Data Deficient (DD)
-
-Not evaluated (NE)
-
-
+![Figure 8.9: Flow chart on biodiversity conservation](8.9.png "")
 
 **IUCN Red List categories Extint (EX)** A taxon is Extinct when there is no reasonable doubt on the death of the last individual. A taxon is presumed Extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historic range have failed to record an individual. Example: _Neuracanthus neesianus_.
 
@@ -448,184 +400,108 @@ Not evaluated (NE)
 
 **Critically endangered (CR)** A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered, and it is therefore considered to be facing an extremely high risk of extinctions in the wild. Example: _Euphorbia santapaui, Piper barberi, Syzygium gambelianum._
 
-**Conservation movement** A community level participation can help in preservation and conservation of our environment. Our environment is a common treasure for all the living organisms on earth. Every individual should be aware of this and participate actively in the programs meant for the conservation of the local environment. Indian history has witnessed many people movements for the protection of environment.
+**Endangered (EN)**
 
-**Chipko Movement** The tribal women of Himalayas protested against the exploitation of forests in 1972. Later on it transformed into **Chipko Movement** by **Sundarlal Bahuguna** in Mandal village of Chamoli district in 1974. People protested by hugging trees together which were felled by a sports goods company. Main features of Chipko movement were, - This movement remained non political - It was a voluntary movement based on
+A taxon is Endangered when the best available evidence indicates that it meets any of the criteria A to E for Endangered, and it is therefore considered to be facing a very high risk of extinction in the wild. Example: Elaeocarpus venustus, Pogostemon nilagricus, Eugenia singampattiana.
 
-Gandhian thought. - It was concerned with the ecological balance
+**Vulnerable (VU)**
 
-of nature - Main aim of Chipko movement was to give a
+A taxon is Vulnerable when the best available evidence indicates that it meets any other criteria A to E for Vulnerable, and it is therefore considered to be facing a high risk of extinction in the wild. Example: Dalbergia latifolia, Santalum album, Chloroxylon sweitenia
 
-slogan of five F’s – Food, Fodder, Fuel, Fibre and Fertilizer, to make the communities self sufficient in all their basic needs.
+**Near threatened (NT)**
 
-**Appiko Movement** The famous Chipko Andolen of Uttarakhand in the Himalayas inspired the villagers of Uttara Karnataka to launch a similar movement to save their forests. This movement started in Gubbi Gadde a small village near Sirsi in Karnataka by Panduranga Hegde. This movement started to protest against felling of trees, monoculture, forest policy and deforestation.
+A taxon is Near Threatened when it has been
+evaluated against the criteria but does not
+qualify for Critically Endangered, Endangered
+or Vulnerable now, but is close to qualifying for
+or is likely to qualify for threatened category in
+the near future.
 
-persuading governments to protect threatened species and for most of the plant and animal species world-wide. IUCN has developed protected areas and developed criteria for threatened species. The criteria are as follows .
+**Least concerned (LC)**
 
+A taxon is Least Concerned when it has been
+evaluated against the criteria and does not
+qualify for Critically Endangered, Endangered,
+Vulnerable or Near Threatened, Widespread
+and abundant taxa are included in this category.
 
-**Endangered (EN)** A taxon is Endangered when the best available evidence indicates that it meets any of the criteria A to E for Endangered, and it is therefore considered to be facing a very high risk of extinction in the wild. Example: _Elaeocarpus venustus, Pogostemon nilagricus, Eugenia singampattiana._
+**Data deficient (DD)**
 
-**Vulnerable (VU)** A taxon is Vulnerable when the best available evidence indicates that it meets any other criteria A to E for Vulnerable, and it is therefore considered to be facing a high risk of extinction in the wild. Example: _Dalbergia latifolia, Santalum album, Chloroxylon sweitenia_
+A taxon is Data Deficient when there is inadequate
+information to make a direct, or indirect,
+assessment of the risk of extinction based on its
+distribution and/or population status.
 
-**Near threatened (NT)** A taxon is Near Threatened when it has been evaluated against the criteria but does not qualify for Critically Endangered, Endangered or Vulnerable now, but is close to qualifying for or is likely to qualify for threatened category in the near future.
+**Not evaluated (NE)**
+A taxon is Not Evaluated when it has not yet
+been evaluated against the criteria
 
-**Least concerned (LC)** A taxon is Least Concerned when it has been evaluated against the criteria and does not qualify for Critically Endangered, Endangered, Vulnerable or Near Threatened, Widespread and abundant taxa are included in this category.
-
-**Data deficient (DD)** A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of the risk of extinction based on its distribution and/or population status.
-
-**Not evaluated (NE)** A taxon is Not Evaluated when it has not yet been evaluated against the criteria.
 
 ### Endemic Centres and Endemic Plants
  Endemic species are plants and animals that exist only in one geographic region. Species can be endemic to large or small areas of the earth. Some are endemic to a particular continent, some to a part of a continent and others to a single island.
 
-Any species found restricted to a specified geographical area is referred to as ENDEMIC.. It may be due to various reasons such as isolation, interspecific interactions, seeds dispersal problems, site specificity and many other environmental and ecological problems. There are 3 Megacentres of endemism and 27 microendemic centres in India. Approximately one third of Indian flora have been identified as endemic and found restricted and distributed in three major phytogeographical regions of india, that is Indian Himalayas, Peninsular India and Andaman nicobar islands. Peninsular India, especially Western Ghats has high concentration of endemic plants. _Hardwickia_ _binata_ and _Bentinckia condapanna_ are good examples for endemic plants. A large percentage of Endemic species are herbs and belong to families such as Poaceae. Apiaceae, Asteraceae and Orchidaceae. **Endemic plants Habit Name of endemic centre** _Baccaurea courtallensis_
+Any species found restricted to a specified geographical area is referred to as ENDEMIC.. It may be due to various reasons such as isolation, interspecific interactions, seeds dispersal problems, site specificity and many other environmental and ecological problems. There are 3 Megacentres of endemism and 27 microendemic centres in India. Approximately one third of Indian flora have been identified as endemic and found restricted and distributed in three major phytogeographical regions of india, that is Indian Himalayas, Peninsular India and Andaman nicobar islands. Peninsular India, especially Western Ghats has high concentration of endemic plants. _Hardwickia_ _binata_ and _Bentinckia condapanna_ are good examples for endemic plants. A large percentage of Endemic species are herbs and belong to families such as Poaceae. Apiaceae, Asteraceae and Orchidaceae. 
 
-Tree Southern Western Ghats
+![Table 1 : Endemic plants](8.19.png "")
 
-_Agasthiyamalaia pauciflora_
+Majority of endemic species are threatened due to their narrow specific habitat, reduced seed production, low dispersal rate, less viable nature and human intereferences.. Serious efforts need to be undertaken for their conservation, otherwise these species may become globally extinct.
 
-Tree Peninsular india
+![Table 1 : Endemic plants](8.10.png "")
 
-_Hardwickia binata_
-
-Tree Peninsular and northern India
-
-_Bentinckia condappana_
-
-Tree Western ghats of Tamil Nadu and kerala
-
-_Nepenthes khasiyana_
-
-Liana Khasi hills, Meghalaya
-
-**Table 1:** Endemic plants Majority of endemic species are threatened due to their narrow specific habitat, reduced seed production, low dispersal rate, less viable nature and human intereferences.. Serious efforts need to be undertaken for their conservation, otherwise these species may become globally extinct.
-
-
-
-  
-
-
-
-
-**ba**
 
 ## Carbon Capture and Storage (CCS)
  Carbon capture and storage is a technology of capturing carbondioxide and injects it deep into the underground rocks to a depth of 1 km or more and it is an approach to mitigate global warming by capturing CO2 from large point sources such as industries and power plants and subsequently storing it instead of releasing it into the atmosphere. Various safe sites have been selected for permanent storage in various deep geological formations, liquid storage in the Ocean and solid storage by reduction of CO2 with metal oxide to produce stable carbonates. It is also known as Geological sequestration which involves injecting CO2 directly into the underground geological formations (such as declining oil fields, gas fields saline aquifers and unmineable coal have been suggested as storage sites).
 
 **Carbon Sequestration** Carbon sequestration is the process of capturing and storing CO2 which reduces the amount of CO2 in the atmosphere with a goal of reducing global climate change. Carbon sequestration occurs naturally by plants and in ocean. Terrestrial sequestration is typically accomplished through forest and soil conservation practices that enhance the storage carbon. As an example microalgae such as species of _Chlorella_, _Scenedesmus_, _Chroococcus_ and _Chlamydomonas_ are used globally for CO2 sequestration. Trees like _Eugenia caryophyllata_, _Tecoma stans_, _Cinnamomum verum_ have high capacity and noted to sequester carbon. Macroalgae and marine grasses and mangroves are also have ability to mitigate carbon-di-oxide.
 
-**Carbon Foot Print (CFP)** Every human activity leaves a mark just like our footprint. This Carbon foot print is the
-
-0 1 2 3 4 5 6 7
-
-**EAT SMART** Your food choices affect the climate
-
-Lentils
-
-Tomatos
-
-Beans Broccoli Yoghurt Nuts Peanut butter Rice Potatoes
-
-Egg Fish Chicken
-
-Solman fish, Pork Cheese
-
-Beef & Lamb
-
-**Protein good choice of fibre & nutrient**
-
-**Veggies, fruits low in fat and colorie high in nutrient**
-
-**Organic, high protein, good fat, more nutritions conventional foods**
-
-**Organic rich omega**
-
-**Processed food.**
-
-**Processed food. CARBON FOOTPRINT**
-
-Different foods have a different impacts.Here’s how the green house gas emissions (GHGs) of twenty common foods compare.
-
-Highest carbon foot print.
-
-**car miles driven per 4oz(118.29 ml). consumed**
-
-
-
 **Carbon Sink** Any system having the capacity to accumulate more atmospheric carbon during a given time interval than releasing CO2. Example: forest, soil, ocean are natural sinks. Landfills are artificial sinks.
 
+**Carbon Sequestration**
+
+Carbon sequestration is the process of capturing and storing CO2 which reduces the amount of CO2 in the atmosphere with a goal of reducing global climate change.
+
+Carbon sequestration occurs naturally by plants
+and in ocean. Terrestrial sequestration is typically
+accomplished through forest and soil conservation
+practices that enhance the storage carbon.
+
+As an example microalgae such as species
+of Chlorella, Scenedesmus, Chroococcus and
+Chlamydomonas are used globally for CO2
+sequestration. Trees like Eugenia caryophyllata,
+Tecoma stans, Cinnamomum verum have
+high capacity and noted to sequester carbon.
+Macroalgae and marine grasses and mangroves
+are also have ability to mitigate carbon-di-oxide.
 
 
+**Carbon Foot Print (CFP)** Every human activity leaves a mark just like our footprint. This Carbon foot print is the
 
-
-
-
-
-  
-
+![Table 1 : Endemic plants](8.11.png "")
 
 total amount of green house gases produced by human activities such as agriculture, industries, deforestation, waste disposal, buring fossil fuels directly or indirectly. It can be measured for an individual, family, organisation like industries, state level or national level. It is usually estimated and expressed in equivalent tons of CO2 per year. The burning of fossil fuels releases CO2and other green house gases. In turn these emissions trap solar energy and thus increase the global temperature resulting in ice melting, submerging of low lying areas and inbalance in nature like cyclones, tsunamis and extreme weather conditions. To reduce the carbon foot print we can follow some practices like (i) Eating indigenous fruits and products (ii) Reducing use of electronic devices (iii) Reduce travelling (iv) Avoid buying fast and preserved, processed, packed foods. (v) Plant a garden (vi) Reducing consumption of meat and sea food. Poultry requires little space, nutrients and less pollution compared cattle farming. (vii) reducing use of Laptops (when used for 8 hours, it releases nearly 2 kg. of CO2 annually) (viii) Line drying clothes. (Example: If you buy imported fruit like kiwi, indirectly it increases CFP. How? The fruit has travelled a long distance in shipping or airliner thus emitting tons of CO2)
 
-**Biochar Biochar** is another long term method to store carbon. To increase plants ability to store more carbon, plants are partly burnt such as crop waste, waste woods to become carbon rich slow decomposing substances of material called Biochar. It is a kind of charcoal used as a soil amendment. Biochar is a stable solid, rich in carbon and can endure in soil for thousands of years. Like most charcoal, biochar is made from biomass via pyrolysis. (Heating biomas in low oxygen environment) which arrests wood from complete burning. Biochar thus has the potential to help mitigate climate change via carbon sequestration. Independently, biochar when added to soil can increase soil fertility of
+**Biochar**
 
-acidic soils, increase agricultural productivity, and provide protection against some foliar and soil borne diseases. It is a good method of preventing waste woods and logs from getting decayed and instead we can convert them into biochar thus converting them to carbon storage material.
+**Biochar** is another long term method to store carbon. To increase plants ability to store more carbon, plants are partly burnt such as crop waste, waste woods to become carbon rich slow decomposing substances of material called Biochar. It is a kind of charcoal used as a soil amendment. Biochar is a stable solid, rich in carbon and can endure in soil for thousands of years. Like most charcoal, biochar is made from biomass via pyrolysis. (Heating biomas in low oxygen environment) which arrests wood from complete burning. Biochar thus has the potential to help mitigate climate change via carbon sequestration. Independently, biochar when added to soil can increase soil fertility of acidic soils, increase agricultural productivity, and provide protection against some foliar and soil borne diseases. It is a good method of preventing waste woods and logs from getting decayed and instead we can convert them into biochar thus converting them to carbon storage material.
 
-## Rain water harvesting – RWH (Solution to water crisis – A ecological problem)
+## 8.9 Rain water harvesting – RWH (Solution to water crisis – A ecological problem)
 
-Rain water canal
+![Figure 8.13: Pictures of Rain Water Harvesting Structures in Ooraniers](8.12.png "")
 
-Over flow pipe to
-
-well
-
-Drain pipe
-
-Sand filter
-
-Water tank
-
-Well **Rainwater harvesting in individual house**
-
-
-
-**Water storage tank** The water is then supplied to flats, which can be used for domestic purposes
-
-**Rainwater inlet** The rainwater that collects on the terrace makes its way down a pipe
-
-**Collection tank** A fitted sensor then sends the water to the tank
-
-**Suction tank** A filter placed in the tank clears the water of impurities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
+![Figure 8.14: Rain Water Harvesting Structures in Water Supply sources](8.13.png "")
 
 Rainwater harvesting is the accumulation and storage of rain water for reuse in-site rather than allowing it to run off. Rainwater can be collected from rivers, roof tops and the water collected is directed to a deep pit. The water percolates and gets stored in the pit. RWH is a sustainable water management practice implemented not only in urban area but also in agricultural fields, which is an important economical cost effective method for the future.
 
 ### Environmental benefits of Rain Water Harvesting:
- - Promotes adequacy of underground water
 
-and water conservation. - Mitigates the effect of drought. - Reduces soil erosion as surface run-off is
-
-reduced. - Reduces flood hazards. - Improves groundwater quality and water
-
-table / decreases salinity. - Avoid land wastage for storage purpose and
-
-no population displacement is involved. - Stores water underground as an eco-friendly
-
+- Promotes adequacy of underground water
+and water conservation. - Mitigates the effect of drought. 
+- Reduces soil erosion as surface run-off is reduced. 
+- Reduces flood hazards. 
+- Improves groundwater quality and water table / decreases salinity. 
+- Avoid land wastage for storage purpose and no population displacement is involved. 
+- Stores water underground as an eco-friendly
 measure and is a part of sustainable water storage strategy for local communities.
 
 ### Importance of Lakes
@@ -633,16 +509,14 @@ measure and is a part of sustainable water storage strategy for local communitie
 
 In terms of services lakes offer sustainable solutions to key issues of water management and climatic influences and benefits like nutrient retention, influencing local rainfall, removal of pollutants, phosphorous and nitrogen and carbon sequestration.
 
-**Important lakes in Tamil Nadu** Lakes are man-made surface water harvesting systems. They are useful for irrigation, drinking, fishing and recreation purposes. It is the responsibility of the individuals as well as communities collectively to maintain and manage water bodies. Understanding catchment areas help us to halt the degradation of water bodies and protecting it from getting polluted. **Sholavaram Lake :** I**t** is located in Ponneri Taluk of Thiruvallur District. It is one of the rain fed reservoir from where water is drawn for supply to Chennai city. The full capacity of the lake is 65.5 ft. Built in the British era this lake is responsible for treating the guests to water sports too. This lake is rich in varied species of flora and fauna. **Chembarampakkam Lake:** I**t** is located about 25 km. from Chennai. This lake is 500 yrs old. This lake is a rain fed water body which aids the Chennai City in its water supply. A river named Adyar also incepts from this lake which acts as the primary outflow for this reservoir. This lake is spread over an area of 15 square km. **Maduranthakam Lake:** It is located in Kancheepuram district and it is a man-made creation. An ideal spot for an evening picnic, the widespread pristine waters of the lake are an exceptionally calming sight. The full capacity of the reservoir is 23.3ft. Kiliyar is a small river that originates from Madhuranthagam reservoir. It spreads to an area of 2908 acres and was built by Uttama Chola and the boundaries (stretched upto 12960 feet) are strengthened by Britishers with a storing capacity of 690 million cu.feet. Rain water from Cheyyar, Thiruvannamalai and Vandavasi reaches this lake.
+**Important lakes in Tamil Nadu** Lakes are man-made surface water harvesting systems. They are useful for irrigation, drinking, fishing and recreation purposes. It is the responsibility of the individuals as well as communities collectively to maintain and manage water bodies. Understanding catchment areas help us to halt the degradation of water bodies and protecting it from getting polluted. 
 
+**Sholavaram Lake :** 
+I**t** is located in Ponneri Taluk of Thiruvallur District. It is one of the rain fed reservoir from where water is drawn for supply to Chennai city. The full capacity of the lake is 65.5 ft. Built in the British era this lake is responsible for treating the guests to water sports too. This lake is rich in varied species of flora and fauna. 
 
+**Chembarampakkam Lake:** I**t** is located about 25 km. from Chennai. This lake is 500 yrs old. This lake is a rain fed water body which aids the Chennai City in its water supply. A river named Adyar also incepts from this lake which acts as the primary outflow for this reservoir. This lake is spread over an area of 15 square km. 
 
-
-
-
-  
-
-
+**Maduranthakam Lake:** It is located in Kancheepuram district and it is a man-made creation. An ideal spot for an evening picnic, the widespread pristine waters of the lake are an exceptionally calming sight. The full capacity of the reservoir is 23.3ft. Kiliyar is a small river that originates from Madhuranthagam reservoir. It spreads to an area of 2908 acres and was built by Uttama Chola and the boundaries (stretched upto 12960 feet) are strengthened by Britishers with a storing capacity of 690 million cu.feet. Rain water from Cheyyar, Thiruvannamalai and Vandavasi reaches this lake.
 ## Sewage disposal
  Sewage disposal treatment helps to transform raw sewage into an easier manageable waste and to retrieve and reuse treated residual sewage materials. Greenhouse gases like carbon-dioxide, methane, nitrous oxide are produced during sewage treatment which apart from causing the impact on the atmosphere, it also affect the urban ecosystem, aquatic ecosystems. By making use of advanced disposal treatment plants, climate change and pollution can be minimised.
 
@@ -655,70 +529,6 @@ stages, called primary, secondary and tertiary treatment. **Solid waste manageme
 Methods of solid waste management includes Landfill, incineration, recovery, recycling, composting, and pyrolysis.
 - T e c h n o l o g i c a l advancement for processing treatment and disposal of solid waste helps in converting it into renewable energy and organic manure. - Electronic waste contains toxic materials and are found to be non-biodegradable which causes threat to human health and the smoke during recycling and leaching causes great threat to water bodies. Agricultural landfills method stands a good method to reduce these problems.Figure 8.17: Sanitary landfill
 
-Primary treatment
-
-Raw sewage
-
-Screens
-
-Comminutor
-
-Primary effluent
-
-Primary clarifier
-
-Grit chamber Grit disposal
-
-Raw or primary sludge
-
-Sludge treatement and disposal
-
-Return sludge pump
-
-Discharge to surface water
-
-(or tertiary treatment if needed)
-
-Activated sludge
-
-Air compressor
-
-Aeration tank Secondary clarifer
-
-Disinfectant
-
-Secondary effluent
-
-Secondary treatment
-
-**Figure 8.16: Sewage treatment plant process flow diagram**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 
 
 **Liquid Waste Management** Liquid waste includes point source and non- point source discharges such as storm water and waste water. Examples of liquid waste include wash water from homes, liquids, used for cleaning in industries and waste detergents.
