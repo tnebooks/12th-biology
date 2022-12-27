@@ -158,8 +158,6 @@ During 1970’s research findings indicated that man-made chlorofluorocarbons (C
 
 An example for CDM project activity, is replacement of conventional electrification projects with solar panels or other energy efficient boilers. Such projects can earn Certified Emission Reduction (CER) with credits / scores, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets.
 
-
-
 **Plant indicators** 
 
 The presence or absence of certain plants indicate the state of environment by their response. The plant species or plant community acts as a measure of environmental conditions, it is referred as biological indicators or phytoindicators or plant indicators.
@@ -171,8 +169,6 @@ Examples
 | 2. | Petunia,<br>Chrysanthemum                   | Nitrate                                      |
 | 3. | Gladiolus                                   | Flouride<br>pollution                        |
 | 4. | Robinia pseudoacacia<br>(Black locust tree) | Indicator of<br>heavy metal<br>contamination |
-
-
 
 ### Effects of Ozone depletion
 
@@ -212,9 +208,9 @@ Some of the major species cultivated in commercial Agroforestry include _Casuari
 
 The production of woody plants combined with pasture is referred to **silvopasture** system. The trees and shrubs may be used primarily to produce fodder for livestock or they may be grown for timber, fuel wood and fruit or to improve the soil.
 
- This system is classified into following categories. 
+This system is classified into following categories. 
  
- - **Protein Bank:** In this various multipurpose trees are planted in and around farm lands and range lands mainly for fodder production.
+- **Protein Bank:** In this various multipurpose trees are planted in and around farm lands and range lands mainly for fodder production.
 
 **Example:** _Acacia nilotica, Albizzia lebbek, Azadirachta indica, Gliricidia sepium, Sesbania grandiflora._
 
@@ -239,17 +235,17 @@ In order to encourage tree cultivation outside forests, **Tree cultivation in Pr
 - Awareness creation among school children and youth about the importance of forests through training and camps.
 
 ## Deforestation
- Deforestation is one of the major contributors to enhance green house effect and global warming. The conversion of forested area into a non-forested area is known as deforestation. Forests provide us many benefits including goods such as timber, paper, medicine and industrial products. The causes are 
+Deforestation is one of the major contributors to enhance green house effect and global warming. The conversion of forested area into a non-forested area is known as deforestation. Forests provide us many benefits including goods such as timber, paper, medicine and industrial products. The causes are 
  
- - The conversion of forests into agricultural plantation and     livestock ranching is a major cause of deforestation. 
+- The conversion of forests into agricultural plantation and     livestock ranching is a major cause of deforestation. 
  
- - Logging for timber - Developmental activities like road construction, electric tower lines and dams. 
+- Logging for timber - Developmental activities like road construction, electric tower lines and dams. 
  
- - Over population, Industrialisation, urbanisation and increased global needs. 
+- Over population, Industrialisation, urbanisation and increased global needs. 
  
- **Effects of deforestation** 
+**Effects of deforestation** 
  
- - Burning of forest wood release stored carbon, a negative impact just opposite of carbon sequestration.
+- Burning of forest wood release stored carbon, a negative impact just opposite of carbon sequestration.
 
 - Trees and plants bind the soil particles. The removal of forest cover increases soil erosion and decreases soil fertility. Deforestation in dry areas leads to the formation of deserts.
 
@@ -266,7 +262,7 @@ In order to encourage tree cultivation outside forests, **Tree cultivation in Pr
 - Loss of life support resources, fuel, medicinal herbs and wild  edible fruits.
 
 ## Afforestation
- Afforestation is planting of trees where there was no previous tree coverage and the conversion of non-forested lands into forests by planting suitable trees to retrieve the vegetation. Example: Slopes of dams afforested to reduce water run- off, erosion and siltation. It can also provide a range of environmental services including carbon sequestration, water retention.
+Afforestation is planting of trees where there was no previous tree coverage and the conversion of non-forested lands into forests by planting suitable trees to retrieve the vegetation. Example: Slopes of dams afforested to reduce water run- off, erosion and siltation. It can also provide a range of environmental services including carbon sequestration, water retention.
 
 ```
 
@@ -299,22 +295,10 @@ table or ground water and also to reduce nitrogen leaching in soil and nitrogen 
 Case study
 
 **Tamil Nadu Afforestation Project (TAP)** With an aim of ecological restoration and biological up-gradation of degraded forests and other lands, the government of Tamil Nadu launched the project in 2 phases Tap I (1997-2005). It aimed to uplift the quality and life of villagers abutting forest areas and to resolve the degraded forests in Tamil Nadu. This is a massive Joint Forest Management Programme. TAP II (2005- 2013) had 2 main objectives. - To restore the ecological equilibrium of the forests, watersheds and adjacent villages of Tamil Nadu. - To improve the quality of the life of inhabitants through reforestation, water conservation and sustained community action.
+```
 
-A. Check Dam B. Percolation pond 
-
-A B
-
-## Agrochemicals and their effects
- An agro-chemical is useful in managing agriculture or in farming area which is one of the major issues of the environment. Agro-
-
-
-
-
-
-
-  
-
-
+## Agrochemicals and their effects**
+An agro-chemical is useful in managing agriculture or in farming area which is one of the major issues of the environment. Agro-
 chemicals includes **fertilizers, liming and acidifying agents, soil conditioners, pesticides and chemicals** used in animal husbandry, such as antibiotics and hormones.
 
 Excessive use of fertilizers and pesticides leads to the contamination of groundwater and makes it nonpotable, ultimately affecting the soil fertility. Most of the chemical fertilizers contain varying amounts of nitrogen, phosphorous, potassium and nutrients that plants need to grow. Soil acidity influences C and N cycles by affecting soil microbes, also green house gas flux in soils and affect bio availability of N, P, S like major nutrients. This makes the soil too acidic or alkaline so that it becomes difficult for the plants to survive. These residues and synthetic chemicals like DDT (dichloro diphenyl trichloro ethane) and PCBs (polychlorinated biphenyls) cause nutrient and pH imbalance and quality reduction of agricultural produce. This problem can be minimised by sustainable agriculture. Pesticides increase incidence of brain, blood cancer and neurotoxicity, Parkinson like symptoms, infertility, birth defects, reproductive and behavioural disorders.
@@ -335,19 +319,13 @@ Invasive species are fast growing and are more adapted. They alter the soil syst
 
 It has a negative impact on decomposition in the soils by causing stress to the neighbouring native species. Some of the alien species which cause environmental issues are discussed below
 
+![The false colour view of total ozone](8.18.png "")
+
 **_Eichhornia crassipes_** It is an invasive weed native to South America. It was introduced as aquatic ornamental plant, which grows faster throughout the year. Its widespread growth is
-
-
-
-
-
-
-  
-
-
 a major cause of biodiversity loss worldwide. It affects the growth of phytoplanktons and finally changing the aquatic ecosystem.
 
 It also decreases the oxygen content of the waterbodies which leads to eutrophication. It poses a threat to human health because it creates a breeding habitat for disease causing mosquitoes (particularly _Anopheles_) and snails with its free floating dense roots and semi submerged leaves. It also blocks sunlight entering deep and the waterways hampering agriculture, fisheries, recreation and hydropower.
+
 
 **_Lantana camara_** Identified as one of the worst invasive species by Global Invasive Species Database. It is also an invasive weed native to South America introduced as ornamental plant. It occupies a widely adaptable range of habitats.
 
