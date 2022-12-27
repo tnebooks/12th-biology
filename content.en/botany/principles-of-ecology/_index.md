@@ -835,8 +835,12 @@ Guess? what is atelochory or Achory?
 
 ### Summary 
 
-Ecology is a division of biology and deals with the study of environment in relation to organisms. Ecology is mainly divided into two branches Autecology and Synecology. The environment (surroundin g) includes physical, chemical and biological components. These factors can be classified into living (bioti c)  and non-living (abioti c) , which make the environment of an organism. The ecological factors are meaningfully grouped into four classes, which are as follows:1.  Climatic factors
-2.  Edaphic factors 3. Topographic factors 4. Biotic factors.
+Ecology is a division of biology and deals with the study of environment in relation to organisms. Ecology is mainly divided into two branches Autecology and Synecology. The environment (surroundin g) includes physical, chemical and biological components. These factors can be classified into living (bioti c)  and non-living (abioti c) , which make the environment of an organism. The ecological factors are meaningfully grouped into four classes, which are as follows:
+
+1. Climatic factors
+2. Edaphic factors 
+3. Topographic factors 
+4. Biotic factors.
     
 
 Climate is one of the important natural factors controlling the plant life. The climatic factors includes light, temperature, water, wind, fire, etc. Edaphic factors, the abiotic factors related to soil, include the physical and chemical composition of the soil formed in a particular area. The surface features of earth are called topography. Topographic influence on the climate of any area is determined by the interaction of solar radiation, temperature, humidity ,rainfall, latitude and altitude. The interactions among living organisms, the plants and animals are called biotic factors, which may cause marked effects upon vegetation. 
