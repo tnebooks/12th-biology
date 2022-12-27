@@ -515,250 +515,95 @@ In terms of services lakes offer sustainable solutions to key issues of water ma
 I**t** is located in Ponneri Taluk of Thiruvallur District. It is one of the rain fed reservoir from where water is drawn for supply to Chennai city. The full capacity of the lake is 65.5 ft. Built in the British era this lake is responsible for treating the guests to water sports too. This lake is rich in varied species of flora and fauna. 
 
 **Chembarampakkam Lake:** I**t** is located about 25 km. from Chennai. This lake is 500 yrs old. This lake is a rain fed water body which aids the Chennai City in its water supply. A river named Adyar also incepts from this lake which acts as the primary outflow for this reservoir. This lake is spread over an area of 15 square km. 
+![Figure 8.15:Chembarampakkam Lake](8.14.png "")
 
 **Maduranthakam Lake:** It is located in Kancheepuram district and it is a man-made creation. An ideal spot for an evening picnic, the widespread pristine waters of the lake are an exceptionally calming sight. The full capacity of the reservoir is 23.3ft. Kiliyar is a small river that originates from Madhuranthagam reservoir. It spreads to an area of 2908 acres and was built by Uttama Chola and the boundaries (stretched upto 12960 feet) are strengthened by Britishers with a storing capacity of 690 million cu.feet. Rain water from Cheyyar, Thiruvannamalai and Vandavasi reaches this lake.
+
 ## Sewage disposal
  Sewage disposal treatment helps to transform raw sewage into an easier manageable waste and to retrieve and reuse treated residual sewage materials. Greenhouse gases like carbon-dioxide, methane, nitrous oxide are produced during sewage treatment which apart from causing the impact on the atmosphere, it also affect the urban ecosystem, aquatic ecosystems. By making use of advanced disposal treatment plants, climate change and pollution can be minimised.
 
-Sewage is waste matter such as faeces or used dirty water from homes and factories, which flows away through sewers. Sewage treatment is the process of removing contaminants from waste water, primarily from household sewage. Physical, chemical and biological processes are used to remove contaminants and produce treated waste water, that is safer for the environment. Sewage contains large amounts of organic matter and microbes. This cannot be discharged into natural water bodies like rivers and streams directly. Hence sewage is treated in sewage treatment plants (STPs) to make it less
+ ![Figure 8.16:Sewage treatment plant process flow diagram ](8.15.png "")
 
-polluting. Sewage treatment generally involves three
+Sewage is waste matter such as faeces or used dirty water from homes and factories, which flows away through sewers. Sewage treatment is the process of removing contaminants from waste water, primarily from household sewage. Physical, chemical and biological processes are used to remove contaminants and produce treated waste water, that is safer for the environment. Sewage contains large amounts of organic matter and microbes. This cannot be discharged into natural water bodies like rivers and streams directly. Hence sewage is treated in sewage treatment plants (STPs) to make it less polluting. Sewage treatment generally involves three stages, called primary, secondary and tertiary treatment. 
 
-stages, called primary, secondary and tertiary treatment. **Solid waste management** Solid waste refers to all non liquid wastes which causes health problems and unpleasant living environment leading to pollution. Solid waste management is a term that is used to refer to the process of collecting and treating solid wastes. It is all about how it can be changed and recycled as a valuable resource.
+![Figure 8.17: Sanitary landfill](8.16.png "")
+
+
+**Solid waste management** 
+
+Solid waste refers to all non liquid wastes which causes health problems and unpleasant living environment leading to pollution. Solid waste management is a term that is used to refer to the process of collecting and treating solid wastes. It is all about how it can be changed and recycled as a valuable resource.
 
 Methods of solid waste management includes Landfill, incineration, recovery, recycling, composting, and pyrolysis.
-- T e c h n o l o g i c a l advancement for processing treatment and disposal of solid waste helps in converting it into renewable energy and organic manure. - Electronic waste contains toxic materials and are found to be non-biodegradable which causes threat to human health and the smoke during recycling and leaching causes great threat to water bodies. Agricultural landfills method stands a good method to reduce these problems.Figure 8.17: Sanitary landfill
 
-
+- T e c h n o l o g i c a l advancement for processing treatment and disposal of solid waste helps in converting it into renewable energy and organic manure. 
+- Electronic waste contains toxic materials and are found to be non-biodegradable which causes threat to human health and the smoke during recycling and leaching causes great threat to water bodies. Agricultural landfills method stands a good method to reduce these problems.
 
 **Liquid Waste Management** Liquid waste includes point source and non- point source discharges such as storm water and waste water. Examples of liquid waste include wash water from homes, liquids, used for cleaning in industries and waste detergents.
 
 Grey water is the one from municipal waste which contains harmful pathogens. Water coming from domestic equipments other than toilets (bathtub, showers, sinks, and washing machine) is also referred as grey water. Municipal wastes can be detoxified biologically and then recycled. Domestic waste water can be recycled and used for gardening.
 
 ## Environmental Impact Assessment (EIA)
- Environmental Impact Assessment is an environmental management tool. It helps to regulate and recommend optimal use of natural resources with minimum impact on ecosystem and biotic communities. It is used to predict the environmental consequences of future proposed developmental projects (example: river projects, dams, highway projects) taking into account inter-related socio-economic, cultural and human-health impacts. It reduces environmental stress thus helping to shape the projects that may suit local environment by ensuring optimal utilization of natural resources and disposal of wastes to avoid environmental degradation. **The benefits of EIA to society** - A healthier environment - Maintenance of biodiversity - Decreased resource usage - Reduction in gas emission and environment
 
-damage
+Environmental Impact Assessment is an environmental management tool. It helps to regulate and recommend optimal use of natural resources with minimum impact on ecosystem and biotic communities. It is used to predict the environmental consequences of future proposed developmental projects (example: river projects, dams, highway projects) taking into account inter-related socio-economic, cultural and human-health impacts. It reduces environmental stress thus helping to shape the projects that may suit local environment by ensuring optimal utilization of natural resources and disposal of wastes to avoid environmental degradation. 
+
+**The benefits of EIA to society** 
+- A healthier environment 
+- Maintenance of biodiversity 
+- Decreased resource usage 
+- Reduction in gas emission and environment damage
 
 ### Biodiversity Impact Assessment (BIA)
- Biodiversity Impact Assessment can be defined as a decision supporting tool to help biodiversity inclusive of development, planning
-
-and implementation. It aims at ensuring development proposals which integrate bio- diversity considerations. They are legally compliant and include mechanisms for the conservation of bio-diversity resources and provide fair and equitable sharing of the benefits arising from the use of bio-diversity.
+ Biodiversity Impact Assessment can be defined as a decision supporting tool to help biodiversity inclusive of development, planning and implementation. It aims at ensuring development proposals which integrate bio- diversity considerations. They are legally compliant and include mechanisms for the conservation of bio-diversity resources and provide fair and equitable sharing of the benefits arising from the use of bio-diversity.
 
 **Biomonitoring** The act of observing and assessing the current state and ongoing changes in ecosystem, biodiversity components, landscape including natural habitats, populations and species. An agricultural drone is an unmanned aerial vehicle applied to farming in order to help increased crop production and monitor crop growth. Agricultural drones let farmers see their fields from the sky. This bird’s eye-view can reveal many issues such as irrigation problems, soil variation and pest and fungal infestations. It is also used for cost effective safe method of spraying pesticides and fertilizers, which proves very easy and non-harmful.
 
+![Figure 8.18: Agricultural drone](8.17.png "")
 
+**Bio-diversity impacts can be assessed by** 
 
-**Bio-diversity impacts can be assessed by** - Change in land use and cover - Fragmentation and isolation - Extraction - External inputs such as emissions, effluents
-
-and chemicals - Introduction of invasive, alien or genetically
-
-modified species - Impact on endemic and threatened flora and
-
+- Change in land use and cover 
+- Fragmentation and isolation - Extraction 
+- External inputs such as emissions, effluents
+and chemicals 
+- Introduction of invasive, alien or genetically
+modified species 
+- Impact on endemic and threatened flora and
 fauna.
 
-**8.12. Geographic Information System** GIS is a computer system for capturing, storing, checking and displaying data related to positions
+**8.12. Geographic Information System** 
 
-
-
-
-  
-
-
+GIS is a computer system for capturing, storing, checking and displaying data related to positions
 on Earth’s surface. Also to manipulate, analyse, manage and present spacial or geographic data.
 
-GPS is a satellite navigation system used to determine the ground position of an object. It is a **constellation** of approximately 30 well spaced satellites that orbit the earth and make it possible for the people with ground receivers to pinpoint their geographic location. Some applications in which GPS is currently being used for around the world include Mining, Aviation, Surveying Agricultural and Marine ecosystem. **Importance of GIS** - Environmental impact assessment - Disaster management - Zoning of landslide hazard - Determination of land cover and land use - Estimation of flood damage - Management of natural resources - Soil mapping - Wetland mapping - Irrigation management and identification of
+GPS is a satellite navigation system used to determine the ground position of an object. It is a **constellation** of approximately 30 well spaced satellites that orbit the earth and make it possible for the people with ground receivers to pinpoint their geographic location. Some applications in which GPS is currently being used for around the world include Mining, Aviation, Surveying Agricultural and Marine ecosystem. 
+
+**Importance of GIS** 
+- Environmental impact assessment 
+- Disaster management 
+- Zoning of landslide hazard 
+- Determination of land cover and land use 
+- Estimation of flood damage 
+- Management of natural resources 
+- Soil mapping 
+- Wetland mapping 
+- Irrigation management and identification of
 
 volcanic hazard - Vegetation studies and mapping of
+threatened and endemic species. 
 
-threatened and endemic species. **Remote Sensing** is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance from the targeted area. It is an tool used in conservation practices by giving exact picture and data on identification of even a single tree to large area of vegetation and wild life for classification of land use patterns and studies, identification of biodiversity rich or less areas for futuristic works on conservation and maintenance of various species including commercial crop, medicinal plants and threatened plants. **Specific uses** - Helps predicting favourable climate, for the
+**Remote Sensing** is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance from the targeted area. It is an tool used in conservation practices by giving exact picture and data on identification of even a single tree to large area of vegetation and wild life for classification of land use patterns and studies, identification of biodiversity rich or less areas for futuristic works on conservation and maintenance of various species including commercial crop, medicinal plants and threatened plants. 
 
-study of spreading of disease and controlling it.
-- Mapping of forest fire and species distribution.
-- Tracking the patterns of urban area development and the changes in Farmland or forests over several years
+**Specific uses** 
+- Helps predicting favourable climate, for thestudy of spreading of disease and controlling
+it.
+- Mapping of forest fire and species
+distribution.
+
+- Tracking the patterns of urban area
+development and the changes in Farmland
+or forests over several years
+
 - Mapping ocean bottom and its resources
 
-**Applications of Satellites**
-
-**Name of the Satellites**
-
-**Year of Launch Application**
-
-SCATSAT – I Sep. 2016 Weather forecasting, cyclone prediction and tracking services in India
-
-INSAT 3DR Sep. 2016 Disaster management
-
-CARTOSAT – 2 Jan. 2018 Earth observation GSAT – 6A March
-
-2018 Communication
-
-CARTOSAT – 2 (100th Satellite)
-
-Jan. 2018 To watch border surveillance
 
 **Summary** Green house effect leads to climate change which results in global warming. Deforestation causes soil erosion, whereas Afforestation helps to restore vegetation and increases ground water table. Agrochemicals like fertilizers, pesticides and runoff from fields cause soil infertility and in turn depletes the growth of plants. Help the government to retrieve the vegetation. Regeneration of trees by Agroforestry is possible with the involvement of community and government. Help to conserve the flora and fauna in their natural habitat and man-made environments like zoological parks and national parks. IUCN is the oldest environmental organisation which protects endemic and threatened species. Mitigation of carbon in the atmosphere done in the form of sequestration. Rain water harvesting is done for improving the ground water table. Importance and location of lakes in Tamil Nadu which aids water supply to the city is a measure of conservation of drinking water. Assessment of Environment and Biodiversity helps to study risk analysis and disaster management. Forest cover is monitored through Remote sensing and GIS.
-
-
-**Evaluation**
-
-1\. Which of the following would most likely help to slow down the greenhouse effect.
-
-a) Converting tropical forests into grazing land for cattle.
-
-b) Ensuring that all excess paper packaging is buried to ashes.
-
-**c) Redesigning landfill dumps to allow** methane to be collected.
-
-d) Promoting the use of private rather than public transport.
-
-2\. With respect to _Eichhornia_ Statement A: It drains off oxygen from water
-
-and is seen growing in standing water. Statement B: It is an indigenous species of
-
-our country. a) Statement A is correct and Statement B is
-
-wrong. b) Both Statements A and B are correct. c) Statement A is correct and Statement B is
-
-wrong. d) Both statements A and B are wrong.
-
-3\. Find the wrongly matched pair. a) Endemism - Species confined to a
-
-region and not found anywhere else.
-
-b) Hotspots - Western ghats c) Ex-situ
-
-Conservation - Zoological parks d) Sacred groves - Saintri hills of Rajasthan e) Alien sp.
-
-Of India - Water hyacinth
-
-4\. Depletion of which gas in the atmosphere can lead to an increased incidence of skin cancer?
-
-a) Ammonia b) Methane c) Nitrous oxide d) Ozone
-
-5\. One green house gas contributes 14% of total global warming and another contributes 6%. These are respectively identified as
-
-a) N20 and CO2 b) CFCs and N20 c) CH4 and CO2 d) CH4 and CFCS
-
-6\. One of the chief reasons among the following for the depletion in the number of species making endangered is
-
-a) over hunting and poaching b) green house effect c) competition and predation d) habitat destruction
-
-7\. Deforestation means a) growing plants and trees in an area where
-
-there is no forest b) growing plants and trees in an area where
-
-the forest is removed c) growing plants and trees in a pond d) removal of plants and trees
-
-8\. Deforestation does not lead to a) Quick nutrient cycling b) soil erosion c) alternation of local weather conditions d) Destruction of natural habitat weather
-
-conditions
-
-9\. The unit for measuring ozone thickness a) Joule b) Kilos c) Dobson d) Watt
-
-10\. The lake which was built in British era and is near the Indian Army Base
-
-a) Veeranam lake b) Maduranthagam lake c) Sholavaram lake d) Chembrambakkam lake
-
-11\. People’s movement for the protection of environment in Sirsi of Karnataka is
-
-a) Chipko movement b) Amirtha Devi Bishwas movement c) Appiko movement d) None of the above
-
-12\. The invasive species introduced in India from Philippines
-
-a) Lantana b) Prosopis c) Parthenium d) Kappaphycus
-
-
-
-  
-
-
-13\. Cash crops like sesame and pearl millet are inhibited by the invasive plant
-
-a) Kappaphycus b) Parthenium c) Lantana d) Prosopis
-
-14\. The plants which are grown in silivpasture system are
-
-a) Sesbania and Acacia b) Solenum and Crotalaria c) Clitoria and Begonia d) Teak and sandal
-
-15\. IUCN red list categories has developed criteria for threatened species. The criteria ‘C’ refers to
-
-a) Geographic range b) Quantitiative analysis c) Small population size and decline d) population reduction
-
-16\. What is ozone hole?
-
-17\. Give four examples of plants cultivated in commercial agroforestry.
-
-18\. What are agrochemicals?
-
-19\. Expand CCS.
-
-20\. How do forests help in maintaining the climate?
-
-21\. How do sacred groves help in the conservation of biodiversity?
-
-22\. Which one gas is most abundant out of the four commonest greenhouse gases? Discuss the effect of this gas on the growth of plants?
-
-23\. Distinguish between endangered, vulnerable and rare species.
-
-24\. Suggest a solution to water crisis and explain its advantages.
-
-25\. Explain afforestation with case studies.
-
-26\. What are the effects of deforestation and benefits of agroforesty?
-
-**Glossary Algae Blooms**: Sudden sprout of algae growth, which can affect the water quality adversely and indicate potentially hazardous changes in local water chemistry.
-
-**Atmosphere**: A major regional community of plants and animals with similar life forms and environmental conditions.
-
-**Biodegradable waste:** Organic waste, typically coming from a plant or animal sources, which other living organisms can break done.
-
-**Biosphere: The portion of earth and its** atmosphere that can support life.
-
-**Effluent: Liquid waste such as sewage and** liquid waste from industries.
-
-**Landfill: A site that is specially designed to** dispose of waste and operates with a license granted by the Environmental Protection Agency (EPA).
-
-**Oil spill: The harmful release of oil into the** environment, usually through water, which is very difficult to clean up and often kills, birds, fish and other wildlife.
-
-**Radiation**: A form of energy that is transmitted in waves, rays or particles from a natural source such as the sun and the ground or an artificial source such as an X-ray machine.
-
-**Radioactive**: A materials is said to be radioactive if it emits radiation.
-
-**Recycle**:To break waste items done into their raw materials, which are then used to remake the original item or to make new items.
-
-**Sewage**: Liquid waste from communities which may be a mixture of domestic effluent from homes, and liquid waste from industries.
-
-**Sustainable development:** Development using hand of energy sources in a way that meets the needs of people today without reducing the ability in future generation to meet their own needs.
-
-
-URL:
-
-**https://play.google.com/store/apps/details?id=gov.nasa.jpl.earthnow.activity**
-
-**ICT Corner**
-
-**Environmental Issues**
-
-**Step 2Step 1 Step 3 Step 4**
-
-**Steps**
-- Type the URL or scan the QR code to open the activity page. - Click on the satellite it displays the shape and activities of the satellite. - Click on the Vital Signs to see the global Climate data including surface air
-
-temperature, Carbondioxide, Ozone, etc.,
-
-Let us know about the Environmental issues using the **EARTH NOW** app through this activity.
-
-\* Pictures are indicative only
-
-
-
-
-
-
-
-
-
-
-
-
-
