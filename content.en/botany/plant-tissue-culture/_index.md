@@ -16,6 +16,8 @@ weight: 5
 ```
 Growing plant protoplasts, cells, tissues or organs away from their natural or normal environment, under artificial condition, is known as Tissue Culture. It is also known as _in vitro_ (_In vitro_ is a Latin word, it means that - in glass or in test-tube) growth of plant protoplasts, cells, tissues and organs. A single explant can be multiplied into several thousand plants in a short duration and space under controlled conditions.
 
+![Totipotency](5.1.png "")
+
 Tissue culture techniques are often used for commercial production of plants as well as for plant research. Plant tissue culture serves as an indispensable tool for regeneration of transgenic plants. Apart from this some of the main applications of Plant tissue culture are clonal propagation of elite varieties, conservation of endangered plants, production of virus-free plants, germplasm preservation, industrial production of secondary metabolites. etc., In this chapter let us discuss the history , techniques, types , applications of plant tissue culture and get awareness on ethical issues.
 
 Gottlieb Haberlandt (1902) the German Botanist proposed the concept **Totipotency** and he was also the first person to culture plant cells in artificial conditions using the mesophyll cells of _Lamium purpureum_ in culture medium and obtained cell proliferation. He is regarded as the father of tissue culture.
@@ -29,7 +31,7 @@ The property of live plant cells that they have the genetic potential when cultu
 ### Differentiation 
 The process of biochemical and structural changes by which cells become specialized in form and function.
 
-![Totipotency](5.1.png "")
+![Figure 5.2: Tissue culture lab](5.2.png "")
 
 **Redifferentiation** 
 The further differentiation of already differentiated cell into another type of cell. For example, when the component cells of callus have the ability to form a whole plant in a nutrient medium, the phenomenon is called redifferentiation.
@@ -50,7 +52,7 @@ Plant tissue culture is used to describe the _in vitro_ and aseptic growth of an
 ### Laboratory Facilities for PTC
 For PTC, the laboratory must have the following facilities:
 
-![Figure 5.2: Tissue culture lab](5.2.png "")
+![Basic steps in Plant tissue culture technology](5.3.png "")
 
 - Washing facility for glassware and ovens for drying glassware.
 - Medium preparation room with autoclave,electronic balance and pH meter. 
