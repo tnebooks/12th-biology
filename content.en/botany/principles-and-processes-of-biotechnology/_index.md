@@ -27,7 +27,11 @@ Biotechnology is the science of applied biological processes. In other words it 
 
 ## Development of Biotechnology
 
-Biotechnology has developed by leaps and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
+Biotechnology has developed by leaps and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 
+
+**1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. 
+
+With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
 
 ### Modern biotechnology 
 There are two main features of this technology, that differentiated it from the conventional technology they are: i) ability to change the genetic material for getting new products with specific requirement through recombinant DNA technology ii) ownership of the newly developed technology and its social impact. Today, biotechnology is a billion dollar business around the world, wherein pharmaceutical companies, breweries, agro industries and other biotechnology based industries apply biotechnological tools for their product improvement.
@@ -221,6 +225,12 @@ In addition to **ori** the vector requires a selectable marker, which helps in i
 #### 3.Cloning sites: 
 In order to link the alien DNA, the vector needs to have very few, preferably single, recognition sites for the commonly used restriction enzymes.
 
+#### Types of vector 
+Few types of vectors are discussed in detail below:
+
+![Figure 4.9: Bacterial chromosome and plasmids ](4.33.png  "img-class")
+
+
 ##### Plasmid 
 Plasmids are extra c h r o m o s o m a l , self replicating ds circular DNA molecules, found in the bacterial cells in addition to the bacterial chromosome. Plasmids contain Genetic information for their own replication.
 
@@ -274,9 +284,11 @@ A pulse of high voltage is applied to protoplasts, cells or tissues which makes 
 
 Liposomes the artificial phospholipid vesicles are useful in gene transfer. The gene or DNA is transferred from liposome into vacuole of plant cells. It is carried out by encapsulated DNA into the vacuole. This technique is advantageous because the liposome protects the introduced DNA from being damaged by the acidic pH and protease enzymes present in the vacuole. Liposome and tonoplast of vacuole fusion resulted in gene transfer. This process is called lipofection.
 
-![Figure 4.16: Gene gun method of Gene Transfer](4.15.png  "img-class")
-
 e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or tungsten particles (1-3 µm) and bombarded onto the target tissue or cells using a particle gun (also called as **gene gun/micro projectile gun/shotgun**). Then the bombarded cells or tissues are cultured on selected medium to regenerate plants from the transformed cells.(Figure 4.16)
+
+![Figure 4.13: Liposome mediated method of Gene Transfer](4.34.png  "img-class")
+
+![Figure 4.16: Gene gun method of Gene Transfer](4.15.png  "img-class")
 
 ### Indirect or Vector-Mediated Gene Transfer
 Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into
@@ -284,11 +296,11 @@ plant genome, upon infection of cells at the wound site, it is also known as the
 
 The foreign gene (e.g. Bt gene for insect resistance) and plant selection marker gene, usually an antibiotic gene like npt II which confers resistance to antibiotic kanamycin are cloned in the T DNA region of Ti-plasmid in place of unwanted DNA sequences.(Figure 4.17)
 
+![Figure 4.17: Agrobacterium mediated gene transfer in plants](4.16.png  "img-class")
 
 ## Screening for Recombinants
-After the introduction of r-DNA into a suitable host cell, it is essential to identify those cells which have received the r-DNA molecule. This process is called screening. The vector or foreign DNA present in recombinant cells expresses the characters, while the non-recombinants do not express the characters or traits. For this some of the methods are used and one such method is Blue-White Colony Selection method.
 
-![Figure 4.17: Agrobacterium mediated gene transfer in plants](4.16.png  "img-class")
+After the introduction of r-DNA into a suitable host cell, it is essential to identify those cells which have received the r-DNA molecule. This process is called screening. The vector or foreign DNA present in recombinant cells expresses the characters, while the non-recombinants do not express the characters or traits. For this some of the methods are used and one such method is Blue-White Colony Selection method.
 
 
 ### Insertional Inactivation - Blue- White Colony Selection Method
@@ -327,6 +339,10 @@ from a few hundred to about 20000 base
 pairs. Polyacrylamide is preferred for the
 purification of smaller DNA fragments. The gel
 is complex network of polymeric molecules.
+
+![Figure 4.19: Replica plating technique](4.35.png  "img-class")
+
+
 DNA molecule is negatively charged molecule
 - under an electric field DNA molecule
 migrates through the gel. The electrophoresis
@@ -344,17 +360,6 @@ can be photographed
 
 ![Figure 4.20: a. Bands of DNA in Agarose gel b. Gel Electrophoresis Instrument](4.19.png  "img-class")
 
-Agricultural diagnostics refers to a variety of tests
-that are used for detection of pathogens in plant
-tissues. Two of the most efficient methods are
-
-##### 1. ELISA (Enzyme Linked Immumo Sorbent Assay)
-
-Elisa is a diagnostic tool for identification of
-pathogen species by using antibodies and
-diagnostic agents. Use of ELISA in plant pathology
-especially for weeding out virus infected plants
-from large scale planting is well known.
 
 ##### 2. DNA Probes
 
@@ -376,6 +381,18 @@ The transfer of RNA to** nitrocellulose membrane.
 ##### Western Blotting: 
 Electrophoretic transfer of Proteins to nitrocellulose membrane.
 
+Agricultural diagnostics refers to a variety of tests
+that are used for detection of pathogens in plant
+tissues. Two of the most efficient methods are
+
+##### 1. ELISA (Enzyme Linked Immumo Sorbent Assay)
+
+Elisa is a diagnostic tool for identification of
+pathogen species by using antibodies and
+diagnostic agents. Use of ELISA in plant pathology
+especially for weeding out virus infected plants
+from large scale planting is well known.
+
 **Southern Blotting Techniques - DNA** The transfer of denatured DNA from Agarose gel to Nitrocellulose Blotting or Filter Paper technique was introduced by Southern in 1975 and this technique is called Southern Blotting Technique. 
 
 **Steps** The transfer of DNA from agarose gel to nitrocellulose filter paper is achieved by Capillary Action.
@@ -394,7 +411,9 @@ Autoradiography - A technique that captures the image formed in a photographic e
 
 **Western Blot** Refers to the electrophoretic transfer of proteins to blotting papers. Nitrocellulose filter paper can be used for western blot technique. A particular protein is then identified by probing the blot with a radio-labelled antibody which binds on the specific protein to which the antibody was prepared.
 
+
 ### Bioassay for Target Gene Effect
+
 Target gene is target DNA, foreign DNA, passenger DNA, exogenous DNA, gene of interest or insert DNA that is to be either cloned or specifically mutated. Gene targeting experiments have been targeting the nuclei and this leads to ‘gene knock-out’. For this purpose, two types of targeting vectors are used. They are insertion vectors and replacement or transplacement vectors. 
  
 1. Insertion vectors are entirely inserted into
@@ -414,8 +433,7 @@ consequently a crossing over occurs to
 replace the endogenous DNA with the
 incoming DNA.
 
-
-**Table - 4.2 Differences between Blotting Techniques Southern blotting Northern blotting Western blotting**
+![Table 4.2: Difference between Blotting Techniques](4.36.png  "img-class")
 
 **Transfection**: Introduction of foreign nucleic acids into cells by non-viral methods.
 
@@ -562,8 +580,8 @@ Biological hydrogen production by algae The biological hydrogen production with 
 
 ![Figure 4.31: Algal Biofuel](4.31.png  "img-class")
 
-### Bioprospecting Bioprospecting
- is the process of discovery and commercialization of new products obtained from biological resources. Bioprospecting may involve biopiracy, in which indigenous knowledge of nature, originating with indigenous people, is used by others for profit, without authorization or compensation to the indigenous people themselves.
+### Bioprospecting 
+Bioprospecting is the process of discovery and commercialization of new products obtained from biological resources. Bioprospecting may involve biopiracy, in which indigenous knowledge of nature, originating with indigenous people, is used by others for profit, without authorization or compensation to the indigenous people themselves.
 
 **Biopiracy** 
 Biopiracy can be defined as the manipulation of intellectual property rights laws by corporations to gain exclusive control over national genetic resources, without giving adequate recognition or remuneration to the original possessors of those resources. Examples of biopiracy include recent patents granted by the U.S. Patent and Trademarks Office to American companies on turmeric, ‘neem’ and, most notably, ‘basmati’ rice. All three products are indigenous to the Indo-Pak subcontinent.
