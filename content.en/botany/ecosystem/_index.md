@@ -667,6 +667,20 @@ It is the climax community of hydrosere. A variety of trees invade the area and 
 
 In the 7 stages of hydrosere succession, stage1 is occupied by pioneer community, while the stage 7 is occupied by the climax community. The stages 2 to 6 are occupied by seral communities.
 
+**Lithosere**
+
+Lithosere is a type of xerosere initiating on a barren rock surface. The barren rock is devoid of water and organic matter. A barren rock surface gets mineral deposits due to weathering. This results in the colonization of pioneer organisms like crustose lichens. Through a series of successive seral stages, forest stage (Climax community) is achieved finally. These series of stages are given below Fig 7.21. 
+
+**1. Crustose lichen stage**- The pioneers like crustose lichens (Rhizocarpon and Lecanora) secrete some acids which enhance the weathering of rock. Due to this continuous process, small particles of rocks are formed, which together with decaying lichen make the first thin layer of soil on rock surface. However, this process is very slow. At the end, this habitats become less fit for existing plants and is gradually replaced by another type of lichens called foliose lichen.
+
+**2. Foliose lichen stage** - Gradually crustose lichens are replaced by foliose lichen like Parmelia and Dermatocarpon etc. These plants have leaf like structures. They also secrete some acids which further loosen the rocks into small soil particles. This process enhances water retaining capacity of the habitat and causes further accumulation of soil particles and humus. Gradual changes make the area less favourable for existing foliose lichen.
+
+**3. Moss stage** - When the habitat is changed, the existing foliose lichen starts disappearing and favours the growth of some xerophytic moss like Polytrichum, Tortula and Grimmia. The luxurious growth of moss competes with lichens. Due to the death and decay of mosses, further addition of humus and moisture to the habitat takes place. Therefore, the next seral community tries to replace the moss community.
+
+**4.Herb stage** - With the gradual disappearance of moss stage, herbaceous plant communities like Aristida, Festuca and Poa, etc., invade the habitat. The extensive growth of these herbs alter the habitat. The decaying leaves, stems, root and other parts of these plants get deposited on the soil surface in the form of humus. It further increases the water holding capacity of soil. These conditions become more suitable for shrubs.
+
+
+
 
 ### Significance of Plant Succession
 -  Succession is a dynamic process. Hence
