@@ -991,10 +991,12 @@ Government of India has set up National Medicinal Plants Board (NMPB) on 24th No
 Lemongrass is a tropical herb packed with strong citrus flavor. The lemon taste is prized in Asian cooking, as well as in tea, sauces, and soups.
 **Economic part:** Stem base and leaves. **Major constituents:** Citronella, geraniol and citronellol. Uses: The aromatic oil has flavouring properties and is used in perfumery, cosmetics, confectionary, beverages, mosquito repellents and toilet cleaners. **Soil and Climate:** Lemongrass grow well in full sun, with plenty of water, in a rich, well- draining soil. 
 **Planting: This plant can thrive well all through** the year. Fill planting holes with composted manure to improve fertility and enhance the soil’s ability to hold water. If you’re adding several lemongrass plants to planting beds, space plants 60 cm apart. 
+[Lemon grass](10.27.png "")
+
 **Irrigation:** Water requirements for this plant will vary dependent upon the type of soil they grow. Sandy, loose soils require more frequent watering than silty loam. 
 **Harvest:** Start harvesting as soon as plants are 30 cm tall and stem bases are at least 1.5 cm thick. Cut stalks at ground level.
 
-[Lemon grass](10.27.png "")
+
 
 ```hint {role="class"}
 **CSIR Aroma Mission of India** 
