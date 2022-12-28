@@ -307,22 +307,22 @@ The various modern methods of seed protection are as follows:
 1. **Seed Treatment** 
 In agriculture and horticulture, seed treatment or seed dressing is a chemical, typically antimicrobial or antifungal, with which seeds are treated (or dressed) prior to planting.
 
-    **Benefits of seed treatment**. 
-    - Prevents spread of plant disease. 
-    - Protects seed from seedling blights. 
-    - Improves germination. 
-    - Provides protection from storage insects. 
-    - Controls soil insects.
+**Benefits of seed treatment**. 
+- Prevents spread of plant disease. 
+- Protects seed from seedling blights. 
+- Improves germination. 
+- Provides protection from storage insects. 
+- Controls soil insects.
 
 2. **Seed Hardening** 
 Seed hardening is a physiological preconditioning of the seed by soaking of seed in water or chemical solution for definite duration in proper ratio (Seed : Solution) and shade drying to bring back the seed to original moisture content.
 
-    **Benefits:**. 
-    - It increases the yield, root growth and vigour of seed germinatio. 
-    - The uniformity of seedling emergence. 
-    - Flowering occurs 2-3 days earlie. 
-    - Uniform seed set and maturit. 
-    - Exposes the seed to drought tolerance.
+**Benefits:**. 
+- It increases the yield, root growth and vigour of seed germinatio. 
+- The uniformity of seedling emergence. 
+- Flowering occurs 2-3 days earlie. 
+- Uniform seed set and maturit. 
+- Exposes the seed to drought tolerance.
 
 3. **Seed Pelleting** 
 The process of enclosing seed in a filter inert material using an adhesive with bioactive chemicals. Seed pelleting increases the weight, size and shape of seeds by allowing percale maturing and spacing of seed in the field.
