@@ -3,62 +3,143 @@ title: 'பாதுகாப்பு'
 weight: 7
 ---
 
- 
+ நிலப்பரப்பு, புவியியல் மற்றும் காலநிலை வடிவங்கள்,
+முறைகள் ஆகியவற்றால் இந்தியா பல்வேறுபட்ட
+உயிரி வகைகளைக் க�ொண்டுள்ளன. இம்மாபெரும்
+பன்முகத்தன்மை பல சுற்றுச்சூழல் பிரச்சினைகள்
+காரணமாக
+தற்போது
+அச்சுறுத்தலுக்கு
+உள்ளாகியுள்ளது. இதற்குப் பாதுகாப்பு என்ற ஒரு
+முக்கிய கருவியை நமது ச�ொந்த மண்ணிலிருந்து பல
+இனங்கள்
+இழத்தலைக்
+குறைப்பதற்குப்
+பயன்படுத்தலாம். இனச்செல் வளக்கூறு பாதுகாப்பு,
+வாழிடப் பேணுகை(in situ) , புற வாழிடப் பேணுகை
+(ex situ), ஆய்வுக்கூட வளர்ப்பு முறைமாதிரிகள் (in
+மேலாண்மை
+உத்திகளைப்
+vitro),
+ஆகிய
+பயன்படுத்துவதன் மூலம் இடவரை (endemic) மற்றும்
+அச்சுறுத்தப்படும் சிற்றினங்கள் பாதுகாக்கப்படுகின்றன.
+
+**வாழிடப் பேணுகை பாதுகாப்பு (insitu conservation)**
+இவை இயற்கை வாழிடங்களில் காணப்படும் மரபியல்
+ஆதாரங்களின் மேலாண்மை மற்றும் பாதுகாப்பு
+என்பதாகும்.
+இங்குத்
+தாவரங்கள்
+அல்லது
+விலங்கினங்கள் தற்போதுள்ள வாழ்விடங்களிலேயே
+பாதுகாக்கப்படுகின்றன. இப்பாதுகாப்பு முறை மூலம்
+அச்சுறுத்தலுக்குட்பட்ட வன மரங்கள், மருத்துவ மற்றும்
+நறுமணத்தாவரங்கள்
+பாதுகாக்கப்படுகின்றன.
+சமுதாயம் அல்லது மாநிலப் பாதுகாப்பு மூலம்
+வனவிலங்கு, தேசியப் பூங்கா மற்றும் உயிர்கோள
+காப்பகங்கள்
+உள்ளடக்கியவை
+செயல்படுத்தப்படுகின்றன.
+சுற்றுச்சூழல்
+ரிதீயாக
+தனித்துவம் பெற்ற மற்றும் பல்வகைமை நிறைந்த
+பகுதிகள்
+சட்டப்பூர்வமாக
+வன
+விலங்கு
+சரணாலயங்கள், தேசியப் பூங்காக்கள் மற்றும்
+உயிர்கோளம்,
+உயிரியல்
+காப்பகங்களாகப்
+பாதுகாக்கப்படுகின்றன. மேகமலை , சத்தியமங்கலம்
+வன உயிரி காப்பகம், கிண்டி மற்றும் பெரியார்
+தேசியப்பூங்கா , மேற்கு த�ொடர்ச்சி மலை , நீலகிரி,
+அகஸ்திய மலை மற்றும் மன்னார் வளைகுடா
+ஆகியவை தமிழ்நாட்டின் உயிர்கோள காப்பகங்கள்
+ஆகும்.
+
+**க�ோயில் காடுகள் (sacred groves)**
+இவை சமூகங்களால் பாதுகாக்கப்பட்டு வளர்க்கப்பட்ட
+மரங்களின்
+த�ொகுப்புகளாகவ�ோ
+அல்லது
+த�ோட்டங்களாகவ�ோ சமூகத்தின் பாதுகாப்பிற்காக
+சமயச்
+சித்தாந்தங்களைக்
+ஒருகுறிப்பிட்ட
+க�ொண்டிருக்கும் வலுவான மத நம்பிக்கை க�ொண்ட
+அமைப்புகளை
+அடிப்படையாகக்
+க�ொண்டவை.
+பெரும்பாலும்
+ஒவ்வொரு
+கிராமத்துக்
+க�ோயில்காடுகளும் ஐயனார் அல்லது அம்மன் ப�ோன்ற
+கிராம ஆண், பெண் தெய்வங்களின் உறைவிடமாகவே
+இவை கருதப்படுகின்றன. தமிழ்நாடு முழுவதும் 448
+க�ோயில் காடுகள் ஆவணப்படுத்தப்பட்டுள்ளன. இதில்
+ஆறு க�ோயில் காடுகள் விரிவான தாவர மற்றும்
+விலங்கின வகை (floristic and faunistic) ஆய்வுகளுக்கு
 
 
-![Figure 8.9: Flow chart on biodiversity conservation](8.9.png "")
+![படம் 8.9: உயிரிபன்மக் பாதுகாப்பின் த�ொடர் வரைபடம்](8.20.png "")
 
-**IUCN Red List categories Extint (EX)** A taxon is Extinct when there is no reasonable doubt on the death of the last individual. A taxon is presumed Extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historic range have failed to record an individual. Example: _Neuracanthus neesianus_.
+எடுத்துக்கொள்ளப்பட்டுள்ளன.
+(பனங்குடிச�ோலை,
+திருகுறுங்குடி
+மற்றும்
+உதயங்குடிகாடு,
+சித்தன்னவாசல், புத்துப்பட்டு மற்றும் தேவதானம்).
+இவை நீர்பாசனம், தீவனம், மருத்துவத் தாவரங்கள்
+மற்றும் நுண்காலநிலை கட்டுப்பாடு ஆகியவற்றைப்
+பாதுகாப்பதன் மூலம் ஏராளமான சுற்றுச்சூழல்
+அமைப்புச்சேவைகளை அண்டை பகுதிகளுக்கு
+வழங்குகின்றன.
 
-**Extinct in the wild (EW)** A taxon is Extinct in the Wild when it is known only to survive in cultivation, in captivity or as a naturalised population (or populations) well outside the past range. Example: _Ginkgo biloba_
+**புற வாழிடப் பேணுகை (Ex-situ conservation)**
 
-**Critically endangered (CR)** A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered, and it is therefore considered to be facing an extremely high risk of extinctions in the wild. Example: _Euphorbia santapaui, Piper barberi, Syzygium gambelianum._
+இப்பாதுகாப்பு
+முறையில்
+சிற்றினங்கள்
+இயற்கைச்சூழலுக்கு
+வெளியே
+பாதுக்காக்கப்படுகின்றன.இவை
+தாவரவியல்
+த�ோட்டங்கள்,
+விலங்கியல்
+பூங்காக்களைத்
+த�ோற்றுவித்தல், பாதுகாப்பு உத்திகளான மரபணு,
+மகரந்தம், விதை, அகவளர் முறை பாதுகாப்பு, உறை
+குளிர் பாதுகாப்பு , நாற்றுகள், திசு வளர்ப்பு மற்றும் DNA
+வங்கிகள் மூலம் பாதுகாக்கப்படுகின்றன. இந்த
+வசதிகள் அச்சுருத்தலுக்குண்டான சிற்றினங்களுக்கு
+உறைவிடம் மற்றும் பராமரிப்பு வழங்குவத�ோடு
+மட்டுமல்லாமல் சமுதாயத்திற்கான கல்வி மற்றும்
+ப�ொழுதுப�ோக்கு அம்சங்களையும் பெற்றுத் தருகின்றன.
 
-**Endangered (EN)**
-
-A taxon is Endangered when the best available evidence indicates that it meets any of the criteria A to E for Endangered, and it is therefore considered to be facing a very high risk of extinction in the wild. Example: Elaeocarpus venustus, Pogostemon nilagricus, Eugenia singampattiana.
-
-**Vulnerable (VU)**
-
-A taxon is Vulnerable when the best available evidence indicates that it meets any other criteria A to E for Vulnerable, and it is therefore considered to be facing a high risk of extinction in the wild. Example: Dalbergia latifolia, Santalum album, Chloroxylon sweitenia
-
-**Near threatened (NT)**
-
-A taxon is Near Threatened when it has been
-evaluated against the criteria but does not
-qualify for Critically Endangered, Endangered
-or Vulnerable now, but is close to qualifying for
-or is likely to qualify for threatened category in
-the near future.
-
-**Least concerned (LC)**
-
-A taxon is Least Concerned when it has been
-evaluated against the criteria and does not
-qualify for Critically Endangered, Endangered,
-Vulnerable or Near Threatened, Widespread
-and abundant taxa are included in this category.
-
-**Data deficient (DD)**
-
-A taxon is Data Deficient when there is inadequate
-information to make a direct, or indirect,
-assessment of the risk of extinction based on its
-distribution and/or population status.
-
-**Not evaluated (NE)**
-A taxon is Not Evaluated when it has not yet
-been evaluated against the criteria
+8.7.1 இயற்கை பாதுகாப்பிற்கான பன்னாட்டு
+ஒன்றியம் (International Union for Conservation
+of Nature - IUCN)
+இயற்கை பாதுகாப்பிற்கான பன்னாட்டு ஒன்றியம்
+(IUCN) 1948 அம் ஆண்டு த�ோற்றுவிக்கப்பட்ட உலகின்
+பழமையான சுற்றுச்சூழல் அமைப்பாகும். இதன்
+தலைமையகம் சுவிட்ஸர்லாந்து நாட்டிலுள்ள க்லாந்து
+எனும் இடத்திலுள்ளது. இது அரசு, அரசு சாரா
+நிறுவனங்கள், விஞ்ஞானிகள், வணிகம் மற்றும்
+உள்ளாட்சி சமுதாயங்களுக்கும் ஒரு நடுநிலைஅமைப்பாக விளங்குகிறது. சுற்றுச்சூழல் பாதுகாப்பு
+மற்றும் நிலையான வளர்ச்சியுடன் த�ொடர்புடைய
+க�ொள்கைகளை நடைமுறைப்படுத்தும் ந�ோக்கத்துடன்
+இது உருவாக்கப்பட்டுள்ளது.
+IUCN சிவப்பு பட்டியல் (செம்பட்டியல்)
+இப் பட்டியலின் பிரிவுகள், தாவர மற்றும் விலங்கின
+வளங்களுக்கு ஏற்படும் அச்சுறுத்தல்களின் விகிதம்
+மற்றும் பாதுகாப்பு முன்னுரிமைகள் ஆகியவற்றை
+மதிப்பீடு செய்ய நமக்கு உதவுகிறது.
 
 
-### Endemic Centres and Endemic Plants
- Endemic species are plants and animals that exist only in one geographic region. Species can be endemic to large or small areas of the earth. Some are endemic to a particular continent, some to a part of a continent and others to a single island.
+![படம் 8.9: உயிரிபன்மக் பாதுகாப்பின் த�ொடர் வரைபடம்](8.9.png "")
 
-Any species found restricted to a specified geographical area is referred to as ENDEMIC.. It may be due to various reasons such as isolation, interspecific interactions, seeds dispersal problems, site specificity and many other environmental and ecological problems. There are 3 Megacentres of endemism and 27 microendemic centres in India. Approximately one third of Indian flora have been identified as endemic and found restricted and distributed in three major phytogeographical regions of india, that is Indian Himalayas, Peninsular India and Andaman nicobar islands. Peninsular India, especially Western Ghats has high concentration of endemic plants. _Hardwickia_ _binata_ and _Bentinckia condapanna_ are good examples for endemic plants. A large percentage of Endemic species are herbs and belong to families such as Poaceae. Apiaceae, Asteraceae and Orchidaceae. 
 
-![Table 1 : Endemic plants](8.19.png "")
-
-Majority of endemic species are threatened due to their narrow specific habitat, reduced seed production, low dispersal rate, less viable nature and human intereferences.. Serious efforts need to be undertaken for their conservation, otherwise these species may become globally extinct.
-
-![Table 1 : Endemic plants](8.10.png "")
 
