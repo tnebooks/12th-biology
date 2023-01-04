@@ -1,134 +1,701 @@
 ---
-title: 'Transgenic Plants / Genetically Modified Crops (Gm Crops)'
+title: 'மரபணு மாற்றமடைந்த தாவரங்கள் / மரபணு மாற்றமடைந்த பயிர்கள்'
 weight: 7
 ---
 
 
-### Herbicide Tolerant – Glyphosate
+4.  மரபணு... மாற்றப்பட்டத்‌ தாவரங்கள்‌: (ராகா நிசா சொல்க ஈரம்‌ ௭00-011 ௭௦0௮)
 
- Weeds are a constant problem in crop fields. Weeds not only compete with crops for sunlight, water, nutrients and space but also acts as a carrier for insects and diseases. If left uncontrolled, weeds can reduce crop yields significantly.
+௬7. களைக்கொல்லி எதிர்ப்புத்தன்மை - கிளைபோசேட்‌ (000௦812) பலர்‌. நிலங்களில்‌ எப்போதும்‌ காணப்படும்‌ ஒரு மச்சினை களைகளாகும்‌. களைகள்‌ பயிர்களுடன்‌ கூறிய ஒளி, நீர, உணவு மற்றும்‌ இடத்திற்காக போப்டயிடுவதுடன்‌. பூ்சகள்‌ மற்றும்‌ நோய்களின்‌ குடத்திகளாக...... உள்ளன. இவற்றைக்‌ க்டப்பரக்தாவிட்டால்‌ களைகள்‌ பயிர்விளைச்சலை குறிப்பிடத்தக்க களவு குறைத்துவிம்‌ மரபணு மாற்றப்பட்டத்‌ தாவரங்கள்‌ வேறோரு உயிரியின்‌ புதுமையான 0414. நுழைக்கப்பட்ட மரபணுத்‌ தொகையம்‌ பெற்றக்‌ தாவரங்களாகம்‌. கிளைபோசேட்‌ களைக்கொல்லி சரிக்க நிறுவனமான மான்சான்போ ரானா) மூலமாக 'தயாிக்கப்புிறது. இதன்‌ வணிக பெயர்‌ \[வுண்ட்‌ ம்‌ ஆகும்‌. இது தாவரங்களில்‌ 5 ஈனோபைருவேட்‌ சிக்கமேட்‌ட ர ஃபாஸ்ஃபேட்‌ சந்தடேஸ்‌ நொதியை (5 எ்ஜூமக யாமி ஷர்விமவாள்ம௦ - 2909) 'தடைவய்வதன்‌ மூலம்‌ தாவரங்களைக்‌ கொல்லுகிறது. இந ஷாதி நறுமணலும்டம்‌ சமினோ அமிலங்கள்‌, வைட்பமின்கள்‌, பல இரண்டாம்‌. நிலை. தாவர வளர்சிதை பொருட்களின்‌ உற்பத்தியில்‌ ஈடபடகிறத.
 
-**Transgenic plants** contain a novel DNA introduced into the genome.
+“4. உயிரிஷஷாழியநுப்பனியல்‌ ஜறிமுறைகளும்‌ சயல்முறைகளும்‌ஹவராடுஞ்௦9ட/
 
-**Glyphosate herbicide** produced by Monsanto, USA company under the trade name ‘Round up’ kills plants by blocking the 5-enopyruvate shikimate-3 phosphate synthase (EPSPS) enzyme, an enzyme involved in the biosynthesis of aromatic amino acids, vitamins and many secondary plant metabolites. There are several ways by which crops can be modified to be glyphosate-tolerant.
+தாவரப்பயிர்களில்‌. கிளைபோசேட்‌ சகப்புத்ன்மையை உருவாக்க பல வழிகள்‌ "உள்ளன. இவஜ்றில்‌ ஒரு உத்தி மண்வாழ்‌ பாக்கரிய
 
-One strategy is to incorporate a soil bacterium gene that produces a glyphosate tolerant form of EPSPS. Another way is to incorporate a different soil bacterium gene that produces a glyphosate degrading enzyme.
+மரபணு ஒன்றை நுழைப்பதாதம்‌. இந்த மரபணு ஒரு
 
-**Advantages of Herbicide Tolerant Crops** 
--  Weed control improves higher crop yields; -  Reduces spray of herbicide; 
--  Reduces competition between crop plant and weed; 
--  Use of low toxicity compounds which do not remain active in the soil; and 
--  The ability to conserve soil structure and microbes.
+கிளைப்போசேட்‌ - தாங்கு வகை 69908-சை
 
-![Figure 4.25: Bt Cotton](4.24.png  "img-class")
+"உண்டாக்குகிறது. மற்ஷாரு உத்தி ஒரு வேறுபட்ட
 
-**Disadvantages**
+மண்வாழ்‌ பாக்‌ரிய மரபணுவை நுழைப்பதாகம்‌.
 
-Bt cotton has some limitations:
-- Cost of Bt cotton seed is high.
-- Effectiveness up to 120 days after that efficiency is reduced
-- Ineffective against sucking pests like jassids,
-aphids and whitefly.
-- Affects pollinating insects and thus yield.
+“இது கிளைபோசேட்‌ சிதைக்கும்‌ நொதியை உற்த்கி
 
-**ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal Fruit and Shoot Borer (_Leucinodes orbonalis_).
+செய்கிறது,
 
-![Figure 4.26: Bt Brinjal](4.25.png  "img-class")
+களைக்கொல்லியைத்‌ தாங்கும்‌ தன்மையுடைய
 
-**iii. Dhara Mustard Hybrid (DMH)** 
+தாவரங்களின்‌ அனுகூலங்கள்‌ (சிமா 0!
 
-DMH -11 is transgenic mustard developed by a team of scientists at the Centre for Genetic Manipulation of Crop Plants Delhi University under Government sponsored project. It is genetically modified variety of Herbicide Tolerant (HT) mustard. It was created by using “barnase/barstar” technology for genetic modification by adding genes from soil bacterium that makes mustard, a self-pollinating plant. DMH -11 contains three genes viz. Bar gene, Barnase and Barstar sourced from soil bacterium. The bar gene had made plant resistant to herbicide named Basta.
+நன: (எலா! எ)
 
-![Figure 4.27: Dhara Mustard](4.26.png  "img-class")
+உட களைகள்‌. குறைக்கப்படுவதால்‌ விளைச்சல்‌. அதிவிக்கறது
 
-### Virus Resistance
+உ களைக்ஷால்லி ஷளிப்பு குறைகிறது.
 
-Many plants are affected by virus attack resulting in series loss in yield and even death. Biotechnological intervention is used to introduce viral resistant genes into the host plant so that they can resist the attack by virus. This is by introducing genes that produce resistant enzymes which can deactivate viral DNA.
+உ தாவரங்களுக்கும்‌, களைகளுக்கம்‌ இடையேயான போட்டி குறைகிறது.
 
-### FlavrSavr Tomato
-_Agrobacterium_ mediated genetic engineering technique was followed to produce Flavr-Savr tomato, i.e., retaining the natural colour and flavor of tomato. 
+உ குறைவான. பச்ச வாருட்கள்‌. மயன்மருத்தப்படுவதால்‌. அவற்றின்‌ பாதிப்பு மண்ணில்‌ குறைவாகவோ, செயல்திறன்‌. குறைவாகவோ காணப்படும்‌.
 
-Through genetic engineering, the ripening process of the tomato is slowed down and thus prevent it from softening and to increase the shelf life. The tomato was made more resistant to rotting by _Agrobacterium_ mediated gene transfer mechanism of introducing an antisense gene which interferes with the production of the enzyme polygalacturonase, which help in delaying the ripening process of tomato during long storage and transportation.
+உ மண்ணின்‌ நுண்ணுயிரிகளையும்‌ மாதுகாக்கலாம்‌.
 
-### Golden rice - Biofortification
-Golden rice is a variety of _Oryza sativa_ (rice) produced through genetic engineering of biosynthesized beta-carotene, a precursor of Vitamin-A in the edible parts of rice developed by Ingo Potrykus and his group. The aim is to produce a fortified food to be grown and consumed in areas with a shortage of dietary Vitamin-A, Golden rice differs from its parental strain by the addition of three beta-carotene biosynthesis genes namely ‘psy’ (phytoene synthase) from daffodil plant Narcissus _pseudonarcissus_ and ‘crt-1’ gene from the soil bacterium _Erwinia auredorora_ and ‘lyc’ (lycopene cyclase) gene from wild-type rice endosperm. 
+தன்மையையும்‌, கேன்‌. முலம்‌.
 
-The endosperm of normal rice, does not contain beta-carotene. Golden-rice has been genetically altered so that the endosperm now accumulates Beta-carotene. This has been done using Recombinant DNA technology. Golden rice can control childhood blindness - Xerophthalmia.
+472.  பாஸ்டா. களைக்கொல்லி எதிர்ப்புத்‌ தன்மை, (4000௨ 70எளா(- 98512) வோஸ்பினோற்ரசின்‌ என்னும்‌ வேதியப்‌ பொருள்‌: பெங்கிய வாதுவாக செயல்படும்‌ களைக்கொல்லியின்‌. வணிகப்‌ பெயர்‌ பாஸ்டா ௫௦4விஆகம்‌. பாஸ்டா. களைக்ஷால்லி எதிர்பு மயணு. 607) 6.
 
-![Figure 4.29: Golden rice](4.28.png  "img-class")
+ஃயாஸ்பினோக்கறசின்‌) வடிகாகோ.. சடைவா. (கலை... ஷு. எனும்‌... தாவரக்கலருந்து மிரிக்தடக்கப்படகிறது.. இது சம்மோனியா. உள்ளேரப்பல்‌ பங்கேற்கும்‌ குளுட்டமைன்‌ சிந்தடேஸ்‌. என்ற நொதியைத்‌ தடை செய்கிறது. 887 மரபணு: புகையிலையில்‌ உள்நுழைக்கப்பட்டது.. மற்றம்‌ மரபணுமாற்றமடைந்த புகையிலைத்தாஷரம்‌ க்க. தர்ப்ப தன்மையுடையது. இதனைய்‌ போன்ற ஒரு. நொதி ஸ்ட்டப்டோமைசஸ்‌ ஹைக்றோஸ்சோபிகஸ்‌. டமாக ரஸ) லிருந்தும்‌ முறித்தைரக்கபபட்டள்ளது இதிலுள்ள பர்‌ 1) மரபணு. வோஸ்பினோத்ரைசின்‌ அசீட்டைல்‌ பரான்ஸ்‌ஃபரேஸ்‌. 8) என்பதை குறிக்கிறது. இது பருக்கி மற்றம்‌ மீப்ரட்‌ போன்ற பமிர்த்‌ தாவரங்களில்‌ உள்‌: நுழைக்கப்ப்டு. மரபணு மாற்றம்‌. செய்யப்பட்ட தாஷரங்கள்‌ உருவாக்கப்படுகின்றன.
 
-**GM Food - Benefits**
+47.அபூச்சிகள்‌ எதிர்ப்புத்தன்மை-81 பயிர்கள்‌. ம ப்பட்ட அட\] 1 டிருத்தி ௫0௦000)
 
-- High yield without pest
-- 70% reduction of pesticide usage
-- Reduce soil pollution problem
-- Conserve microbial population in soil
+உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ சயல்முறைகளும்‌.
 
-Risks - believed to
--  Affect liver, kidney function and cancer
--  Hormonal imbalance and physical disorder
--  Anaphylactic shock (sudden hypersensitive
-reaction) and allergies
-- Adverse effect in immune system because of bacterial protein.
-- Loss of viability of seeds seen in terminator seed technology of GM crops.
+பட வருத்தி என்பது
 
-### Polyhydroxybutyrate (PHB)
-Synthetic polymers are non-degradable and pollute the soil and when burnt add dioxin in the environment which cause cancer. So, efforts were taken to provide an alternative eco-friendly biopolymers. Polyhydroxyalkanoates (PHAs) and polyhydroxybutyrate (PHB) are group of degradable biopolymers which have several medical applications such as drug delivery, scaffold and heart valves. PHAs are biological macromolecules and thermoplastics which are biodegradable and biocompatible. Several microorganisms have been utilized to produce different types of PHAs including Gram-positive like _Bacillus megaterium_, _Bacillussubtilis_ and _Corynebacterium glutamicum_, Gram-negative bacteria like group of _Pseudomonas_ sp. and _Alcaligenes eutrophus_.
+மரபணு மாற்றபட்ட ஒரு
 
-### Polylactic acid (PLA)
-Polylactic acid or polylactide (PLA) is a biodegradable and bioactive thermoplastic. It is an aliphatic polyester derived from renewable resources, such as corn starch, cassava root, chips or starch or sugarcane. For the production of PLA, two main monomers are used: lactic acid, and the cyclic diester, lactide. The most common route is the ring-opening polymerization of lactide with metal catalysts like tin octoate in solution. The metal-catalyzed reaction results in equal amount of _d_ and polylactic acid.
+உம்ரினம்‌.. (940)
 
-![Figure 4.29: Golden rice](4.29.png  "img-class")
+அல்லது மரபணுச்‌ சர்‌
 
-### Green Fluorescent Protein (GFP)
-The green fluorescent protein (GFP) is a protein containing 238 amino acid residues of 26.9 kDa that exhibits bright green fluorescence when exposed to blue to ultraviolet range (395nm). GFP refers to the protein first isolated from the jellyfish Aequorea victoria. GFP is an excellent tool in biology due to its ability to form internal chromophore without requiring any accessory cofactors, gene products, enzymes or substrates other than molecular oxygen. In cell and molecular biology, the GFP gene is frequently used as a reporter of expression. It has been used in
- modified forms to make biosensors.
+மாற்றம்‌... ஊய்யப்பட
 
-### Biopharming
- Biopharming also known as molecular pharming is the production and use of transgenic plants genetically engineered to produce pharmaceutical substances for use of human beings. This is also called “molecular **farming or pharming”. These plants are** different from medicinal plants which are naturally available. The use of plant systems as bioreactors is gaining more significance in modern biotechnology. Many pharmaceutical substances can be produced using transgenic plants. Example: Golden rice
+கணட மக்கம்‌ மவ. மம்களைபியரககி
 
-### Bioremediation
- It is defined as the use of microorganisms or plants to manage environmental pollution. It is an approach used to treat wastes including wastewater, industrial waste and solid waste. Bioremediation process is applied to the removal of oil, petrochemical residues, pesticides or heavy metals from soil or ground water. In many cases, bioremediation is less expensive and more sustainable than other physical and chemical methods of remediation.Bioremediation an eco-friendly approach and can deal with lower concentrations of contaminants more effectively. The strategies for bioremediation in soil and water can be as follows: 
- -  Use of indigenous microbial population as indicator species for bioremediation process.
-- Bioremediation with the addition of adapted or designed microbial inoculants.
-- Use of plants for bioremediation - green technology.
+ஈகமாகம்‌.இது கய்புழிற்ு பமா) எதிரானடூச்சி
 
-Some examples of bioremediation technologies are: -  **Phytoremediation** - use of plants to bring
-about remediation of environmental pollutants.
-- **Mycoremediation** - use of fungi to bring about remediation of environmental pollutants.
-- **Bioventing** - a process that increases the oxygen or air flow to accelerate the degradation of environmental pollutants.
-- **Bioleaching** - a use of microorganisms in solution to recover metal pollutants from contaminated sites.
-- **Bioaugmentation** - a addition of selected microbes to speed up degradation process.
-- **Composting** - a process by which the solid waste is composted by the use of microbes into manure which acts as a nutrient for plant growth.
-- Rhizofiltration - uptake of metals or degradation of organic compounds by rhizosphere microorganisms.
-- **Rhizostimulation** - stimulation of plant growth by the rhizosphere by providing better growth condition or reduction in toxic materials.
+சதரப்ப்கன்மையை கொண்டள்ளது.
 
-**Limitations** 
--  Only biodegradable contaminants can be transformed using bioremediation processes.
-- Bioremediation processes must be specifically made in accordance to the conditions at the contaminated site.
-- Small-scale tests on a pilot scale must be performed before carrying out the procedure at the contaminated site.
-- The use of genetic engineering technology to create genetically modified microorganism or a consortium of microbes for bioremediation process has great potential.
+பெசில்லஸ்‌ தரி்சியன்சிஸ்‌ (31 ரயாடனானு)
 
-### Biofuel: Algal Biofuel
- Algal fuel, also known as algal biofuel, or algal oil is an alternative to liquid fossil fuel, the petroleum products. This is also used as a source of energy-rich oils. Also, algal fuels are an alternative to commonly known biofuel sources obtained from corn and sugarcane. The energy crisis and the world food crisis have initiated interest in algal culture (farming algae) for making biodiesel and other biofuels on lands unsuitable for agriculture. _Botryococcus braunii_ is normally used to produce algal biofuel.
+என்ற பாக்கரியத்தன்‌ ரகங்கள்‌ 200-க்க அதிகமான
 
-![Figure 4.31: Algal Biofuel](4.30.png  "img-class")
+கெல்லேறு இட றச்சம்‌ பொருட்களை உற்பந்ி
 
-Biological hydrogen production by algae The biological hydrogen production with algae is a method of photo biological water splitting. In normal photosynthesis the alga, Chlamydomonas reinhardtii releases oxygen. When it is deprived of sulfur, it switches to the production of hydrogen during photosynthesis and the electrons are transported to ferredoxins.[Fe]-hydrogenase enzymes combine them into the production of hydrogen gas.
+ய்கன்றன... இவை ஒல்வவான்றும்‌ வெல்வேறு,
 
-![Figure 4.31: Algal Biofuel](4.31.png  "img-class")
+மசசிகளக்கு நீங்கிரைக்கின்றன. பெரும்பாலான 0.
 
-### Bioprospecting 
-Bioprospecting is the process of discovery and commercialization of new products obtained from biological resources. Bioprospecting may involve biopiracy, in which indigenous knowledge of nature, originating with indigenous people, is used by others for profit, without authorization or compensation to the indigenous people themselves.
+ந்சகள்‌ வார்வா நிலையிலுள்ள ச்த்ூ்சக்‌,
 
-**Biopiracy** 
-Biopiracy can be defined as the manipulation of intellectual property rights laws by corporations to gain exclusive control over national genetic resources, without giving adequate recognition or remuneration to the original possessors of those resources. Examples of biopiracy include recent patents granted by the U.S. Patent and Trademarks Office to American companies on turmeric, ‘neem’ and, most notably, ‘basmati’ rice. All three products are indigenous to the Indo-Pak subcontinent.
+வண்ணணத்ுபப்சிகள்‌, வண்டுகள்‌, பர்தக்காய்‌
 
-**Biopiracy of Neem** 
-The people of India used neem and its oil in many ways to controlling fungal and bacterial skin infections. Indian’s have shared the knowledge of the properties of the neem with the entire world. Pirating this knowledge, the United States Department of Agriculture (USDA) and an American MNC (Multi Nation Corporation) W.R.Grace in the early 90’s sought a patent from the European Patent Office (EPO) on the “method for controlling of diseases on plants by the aid of extracted hydrophobic neem oil”. The patenting of the fungicidal and antibacterial properties of Neem was an example of biopiracy but the traditional knowledge of the Indians was protected in the end.
+மழக்கள்‌, உண்ணி. (ர்‌ ரஸ) போன்றவற்றை.
 
-**Biopiracy of Turmeric** 
-The United States Patent and Trademark Office, in the year 1995 granted patent to the method of use of turmeric as an antiseptic agent. Turmeric has been used by the Indians as a home remedy for the quick healing of the wounds and also for purpose of healing rashes. The journal article published by the Indian Medical Association, in the year 1953 wherein this remedy was mentioned. Therefore, in this way it was proved that the use of turmeric as an antiseptic is not new to the world and is not a new invention, but formed a part of the traditional knowledge of the Indians. The objection in this case US patent and trademark office was upheld and traditional knowledge of the Indians was protected. It is another example of Biopiracy.
+அழிக்கிறது. ஆனால்‌ மற்ற உயிரினங்களுக்கு எல்வித.
 
-**Biopiracy of Basmati** 
-On September 2, 1997, the U.S. Patent and Trademarks Office granted Patent on “basmati rice lines and grains” to the Texas-based company RiceTec. This broad patent gives the company several rights, including exclusive use of the term 'basmati', as well proprietary rights on the seeds and grains from any crosses. The patent also covers the process of breeding RiceTec’s novel rice lines and the method to determine the cooking properties and starch content of the rice grains. India had periled the United States to take the matter to the WTO as an infringement of the TRIPS agreement, which could have resulted in major embarrassment for the US. Hence voluntarily and due to few decisions take by the US patent office, Rice Tec had no choice but to lose most of the claims and most importantly the right to call the rice “Basmati”. In the year 2002, the final decision was taken. Rice Tec dropped down 15 claims, resulting in clearing the path of Indian Basmati rice exports to the foreign countries. The Patent Office ordered the patent name to be changed to ‘Rice lines 867’.
+மதிப்பையும்‌ ஏறபத்துவதில்லை.
+
+இநத ரர ஷாகதியைர்‌ சேர்நத எண்பேடாக்கனில்‌.
+
+(னபபன்‌)ு உன்ன நச்சுப்‌ படங்களுக்கு மரபணு.
+
+குறியீடு சய்யப்புகின்றது. பருத்தித்‌ தாவரத்தை.
+
+நாக்கி தனை உண்ணும்‌ போது பர நச்சு
+
+வயித்றினுள்‌ சன்று கரைகிறது.
+
+(கடலின்‌ எபிதீகிய சவ்வுகள்‌ ஒரு சில அவசியமான:
+
+செட்டப்‌ பருட்களிண்‌ உள்ளெடுப்பை தடுக்கின்றன.
+
+“இன்‌ மூலம்‌ பொட்டாசியம்‌ சுயனிகளின்‌ போதுமான
+
+வெவு சிரியக்கம்‌. பூச்சிகளில்‌ இழக்க;்புகிறது
+
+“இதனால்‌ சிறுகுடலின்‌ படலத்தில்‌ உள்ள எபி்மிய
+
+“ல்கள்‌ இறக்கின்றன. இது பூச்சியின்‌ லார்வாக்கள்‌
+
+இறப்பிற்கு காரணமாகிறது.
+
+நன்மைகள்‌:
+
+புபரந்தியின்‌ நன்மைகள்‌ பின்வருமாறு
+
+ட பருத்தி விளைச்சல்‌ அதிகரிக்கிறது. ரனில்‌ காயபபழக்களின்‌..... தூக்குதல்‌... நன்கு
+
+உ இடபரு்தி பமறவதில்‌ பயன்பு்கப்ப்‌ பரசி மருந்து கறைக்கப்புிறத
+
+உட மிழ்‌ வனர்பபில்‌ உண்டாகும்‌ சலவு குறைகிறது.
+
+தீமைகள்‌
+
+புபரக்தியின்‌ தீமைகள்‌ பின்வருமாறு
+
+இருக்கி விதையின்‌ விலை அதிகம்‌
+
+உ இன்னீரியம்முதல்‌ 2௦ நாட்கள்‌ மட்டமே பின்னர்‌ இதன்‌ வீரியம்‌ குறைகிறது.
+
+ஈறு உறிக்சம்‌. த்தபூசசிகள்‌ (பலஸு) அசுவினி பூ்ிகள்‌ (ஷு, வெள்ளை ஈக்கள்‌ (ஷர போன்றவற்றிற்கு எதிராக இது செயல்படுவதில்லை.
+ஹவராடுஞ்௦9ட/
+
+உ மகரந்தச்சேர்க்கையில்‌ துணை பரியம்‌ பூச்சிகளை: பாதிக்கிறது. இதனால்‌ விளைச்சல்‌ குறைகிறது.
+
+உடு கத்திறிக்கய்‌ (போர) மற்ஹாரு. 2\] மாற்றமடைந்தத்‌... தாவரம்‌:
+
+இதுவாகம்‌. இது வெவ்வேறு வகை. சநதரக்கா்‌. பலர்‌ க்களின்‌. மரபணுக்‌ கொகையத்தறகள்‌ பேசில்லஸ்‌. தளித்சவன்சில்‌ எனும்‌ மண்‌: வாழ்‌... பாக்கரியத்ிலர்து. பிரிக்தடக்கப்ட படக பூக ெயணு (0 என்ற மரபணுவை நுழைப்கால்‌. உருவாக்கபபட்டதகம. தந்த மாமணுவடன்‌ சேர்க முன்னியக்கிகள்‌ மானில முமறுத்தி ப லாள்ன) ஒரு உமிரிகதிர்வோருள்‌ தபைராபிட ஈன), அடையாக குறி மரபணு ரார்ன ரா) போன்றவை. அ்றோயாக்கரயம்‌ வழி. ஏற்வ்தப்பம்‌ உள்றுழைக்கல்‌... மூலம்‌... ரு. மற்றம்‌ ய்யப்பகறது. ௫) கத்தரிக்காய்‌ ஷமிபோய்டரா நன்மனன்‌ வகை. ழர்சகளுக்க... கறப்பாக கத்திரிக்காய்‌. மற்றம்‌. தண்டி துளைப்ானுக்கு லன்ன எனன சிராக உருவாக்கப்பட்டு.
+
+"தரா டக கலப்பினம்‌ (யாய்‌ 10-01. ரசு. உதவி. செயல்திட்டத்துடன்‌. மல்லி மங்கலைக்கழகந்தைச்‌.... சேர்நத... பயிர்களில்‌ மரபணுச்ார்‌ மாற்றங்களை கையாளும்‌ அறிவியல்‌. "மையத்தின்‌ அறிவியல்‌ சறிகுர்‌ குழுவினரால்‌ மரபணு, மாற்றமடைந்த 01 -.॥. என்ற கட்கு ரகம்‌: உருவாக்கப்பப்பது..... இறு... களைக்ஷால்லி ஏதிர்பபக்தன்மை வெற்ற (1௭௦௯ மனா - 1௬), மரபணு மாற்றபட்ட தாவரமாகும்‌. இது பர்னேஸ்‌ பார்ஸ்பார்‌.. ரளாஸை. சோக). என்னும்‌. கழிக்நுட்பத்தைப்‌ பயன்படத்தி மண்ணில்‌ வாழும்‌ பாக்வறியத்தின்‌.. மரபணு... செர்க்கப்பப்ட உருவாக்கப்படும்‌ கடக வகையாகும்‌. இது ஏர்‌ தன்மகரந்தச்சேர்க்கை தாவரமாகம்‌, .. மண்வாம்‌. பாக்வறியத்திலிருந்து0141-ா. மூன்று. மரபணுக்களைக்‌. ்‌ கொண்டுள்ளது. அவை ஃபார்‌ படட 42௧: தாரா கக மரபணு (6௭ ஜால, பர்னேஸ்‌. மரபணு இமா னு மற்றும்‌ ஃபார்ஸ்டா்‌ மரடணு ௫னண்‌ ஜோஷ இந்த பார்‌ மரபணு, தாவரத்தை. ஸ்டா... என்னும்‌. களைக்கல்லிக்கு ஏதிர்ப்த்கன்மை உடையதாக்குகிறது.
+
+எதிர்ப்புத்தன்மை (4௩
+
+474.  வைரல்‌. 81299௧௦9)
+
+மடை தாஷங்கள்‌.. வைரஸ்‌... தாக்குதலால்‌. மாதக்கப்பகின்றன. இதனால்‌ அதிக இடபம்‌ மற்றம்‌
+
+“இப்பம்‌ உண்டாகின்றன. உயிரி தொழில்நுட்பம்‌ பயன்பரத்தப்பட்டு வைரஸிற்கு எதிரான மரபணுக்கள்‌. ஒம்பபிரினுள்‌ செலுத்தப்படகின்றன... இதன்‌ மூலம்‌ வைரஸ்‌ எதிர்ப்புத்‌ தன்மை உருவாக்கப்படுகிறது. வைரஸ்‌ (ப. வைர்‌ யலிழக்கச்‌ செய்யக்கூடிய. தடை மரபணுக்களை நுழைப்பதன்‌ மூலம்‌ இது, சாத்தியமாகிறது.
+
+4.௧ ஃபிளேவர்சேவர்‌ தக்காளி ("வஎ$லா. ட்டி
+
+அக்ரோயாக்டறியத்தைப்‌ மயன்‌ முத்தி மேற்கொள்ளப்பட்ட மரபணுப்‌ பொறியியல்‌. மூலமாக ரவா. கக்காளி உருவாக்கப்படுகிறது. தொவது, தக்காளி. நீண்ட நாட்களுக்கு. இயல்பான. நிறம்‌ மற்றும்‌. மணம்‌ மாறாமல்‌ நிலைநிறுக்கி வைக்கப்புகிறற.
+
+மரபணுப்‌ பொறிமியலின்‌ மூலம்‌ தக்காளிக்காய்‌ பழுத்தல்‌ தமதப்பு்தப்புகிறு மறறும்‌ இதன்‌ மூலம்‌ கணி ஷன்மையாவது தக்கப்பகிறது மற்றம்‌ நீண்ட நாட்கள்‌ ஷடாமல்‌ பாதுகக்கப்புகிறது. உணர்தடை மரபணு (னம்‌ வால ஜனக) சுக்ரோபாக்டரிய வழி. மரபணு மாற்ற செயல்பாட்டு முறையால்‌ நீண்ட நாட்கள்‌... கெடாமல்‌. இருக்கும்‌... தக்காளி. உருவாக்கப்படகிறது... இதில்‌ ளி்வாட்டற்கு ஒதிரான மரபணு (எள 0) நுழைக்கப்புகிறது. இத. மறணு. பாலிகேலக்குரோனேஸ்‌. மம்ம ஷ்பபமாம.. நொதியின்‌ உற்பத்தியை. 'இபையீடு (ரன) ஊய்கிறது. இதனால்‌. காய்‌ கணியாவது தாமதமாகிறது. இதன்‌ மூலம்‌ தக்காளியை நீண்டநாள்‌ சேமிப்பின்‌ போதம்‌ நெட்நூரம்‌ எடக்க்‌ ல்லும்‌ போதும்‌ தந்காளியை கெபாமல்‌ பாதுகாக்கலாம்‌.
+
+படம்‌ 42௧ அபிளேவர்‌ சேவர்‌ ரில) தக்காளி
+
+47.6 வொன்றிற அறிசி - உயிரிவழி ஊட்டம்‌ சேர்த்தல்‌ (042௦௨ - இரினா)
+
+"இது மரபணு. வொறிமியலைப்‌ பயன்படுத்தி உருவாக்கப்பப்ட வான்றிற சறிசி(ஒரைசா சட்டைலா. “அழிசி இன்‌ ஒரு ரகமாகம்‌. உயிரிச்‌ செயல்‌ மூலம்‌ உருவாக்கப்பப்ட.. வைப்பின்‌. கவின்‌ முன்னோடியான சீப்பா. குரோப்டின்‌ அரிசியின்‌ உண்ணும்‌ பகுதியில்‌ நுழைக்கப்படுவதாகும்‌. இது "இங்கோ போட்ரிகஸ்‌ (௦ ம்ப) மற்றும்‌ அவரது குழுவினரால்‌ உருவாக்கப்பட்டது. இதன்‌ நோக்கம்‌ ரல்‌ பயிரிடப்படும்‌ பருதி மற்றும்‌ பயண்படத்கப்பம்‌ பகுதிகளில்‌ நிலவும்‌ வைட்டமின்‌ 8. குறைப்பாட்டை நக்குதலாகும்‌. இதனால்‌ ஐந்து வயதிற்குட்பட்ட அதிக. அளவிலான குழந்தைகளின்‌ இறப்பு குறைக்கப்பட
+
+"௨. உயிரிஷஷாழியநுப்பனியல்‌ ஜறிமுறைகளும்‌ சயல்முறைகளும்‌
+
+
+ஹவராடுஞ்௦9ட/
+
+பொன்றிற அரிசி அதன்‌ பெற்றோரை விட கூஷதலாக சேர்க்கப்பட்ட மூன்று வகையான பீட்டா -கரோட்சன்‌. "உருவாக்க. மரபணுக்களைக்‌ கொண்டுள்ளது.
+
+அவையாவன நார்சிஸ்ஸஸ்‌ குடோநார்சிஸ்லஸ்‌. (மினஸ்லச வலஸ்ாளஸ்வட) என்ற தாவரத்ிலிருந்து (சேன்‌) வறப்பட்ட 99 என்ற (ன வார்மஸ) மரபணு. எர்வினியாயுளிடோவேரா(பாளல்‌ பஸ்சா) என்ற மண்டவாழ்‌ பாக்கரியாத்தலிகு்து பெறப்பட்ட 'ஏப' என்ற மரபணும்றும்‌ இயல்‌ ஷெல்‌ ரகத்தின்‌ (௬42 "9 கருஷண்‌ கிசவிலிருந்து பெறப்பட்ட முன
+
+௫9550 என்ற மரபணு போன்றவை ஆகம்‌.
+
+டம்‌ க.29 வான்றிற அரிசி சாதாரண அரிசி ரகத்தின்‌ கருஷண்‌ திச பப்டா
+
+குரோப்னைக்‌ கொண்டருப்பதில்லை. பொன்றிற.
+
+ரிசிமரபணு மாற்றபட்ட ரிசி வகையாகும்‌. இதனால்‌.
+
+(தற்போது இதன்‌ கருஷண்‌ திசவில்‌ ட்டா கரோட்சன்‌:
+
+சேர்க்கையுறுகிறது. இது மறுகூட்டிணைவு 0.
+
+கதாழில்நுட்பத்தைப்‌ பயன்படக்தி செய்யப்படுகிறது.
+
+பொன்நிற அரிசி குழந்தைகளில்‌ நிலவும்‌ கருடட்‌
+
+தன்மை... ட£ரனாஷ,. விழிவவண்டடல வறட்சி
+
+(0சரர்மவா ஆகியவற்றை கட்ுப்பததகிறது.
+
+மரபணு மாற்றப்பட்ட உணவுகள்‌ (04 (009) -
+
+நன்மைகள்‌:
+
+உ தங்கயிறி டண) சற்ற அதிக விளைச்சல்‌
+
+உட பூச்சிக்‌ ஷால்லி பயன்பாடு 70% அளவு குறைப்பு
+
+உ மண் மாகப்பாடபிரச்சைனையைக்‌ குறைக்கிறது.
+
+உ மண்‌ நுண்ணுயிரித்‌ தொகை பேணப்படுகிறது.
+
+ஆயத்துகளாக நம்பப்படபவை.
+
+£- கல்லீரலை பாதிக்கிறது, சிறுநீரக செயல்பாட்டை பாதிக்கிறது புற்றுநோயை உண்டாக்குகிறது.
+
+உ ஹார்மோன்‌ சமனின்மை மற்றும்‌ உடல்நிலை. சீர்குலைவு (1-௮ 0௯௭0௭)
+
+உட மாக்கரிய பரத்தின்‌ காரணமாக நோய்‌ சதிர்பபக்கள்மை... தொகுதியில்‌ மோசமான: விளைவுகள்‌ ஏற்படுகின்றன.
+
+*   மிறழ்ச்சியடைந்த அதரசசி (திம்‌ மிகையுணர்வு வினை) மாவு மன) மற்றும்‌ ஒல்வாமை.
+
+ஈ- விதைகளின்‌ உயிர்ப்பு தன்மை இழப்பு 0 பயிர்களின்‌.
+
+முமிவறுத்தி விதை
+
+47.7 பாலிஹைட்ராசிபியுட்டரேட்‌ (ஷ்ஙுள்வுயாகம- 9௫)
+
+செயற்கைப்‌ பாலர்கள்‌ (வார்ஸ ரஸரனடு) எளிதில்‌, சிதைவபையாமலும்‌, . மண்‌. மாகறுத்தியாகவம்‌, எரிக்கும்‌ போது கலில்‌, ர்றுநோய்‌ உண்டாக்கம்‌ பையாக்கின்‌ (மேன்‌) சேர்க்கையறுக்திகளாகவும்‌ உள்ளன... எனவே, கழல்‌ மாகறுத்தாத மாற்று பாலிமர்களை பெறுவதற்கான... முயன்சிக்‌ மேற்கொள்ளப்பட்டன. பால்ஹைப்ரக்ஸி ஆல்கனோவேட்கள்‌ (_9/ரஸ்டவ்வாவஷி 154. பாலிஹைப்ராக்ிபியுப்டரேட்கள்‌ (98) ஆகிய பரண்டும்சிதைவடைய கூடிய உயிறிபாலிமர்களாகம்‌ "இவற்றிக்கு பல மருத்துவப்‌ பயன்பாடுகள்‌ உள்ளன. எடத்தக்காட்டாக. சரியான ஏற்ிடத்தில்‌ மருந்து செரக்கப்படதல்‌ (௦ சென்ன சறக்கட்டு அமைக்க. (ஜேன0) மற்றும்‌ இதய வால்வுகள்‌ அமைக்க இவை. உதவுகின்றன. 8_ம்‌௨ வொதுவாக உயிரிய பெரு மூலக்கறுகளாகவம்‌. (5௦ம்‌ ஈஸ. லப “ப்ப. பிளாஸ்டிக்குகளாகவும்‌.. (ராமக42) செயல்படுகின்றன. இவை உயிரிய சிதைவடையக்‌.
+
+கூடியவை. உயிரிய ஒத்துபோதம்‌ தன்மை. பல்வேறு. வகையான நுண்ணுயிர்கள்‌.
+
+மயன்பருத்தப்பட்ட பல்வேறு வகையான ஈக்கள்‌. உருவாக்கப்படுகின்றன.. இவற்றில்‌ கிராம்‌ நேற்‌ பாக்மறியங்களான பேசில்லஸ்‌ ஷெகாஸ்டிரியம்‌, பேசில்லஸ்‌. சப்டைலிஸ்‌, கார்ணிாக்மரியம்‌ \*ுளுடேனிக்கம்‌ போன்றவையும்‌, கிராம்‌. எதிர்‌ மாக்மறியங்களான ஆடோமோனாஸ்‌, சிற்றினங்கள்‌, ஆல்கலிலீன்ஸ்‌ பூட்ரோபஸ்‌ (ப/௮ஹாஸ பஸ்ம. போன்றவையும்‌ சடங்கும்‌
+
+47.8 பாலிலாக்ுக்‌ அமிலம்‌ (99்‌/௪௦10 ௧00-104) மாலிலாக்குக்‌ அமிலம்‌ அல்லது. பாலிலால்டைப: 1-௯ உமிரிய சிதைவடையக்கூடியது உயிரிய செயல்பாருபைய வெப்ப பிளாஸ்டிக்‌ ஆகம்‌. 'இதுமக்காச்‌ சோள தரசம்‌ (ரா) என்‌) மரவள்ளிக்‌ கிழங்கு வேர்கள்‌ (வலை ௦06) சீவல்கள்‌, தரம்‌ அல்லது. கரும்பு. போன்ற மீன்ுது்பிக்கத்தக்க (வறிவிடு,. பாலியஸ்டர்‌ (ஷஷ்/(ஆகம்‌.. 71% தயாரிப்பில்‌ இரண்டு. முக்கிய ஒற்றை அலருகள்‌ (ரானமானா/ பயன்படுத்தப்படுகின்றன. லாக்டிக்‌ அமிலம்‌ மற்றும்‌ லாக்டைட்‌ என்ற, குழல்‌. பையண்டர்‌ (வ ஸேஸ் கரைநிலையிலுள்ள. தகர. ஆக்போவேட்‌ போன்ற... உலோக. வினையுக்கி (மய) போன்றவற்றின்‌.
+
+
+ஹவராடுஞ்௦9ட/
+
+உதவியோடு இந்த. வேறிப்வாருளின்‌ வளைய அமைப்பை திறத்தல்‌ தான்‌ மிகவும்‌ சாதாரணமான: வழிமுறையாகும்‌. உலோக வினையூக்கி வினை ௨. மற்றம்‌ | பாலிலாக்ுக்‌ சமிலத்தின்‌ சம அளவுகளில்‌. முமவடைசிறது
+
+47:59 பச்சை மிளிற்‌வொளிப்‌ புரதம்‌ (98௭. நனை (ாளன்‌ 0௫9)
+
+(இது 236 சுமி மில எச்சங்களால்‌ (269 (09) ஆக்கப்பட்ுள்ளது. நீலம்‌ முதல்‌ பற ஊதா கதிர்களால்‌ ஒளிடிப்பப்பம்‌ போது (௫95 ரா) இது ஆழ்ந்த பச்சை: நிறமாக ஒளிர்கிறது
+
+உமிறியலில்‌ 0 மூலக்கூறு ஆக்ஸிஜன்‌ தவிர "வேறு எந்த கூடதல்‌ துணைக்‌ காரணிகள்‌ (50/2004/, மரபணுசார்‌ விளைப்பொருட்கள்‌ (டன. ௦6, நொதிகள்‌, தன பொருட்கள்‌ (மனன்‌) போன்றவை. தேவைப்படாமல்‌. ௯௩... நிறமிக்தா்கிகளை: (ன்ளாமமன்ப-) உண்பாக்கும்‌ இதனால்‌ ர ஒரு மிகச்சிறந்த உயிரியல்‌ கருவியாகர்‌ செயல்படுகிறது.
+
+௭ முதன்முதலில்‌ சஷ்குவாரியா விக்டோரியா (ம/ஷ்ன ஸ்ஸ்‌) என்னும்‌ ஜெல்லி மீனில்‌ இருந்து, பிரிக்ஷேுக்கப்பப்ட ஒர்‌ புராகும்‌. ஹல்‌. மற்றும்‌ மூலக்கூறு உயிரியலில்‌ 0௭7” மரபணு சக்கடி ஒரு மரபணு. வெளிப்பாட்டு. தறிவிப்பானர்‌. (8௯) கருவியாக மயன்பருத்தப்புகிறது... இது உயிரி உணர்விகளை (900௦௧) உருவாக்க மாற்று பற்ற வடிவங்களில்‌ பயன்புகிறது.
+
+4710 உயிரி மருந்தாக்கம்‌ (இிடர்வாள்ட,
+
+மூலக்கூறு மருந்தாக்கம்‌ எனவும்‌ அழைக்கப்படும்‌ உமரி மருந்ாக்கம்‌ மனித பயன்பாட்டுக்காக மருந்து சார்‌ பொருட்களை உண்டாக்க மரயணும்‌ பொறியியல்‌. மூலம்‌ மரபணு. மாற்றமடைந்த தாவரங்களை உருவாக்கப்‌ பயண்பரத்துவதாகும்‌, இது "மூலக்கூறு வேளாண்மை அல்லது மூலக்கூறு மருந்தாக்க்‌ எனவும்‌ அறியப்படுகிறது. இயல்பான மருத்துவக்‌: தாவரங்களிலிறுந்து.. இவை மாறுபட்டவை. நாஷங்களை உயிரி விணைக்கலன்களாக. (பிரஸ்‌) மாற்றிப்‌ பயன்படுத்துதல்‌ நவீன உயிரி கொழில்நுட்பத்தில்‌ அறிக முக்கியத்துவம்‌ வெற்று வருகிறது. மரபணு மாற்றமடைந்த தாவரங்களைப்‌. பயன்படுத்தி பல வகையான மருந்துப்‌ பொருட்களை: ஒபழலாம்‌. எடுத்துக்காட்டு :9ான்றிற அரச,
+
+ரர்‌ உயிரி வழித்திருத்தம்‌ (௭ஊ௦பிவ10)
+
+குழல்‌ மாசறுதலை சுத்தம்‌ செய்ய நுண்ணுயிர்கள்‌ அல்லது. தாவரங்களைப்‌ பயன்படுத்துவது உயிரி 'வழித்ிரு்தம்‌ எனப்படுகிறது. கழிவுீர்‌ தொழிற்சாலை. குழிவு, திடக்கழிவுகள்‌ போன்றவற்றை உள்ளடக்கிய கழிவுகளை சரிணய்ய இந்த. கணுகுமுறை. மபயன்படுத்தப்புகிறது. உயிரி வழித்திருத்தம்‌ மண்‌, (நிலத்தடி நீர்‌ ஆகியவற்றில்‌ இருக்கும்‌ எண்ணெய்‌
+
+கசிவு... வட்ரோகிய வேதிய எச்சங்கள்‌, மூச்சக்கால்கைள்‌. அல்லது. வன்‌உலோகங்கள்‌: போன்றவற்றை நீக்குகிறது. பல எடத்த்காட்டுகில்‌: 'இயற்பிய மற்றும்‌ வேதிய முறை திருக்கங்களைக்‌. காப்வமம்‌ உயிரி வழித்திருக்தம்‌ குறைந்த சலவில்‌ அதிக நன்மையைப்‌ பெற உதவுகிறது. உயிரியத்‌ திருத்த செயல்முறை மலிவானது மட்டுமின்றி கழல்‌ மாசறாதஒரு அணுகுமுறையாகும்‌. குறைந்த சிவில்‌: காணப்படும்‌ மாசறுக்கிகளை அதிக திறனுடன்‌ இது நீலம்‌. மண்‌: மற்றும்‌ நீரல்‌ பயன்படுத்தப்பட உமிரிவழித்திருக்க உத்திகள்‌ பின்வருமாறு.
+
+ஈ- உயிரி. வழத்திருந்தம்‌ செயல்பாட்டிற்கு சூழல்‌ சித்றினங்களாக. உள்நாட்டு. நுண்ணுமிரத்‌ தொகையைப்‌ (ானலள்‌.. ஜக பயன்படுத்தல்‌.
+
+உ தகவமைப்பு மேற்கண்ட சஸ்லது வடிவமைப்பு செய்யப்பட்ட நுண்ணுயிரி உப்புகப்டங்களை: ஸவளடு கொண்டி உயிரி வழி்தருக்கம்‌ செய்க்‌.
+
+உ பசுமைத்‌ தொழில்நுட்பம்‌ - தாவரங்களை உயிரி வழி்தரக்தக்திற்ு பயன்படுத்தக்‌,
+
+உமரி வழிக்தருக்த ஷழில்நுப்பததிற்கான சில
+
+எடத்தக்கட்டகள்‌.
+
+உ தாவர வழிக்கிரத்தம \[ரர/ரகாசக்வள) ல்‌ மாசறுக்திகளை தாவரங்களைப்‌ பயன்படுத்தி இரக்கம்‌ ச்த்‌.
+
+மூஞ்சை வழித்திருக்தம்‌ \[ஸளாவியள) - முஞ்சைகளைக்‌ கொண்டி கழல்‌ மாகறுக்கிகளை தருக்கம்‌ மயல்‌.
+
+உ. உயிரிவழி காற்றோட்பமளித்தல்‌ இவளா - (இது ஆக்கிக்‌. கல்லது. காற்நோட்டந்தை. அதிகரிக்கும்‌ இரு செயலாகும்‌. ன்‌ மூலம்‌ கழல்‌ மாசறுக்திகளின்‌ சிதைவைத்‌ தரிதப்படக்கலா்‌.
+
+உயிரி வழி கரைத்த பறத்தல்‌ (யப - மாசலுக்தப்ப்ட. இடங்களிலிருந்து... கரைக்‌: உலோக. மாகறுக்திகளை ராசு ரமெலார) கரைசல்‌... நிலையில்‌ நுண்ணியிரிகளைம்‌ பயன்பருக்கி மீட்டல்‌
+
+உ உமிரிவழி வருக்கதல்‌ இமவராளாமப) -ஒரு சில... கெ்ந்துக்கப்ப்ட நுண்ணியிர்களை: மேரப்பதன்‌ மூலம்‌ சிதைவபைபும்‌ வேகத்தினை: தெிகறிக்கச்‌ செய்யும்‌ செயல்முறை.
+
+உ உரமாக்குதல்‌(௦ாட௦கஸ்டு-நுண்ணியரிகளைக்‌ கொண்டு திட கழிவுகளை உரமாக மாற்றும்‌ செயல்முறை. இது தாவர வளர்சிக்கு ஊட்டப்‌ பொருளாக பயன்படும்‌
+
+உ வேற்ப்புல. ஷகப்பம்‌ ரஙமாவஸு. - நுண்ணியிர்களைக்‌. கொண்டி. வே! (ரமவளமு உலோகங்களை உள்ளொடத்தல்‌ அல்லது கரிம சேர்மங்களை கிதைத்க்‌.
+
+உவேர்ப்புல..... நுண்ணுமிரித்‌.. தூண்டல்‌ ரரஷன்யரசரு- தாவ வளர்ச்சியை வேர்ப்.
+
+"ல. உயிரிஷஷாழியநுப்பனியல்‌ 6றிமுறைகளும்‌ சயல்முறைகளும்‌ஹவராடுஞ்௦9ட/
+
+நுண்ணுயிரிகள்‌ மூலம்‌ தூண்டல்‌; இது சிறந்த.
+
+வர்ச்சி.. சூழ்நிலைகளை கொடுப்பதன்‌ மூலமாகவோ ச்ச்‌... பொருட்களை: ுறைப்பதனாலோ தூண்டப்படுகிறது. வரம்புகள்‌ (பா)
+
+உவமம்‌... வழித்திருத்த.. முறையில்‌ உமிரியசிதைவிற்குள்ளாகும்‌. மாசறுக்திகளை: மட்டுமே மாற்ற இயலும்‌
+
+உமாகறுக்சப்பப்ட.. இடங்களில்‌... உள்ள
+
+ரந்நிலைகளுக்கு ஏற்ப மட்டுமே உயிரி வழிக்‌ "ரக்த செயல்முறைகளைக்‌ குறிப்பாக ய்ய. மும்‌.
+
+உ. மாகறுத்தப்பட்ட இடத்தில்‌ பெறிய அளவிலான: செயல்பாடுகளை சிறிய அளவிலான முன்‌: சோதனைகள்‌ செய்த பின்னரே பின்பற்ற.
+
+னை
+
+4.  உமிரி. வழி்திருத்தம்‌ செயலுக்காக மரபணுப்‌ பொறியியல்‌. தொழில்நுப்பத்தின்‌ பயன்பாடு, மரபணு. மாற்றமடைந்த நுண்ணுயிரிகளை: உருவாக்க... அல்லது... நுண்ணுயிரக்‌ கூப்டமையகளை உருவாக்க மிகவும்‌ அதிக, திறன்‌ வேண்டியிரு்கல்‌
+
+47:12 உமிறிஎறியாருள்‌ (9௦ 108) / பாசி வழி
+
+உயிரிஎரிபோருள்‌ (410881௦105)
+
+பாசி உயிரி வழி எறிவோருள்‌ அல்லது பாசி வழி.
+
+'எண்டணய்‌ என்றும்‌ அழைக்கப்படும்‌ பாசி எறிவாருள்‌:
+
+பெட்ரோலிய எண்ணெய்‌ என்ற தொல்லுயிர்‌ எச்ச திரவ.
+
+எரிவாருளுக்குஒருமாற்றாக உள்ளது அதுபாசிகளை, அறிக ஆற்றலைக்‌ கொண்ட எண்ணைய்யின்‌: மூலப்பொருளாக பயன்படுத்துகிறது. மேலும்‌. பாசி ணிவாருப்கள்‌. பொதுவாகப்‌ பயன்பரு்தப்பம்‌: மூலங்களான.. மக்காச்‌... சோளம்‌, கரும்பு நங்கககனகந்து பறப்ம்‌ ங்றுக்க ஒன மாற்றாக விளங்குகின்றன. ஆற்றல்‌ நெருக்கடியும்‌ ஊ்ணப்‌ பர்த்‌.
+
+௫௨
+
+உலக உணவு நெருக்கம்‌ பாசி வளர்ப்பில்‌ (ப வாடு ஒரு கர்வத்தை தூண்மயள்ளன. இந்த வார்ப்பு உயிரி மல்‌ உற்பத்திக்கும்‌, தகர உயிரி எறியொருட்களின்‌ உற்பத்திக்கும்‌ பயன்படு்தப்பகிறது..... இந்த. உற்பத்தி வேளாண்மைக்கம்‌.... பயன்படாத. நலந்தைம்‌ பயன்படுத்துகிறது. போட்ரியோகாக்கஸ்‌ பீரானிச. (மேலை எவ என்ற பாசி பொதுவாக. உயிரிஸிவாருள்‌ தயாரிப்பிற்கு பயன்படக்கப்புிறத.
+
+பாசிகளால்‌ உயிரிய ஹைட்ரஜன்‌ உற்பத்தி(90௦௦௨' பரன்‌ ஜவ்வாக,
+
+உயிரிய ஹைப்பஜன்‌ உற்பத்தி பாசிகளில்‌ ஒளி உயிரிய முறையில்‌ நீர்ிளக்கம்‌ சயல்‌ முறையாகும்‌. வொதவான... ஒளிச்சேரக்கையின்‌... போது, அிளாமிபோமோனஸ்‌ நீன்ஹாரிடித (மோரஸ்ம (சம என்ற பாசி ஆக்சிஜனை வெளியேட்லுகிற;ு இறல்ககந்தகம்‌ கொடுக்கப்படாத போது ஒளிச்சேர்க்கை: நிகழ்வில்‌ இது ஹைப்பஜன்‌ உற்பத்திக்க மாறுகிறது. மற்றும்‌... எலக்பரான்கள்‌... ஃவெர்ரபக்கினுக்ு
+
+கடத்தப்படகின்றன... (6) - ஹைட்ரோலினேஸ்‌
+
+படம்‌ 42௧: பாசிகளால்‌ ஹைட்ரஜன்‌ உற்பத்தி
+
+4709 உயிரிவளம்நாடல்‌ (8001059600)
+
+உமர வம்‌ நாமல்‌ என்பது... உயிரிய மூலப்வொருட்களிலிருந்து புதிய விலை பொருட்களை: கண்டறிதல்‌ மற்றும்‌ வணிகமயமாக்கல்‌ ஆகும்‌. உமிரிவனம்‌ நாடலில்‌ உயிறிபொருன்‌ கொள்ளையும்‌ சேரலாம்‌. இதில்‌ உள்ளூர்‌ மக்களிடமிருந்து தோன்றும்‌ "இயற்கை பற்றிய வட்டார சறிவு இதர மக்களால்‌ ஆதாயத்திற்காக உள்ளூர்‌ மக்களின்‌ ஒப்புதல்‌ “இன்றியோ அவர்களுக்கு எவ்வித இழப்பீடும்‌ கொருக்காமல்‌ சுரண்டப்பட்டு பயண்படத்தப்புகிறது.
+
+பரபத்‌ உமிரிப்வாருள்‌ கொள்ளை (9420)) தேசிய மரபணு வளங்களின்‌ மீது தனிப்பட்ட இரககம. பப்பி குப்டப்பப்டை வெறும்‌... நிறுவங்களினால்‌. ஷெழிஷயக்க்‌. வார்‌ அவ்வளங்களின்‌. உண்மையான பம்‌ 427: பாசி உமிரிஎரிவாருள்‌. உறிமையாளர்களுக்கு போதுமான அங்கீகாரம்‌ உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ செயல்முறைகளம்‌ 5ஹவராடுஞ்௦9ட/
+
+அல்லது ஊதியம்‌ வழங்காமல்‌ சுறிவுசார்‌ சொக்தரிமை: சப்பங்களை கையாளுதல்‌ உமிரம்‌ வாருள்‌: கொள்ளை என வரையறுக்கப்புகிறது. உயிர்ப்‌ பொருள்‌ கொள்ளைக்கு எடுத்துக்காட்டாக மஞ்ச்‌, வேம்பு மற்றம்‌ மிகவம்‌ நன்கறிந்த பாசமதி சரிசியின்‌ மீது "அஷரிக்க நிறுவனங்களுக்கு அமரிக்க காப்பரிமம்‌.... மற்றும்‌... வணிக. முத்திரை. அலுவலகத்தினால்‌ வழங்கப்பட்ட சமீபத்திய கப்ர்‌. "இந்த மூன்று உற்பத்திப்‌ பொருட்களும்‌ இந்திய “பாக்‌. துணைக்‌ கண்டத்தின்‌ உள்நாட்டக்குரியதாகம்‌
+
+இளவர). இந்தியமக்கள்பூஞ்சைமற்றும்‌ பாக்கரிய தோல்நோய்‌, கதொற்றல்களை - கப்டப்பத்த. பல. வழிகளில்‌. வேம்பினையும்‌ அதன்‌ எண்டனய்யையும்‌. பயன்படுத்தி வந்தனர்‌. வேம்பின்‌ பண்புகளை இந்தியர்கள்‌ உலகம்‌ முழுவதும்‌ உள்ள மக்களுடன்‌: பகிர்ந்து கொண்டனர்‌. /7-கிரேஸ்‌(1/.00௦9 என்ற. "அமரிக்க பன்னாட்ட நிறுவனமும்‌ (1810) மரிக்க 'வேளாண்துதையும்‌ (1504-00௦4 94௦0௯ எ கனுவயால) ௯௦௦ ஆம்‌ ஆண்டின்‌ முற்பகுதியில்‌ இநத றிவைத்‌ திருஷ ஒரோப்பிய காப்புரிமம்‌: இறுவனத்தில்‌ (00) ஒழ்‌ காப்பரமம்‌ உரிமத்தை: வெண்டர்‌.. இந்த. கா்றிமம்‌. உரிமம்‌: 'பறி்தடக்க்ப்ட நீர்‌ வெறுப்பு ர்டலல்‌) வேப்ப எண்ணமய்மின்‌ உதவியுடன்‌ தாவரங்களின்‌ மெல்‌. ஏற்படும்‌ நோய்களைக்‌ கட்கப்படத்தம்‌. ஒரு செயல்முறைக்காக கோருப்பட்டத", வேம்பின்‌ பூஞ்சை: ஏதிறபு மற்றும்‌. பாக்கரிய எதிர்பு பண்புகளை: காப்புரிமம்‌ செய்வது உயிரிப்‌ பொருள்‌ கொள்ளைக்கு “ஷ்‌ எடத்துக்கட்டாகம்‌. எனினும்‌ இந்தியர்களின்‌: பாறம்பறிய சுஜிவானது இறுதியில்‌ பாதுகாக்கப்பட, காப்பிம்‌ இரத்து ஊய்யப்ப்டது.
+
+மஞ்சளில்‌ உயிறிப்வாருள்‌ கொள்ளை:
+
+டவ உரமான,
+
+௦௩-ஆம்‌. ஆண்டு அஷரிக்க ஐக்கிய நாட்சண்‌: காப்றிமைமற்றும்‌ வணிககுறிமீடு அலுவலகம்‌ (பா. ஸி ஈலா| எல்‌ 7டப்ளாளரி: 0104) மஞ்சளை ஒரு. 'ிுமிநாசினியாகபயன்பருத்துவதல்குகாப்பரிமையை வழங்கியது, மஞ்சள்‌ இந்திய மக்களால்‌ புண்களை: வேகமாக குணப்படுத்தவும்‌, புண்‌ தடப்புகளை: குணப்பரக்கவும்‌ஒருவீட்டிமருந்காகபயன்படக்கப்ப் வருகிறது. 1950-ல்‌ இந்திய மருத்தவ கழகத்தால்‌ ஒரு சஞ்சிகை கட்டிரை ப்பா! எ) வெளியிடப்ப்டது. அதில்‌ இந்த மருத்துவக்‌ குறிப்பு உள்ளது. எனவே, இதன்‌ மூலம்‌ மஞ்சளின்‌ கிருமி நாசினிப்‌ பண்பு உலகத்திற்கு புதியதல்ல என்பதும்‌, இது ஒரு புதிய 'கண்டபிடிப்பல்ல என்பதம்‌, இந்தியர்களின்‌ பாரம்பரிய அறிவின்‌ ஒரு பகுதி என்பதும்‌ நிரூபணமானது. 05 காப்பரிமம்‌.... மற்றும்‌... வணிகக்‌. குறி. அலுவலகத்திற்கான ஏதிர்ப்பு இந்த எடுத்துக்காட்ட
+
+ஒப்பக்கொள்ளப்பப்டத. மற்றும்‌... இந்தியர்களின்‌:
+
+மாறம்பறிய அறிவு பாதுக்காக்கப்ப்டது, இது உயிர்‌
+
+பொருள்‌... கொள்ளைக்கான... மற்றாரு. எடுத்தக்காட்டாகம்‌
+
+பாசுமதி அரிசியில்‌ உமிரிப்வாருள்‌ கொள்ளை:
+
+இஷாஷ ப 8லாகம165)
+
+ஒறு ஆம்‌ ஆண்டு வெ்பம்பர்‌ 2 - ஆம்‌ தேதி 05.
+
+காப்புரிமை மற்றம்‌ வணிகக்குறி அலுவலகம்‌ "பாசுமதி
+
+அறிசி கால்வழிகள்‌ மற்றும்‌ தானியங்கள்‌ தொடர்பான காப்பரிமத்தை ரைஸ்‌ டக்‌ (86௦ 66 என்ற டெக்சாஸ்‌. நிறுவனத்திற்கு. வழங்கியது... இந்த விரிவான. சாப்பிமம்‌ அந்த நிறுவனத்திற்கு பல உரிமைகளைக்‌. கொடுக்கிறது. இதில்‌ "பாசுமதி" என்ற சொல்லை.
+
+"இந்நிறுவனம்‌ மட்டுமே பயன்படுத்தும்‌ உரிமையும்‌
+
+மெங்கும்‌. மேலும்‌ எந்த ஒரு கலப்பறுக்கங்களின்‌:
+
+"விளைவாகத்‌ தோன்றும்‌ விதைகளை பயன்படத்தகல்‌.
+
+எர்பான உரிமையும்‌ கடங்கும்‌. தாவர மேம்புத்தும்‌
+
+செயலையும்‌ இந்த காப்புரிமம்‌ வழங்குகிறது 8027௯:
+
+டன்புதிய அரிசி கால்வழிகளும்‌ சமையல்‌ பண்புகள்‌,
+
+தரல்‌ வருளின்‌ களவு அரிசி தானியங்களில்‌. எவ்வளவு உள்ளது என்பனவற்றை நிர்ணயிக்கும்‌ வழிமுறைகளும்‌ இந்த காப்பியத்தில்‌ சடங்கும்‌
+
+“இந்தியா இந்த பாஸ்மதி சரிசி உமிரிகொள்ளையை
+
+"பர௦னற்கு ராரா ஒப்ப்கத்தை மீறிய செயல்‌ என
+
+எட்தச்‌ ஊன்று. இதனால்‌ 2002ஆம்‌ ஆண்ட 05.
+
+காப்ிமம்‌.. அலுவலகம்‌... ரைஸ்‌. வக்‌
+
+நிறுவனத்திடமிரந்து 16 உரிமைக்‌ கோருகல்களை: ரத்து செய்தது. அதில்‌ முக்கியமாக பாஸ்மதி என்ற. பெயரும்‌ அடங்கும்‌. கப்பரிமம்‌ நிறுவனம்‌ ரைஸ்‌ க்‌.
+
+நிறுவனத்தின்‌ ரகத்தை 'ஷரஸ்‌ லைன்‌ 067\] (௦217௨
+
+867.  என்று மாற்றியது. இதன்மூலம்‌ இந்திய பாஸ்மதி
+
+கத்தின்‌ வெளிநாட்டு ஏற்றுமதிக்கான உரிமம்‌:
+
+பாறுகக்கப்ப்டு.
+
+4.8 உயிரிதொழில்நுட்பவியலின்‌:
+
+பயன்பாடுகள்‌ (8001021075 0\[ 9015ள௦0))
+
+உ. ௮1 ஆம்‌. நூற்றாண்டின்‌ மிகவும்‌ முக்கியமான: பயன்பாட்டு தொடர்புடைய அறினியல்களில்‌ ஒரு முக்கியத்துவம்‌ வாய்ந். நமை உமிரஷாழில்நுட்டமாகம்‌.இதுநம்‌ வாழ்க்கையை இரு பயனுள்ள முறையில்‌ செலவிட நமக்குள்ள. இருநம்பத்தகுக்க துறையாகம்‌,
+
+உ. உமிரிஷாழில்நுஃ்பனியலின்‌... பயன்பாறகள்‌ வேளாண்மை, மருத்துவம்‌, கழல்‌, வணிக தாழில்கள்‌ போன்ற பல துறைகளில்‌ அதிகமாக, பயன்பரகிறத.
+
+உ இநத. அறிவியல்‌. மரபணு மாற்றத்‌. தாவர வகைகளைப்‌ பெறுவது போன்ற அதிக மதிப்புள்ள விளைவுகளைப்‌. பெற்றுள்ளது. எடுத்தக்கா்டுகளாக மரபணு மாற்றமடைந்த பருத்தி (ட பருக்க, கரசி தக்காளி புகையிலை,
+
+“95... மரிஷூில்ுபபவியல்‌ ஷலிழுறைகளும்‌ ஊயல்முறைகளும்‌ஹவராடுஞ்௦9ட/
+
+காலிஃபிளவர்‌, உருளைக்கிழங்கு, வாழை: போன்றவற்றைக்‌ குறிப்பிடலாம்‌. உட வேளாண்‌. பமிர்களில்‌. களைக்கால்லி.
+
+எஜிர்ப்புகன்மை, இறுக்க. எதிர்ப்புத்‌ தன்மை:
+
+(னல மண்ணடி. நோய்‌ எதிர்ப்புத்தன்மை. போன்றவற்றைக்‌ கொண்ட வகைகளை: உருவாக்குவது... உமிரிஷாழில்நுட்பத்தின்‌. மகத்தான விளைவு ஆகம்‌.
+
+உ. மனி௰ர்களில்‌ இன்சுலின்‌ குறைப்பட்டு நோயை சரி ஊய்யவும்‌ ஈகோலையை பயன்படுத்தி மணிக "இன்சுலின்‌ மற்றும்‌ இரக்க பாதத்தை உருவாக்க. மருத்தவ உயிரி தொழில்நுட்ப தொழிற்சாலைகள்‌: மயன்பருகின்றன.
+
+“- உயிரிஷதாழில்நுட்ப தொழிற்சாலை மூலம்‌ தடப்பூசி மருந்து \[/லன்மு, நொதிகள்‌, உயிர்‌ எதிர்ப்‌ பொருட்கள்‌, பால்‌ சார்ந்த தயாரிப்புகள்‌, பானங்கள்‌ (ேனகு.. போன்றவற்றை உற்பத்தி செய்யப்படுகிறது
+
+உ உமிர்ஷாமில்நுப்பத்தின்‌... மூலம்‌. உயிரி 'ில்லுகளை(௦விடக) அடிப்படையாக கொண்ட உமிறிய கணினி உருவாக்குதல்‌ மேலும்‌ ர்‌ சாதனையாகும்‌.
+
+உ மரபணு பொறியியல்‌ மரபணு கையாளுதலை. உள்ளடக்கியது: திசு வர்ப்ு முழுக்கக்‌ திறன்‌ ற்ற (மிஸ்ரா ஜாட ௦9) தாவர மல்லை. நுண்ணுயிரி. நீக்கப்பட. முறையில்‌. கப்டம்படத்தப்பட்ட கலில்‌ தாவர நகலாக்கம்‌ செய்வதாக.
+
+4.  உணவுத்‌ தொழிற்சாலையில்‌ ஸ்பைருலினா (கரவிமைவைப்‌ பயன்படுத்தி தனி சல்‌ புரம்‌: பெறப்படுகிறது.
+
+\*- இரண்டாம்‌ நிலை வளர்சிதைப்‌ பொருட்கள்‌, உயிரி உரங்கள்‌, உயிரி தீங்குயிரிக்‌ ஷால்லிகள்‌, ஷொதிகள் போன்றவை உற்பத்திசெய்யப்புகிறது.
+
+உ கூழல்சம்‌ உயிரிாழில்நுட்பத்திற்காக, உயிரத்திரன்‌ ஆற்றல்‌ இமாண சானளு\], உயிரி ஸிவாருள்‌, உயிரிவழி திருக்க. தாஹ. வழிதருக்தம்போன்றவைஉருவாக்கப்பட்டுள்ளன.
+
+பாடச்‌ சருக்கம்‌. உமிரிஷாழில்நுட்டனியல்‌ அறிவியலின்‌ பயன்பாடு உலிரியல்வயல்பாடகளாகும்‌ அதில்நன்மைபயக்கும்‌ மமன்களுக்காக.. கடட்புக்கப்பட. உயிரின: கறுணிகளின்‌ அதாவது நுண்ணுயிர்கள்‌ அல்லத. 'ஊல்‌ கூறுகள்‌ பயன்பு்கபபடிறது. ஹங்கேறியப்‌ பொறியாளர்‌... கரம்‌. னக. (09) உமிரிஷாழில்நுப்பனியல்‌.. எனும்‌... வல்லை. உருவாக்கினார்‌. உயிரிஷாழிறப்பவியல்‌ பாரம்பரிய மற்றும்‌ நவீன முறை என மரக்கப்பகிறத. பறம்பரிய உயிரிஷாழில்நுட்பனியல்‌ மண்டைய பயிறசிகளான நாதிக்தலை உள்ளடக்கியது. ஒற்றை வல்‌ பரக்‌ மதங்கள்‌, தாது. உருக்கள்‌, கொழுப்பு
+
+காழ்போஹைட்ரேட்‌. மற்றும்‌... வைட்டமின்கள்‌ உற்பத்திக்கு அதிகளவிற்கு வளர்க்கப்படுகிறது. நவீன உமிரிஷாழில்நட்டவியல்‌.. அனந்து... மரபணு கையாளுகலுடன்‌ இணைர்கது. மறுகூட்டிணைவு கதாழில்நுப்பம்‌.... நன்ன... உமிரிறுப்பலியலின்‌: கொழில்நுப்பமாகம்‌, அதில்‌ தாங்கி கடத்தியைப்‌ பயண்பருத்தி. அல்லது. கருவிகளான. நுண்துளையாக்கம்‌, மரபணு த்பக்க, லப்போனேம்‌ வழி அல்லது வேதி வழி மற்றும்‌ நுண்‌ சுக்கல்‌ போன்ற. சீறப்பான காரணிகள்‌ குறிப்பட்ட மரபணுவிற்காக. 08% குறிமீரகளை ஒரு. உமிரினத்திலிருந்துமற்லாரு. உமரினத்கிற்க மாற்றப்படதலையம்‌ உள்ளடக்கியது. மற்ற கருவிகள்‌ ஷாகிகன்‌ மற்றும்‌ உயிரிகள்‌ ஆகம்‌, சஸ்ப்ரி்கண்‌: எண்போறியக்ளியேஸ்ஷொதிமூலக்கூறுகத்கரிகோல்‌, எனப்படுகிறது... இது புமிவிண்‌.. குறிபிட்ட ஸ்ப்ரிக்ஷன்‌ தளங்கள்‌ அல்லது. அதற்கு அருகில்‌ கண்டிக்கிறது. மற்ற பிற நொதிகளாவன 0944 லைஸ்‌ மற்றும்‌ அல்கலைன்‌ பாஸ்படேஸ்‌, 00. 'லைகேஸ்‌ ஷாதி இரட்டை இழை 04ல்‌ சரக்கை, பாஸ்பேட்‌... மூலக்கூறுகளை... இணைக்கிற அங்கைன்‌ பாஸ்படேஸ்‌ நொதி இரட்டை இழை. உடன்‌ குறிப்பிட்ட பாஸ்ட்‌ தொகுதியை சேர்க்கிறது அல்லது நீக்குகிறது.
+
+ஒர தாங்கி. வத்தி. என்பது... சுயமாக, வெருக்கமபையக்கூடிய திறன்‌ பெற்ற சிறிய 04. மூலக்கூறாகம்‌..... ஒம்புமிர்‌.. வல்லுக்கன்ளாக செலுத்தக்கூடிய 0ப%. கடத்தியாக பயன்படுகிறது. தாங்கி கடத்திகளுக்கு சில எடுத்துக்காட்ருகளாக. (வகை, காஸ்ட்‌, லம்பா 2பாஜ்‌, 15, 3பாற்மிட்‌ 00,420 தாங்கக்கடத்திகளாக இடமாற்றக்‌ கூறுகள்‌ (டிரான்ஸ்போசன்கள்‌) குறைதூரத்‌ தாங்கிக்கடத்தி ம்ம்‌ வெளிப்பக்கம்‌ தாங்கக்கடத்திகள்‌.
+
+மறுகூட்டிணைவு 09% மூலக்கூறினை உற்பத்தி ஊய்திறகு பொருக்கமான ஒம்ுிர்‌ சல்லுக்கள்ளாக. றிமுகப்்த்பகிறது. ஒம்ம சல்களின்‌ வகை. மற்றும்‌ நகலாக்கச்‌ சோதனையைப்‌ பொருக்க. கோலை... பெரும்பாலும்‌... பயன்படுத்தப்‌ ஒஷபமறியாகும்‌. தாவரங்களில்‌ இரு வகையான. மரமணு மாற்ற முறை காணப்படுகிறது. அவை நேர அல்லது தாங்கி கடத்தியற்ற மரபணு மாற்றம்‌ மற்றும்‌ மறைமுக அல்லது தாங்கி கடத்தி வழிமரபணு மற்ம்‌ ஆகம்‌. நேட மரபணு மாற்றத்தில்‌ வேதி வழி மரபணு: மாற்றம்‌, நுண்‌ செலுத்துகல்மற்றும்‌மின்துளையாக்கம்‌, மாபணு தமபக்கி மறறம விப்போளேம்‌ வழி மரபணு மற்றம்‌ ஆகியன அடங்கும்‌. மறைமுக / தாங்கி கடத்தி வழி மரபணு மாற்றம்‌, பினஸ்ப்‌ / தாங்கி கடத்தி உதவியுடன்‌ மரபணு மாற்றம்‌ மேற்கொள்ளப்பரகிறது. அல்றோயாக்மறியம்‌ முமிபசியன்னமன்‌ 1\] பிளாஸ்ம்‌ மஇதிகளவு பயன்பட்தப்புகறது.
+
+மறுகூட்டிணைவு01/ வைப்பும்‌ வல்லுக்கள்ளாக.
+
+உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ சயல்முறைகளும்‌.ஹவராடுஞ்௦9ட/
+
+அறிமுகப்படுத்திய பிறகு சச்சல்கள்‌ மறுகூட்டணைவு 0/2/வைவற்றிருப்பதை கண்டறிதல்‌ அவசியமாகிறது. “இதற்கு சலிக்கை செய்தல்‌ (5௦௦௭) என்று பெயர்‌. மறுகூட்டிணைவு 0414. சலிக்கை செய்தலில்‌ நீல. கெண்மைநிற தெரிவு முறை மற்றும்‌ நகலாக்க 'தப்டரதல்‌ முறை பயன்படுகிறது. இதில்‌ வளர்பு தத்மன்‌ மீறு. வளரக்கூடிய காலனி அமைப்பை நகலாக்கப்பருகிறது. . மின்னாற்பிறித்தல்‌.. என்பது “வேறுபட்ட உயிரி மூலக்கறுகளைப்‌ பிறி;்தெருக்க்‌ மயன்படம்‌ பிரித்ததருக்கும்‌ தொழில்நுட்பமாக.
+
+ஒற்றி எடுக்கும்‌. ஷாழில்நுப்பம்‌. குறிக எண்ணிக்கையிலான. மூலக்கூறுகளில்‌ இருந்து விரும்பத்தக்க 0, அல்லது. (904. துண்டுகளை: அடையாளம்‌. காண்பதற்காக. அதிகம்‌: மயன்பருத்தப்புகிறது. சில மரபஹறு மாற்றப்‌ பயிர்க்‌ களைக்கொல்லி எதிர்ப்பவையாகும்‌ - பாஸ்டா, ௧௦. முச்சிஎதிர்ப்பவை-ட)பயிர்கள்‌,கார சுவை- உருளை, தங்க ரிசி. ஊயற்கை பாலிமர்ஸ்‌ - பாலிஹைட்ராக்ஸி பியூப்டரேப்‌(\*49) பாலிலாக்டுக்‌ அமிலம்‌\[”பட) மற்றும்‌ பச்சை ஒளிர்‌ பரதம்‌, மிற பயன்பாருகள்‌ - உமிரிமருந்தாக்கக்கூடியவை, உயிரி கனிம வாம்‌, உயிரி ரருந்துவியல்‌ மற்றும்‌ உயிரி எறிவாருள்‌.
+
+மதிப்பீடு 1 வஸ்ப்ரிக்ஷன்‌ என்பது. கெமர்‌... பொறியியலில்‌ எம்டமாதும்‌ தேவைப்படிவதில்லை. ஆமிர்‌. பொறியியலில்‌ முக்கியமான கருவியாகும்‌. இ றயுக்ளியேஸ்‌ 01பஃவைக்‌ குறிப்பிட்ட இடத்தில்‌ துண்டிக்க. ர.ஆமற்றம்‌ இ. ௨ மினாஸ்மிட் என்பது. வட்டவடிவ பரத மூலக்கூறுகள்‌ ஆ பாக்கரியாவினால்‌ நேவைப்படவது. 'இ.நுண்ணிய பாக்கரியங்கள்‌. ௩ உமிரிஏதிர்ப்‌ வாருளுக்கு தரப்பை வழங்க. ௨ 0ய/வைஈகோலை துண்டிக்குமிடம்‌ பேர ஆராத இவரா ராகாகமே
+
+க மரணம்‌ பொறியியல்‌.
+
+அடனயற்கை மரபணுக்களை உருவாக்கக்‌.
+
+ஆ.ஒரு உயிரினத்தின்‌ 014. மழ்றவைகளுடன்‌: கப்பினம்‌ வக்‌
+
+இ நுண்ணுவிரிகளைப்‌ பயன்படுத்தி ஆல்கஹால்‌: உற்பத்தி
+
+500,250 போன்ற கண்டறியும்‌ கருவிகள்‌, யற்கை உறுப்புகள்‌ உருவாக்குக
+
+ஷாகிகள்‌:
+
+௩. மின்வரும்‌ கூற்றைக்‌ கருதுக: மமறுகூட்டிணைவு 04% தொழில்நுட்பம்‌ என்பது, பிரபலமாக அறியப்பட்ட மரபணு பொறியியல்‌. ஆகும்‌. இது மனிதனால்‌ ஆய்வுக்கூட சோதனை:
+
+முறையல்‌... மரபணும்‌.. பொருட்களை கையாளுகலை விவரிக்கிறது. பபணாக2.. என்பது. வாரம்‌... ஈகோலை.
+
+ஆகியோரால்‌ முதன்‌ முதல்‌ உருவாக்கப்பட்ட ஊயற்கையான நகலாக்க தாங்கிக்கட்தியாகும்‌
+
+நடதபைகப்டு (ஸ்பின்‌) நொதிகள்‌ என்பது நியூக்ளியேஸ்‌ எனப்படும்‌ நொதிகள்‌ வகுப்பைச்‌ சார்ந்தது.
+
+மேற்கூறிய கூற்றின்‌ சஷப்படையில்‌ சரியான
+
+குறியீட்டைத்‌ தேரந்தரக்கவம்‌.
+
+அப்று ஆற்றும்‌.
+
+இரமற்றம்ம்‌.. கரமற்றம்‌ம.
+
+உட மறுகூட்ணைவு தொழில்நுட்பம்‌ பின்வரும்‌ படிறிலைகளைக்‌ ஷாண்டுள்ளது.
+
+மலைகளைக்‌ கண்டன்ன
+
+|டட்புமர்‌ கல்லில்‌ மறுகூட்டிணைவு (பவை.
+
+செல்தல்‌.
+
+நட தடைகப்டு (ரஸ்ட்ரக்சன்‌) ஷாதியைய பயன்படுத்த குறிப்பட்ட இடத்தில்‌ 014 வைக்‌ தண்டித்தல்‌,
+
+14.  மரபணுப்‌ போருட்களைப்பிரிக்தக்கல்‌ (0) மறுகூட்டிணைகவு தொழில்நுப்பத்தன்‌ சரியான விசையைத்‌ தேர்ந்டக்கவம்‌
+
+2௮1,110.) ஆம.
+
+இப்பம்‌ கமா
+
+௫௩ சில தபைகட்டு(ரஸ்டரிக்சன்‌) நாதிகளினால்‌. 010௨ வின்‌ பின்னரும்‌ எந்த ஒரு முண்பன்‌ ஒக்க (பாலியாண்ட்ரோம்‌) தொடர்வரிசையின்‌:
+
+மையத்தில்‌ எளிதாக துண்டக்கிறது?. ௬00002. இகரராக்க. ஆகசொகாடள இராதராக க: இ.௨௦/ரா0௮. உளாகக௦௪. ர க௦மராகஅ. எளகராக.
+
+உ ர9ர௧22. 96 என்பது. 'கடபினாள்பிட்‌பாக்சறிய மறுகூட்டிணைவு ஆ.பிளாஸ்மிட்‌பாக்மறிய பெருக்கம்‌ இ.பிளாஸ்பிட்வாலிவர்‌ மற்றும்‌ ரோட்ிக்கஸ்‌ ஈஉமிளாஸ்மிட்‌ பால்டிமோர்‌ மற்றும்‌ ரோடரிக்கஸ்‌.
+
+உ பின்வருவனவற்றுள்‌ எது உயிரி உணர்வியில்‌ பயன்படத்தபபடுகிறது? கூமின்னாற்பிரப்பு ஆ. உமரி உலைக்கலன்‌: இ.தாங்கக்கடத்தி ஈ.மின்துளையாக்கம்‌
+
+உமிரிஷாழிலநப்பவியல்‌ ஷரிழுறைகளம்‌ ஊயல்முறைகளும்‌
+ஹவராடுஞ்௦9ட/
+
+௫), மின்வருவனவற்றைப்‌ வொருத்தக 'இ.ஷல்லில்‌ உட்கரு அமிலத்தின்‌ ஊருஷதாற்றுகல்‌. ட வ வைரஸ்‌ சுற்ற முறையாகம்‌. ்‌ ஈ.யாலிலாக்குக்‌ என்பது. ஒரு வகை உமர்‌. " ஏக்கோரியுக்ளியேஸ்‌ |) பாஸ்‌ஃபேட்டை சிதைவபையும்‌ மற்றும்‌ உயிரி செயல்‌ மிகு (சேர்த்தல்‌ அல்லது நீக்குதல்‌. கஷப்பபிளாஸ்டக்‌
+
+ஊண்போறியுக்ளியேஸ்‌ (901; தண்டுகளை,
+
+ஆ ஷெஸ்ட்ர்ன்‌ ஒற்றிவரப்பு தொழில்நுட்டழுறை. 'இ.பாலரேஸ்‌ சங்கிலித்‌ தொடர்வினை: ௩. அகரோஸ்‌ இழும மின்னாஜ்‌ பிறப்பு
+
+4 சதர்ன்‌ கலப்பினமாக்கல்‌ தொழில்நுட்பமுறையின்‌
+
+இணைக்க. குரோமோசோம்‌. பஸ்‌. பத்பய்வு. எதில்‌ அல்கலை. நுனிப்பகுதியில்‌. பயன்படுவதில்லை. மஸ்கபட்டேஸ்‌ வை துண்டித்த்‌ அடமின்னாத்பிரப்பு. ஆ.ஒற்றிஷடிப்புமுறை லைஸ்‌. ஒுறுமவைநடலில்‌ இகதிரியக்கபுகைப்படமுறை
+
+*   ்‌ கவல்‌ ன்‌ ர. பாமைரேஸ்‌ சங்கிலித்‌ ஷாடற்‌ முறை. ட்டம்‌ ம்‌. 3 “௪. ஒரு சாங்கிக்கடத்தியில்‌ உயிரி எதிர்ப்‌ பொருள்‌ பொட்ட. மரபணு எதனை தேர்ந்தெடுக்க உதவுகிறது? ன ரர இபோப்டி ல்கள்‌... ஆ மாற்றப்பப்டசல்கள்‌ கட ல்க ட்ட இமறுகூட்டிணைவுர்‌ ல்கள்‌ 1 எததடயம்‌புரோமைய எ்த ஷாழில்நுப்பூறையில்‌, ஈட மேற்கூறிய எதுவுமில்லை.
+
+1௧ பருத்தியின்‌ சில பண்புகள்‌
+
+கநீண்ட நார்களும்‌, ககவுனி பூச்சிகளுக்கு (ஷு எதிர்்த திறன்‌.
+
+ஆ.நடத்தரமான அறுவடை, நீண்டநார்கள்மற்றும்‌ 'வண்டிகளுக்கான எதிறப்ுத்‌ தன்மை
+
+'இ.அதிகவிளைச்சல்மற்றும்்கிரியன்‌ பூச்சிகளைக்‌.
+
+வ கமல வவணுவலி்பலல சக்கான்‌ ன்‌ மிரபலமானது. ஏனெணில்‌ இந்த பாக்கறியம்‌. கொல்லக்‌ கூடிய படிக நச்சப்பரத உற்பத்தி அனைத்து தானியங்கள்‌ மற்றும்‌ பயிறு வசை ர.அதிக உற்பத்தி மற்றும்‌ காய்‌ புழுவிற்கான. கத எடம்‌ பகம்‌. கத்தம்‌ இருங்கிணைந்துள்ளநு. 7. தற்காலப்பயிற்சியில்‌ உயிரி தாழில்நுட்பவியலை. சமை பகியகுரோனனாபின்‌ பணம்‌. அங்கக க தொகையத்தில்‌ இணைசக்கப்பட்ட ஒரு மரபணு. ஷ்பைருலினா போன்ற நுண்ணுயிர்களை: அந்த பாக்கரியம்‌ இணைந்துள்ள தாலரச்கற்ு 3 எண்ன வு ன்‌ ணன்‌ வங்கக்‌ பாம
+
+எவ்வித வெண்கம்‌ கவதவலகமைகளைளை கனல்‌. பட டன்‌ கனவ கக பன க்‌ உர்வா ன ஈங்கை மம்வியத்தப பன்னி ஆய்வ இ க்றுமறம் கனம்‌ கண்ணனால்‌... நவ வங கவிகை கணிமை யான கவ்வ பப்னாய் பனியால்‌ "இ கூற்று சரி. ஆனால்‌ காரணம்‌ தவறானது. 20. நியுக்ளியோடை௫ு தொடர்வரிசையின்‌ முனை எவவ கலைவயவியவத, பநமப வைவ்‌ மயா உ கர்றுவிு வம்‌ குண்ட க னைய்மை தன்ட சன்ன ஸே ஓகம்‌ கழறுவி்‌ கத ளியான கறக
+
+கரி பிளாஸ்மிட்‌ வாழையில்‌ உச்சிக்‌ கொத்து நோயை உருவாக்குகிறது. ஆல நகலாக்க களங்கள்‌ பல இணைப்பான்‌.
+
+எட்டபணு... மாற்றத்திற்கு... பயன்பருத்தப்பும்‌ 'வேதிப்வாருட்களின்‌ வயர்களைக்‌ கூறுக.
+
+22 9.522 எனும்‌ வார்த்தையிலிருந்த நீர்‌ கறிந்து. கொள்வது என்ன?
+
+உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ சயல்முறைகளும்‌.ஹவராடுஞ்௦9ட/
+
+சயணுவை. மாற்ற முடியா? உன்‌ விடை எதுவாகினும்‌ அதை நியாயப்புக்துக.
+
+2௩.ஒரு கங்கக்கடத்தியை எவ்வாறு அடையாளம்‌. காண்பாய்‌?
+
+ஊர பல்வேறு வகை ஒற்றிவப்| தொழில்நுட்பத்தை. ஒப்ப
+
+2௯ களைக்கால்லியைத்‌ தாங்கக்கூடிய பயிர்களின்‌: நன்மைகள்‌ யாவை?
+
+29 பருத்தியின்‌ நன்மை, தீமைகளை எழுக.
+
+0௦. உமிறி உமிரிவழி்‌ தருக்கம்‌ என்றால்‌ என்ன. உயரிவழித்‌ தருக்கக்திற்ு எுததுககப்ு தருக சுட மரபணு மாற்றப்பட்ட உணின்‌ நன்மைகள்‌
+
+மற்றம்‌ சபயங்கள்யாவை?
+
+கலைச்சொற்கள்‌:
+
+௫\] ஹைட்ராக்ஸி முனை: நியகளிக்‌ கமிலதகல்‌: கடைசி நயுக்ளியோடைடன்‌ சர்க்கரையின்‌ பவத: காண்பன்‌. சணுவில்‌ ஷைப்ராக்ஸில்‌ தொகுதி மணைந்து காணப்ப.
+
+மாக்கிய செயற்கை குரோமோசோம்‌. 980) சாயத்‌ தொகையின்‌ (மேலாம்‌ 000) 0. விலிருந்து மறித்துக்கப்பட ஒரு நகல£க்க கடத்தி (ன்ற 99௦0 8 காணியின்‌ அஷப்பபையில்‌ கப்பட்டது.
+
+சோள 0800. தொடர்பில்லாத மரபணுக்களை: ஷாண்டமறுசேசர்க்கை 014) மூலக்கூறுகள்‌. கெ (ளவு / பிரிவு; (05 0140) இரட்டை சர்‌: மாமவின்‌ பாஸ்போ டை எஸ்டர்‌ பிணைப்பை: "உடைத்தல்‌. இது வரும்பாலும்‌ ரஸ்டரிக்சன்‌ நொதி மூலம்‌ நிகழ்கிறது.
+
+நநகலாக்க களம்‌: 01பப/வைநகல்வருக்க கத்தியுடன்‌. நுழைக்கும்‌ இடம்‌,
+
+நநகல்பருக்கம்‌நகலாக்கம்‌: 04. மூலக்கூறுடன்‌: குரோமோசோமின்‌ பகுதி அல்லது நகல்‌ பெருக்க. கடத்தியுடன்‌ (ஸ்ட 96014) கூட இணைவது.
+
+நகல்வெருக்கரநுகலாக்க. கடத்தி: நகல்‌ பெருக்க, மரபணு நுழைக்கப்பட சிறிய, தன்‌ பருக்கமடையும்‌ டி
+
+இட்டிணைவுக்‌ களம்‌(0௦8 8129). 2வது காரம்‌, ஒற்றை இழை, லேம்டா பேஜ்‌(0),014-வின்‌ நிறைவு உண்டாகிற விரிவு பகதி.
+
+நட பாலிடரேஸ்‌: 0.4. உருவாக்கத்தின்‌ போது, பாஸ்போடைஎஸ்டர்‌ (ர்மஷள்மமிகனன) பிணைப்பு உருவாவதை ஊக்குவிக்கும்‌ நொகி. எண்டோநியுகிளியோஸ்‌:014-வின்‌ உள்ளமைப்பில்‌ பிளவை ஏற்பரத்தி 014. -வை குறிப்பட்ட இடத்தில்‌ வெட்டுவதை ஊக்குவிக்கும்‌ நொதி.
+
+மரபணு தொகையம்‌:ஒர்‌ உயிரினத்தின்‌ ஒட்டுமாத்க மரபப்வாருள்‌.
+
+நடு 084 ஷாடர்வரிசையில்‌ தாங்கிக்கடத்தியாக. பயன்பரத்தம்பும்‌ ஒடு பாக்கறியஃபால்‌,
+
+ஈன்சி்‌: பாத்‌ பூய மற்றும்‌ பிளாஸ்மட்கஸ்‌, இரந்து வெறப்பட்டகூறுகளைக்‌ கொண்ட நகலாக்கத்‌ காங்கிக்கடத்தி பளாஸ்மிய்‌. பாக்மரிய குரோமோசோமைத்‌ தவிர மாக்கரிய செல்களில்‌ குரோமோமோமிற்கு வளியே காணப்படும்‌ தன்னிச்சையாக பெருக்கமடையக்‌ க்ஷய கிரட்டை இழை (௫ ஈ௦பள பம) வட்ட வ டும்‌ மூலக்கூறு ஆகம்‌. 'இடைக்கப்டு. வறிபடம்‌; பல்வேறு தடைகட்டி சாதிகளால்‌ தண்டிக்க்ப்ட புடின்‌ ஒரு நீண்ட ஆய்த்தறிகல்‌ காம்‌. குறைநாரக்தாங்கக்கடத்தி: இருவேறு தட்டப்‌. கோற்றத்திற்கான ரர ரர்‌\*! உற்று இருவேறு உயிரினங்களில்‌ பெருக்கமடையும்‌ நகலாக்கக்‌ தாங்கிக்கடத்தி. 12) பாலிமரேஸ்‌: வெப்ப விரும்பம்‌ பக்கரியமான ஷரீமஸ்‌ அக்குவாட்டிகஸ்‌ பாக்கரியத்திலிரந்து முித்துக்கப்பம்‌ வெப்பம்‌ தாங்கும்‌ பா்‌ பாலிமரேஸ்‌. நாங்கிக்கடததி: ஒரு செல்லிலிருந்து மற்ஸாரு, செல்லுக்கு ரிமி/வை மாற்றம்‌ ஊர்தி
+
+௨... உமரிஷில்ுபபவியல்‌ ஷறிழுறைகளும்‌ வயல்முறைகளும்‌ஹவராடுஞ்௦9ட/
+
+உமிறிஷிவாருள்‌ ஹைட்ரஜன்‌, எ்தனால்மற்றும்‌ மத்தனால்‌ போன்றவை உயிரிலூலங்களிலிருந்து, நுண்ணுயிரி மெயல்பாடுகளினால்‌ உற்பத்தி செய்யப்படுபவை,
+
+உயிரி கழுவிபகுத்தல்‌: உலோகங்கள்‌ அவற்றின்‌ தாதுக்கள்‌ அல்ல்து மாசற்ற சூழலில்‌ இருந்து நுண்ணுமிரிகளைப்‌ பயன்படுத்தி மீட்டறக்கும்‌ செயல்முறை.
+
+தாவர வழித்தரத்தம்‌: தாவரங்களைப்‌ பயன்படு்தி கூழில்‌ இருந்து மாசுகள்‌ அல்லது மாசறுக்திகளை: நீக்கக்‌.
+
+மறுகூட்டிணைவு: மரபணுக்களின்‌ மறுகூட்டிணைவினால்‌..... செல்கள்‌... அல்லது, உமிரினங்களை உருவாக்கல்‌.
+
+பரிமாற்றம்‌ (ராவாஏிளாகர்௦: சுவல்‌:
+
+மரபணுவை ஸல்லினுள்‌ ஊலுக்கி அதனுடைய
+
+தகவல்‌.
+
+ப௦ விக்கம்‌. கில்‌ இரந்த... காணும்‌ கோகையந்தினை மறுக்‌ நுண்ணுயிர்களைப்‌ பயன்படுத்தி மாசுறுத்திகளை நாங்கிக்கடத்திகள்‌; (பட மழுக்ப்டி - நீக்‌ கல்லதுகறைங்கம்‌ செயல்முறை... ழி தகம்‌... அயல்மல்லிற்து பதிய பசுமைத்‌: தொழில்நுட்ட மூலங்களில்‌: மரபணுவை எடுத்துச்‌ செல்லும்‌ கடத்தி: மாசறுத்திகளை கட்டுபடுத்தி, மாகயாடில்லாத "இயல்பான வகை: இயற்கையாக காணப்படும்‌. தொழில்நுப்ட்‌ ட படட. உயிரினங்கள்‌
+
+களிணைப்கள்‌
+
+உயிரி தொழில்நுட்பவியலுடன்‌ இணைந்த துறைகள்‌: "அம்‌ நூற்றாண்டில்‌ உயிரி தொழில்நுட்பவியல்‌ பலத்‌ துறைகளில்‌ பயன்புக்கப்பம்‌ மிக மக்கிய பிரிவாகும்‌ நம்முடைய வாழ்வில்‌ பயன்பரக்தக்கூடிய ஒரு நம்பகமான துறையாகும்‌. உயிரி தொழில்நுட்பவியல்‌ வேறுபட்ட 'துறைகளாகிய வேளாண்மை, மருத்தவம்‌, சற்றுர்‌ கடல்‌ மற்றும்‌ வணிக ரீதியான தொழிற்சாலைகளில்‌.
+
+விரிவான பயன்பாருகளைக்‌ கொண்டுள்ளது.
+
+படம்‌ 41. இடைத்தொடர்புடைய சவிவியல்‌ புலமாகத்‌ திகழும்‌ உயிறிதொழில்நுட்டலியல்‌.
+
+உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ சயல்முறைகளும்‌.
+
+
+ஹவராடுஞ்௦9ட/
+
+வரலாற்று:
+
+பார்வையி!
+
+பதைரப்பட்ட பயன்பாருகள்‌ கொண்ட இடைத்தொடர்புடைய அறிவியல்‌ புலமாகத்‌ திகழும்‌: உமிரிஷாழில்நுப்பவியல்‌ வளர்ச்சியின்‌ முக்கிய வரலாற்று நிகழ்வுகள்‌ கீழே பட்டியலிடப்பட்டள்ளன.
+
+வரவ ககன பன கவனகம்‌ எய்க அமக் க்‌ டக அக்க க்கான க்கல்‌
+
+ரம... ஆண்போய்ன்‌ லாவோசியர்‌ வேதிய டிப்பபையிலான ஆல்கஹால்‌ ஜொதிக்கலை சக்‌.
+
+தாலிஸ்‌... பாஸ்டர்‌... நொதித்தல்‌. நுண்ணாவர்களின்‌ பங்கிலைக்‌ கண்பறிகக.
+
+ராரா?
+
+ரர - உயிரிகாழிலநப்பணியல்‌ என்ற சொல்‌ காரில்‌
+
+எ்கிஎன்பஷால்‌ உருவாக்கப்பட்டது 92௨... தஷக்காண்பர்‌. பிளம்மில்‌ என்பவரால்‌
+
+பெணிசிின்‌ கண்டுபிடிக்கப்பட. ௫௮ ட எார்ஜ்‌ சீஸ்‌. மற்றும்‌. எட்டு பாப்பம்‌. ஆகியோரால்‌... நியுரோஸ்போறா..... ராசாவில்‌
+
+மேற்கொன்ளப்பட்டபரிசோதனையின்‌ விளைவாக 9௫. மரபஹலு- ஒரு நொதி கருதுகோளை (0 ஜாம ரம. எலால(றளிகஸ்‌) முன்வாமிந்தனர்‌.
+
+௫௧௩. அவரி, மேக்கியாட்‌, மக்கர்்,ி ஆகியோர்‌ இும்வை ஒரமாய்‌ வாருள்‌ என கண்டறிக. ௫9௧௧-ரதம்ஸ்‌ வாடன்‌; பிரான்சிஸ்‌ கிரிக்‌ ஆகியோரால்‌. மம. வன்‌. இரட்டை இழை அமைப்ப கண்டுமிடக்க்ப்டு
+
+7௨ - ஆர்ப்‌, ஸ்மித்‌ ூந்தர்ன்ஸ்‌ ஆகியோராம்‌. 'தபைகட்டு ரவி நொதிகள்கண்டிபிடக்கப்ப்டன. ர - பும்வைத்‌ துண்டத்தல்‌ - பிளாஸ்மட்‌ 0. உடன்‌ இணைத்தல்‌... மறுகூட்டணைவு பம. கொழில்நுப்பம்‌ - மரபும்‌ வாறிலியல்‌. - ஸ்பான்னி கோஹன்‌ , அன்ன சாங்க்‌, இர்‌ ஹீலிங்‌ மறும்‌ ஹப்‌ போயர்‌ ஆகியோரால்‌ மரயணு மாற்றம்‌ செய்யப்படல்‌.
+
+ரக... கோஹ்கர்‌, மில்ஸ்கன்‌ ஆகியோரால்‌. மானோகசோனம்‌ ஆண்டியாடி (4 கா) உற்பத்தி வய்யப்ப்டது.
+
+மரக. சங்கர்‌, கல்ப்‌. ஆகியோர்‌. பட. ஷாபர்விசையாச்சத்‌.... தொழில்‌. நப்பத்தை. உருவாக்கினார்கள்‌.
+
+௫ர௨-ஈ கோலையில்‌ மனித இன்சுலின்‌ உற்பத்தி ௫ர௨-. ப 6கேரானா.. என்பவரால்‌. உயிருள்ள. செல்லுக்குள்‌ செயல்படக்கூஷப செயற்கை மரபணு உருவாக்கம்‌. க -ஐக்கிய அவிக்க நாடு மனித பயன்பாப்ற்கான. மறுகூப்ணைவு 044 தொழில்நட்பவியலின்‌ முகல்‌. மலத்தியல்‌ உற்பத்திப்‌ வாரண ஹியூமுனினை (வாயா சஸ்கீகிக்தது. 2௯ - தாஷங்களின்‌ ஊபணு மாற்க்திற்கு 1 - பளான்மிட்பயன்பாு. 1௫6௧ - கேரி முல்லிஸ்‌ என்பவரால்‌... பானிடரேஸ்‌, சங்கிலித்‌ ஷாடர்‌ வினை (50) உருவாக்கப்பட்டது. "சச - வையோலிஸ்டிக்‌ மாற்ற முறையில்‌ மரபணு, ஈஸ்ப்டின்‌.. முதல்‌. கறோமோசேம்‌.
+
+ஜயுவிவவவய்பா
+
+2 முதல்‌ மாபணு: மாற்றப்பட உணவு: (வரேவ தக்காளியை அரமக சங்கரக்கத. 19௭7 - அயன்‌ வில்மர்ட்‌ உட்கரு நகலாக்கத்தின்‌ மூலம்‌: முதல்‌ மரபணு மாற்ற விலங்கான பாலூட்டி வகை ௬௦. போலியை உருவாக்கினார்‌. 2000-முதல்‌ நாவரணபணு ஷாகையம்‌ கராபடாப்சல்‌ 'தவியானாவில்‌ தொடர்‌ வரிசைபடக்கப்பட்டத.
+
+'2001-மனிகமரயணுக்‌தொகைய செயல்‌ தட்டம்மன. ஜமணுக்‌. தகைய தொடர்‌ வரிசையின்‌ முதல்‌. வரைவைக்‌ கொடுக்க.
+
+(2002. ஒரைசா சப்டைவாவில்‌ முதல்‌ பலர்‌ தாஷ. மயணு கொகையம்‌ தொடர்‌ வரிசைபட்கப்பட்டத்‌. 2008 - மணிக மரபணு தொகைய செயல்‌. திட்டம்‌ இறைவற்மது... இது மனிதனின்‌ அனைத்து 2௧. 'குரோமோசேம்களில்‌ உள்ள மனித மரயணுனின்‌. ஷயர்வரிசை மற்றும்‌ இருபபந்தின்‌ தகவல்களை: வழங்கியது.
+
+2200 -ர்‌ இராபர்ட்‌ ளெட்ஷட்‌ ஆய்வுக்கூட சோரனை: வளர்பு முறையில்‌ விலங்கு கருவறகலை நடத்திக்‌ '209-- பக்கவாத ஜோயாளிகளில்‌ மீண்டும்‌ நடக்க ய்ய கண்டு செல்கள்‌ 0) உட்டமக்கபபப்டது. தண்டு சல்‌ சிட்சை
+
+22019“ இரக்க தண்டு செல்கள்‌ ஆய்வகத்தில்‌ வளர்ப்ப 205 - ஜேம்ஸ்‌ அலசன்‌, பாசகு ஹோன்னோ ஆகிய. "இருவரும்‌ நோய்‌ தட்ப செல்களில்‌ பரதம்‌ இருப்பதை. கண்டறிந்தனர்‌. பற்று நோய்‌ சிகர்சையில்‌.. இற்கு. முக்கியயங்கு காணப்பட்டது.
+
+85... வமரிஷில்ுபபனியல்‌ ஷறிழுறைகளும்‌ ஊயல்முறைகளும்‌ஹவராடுஞ்௦9ட/
+
+டம்‌ அகர கவ்வ கபம்‌ பவம்‌
+
+இணைப்பால்‌.
+
+ஊரல்‌
+
+நண்டு த
+
+கஸ்மட்கள்‌ ஒத்திணைவு நுனியைக்‌ கொண்ட தொடர்வரிசையை அஜாவது ஒத்திணைகு நுனியைக்‌ (வ வாமி. பே) கொண்டுள்ள பீளாஸ்மட்‌ ஆகம்‌. இவை அதனுடைய 0௦௦ கத்தே உள்ள லாப்டா யல்‌ (பற்‌) பு ன்‌ ஒரு நண்டையும்‌, ஒறு பக்கரிய பளாஸ்மிட்டைய்‌ பற்றுள்ள
+
+டி னான்விட்டளினருந்து ப்பட கலப்பு த்கக்கடத்திகளாதம்‌.
+
+ரம ரவா
+
+மாக்மறியோஃபாத்‌. என்பது ாக்கரியாவைத்‌ தொழ்றக்கடய வைரஸ்கள்‌. ஆகம்‌. மகவும்‌ சாதாரணமாக பயன்ப்தப்பம்‌ ஈகோலை ஃபாத்கள்‌, | - பொல்‌ 0. அபதி) மற்றம்‌. அபாஜ்‌ போன்ற ஃபாஜ்‌ தாங்கக்கடத்தகள்‌. பளொஸ்சிட்‌ கடத்திகளை: விட சுதி, இிறனுபையவையாகம்‌... பாத்‌ நாங்க்கடத்திகளில்‌ 
+னனர வாகை
+
+“போன்றே செயல்படுகிறது. கறு இறு வடிவங்களில்‌ காணப்படுகிறது. அலாவது வட்ட “ஷிவ மற்றம்‌ கோடு வடிவம்‌. வட்ட வட ஈஸ்ட்‌ செயற்கை குரோமோசோம்‌.
+
+்‌ “14. ஆம்‌ மயற்கை குரோமோசோம்‌. பனாஸ்மட்‌ கத்தியும்‌ ஈஸ்ட்‌ குளேனோசோம்‌. மாக்கறியங்களிலும்‌, கோடு வடிவம்‌ ஈஸ்ட்‌ செயற்கை. கரோமோசோங்கள்‌ ஈஸ்ட்‌
+
+ர சல்னிலும்‌ பரு்கமடைகின்றன.
+
+னனர கர ரப ரா கா "இர வேறபட்டரிற்தினங்களின்‌ ௦ல்களிற்தள்‌ வளுக்ககடைவதற்கான வகையில்‌. 'வடிவமைக்க்பப்டபிளள்வட்கள நான்‌ குறைதாரக நாங்கக்கடத்திகளாகம்‌ க்க தாங்கக்கடத்திகள்‌மறுகூட்டமைகு தாழ ட்பத்தினால்‌ உருவாக்க்ப்டவை. "இங்க குறைதாரக்‌ தாங்கிக்கடத்தகள்‌ ஒரு ஒம்ூிரி சல்லில்‌ பளுக்கமடைந்து, வேறு எந்த மாற்றமும்‌. தேலைப்பபாமல்‌. மற்றோகு ஒலிக்கு... இடம்‌ வயருகின்றன. .. பரு்பாலான.... உண்மையு"கு " தாங்கக்கடந்தகள்‌. இவ்வகையைச்‌ சேர்ந்கலையாகம்‌.
+
+உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ சயல்முறைகளும்‌.
+
+ன அ ரணை வ (ஜு) 3 மெலடிஹவராடுஞ்௦9ட/
+
+\[பயப்பட
+
+உயிரிஷாழில்நுட்பவியல்‌ நெறிமுறைகளும்‌ செயல்முறைகளும்‌
+
+செயலியின்‌ வயர்‌ ௮0 7201871012.
+
+கன இர்வயலியானது... உயிரி காழிற்றுப்பம்‌ ஸ்ச்த “2 அளிக்கிறது. செயல்முறை:
+
+“பிட பபாடக்கரத்துகள்‌ வரினைப்பரந்கப்பட்டு கொருக்கப்ப்க்‌ ணை ஷொடுக்கினால்‌ அதனை பற்றிய விளக்கங்கள்‌ திறக்கும்‌
+
+“ஸ்ட ஐ இந்த ஊயலியை ஊயல்பருத்த இணைய வசதி தேவைப்படும்‌:
+
+“2 பஷ ல செயலியின்‌ வலது மேற்பக்கத்தில்‌ உள்ள மூன்று பள்ளிகளை ஊாருக்கினால்‌ உயிரி, கொழில்றுப்பத்தின்‌ பல்வேறு உப்பிறவுகள்‌ இருக்கும்‌.
+
+6500000065௦ பணம. ஷண ரஷ்ஸ
+
+8ி/சன009/14:55, ர்‌ 959) பப திய வ்‌
+
+\[ட 0125 வட ஸை, ர அன ரவையை
+
+வகை
+
+நளரிவவைரவண்ட
+
+நல்லை எ பணம்‌ ம 5 எலிய விலா, வைலம
+
+கடர வண்‌ ம,
+
+நயன்‌ பைவ்‌ 1
+
+மடம்‌ டக ஸம
+
+உரல்‌,
+
+நழுவி ம00ஜிஷ வை ஸவ ஷர சவினிய் பஷ முனிம்விமாவ்விலா. நஸ்ண்மள் ர
+
+"படங்கள்‌ அடையாளத்திற்கு மட்டம்‌
+
+7௨... உமிரிஷாில்ுப்பனியல்‌ ஷலிழுறைகளும்‌ வயல்முறைகளும்‌

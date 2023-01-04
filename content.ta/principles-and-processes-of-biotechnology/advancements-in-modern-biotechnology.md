@@ -1,29 +1,45 @@
 ---
-title: 'Advancements in Modern Biotechnology'
+title: 'நவீன உயிரி தொழில்நுட்பத்தில் ஏற்பட்டுள்ள முன்னேற்றங்கள்'
 weight: 3
 ---
 
 
-Modern biotechnology embraces all the genetic manipulations, protoplasmic fusion techniques and the improvements made in the old biotechnological processes. Some of the major advancements in modern biotechnology are described below.
+நவீன உயிரிதொழில்நுட்பத்தில்‌ ஏற்பட்டுள்ள முன்னேற்றங்கள்‌
 
-### 4.3.1 Genetic Engineering**
+நவீன. உமிரஷதாழில்‌ நுப்பமைல்‌ அனைத்து, மரபணு-சார்‌... கையாகைல்‌.. முறைகள்‌, முரோட்போமிளாச இணைவு, சொழில்ந்பங்கள்‌ மற்றம்‌... பழைய. உயிரிஷாழில்றப்பலியல்‌. செயல்முறைகளில்‌ மேற்கொள்ளப்பட்ட மேம்பாடுகள்‌. போன்றவற்றை... உள்ளடக்கியுள்ளது. நலீன. உமிரிஷாழில்நட்பனியலின்‌. ஒரு சில முக்கிய மேம்பாடுகள்‌ கீழே விவரிக்கப்பட்டு்ளன.
 
-Genetic engineering or recombinant DNA technology or gene cloning is a collective term that includes different experimental protocols resulting in the modification and transfer of DNA from one organism to another.
+431 மரபணு-சார்‌ பொறியியல்‌: மரபணு, சார்‌. பொறியியல்‌ அல்லது. 00%. மறுகூட்டிணைவு ஷதொழில்‌ நுட்பம்‌ அல்லது மரபணு நநகலாக்கம்‌ என்பது ஒரு தொகுப்பான சொல்லாகம்‌. "இதில்‌ வவவ்வேறு சோதனை செயல்முறைகள்‌ உள்ளடக்கப்பப்டள்ளன..... இவை. 0. மாற்றுருவாக்கம்மற்றும்‌ 0515 ஐஒரு உயிரியிலிருந்து. “இருந்து மற்றொரு உயிரக்கு மாற்றுதல்‌ ஆகியவை. நடையபறுகின்றன.
 
-The definition for conventional recombination was already given in Unit II. Conventional recombination involves exchange or recombination of genes between homologous chromosomes during meiosis. Recombination carried out artificially using modern technology is called recombinant DNA technology (r-DNA technology). It is also known as gene manipulation technique. This technique involves the transfer of DNA coding for a specific gene from one organism into another organism using specific agents like vectors or using instruments like electroporation, gene gun, liposome mediated, chemical mediated transfers and microinjection. 
+முன்பே சதை ॥.ல்‌. பாரம்பரிய மறுகூட்டிணைவிற்கான: "வரையறையை
 
-### Steps involved in Recombinant DNA Technology 
+உலிஷாழில்றுஃ்பியல்‌ ரஜிழுறைகளும்‌ சயல்முறைகளும்‌.
+ஹவராடுஞ்௦9ட/
 
-The steps involved in recombinant DNA technology are: 
--  Isolation of a DNA fragment containing a gene of interest that needs to be cloned. This is called an **insert.**
+அறிந்திருப்ீர்கள்‌. பாரம்பரிய மறுகூட்டிணைவு குன்றல்‌ பகுப்பி்‌ போது இந்த... இணை 'குரோமோசோம்களுக்கிடையே ஏற்படம்‌ மரபணு பரிமாற்றம்‌ அல்லது. மறுகூட்ட்ணைவைக்‌.. கறிக்கம்‌ நவீன கொழில்நுட்பத்தைப்‌ மயன்பருக்கி செயற்கையாக. மறுகூட்டிணை வ வசயல்படுத்தப் படுவது மறுகூட்டுணைவு. பம தொழில்நுட்பம்‌(1012 தொழில்நுட்பம்‌) என்றழைக்கப்பருகிறது. மேலும்‌ இது மரபணு. மாற்ற தொழில்நுட்பம்‌ என்றும்‌ அழைக்கப்படும்‌. குறிப்பிட்ட மரபணுவிற்கு குறியீடு செய்யும்‌ 00% ஐ. ஒரு உயிரியிலிருந்து இருந்து மற்றொரு உமிரிக்கு மாற்றம்‌ செய்வதை இந்த சொழில்நுட்பமுறை தன்னகத்தே கொண்டுள்ளது. இதில்‌ குறிப்பிட்ட. தாங்கிக்கடத்திகள்‌ மனம, முகவர்களாக செயல்படத்தப்படுகின்றன அல்லது மின்நுளையிடல்‌ கருவி, மரபணு துப்பாக்கி போன்ற கருவிகள்‌ மயன்மருத்தப்படுகின்றன அல்லது இது விப்போசோம்‌. மூலமோ, வேதியப்‌ பொருட்கள்‌ மூலமோ, நுண்‌:
 
-- PCR: Polymerase Chain Reaction is a common laboratory technique used to make copies (millions) of a particular region of DNA.
+உப்சலுத்ததல்‌.. நசனைரு.. மூலமோ. மேற்வொள்ளப்படகிறது.
 
-- Generation of recombinant DNA (rDNA) molecule by insertion of the DNA fragment into a carrier molecule called a **vector** that can self-replicate within the host cell.
+432.  மறுகூட்டிணைவு, பி தொழில்நுட்பத்தின்‌ படிநிலைகள்‌. மறுகூட்டிணைவு 01% தொழில்நுட்பத்தின்‌ மறிலைகள்‌ பின்வருமாறு?
 
-![Figure 4.4: Steps involved in r-DNA Technology](4.4.png  "img-class")
+ப நகனாக்கம்‌ செய்யப்படவேண்டிய,
 
-- Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
+'விரும்பத்தகுந்த, மரபணுவை கொண்டுள்ள 0413: குண்டைத்‌ தனிமைபரத்தகல்‌ . இதற்கு செருகி, (௦௭0 என்று வயர்‌.
 
-- The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
-- Wherever vectors are not involved the desired gene is multiplied by PCR technique. The multiple copies are injected into the host cell protoplast or it is shot into the host cell protoplast by shot gun method.
+உ ஓம்பும்‌... ஹல்லுக்குள்ளேயே சுயமாக. பெருக்கமடையக்கூடிய தாங்கிக்கடத்தி எனும்‌. இரு கடத்தி மூலக்கூறுடன்‌ (904. தண்டுகளை: ெருகுவதினால்‌ மறுகூட்டிணைவு 0146 (01) மூலக்கூறு உருவாக்கப்பருகிறது
+
+“(01% மூலக்கூறை தாங்கியிருக்கும்‌ மாற்றப்பட ஒம்பமிரி செல்களைக்‌ தெர்ந்தெடுக்கல்‌ மற்றும்‌ அவற்றை பருக்கமடைய செய்தல்‌; இதன்‌ மூலம்‌. மும்‌ வருக்கமடைகிறது.
+
+எனவே, இந்த அனைத்து செயலினால்‌ செருகி. அதிகளவு பபமகவையோ.. கல்லது. அஜண்‌. பண்புகளை. வெளிப்படுத்தும்‌ அதிகளவு, பரதங்களையோ உருவாக்குகிறது.
+
+2 எங்கல்காம்‌. தாங்கிக்கடத்திகள்‌. ஈடுபரத்தப்படலில்லையோ சஸ்கல்லாம்‌ அந்த.
+
+படம்‌ 43-ம்‌ ஷாழில்நுட்பததில்‌ உள்ளடக்கிய படிநிலைகள்‌.
+
+'விரும்பத்தகுந்த மரபணு: பாலிமரேஸ்‌ சங்கிலி வினை (606) ஷாழில்றுப்பத்தின்‌ மூலம்‌ வெருக்கமபையர்‌ செய்யப்படிகிறது. இந்த பெருக்கமடைந்த நகல்கள்‌ ஒம்பயிரி சல்லின்‌
+
+புரோப்போபிளாஸக்தினுள்‌. ஊசி மூலமோ. அல்லது... மரபணு... தப்பக்கி மூலமோ ஊுக்சப்புகின்றன.
+
+ஈட பாலிமரேஸ்‌ சங்கலி வினை 00௨ வன்‌ குறிப்பட்ட பகுதியை நகலாக்கம்‌.. (மில்லியன்‌) ஸய்யம்‌ பயன்படுத்தப்படம்‌ பொதுவான ஆய்வக
+
+கொழில்நுட்பமாகும்‌.
+
