@@ -1,30 +1,75 @@
 ---
-title: 'Deforestation'
+title: 'காடழிப்பு'
 weight: 3
 ---
 
-Deforestation is one of the major contributors to enhance green house effect and global warming. The conversion of forested area into a non-forested area is known as deforestation. Forests provide us many benefits including goods such as timber, paper, medicine and industrial products. The causes are 
- 
-- The conversion of forests into agricultural plantation and     livestock ranching is a major cause of deforestation. 
- 
-- Logging for timber - Developmental activities like road construction, electric tower lines and dams. 
- 
-- Over population, Industrialisation, urbanisation and increased global needs. 
- 
-**Effects of deforestation** 
- 
-- Burning of forest wood release stored carbon, a negative impact just opposite of carbon sequestration.
+காடழிப்பு பசுமை இல்ல விளைவையும், புவி வெப்ப மயமாதலையும் அதிகரிப்பதில் முக்கியப் பங்களிப்பாளர்களில் ஒன்றாகும். காடுள்ள பகுதிகளைக் காடற்ற பகுதிகளாக மாற்றப்படுவதற்குக் காடழிப்பு என்று பெயர். வெட்டு மரம், காகிதம், மருந்து மற்றும் த�ொழிற்சாலை தயாரிப்புகள் ப�ோன்ற ப�ொருட்கள் உட்படப் பல நன்மைகளை நமக்கு வழங்குகின்றன.
 
-- Trees and plants bind the soil particles. The removal of forest cover increases soil erosion and decreases soil fertility. Deforestation in dry areas leads to the formation of deserts.
+ம
+ ரத்துண்டுகளுக்காக வெட்டுதல்
+ச
+ ாலை மேம்பாடு, மின் க�ோபுரம் அமைத்தல்
+மற்றும் அணை கட்டுதல் ப�ோன்ற மேம்பாட்டு
+நடவடிக்கைகளுக்காக அழித்தல்
+மக்க
+
+ள் த�ொகை அதிகரிப்பு,த�ொழில் மயமாக்கம்,
+நகர மயமாக்கல் மற்றும் அதிகரித்து வரும்
+உலகளாவிய தேவைகளுக்காகக் காடுகளை
+அழித்தல்.
 
-- The amount of runoff water increases soil erosion and also creates flash flooding, thus reducing moisture and humidity.
+காடழிப்பின் விளைவுகள்
+• க
+ ாட்டு மரக்கட்டைகளை எரிப்பதால் சேகரிக்கபட்ட
+கார்பன் வெளிவிடுவத�ோடு இது கார்பன்
+சேகரிப்புக்கு எதிர் விளைவைத் தருகிறது.
+•
+•
+•
+•
+•
+•
+•
+ம
+ ரங்களும் தாவரங்களும் மண் துகள்களைப்
+பிணைக்க உதவுகின்றன. காடுகளை அகற்றுவது
+மண்
+அரிப்பினை
+அதிகரிப்பத�ோடு
+மண்
+வளத்தையும் குறைக்கிறது. காடழிப்பு வறண்ட
+பகுதிகளில் பாலைவனங்களை உருவாக்க
+வழிவகுக்கின்றது.
+நீ
+ ரின் ஓட்டம் மண் அரிப்பை அதிகரிப்பத�ோடு
+திடீர் வெள்ளப்பெருக்கை ஏற்படுத்துகிறது. இவை
+ஈரப்பதம் மற்றும் ஈரத்தன்மையைக் குறைக்கிறது.
+உ
+ ள்ளூர் மழையளவு மாற்றத்தின் காரணமாகப்
+பல பகுதிகளின் வறண்ட நிலைக்கு வழி
+வகுக்கிறது. இது எதிர்காலக் காலநிலையைத்
+தூண்டுவத�ோடு
+சூழல்மண்டலத்தின்
+நீர்
+சுழற்சியையும் மாற்றி அமைக்கிறது.
+உ
+ யிரினங்களின் வாழிடம் பாதிக்கப்படுவதாலும்
+ஊட்டச்சுழற்சித்
+தகர்வு
+ஏற்படுவதாலும்
+குறிப்பிடத்தக்க
+அளவில்
+உயிரிப்பன்மம்
+குறைகிறது.
+கி
+ ராமப்புற மற்றும் காடுகளில் வாழ்பவர்களின்
+வாழ்வாதாரம் பாதிக்கப்படுகிறது.
+மூ
+ ன்றில் ஒரு பங்கு கார்பன் வெளியிடப்படுவதால்
+உலக வெப்பமயமாதல் அதிகரிக்கின்றன.
+வ
+ ாழ்வாதார மூலங்களான எரிப�ொருள், மருத்துவ
+மூலிகைகள் மற்றும் இயல்சூழலில் காணப்படும்
+உண்ணத்தக்க கனிகள் ஆகியன இழக்கப்படும்.
 
-- The alteration of local precipitation patterns leading to drought conditions in many regions. It triggers adverse climatic conditions and alters water cycle in ecosystem.
 
-- It decreases the bio-diversity significantly as their habitats are disturbed and disruption of natural cycles.
-
-- Loss of livelihood for forest dwellers and rural people. 
-
-- Increased global warming and account for one-third of total CO2 emission.
-
-- Loss of life support resources, fuel, medicinal herbs and wild  edible fruits.

@@ -1,39 +1,116 @@
 ---
-title: 'Afforestation'
+title: 'புதிய காடு வளர்ப்பு '
 weight: 4
 ---
 
-Afforestation is planting of trees where there was no previous tree coverage and the conversion of non-forested lands into forests by planting suitable trees to retrieve the vegetation. Example: Slopes of dams afforested to reduce water run- off, erosion and siltation. It can also provide a range of environmental services including carbon sequestration, water retention.
+தாவரத்தொகுப்பை மீட்டெடுக்கச் சரியான தாவரங்களை ஏற்கனவே தாவரங்கள் இல்லாத பகுதியிலும் காடு அல்லாத நிலங்களிலும் தாவரங்கள் நடவு செய்தலே காடு வளர்ப்பு ஆகும். எடுத்துக்காட்டு: அணைகளின் சரிவுகளில் உருவாக்கப்படும் இக்காடுகளால் நீர் வழிந்தோடுதல், மண் அரிப்பு, மண் படிதல் ப�ோன்றவற்றைக் குறைக்க உதவுகிறது. மேலும் பல்வேறு சூழல் சேவைகளான கார்பன் சேகரிப்பு மற்றும் நீர் சேமிப்பையும் அளிக்கிறது.
+
+ஒரு தனி மனிதன் உருவாக்கினார். அடர்ந்த காட்டை ஜாதவ் “ம�ோலாய்” பயேங் (1963 ஆம் ஆண்டு பிறந்தவர்) என்ற சுற்றுச்சூழல் ஆர்வலர் தனி மனிதனாக ஒரு வெற்று பயன்படாத நிலத்தின் மத்தியில் தாவரங்களை நடவு செய்து காட்டை உருவாக்கினார். இந்தியாவின் வன மனிதன் என்றழைக்கப்படும் இவர் இந்தியாவின் முக்கிய நதிகளில் ஒன்றான பிரம்மபுத்திராவில் அமைந்துள்ள உலகத்தின் பெரிய ஆற்றுத் தீவான மஜீலியை அடர்ந்த காடுகளாக மாற்றியதன் விளைவாகக் காண்டாமிருகங்கள், மான்கள், யானைகள், புலிகள் மற்றும் பறவைகளின் புகலிடமாக இது விளங்குகிறது. இன்று இது மத்தியத் த�ோட்டத்தை விடப் பெரியது. ஜவஹர்லால் நேரு பல்கலைக்கழகத்தின் முன்னாள் துணைவேந்தர் சுதிர்குமார் ச�ோப�ோரி என்பவரால் ஜாதவ் “ம�ோலாய்ப் பயேங்” அக்டோபர் 2013 ஆண்டு ‘இந்திய வன மனிதன்’ என்று அழைக்கப்பட்டார். வன இந்திய மேலாண்மை நிறுவனத்தின் ஆண்டு நிகழ்வில் இவர் கவுரவிக்கப்பட்டார். 2015 ஆம் ஆண்டு இந்தியாவின் நான்காவது மிகப்பெரிய குடிமகன் விருதான பத்மஸ்ரீ விருது வழங்கப்பட்டது. இவருடைய இவருக்கு பங்களிப்பிற்காக அஸ்ஸாம் வேளாண் பல்கலைக்கழகம் மற்றும் காசிரங்கா பல்கலைக்கழகம் இவருக்குக் க�ௌரவ டாக்டர் பட்டம் வழங்கியது.
+
+
+புதிய காடு வளர்ப்பின் ந�ோக்கங்கள்
+• க
+ ாடுகளின் பரப்பளவை அதிகரித்தல், அதிக
+மரங்களை
+நடவு
+செய்தல்,
+ஆக்ஸிஜன்
+உற்பத்தியை அதிகரித்தல் மற்றும் காற்றின்
+தரத்தை உயர்த்துதல்.
+• வ
+ ளங்குன்றிய காடுகளைப் புனரமைப்பதனால்
+கார்பன் நிலைநிறுத்துதலை அதிகரித்தல் மற்றும்
+மண்டலக்
+கார்பன்டைஆக்ஸைடை
+வளி
+குறைத்தல்
+• மூ
+ ங்கில் த�ோட்டங்களை வளர்த்தல்
+• சி
+ றிய வனவளப் ப�ொருட்கள் உற்பத்தி மற்றும்
+மருத்துவத் தாவரங்களை நடவு செய்தல்.
+• உ
+ ள்ளூர் சிறு செடி / புதர்ச் செடிகளை
+மீளுருவாக்குதல்.
+• வி
+ ழிப்புணர்வு ஏற்படுத்துதல், கண்காணித்தல்
+மற்றும் மதிப்பீடு செய்தல்.
+• நீ
+ ர்மட்டம் அல்லது நிலத்தடி நீர் மட்டத்தை
+உயர்த்துதல்,
+மண்ணில்
+நைட்ரஜன்
+வழிந்தோடுவதையும்,
+குடிநீரில்
+நைட்ரஜன்
+கலப்பதையும் குறைத்தல். அதன் காரணமாக
+நைட்ரஜன் மாசற்ற தூய நீர் உருவாதல்.
+
+இயற்கையின் துணை க�ொண்டு செயற்கை
+மீளுருவாக்கம் சாத்தியமாகிறது.
 
 ```
-
-**The Man who Single Handedly Created a Dense Forest Jadav "Molai" Payeng** (born 1963) is an environmental activist has single-handedly planted a forest in the middle of a barren wasteland. This Forest Man of India has transformed the world’s largest river island, Majuli, located on one of India’s major rivers, the Brahmaputra, into a dense forest, home to rhinos, deers, elephants, tigers and birds. And today his forest is larger than Central Park.
-
-Former vice-chancellor of Jawahar Lal Nehru University, Sudhir Kumar Sopory named Jadav Payeng as **Forest Man of India**, in the month of October 2013. He was honoured at the Indian Institute of Forest Management during their annual event ‘Coalescence’. In 2015, he was honoured with Padma Shri, the fourth highest civilian award in India. He received honorary doctorate degree from Assam Agricultural University and Kaziranga University for his contributions.
-
+செயல்பாடு
+தமிழ்நாடு புதிய காடு வளர்ப்புத்திட்டம் (Tamil
+Nadu Afforestation Project – TAP)
+சூழலியல் மறுசீரமைப்பிற்காகவும், பாதிக்கப்பட்ட
+மற்றும்
+பிற
+நிலங்களிலுள்ள
+காடுகள்
+உயிரினங்களை மேம்படுத்தவும் தமிழ்நாடு
+அரசால் இரண்டு நிலைகளில் Tap I (1997 –
+என்ற
+திட்டம்
+மேற்கூறிய
+2005)
+ந�ோக்கங்களுடன்
+த�ொடங்கப்பட்டது.
+வனப்பகுதிகள் அருகில் உள்ள கிராம மக்களின்
+தரம் மற்றும் வாழ்வாதாரத்தை மேம்படுத்துதலும்
+தமிழ்நாட்டின்
+பாதிக்கப்பட்ட
+காடுகளை
+மீட்டெடுத்தலும் இதன் முக்கிய ந�ோக்கங்களாகும்.
+இவை ஒரு மிகப்பெரிய கூட்டு வன மேலாண்மை
+திட்டமாகும். Tap II (2005 – 2013) இரண்டுமுக்கிய
+குறிக்கோள்களைக் க�ொண்டது.
+த
+ மிழ்நாட்டிலுள்ள வனம்சார் கிராமங்கள்,
+நீர்பிடிப்பு பகுதிகள் மற்றும் காடுகளின்
+சுற்றுச்சூழல் ஆகியவற்றில் சமநிலையை
+மறுசீரமைத்தல்.
+•
+•க
+ ாடுகளை மீளுருவாக்கத்தின் மூலம் அங்கு
+வசிப்பவர்களின் உயர் வாழ்க்கைத்தரம், நீர்
+பாதுகாப்பு
+மற்றும்
+த�ொடர்
+சமூகச்
+செயல்பாடுகள் மூலம் மேம்படுத்துதல்
 ```
 
-**Afforestation Objectives** 
-
-- To increase forest cover, planting more trees, increases O2 production and air quality. 
-- Rehabilitation of degraded forests to increase carbon fixation and reducing CO2 from atmosphere.
-- Raising bamboo plantations. - Mixed plantations of minor forest produce and medicinal plants. 
-- Regeneration of indigenous herbs / shrubs. 
-- Awareness creation, monitoring and evaluation. 
-- To increase the level and availability of water
-table or ground water and also to reduce nitrogen leaching in soil and nitrogen contamination of drinking water, thus making it pure not polluted with nitrogen.
-- Nature aided artificial regeneration.
-
-**Achievements** 
-
-- Degraded forests were restored 
-- Community assets like overhead tanks bore-wells, hand pumps, community halls, libraries, etc were established
-- Environmental and ecological stability was maintained.
-- Conserved bio-diversity, wildlife and genetic resources.
-- Involvement of community especially women in forest management.
-
-```
-Case study
-
-**Tamil Nadu Afforestation Project (TAP)** With an aim of ecological restoration and biological up-gradation of degraded forests and other lands, the government of Tamil Nadu launched the project in 2 phases Tap I (1997-2005). It aimed to uplift the quality and life of villagers abutting forest areas and to resolve the degraded forests in Tamil Nadu. This is a massive Joint Forest Management Programme. TAP II (2005- 2013) had 2 main objectives. - To restore the ecological equilibrium of the forests, watersheds and adjacent villages of Tamil Nadu. - To improve the quality of the life of inhabitants through reforestation, water conservation and sustained community action.
-```
+குறிக்கோள் அடைவுகள் / சாதனைகள்
+•சி
+ தைவுற்ற காடுகள் மறுசீரமைக்கப்பட்டுள்ளன.
+•ச
+ மூகச் ச�ொத்துக்களான மேல்நிலை த�ொட்டிகள்,
+ஆழ்துளை கிணறுகள், கை பம்புகள், சமுதாயக்
+கூடங்கள்,
+நூலகங்கள்
+முதலியன
+நிறுவப்பட்டுள்ளது.
+•சு
+ ற்றுசூழ்நிலையியல்
+மற்றும்
+சூழலியல்
+நிலைப்புதன்மை பராமரிக்கப்பட்டுள்ளது.
+•உ
+ யிரிபன்மம், வன உயிரிகள் மற்றும் மரபணு
+மூலங்கள் பாதுகாக்கப்பட்டுள்ளன.
+•
+198
+க
+ ாடு மேலாண்மையில் சமூக ஈடுபாடு குறிப்பாகப்
+பெண்கள் பங்கு குறிப்பிடத்தக்கது.
