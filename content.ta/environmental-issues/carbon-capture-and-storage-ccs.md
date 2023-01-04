@@ -1,39 +1,192 @@
 ---
-title: 'Carbon Capture and Storage (CCS)'
+title: 'கார்பன் கவரப்படுதல் மற்றும் சேமிப்பு (CCS)'
 weight: 8
 ---
 
- Carbon capture and storage is a technology of capturing carbondioxide and injects it deep into the underground rocks to a depth of 1 km or more and it is an approach to mitigate global warming by capturing CO2 from large point sources such as industries and power plants and subsequently storing it instead of releasing it into the atmosphere. Various safe sites have been selected for permanent storage in various deep geological formations, liquid storage in the Ocean and solid storage by reduction of CO2 with metal oxide to produce stable carbonates. It is also known as Geological sequestration which involves injecting CO2 directly into the underground geological formations (such as declining oil fields, gas fields saline aquifers and unmineable coal have been suggested as storage sites).
+கார்பன் கவரப்படுதல் மற்றும் சேமிப்பு என்பது
+வளிமண்டலத்தின்
+கார்பன்
+டைஆக்ஸைடை
+உயிரித�ொழில்நுட்பம் மூலமாகக் கைப்பற்றி ஒரு
+எடுத்துக்காட்டாக
+நுண்
+பாசிகளின்
+கில�ோமீட்டர் அல்லது அதற்குக் கீழான ஆழத்தில் உள்ள
+சிற்றினங்களான குள�ோரெல்லா, செனிடெஸ்மஸ்,
+நிலத்தடிப்
+பாறைகளுக்கிடையே
+உட்செலுத்திச்
+க்ரூக்காக்கஸ்
+மற்றும்
+கிளாமிட�ோம�ோனஸ்
+சேமிக்கும் முறையாகும். பெரும் மூலங்களான
+உலகமெங்கும் கரியமில வாயுவின் கார்பனைச்
+த�ொழிற்சாலைகள் மற்றும் மின் ஆலைகளிலிருந்து
+சேகரிப்பதற்கு உதவிப் புரிகின்றன. யுஜெனியா
+வெளியேற்றப்படும்
+கார்பன்
+டைஆக்ஸைடை
+கேர்யோஃபில்லேட்டா,
+டெக்கோமா
+ஸ்டேன்ஸ்,
+வளிமண்டலத்திற்கு விடாமல் இறுதியாகச் சேமித்தல்
+சின்னம�ோமம் வேரம் ஆகிய மரங்கள் அதிகளவு
+மூலம் புவி வெப்பமாதலை மட்டுப்படுத்தும் ஓர்
+கார்பன்
+சேகரிப்புத்
+திறன்
+பெற்றுள்ளன.
+அணுகுமுறையாகும். பல்வேறு ஆழ்ந்த புவியியல்
+கடற்பெரும்பாசிகள், கடற்புற்கள் மற்றும் சதுப்புநிலக்
+அமைப்புகளில்
+நிலைத்த
+சேமிப்பிற்காகப்
+பல
+காடுகளும் கரியமில வாயுவைக் கட்டுப்படுத்த அதிகத்
+பாதுகாக்கப்பட வேண்டிய இடங்கள் இதற்காகத் தேர்வு
+திறன் பெற்றுள்ளன.
+செய்யப்பட்டுள்ளன.
+பெருங்கடல்களில்,
+திரவச்
+கார்பன் வழித்தடம் (Carbon Footprint)
+சேமிப்பாகவும், உல�ோக ஆக்ஸைடைப் பயன்படுத்திக்
+மனிதனின் ஒவ்வொரு செயலும் நம் காலடிச்சுவடு
+கார்பன் டைஆக்ஸைடை குறைத்தல் மூலம் திடமான
+ப�ோல் ஓர் தடத்தினைத் த�ோற்றுவிக்கின்றன. விவசாயம்,
+கார்பனேட்டாக மாற்றி உலர் அல்லது திடச் சேமிப்பாகவும்
+த�ொழிற்சாலைகள், காடழிப்பு, கழிவுநீக்கம், த�ொல்படிவ
+சேமித்து வைக்கப்படுகிறது. இது புவியியல் சேகரிப்பு
+எரிப�ொருளை எரித்தல் ப�ோன்ற மானுட நடவடிக்கைகள்
+என்றும் அறியப்படுகிறது மற்றும் நிலத்தடி புவியியல்
+மூலம் நேரடியாகவ�ோ அல்லது மறைமுகமாகவ�ோ
+அமைப்புகளில் கார்பன் டைஆக்ஸைடை நேரடியாக
+பசுமை
+இல்ல வாயுப் ப�ொருட்களை ம�ொத்தமாக
+உட்செலுத்துதலை
+உள்ளடக்கிய
+முறையாகும்.
+உருவாக்குதல் ‘கார்பன் வழித்தடம்’ எனப்படுகிறது.
+குறைந்து வரும் எண்ணெய் வயல்கள், எரிவாயு
+இதனை
+ஒரு தனி நபர், குடும்பம், நிறுவனம் ப�ோன்ற
+(வயல்கள்) துறைகள், உவர் நீரூற்றுகள் மற்றும்
+த�ொழிற்சாலைகள்
+ஆகிய நிலைகளில் மற்றும் மாநில
+அகழ்விற்கு உகாத நிலக்கரி சுரங்கங்கள் ப�ோன்றவை
+சேமிப்பு
+இடங்களாகப்
+பரிந்துரைக்கப்பட்டுள்ளன.
 
-**Carbon Sequestration** Carbon sequestration is the process of capturing and storing CO2 which reduces the amount of CO2 in the atmosphere with a goal of reducing global climate change. Carbon sequestration occurs naturally by plants and in ocean. Terrestrial sequestration is typically accomplished through forest and soil conservation practices that enhance the storage carbon. As an example microalgae such as species of _Chlorella_, _Scenedesmus_, _Chroococcus_ and _Chlamydomonas_ are used globally for CO2 sequestration. Trees like _Eugenia caryophyllata_, _Tecoma stans_, _Cinnamomum verum_ have high capacity and noted to sequester carbon. Macroalgae and marine grasses and mangroves are also have ability to mitigate carbon-di-oxide.
-
-**Carbon Sink** Any system having the capacity to accumulate more atmospheric carbon during a given time interval than releasing CO2. Example: forest, soil, ocean are natural sinks. Landfills are artificial sinks.
-
-**Carbon Sequestration**
-
-Carbon sequestration is the process of capturing and storing CO2 which reduces the amount of CO2 in the atmosphere with a goal of reducing global climate change.
-
-Carbon sequestration occurs naturally by plants
-and in ocean. Terrestrial sequestration is typically
-accomplished through forest and soil conservation
-practices that enhance the storage carbon.
-
-As an example microalgae such as species
-of Chlorella, Scenedesmus, Chroococcus and
-Chlamydomonas are used globally for CO2
-sequestration. Trees like Eugenia caryophyllata,
-Tecoma stans, Cinnamomum verum have
-high capacity and noted to sequester carbon.
-Macroalgae and marine grasses and mangroves
-are also have ability to mitigate carbon-di-oxide.
-
-
-**Carbon Foot Print (CFP)** Every human activity leaves a mark just like our footprint. This Carbon foot print is the
+கார்பன்
+சேகரிப்பு
+(Carbon
+sequestration)
+கார்பன்
+சேகரிப்பு
+என்பது
+வ ளி ம ண ்ட ல க்
+கரியமிலவாயுவைக் குறைக்கும்
+ந�ோக்கில் வளிக் கார்பனைப்
+பிரித்தெடுத்துச் சேமிக்கும் ஒரு
+செயல்முறையாகும்.
+கார்பன் தேக்கி (Carbon sink)
+வளி மண்டலத்தில் உள்ள
+கார்பனைக் குறிப்பிட்ட கால
+இடைவெளியில்
+கரியமில
+வெளியேறாமல்
+வாயுவாக
+தடுத்துச் சேமித்து வைக்கும்
+திறன்பெற்ற
+அமைப்புகள்
+கார்பன் தேக்கி எனப்படுகிறது.
+எடுத்துக்காட்டு:
+காடுகள்,
+மண்,
+கடல்
+ஆகியன
+இயற்கை தேக்கிகளாகவும்,
+நிலத்தேக்கிகள் செயற்கை
+த ே க் கி க ள ா க வு ம்
+அறியப்படுகின்றன
 
 ![Table 1 : Endemic plants](8.11.png "")
 
-total amount of green house gases produced by human activities such as agriculture, industries, deforestation, waste disposal, buring fossil fuels directly or indirectly. It can be measured for an individual, family, organisation like industries, state level or national level. It is usually estimated and expressed in equivalent tons of CO2 per year. The burning of fossil fuels releases CO2and other green house gases. In turn these emissions trap solar energy and thus increase the global temperature resulting in ice melting, submerging of low lying areas and inbalance in nature like cyclones, tsunamis and extreme weather conditions. To reduce the carbon foot print we can follow some practices like (i) Eating indigenous fruits and products (ii) Reducing use of electronic devices (iii) Reduce travelling (iv) Avoid buying fast and preserved, processed, packed foods. (v) Plant a garden (vi) Reducing consumption of meat and sea food. Poultry requires little space, nutrients and less pollution compared cattle farming. (vii) reducing use of Laptops (when used for 8 hours, it releases nearly 2 kg. of CO2 annually) (viii) Line drying clothes. (Example: If you buy imported fruit like kiwi, indirectly it increases CFP. How? The fruit has travelled a long distance in shipping or airliner thus emitting tons of CO2)
+அல்லது தேசிய அளவில் கணக்கிட்டுக் குறிப்பிடப்படுகிறது.
+இதனை ஒரு வருடத்தில் கரியமிலவாயு டன்
+அளவையில் கணக்கிட்டுப் ப�ொதுவாக மதிப்பிடப்படுகிறது.
+த�ொல்படிவ எரிப�ொருளை எரித்தல் மூலம் கரியமிலவாயு
+மற்றும் பசுமை இல்ல வாயுக்கள் வெளியிடப்படுகின்றன.
+இந்த வாயுப்பொருட்கள் சூரிய ஆற்றலைத் தடுப்பதன்
+காரணமாக உலக வெப்பநிலை அதிகரிக்கச் செய்து
+பனிக்கட்டிகள் கரைதல், அதனால் பல தாழ்வான
+பகுதிகள் நீரில் மூழ்குதல் மற்றும் தீவிரக் காலநிலை
+ஏற்றத்தாழ்வுகளின் காரணமாகப் புயல், காற்று மற்றும்
+ஆழிப்பேரலை ஏற்பட வழி வகுக்கின்றன. கார்பன்
+வழித்தடத்தினைக்
+குறைக்கக்
+கீழ்க்காணும்
+முறைகளைப் பின்பற்றலாம். (i) உள்நாட்டில் விளையும்
+கனிகள் மற்றும் உற்பத்தியாகும் ப�ொருட்களை
+உண்ணுதல்
+(ii)
+மின்னணு
+சாதனங்களின்
+பயன்பாட்டைக் குறைத்தல் (iii) பயணங்களைக்
+குறைத்தல் (iv) துரித மற்றும் பாதுகாக்கப்பட்ட,
+பதப்படுத்துப்பட்ட,
+பெட்டியிலிடப்பட்ட
+உணவுப்
+ப�ொருட்களைத்
+தவிர்த்தல்
+(v)
+த�ோட்டங்களை
+உருவாக்குதல் (vi) இறைச்சி மற்றும் கடல் உணவுகள்
+உட்கொள்வதைக் குறைத்தல். க�ோழி வளர்ப்பு கால்நடை
+வளர்ப்பைவிடக் குறைந்த அளவு வளர் இடத்தினையும்,
+ஊட்டப்பொருட்கள் தேவை மற்றும் குறைவான
+மாசுபாட்டினை ஏற்படுத்துகிறது (vii) மடிக்கணினி
+பயன்பாட்டினைக் குறைத்தல் (8 மணி நேரப் பயன்பாடு
+2 கி.கிராம் அளவு கரியமில வாயுவினை ஒரு வருடத்தில்
+வெளியிடுகிறது). (viii) துணிகளைக் க�ொடிகளில்
+உலர்த்துதல் ஆகியவற்றின் மூலம் குறைக்கலாம்.
+(எடுத்துக்காட்டாக ‘கிவி’ ப�ோன்ற இறக்குமதி செய்யப்பட்ட
+பழங்களை வாங்கினால், அது மறைமுகமாகக் கார்பன்
+வழித்தடத்தை ஊக்குவித்தலாகும். எவ்வாறெனில்
+இப்பழம் கப்பல் அல்லது வான்வழியே நெடுந்தூரம்
+பயணிப்பதால் பல்லாயிர கில�ோகிராம் கரியமில
+வாயுவை வெளியிட ஏதுவாகிறது.
+உயிரிமரக்கரிமம் (Biochar)
+உயிரிமரகரிமம் என்பது கார்பனபயன்படும் ஒரு நீண்டகால முறையாகும். தாவரங்களின்
+கார்பன் மூலப்பொருள் சேமிப்புத்திறன் அதிகரிப்பு மூலம்
+மரம் மற்றும் பயிர்க்கழிவுப் ப�ொருட்கள் ஓரளவு
+எரிக்கப்பட்டுக் கார்பன் மிகுந்த, மெதுவாக மட்கும்
+ப�ொருளாக மாற்றி உயிரிக்கரிமம் உருவாக்கப்படுகிறது.
+இது மண்ணின் வளத்தைச் சீரமைக்க / திருத்தியமைக்க
+உதவும் ஓர் வகை கரிச்சேர்மம் ஆகும். இது ஒரு
+திடமான, உறுதியான, கார்பன் மிகுந்த பல்லாயிரம்
+ஆண்டு மண்ணில் நீடித்து நிலைத்திருக்கக்கூடிய
+ஒன்றாகும். பெரும்பாலான மரக்கரி ப�ோல உயிரிய
+கரிமமும்
+உயிரித்திரள்களை
+குறைந்த
+அளவு
+பிராணவாயுவுடன்
+எரித்து
+உருவாக்கும்
+வழிமுறையாகும். இதன் மூலம் மரம் முற்றிலும் எரிந்து
+விடுவது தவிர்க்கப்படுகிறது. எனவே உயிரியக்கரிமம்
+கரிமச் சேகரிப்புத்திறன் மூலம் சுற்றுச்சூழல் மாசுபாட்டை
+மட்டுப்படுத்த உதவுகிறது.
+உயிரிய கரிமத்தைத்தனித்தே அமில மண்ணில் சேர்க்கப்பட்டாலும் அது
+மண்ணின் வளத்தைக் கூட்டுவத�ோடல்லாமல் அதிக
+விவசாய மகசூல் தந்து, சில தழை மற்றும் மண் மூலம்
+பரவும் ந�ோய்க்காரணிகளிடமிருந்தும் பாதுகாப்பினை
+அளிக்கிறது. இது மரக்கழிவு மற்றும் மரத்துண்டுகள்
+இயற்கையாகச் சிதைவுறுவதைத் தவிர்த்துக் கார்பன்
+சேமிப்பு
+மூலப்பொருளாக
+உயிரிய
+கரிமத்தை
+மாற்றியமைக்கும் ஓர் சிறந்த முறையாகும்.
 
-**Biochar**
-
-**Biochar** is another long term method to store carbon. To increase plants ability to store more carbon, plants are partly burnt such as crop waste, waste woods to become carbon rich slow decomposing substances of material called Biochar. It is a kind of charcoal used as a soil amendment. Biochar is a stable solid, rich in carbon and can endure in soil for thousands of years. Like most charcoal, biochar is made from biomass via pyrolysis. (Heating biomas in low oxygen environment) which arrests wood from complete burning. Biochar thus has the potential to help mitigate climate change via carbon sequestration. Independently, biochar when added to soil can increase soil fertility of acidic soils, increase agricultural productivity, and provide protection against some foliar and soil borne diseases. It is a good method of preventing waste woods and logs from getting decayed and instead we can convert them into biochar thus converting them to carbon storage material.
