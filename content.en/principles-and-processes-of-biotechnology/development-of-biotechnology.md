@@ -3,10 +3,11 @@ title: 'Development of Biotechnology'
 weight: 1
 ---
 
+Biotechnology has developed by leaps and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology**
 
-Biotechnology has developed by leaps and bounds during the past century and it's development can be well understood under two main heads namely **conventional or traditional biotechnology** and **modern biotechnology 
+### Conventional or traditional biotechnology
 
-**1. Conventional or traditional biotechnology:** This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. 
+This is the kitchen technology developed by our ancestors, and is as old as human civilization. It uses bacteria and other microbes for preparation of dairy products like curd, ghee, cheese and in preparation of foods like idli, dosa, nan, bread and pizza. This conventional biotechnology also extends to preparation of alcoholic beverages like beer, wine, etc. 
 
 With the advancement of the science and technology during the 18th century, these kitchen technologies gained scientific validation.
 
@@ -25,5 +26,4 @@ Modern biotechnology embraces all methods of genetic modification by recombinant
 - **Process engineering** – tools of biotechnology is used for effluent treatment, water recycling.
 
 This unit will reveal the various aspects of modern biotechnology, its products and applications.
-
 
