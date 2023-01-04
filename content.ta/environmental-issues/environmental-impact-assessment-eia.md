@@ -1,72 +1,340 @@
 ---
-title: 'Environmental Impact Assessment (EIA)'
+title: 'சுற்றுச்சூழல் தாக்க மதிப்பீடு'
 weight: 11
 ---
+சுற்றுச்சூழல் தாக்க மதிப்பீடு என்பது சுற்றுச்சூழல்
+மேலாண்மையின் ஒரு உபாயமாகும். சூழல்மண்டலம்
+மற்றும் உயிரியல் சமுதாயங்கள் மீது ஏற்படுத்தப்படும்
+தாக்கத்தை வெகுவாகக் குறைக்கவும், இயற்கை
+வளங்களை
+உகந்த
+அளவு
+பயன்படுத்தவும்,
+கட்டுப்படுத்தவும் பரிந்துரைக்க உதவி புரிகிறது.
+வருங்கால
+நிதிசார்
+வளர்ச்சித்
+திட்டங்கள்,
+அணைக்கட்டுகள், நெடுஞ்சாலைத்
+திட்டங்கள்,
+முன்மொழியப்பட்ட வளர்ச்சித் திட்டங்களால் ஏற்படும்
+சுற்றுச்சூழல் விளைவுகளை முன்னரே கணிக்கப்
+பயன்படுகிறது. சமூக, ப�ொருளாதார, கலாச்சார மற்றும்
+மனிதநலத்தாக்கம்
+ஆகியவற்றைக்
+கருத்தில்
+க�ொண்டு
+அறியப்படுகிறது.
+பிராந்தியச்
+சூழ்நிலைகளுக்கேற்றவாறு
+திட்டங்களுக்குரிய
+வடிவத்தினை
+அளிக்கவும்,
+சுற்றுச்சூழல்
+தாக்கத்தினைக் குறைக்கவும் உதவுகிறது. மேலும்உறுதியான சுற்றுச்சூழல் சீரழிவினைத் தவிர்க்கவும்,
+கழிவுப் ப�ொருட்களை அகற்றுவதற்கும் இயற்கை
+ஆதாரங்களை உகந்த அளவு பயன்படுத்தவும்
+வழிவகுக்கின்றது.
+சமூகத்திற்குச் சுற்றுச்சூழல் தாக்க மதிப்பீட்டினால்
+ஏற்படும் பயன்கள்:
+•
+•
+•
+•
+ஓர் ஆர�ோக்கியமான சுற்றுசூழல்
+உயிரிப்பன்மத் த�ொகுப்பினைப் பராமரித்தல்
+குறைந்தளவு வளங்கள் பயன்பாடு
+கு
+ றைந்த அளவு வாயு வெளியேற்றம் மற்றும்
+சேதம், ஆகிய
+பயன்கள்
+சுற்றுசூழல்
+ஏற்படுகின்றன
 
+8.11.1
+உயிரிப்பன்மத்
+தாக்க
+மதிப்பீடு
+(Biodiversity Impact Assessment – BIA)
+உயிரிப்பன்மத் தாக்க மதிப்பீடு வளர்ச்சி, திட்டமிடல்
+மற்றும் செயல்படுத்தலுக்கும், முடிவுகளுக்கும் உதவும்
+ஒரு கருவியாகும். இது வளர்ச்சி திட்டங்களுக்கு
+உறுதியளிப்பதைக் குறிக்கோளாகக் க�ொண்டுள்ளது.
+மேலும்
+இது
+உயிரிபன்மம்
+த�ொடர்பான
+ஆல�ோசனைகளை ஒருங்கிணைக்கவும் உதவுகிறது.
+மேலும் இவைகள் உயிரிபன்ம ஆதாரங்களைப்
+பாதுகாக்கும்
+செயல்முறைகளுக்கான
+சட்ட
+இணக்கத்தை அளிக்கவும் உயிரிபன்ம நன்மைகளை,
+சமமான, நியாயமான
+முறையில் பயன்களைப்
+பகிர்தலையும் வழங்குகிறது.
+உயிரிப்பன்மத் தாக்க மதிப்பீட்டு பயன்கள்
+•
+•
+•
+•
+•
+•
+நிலமாற்றம் மற்றும் பயன்பாடு காப்பதிலும்
+நி
+ லத்
+துண்டாக்குதல்
+மற்றும்
+தனிமைப்படுத்துதலும்
+வளங்கள் பிரித்தெடுத்தல்
+பு
+ கை வெளியேற்றம் , கழிவுகள், வேதி ப�ொருட்கள்
+புற உள்ளீடு செய்யவும்
+ம
+ ரபு மாற்றப்பட்ட சிற்றினங்கள், அந்நிய மற்றும்
+ஆக்கிரமிப்பு சிற்றினங்களை அறிமுகப்படுத்துதல்
+இ
+ டவரை மற்றும் அச்சுறுத்தலுக்குட்படும் தாவர
+மற்றும் விலங்கினங்களின் மீது ஏற்படும் தாக்கம்
+ஆகியவற்றிற்கு உதவுகின்றன.
 
-## Environmental Impact Assessment (EIA)
+8.12 புவியியல்சார் தகவல் அமைப்புகள்
+(Geographic Information System)
+புவிப்பரப்பின் மீதுள்ள அமைப்பு சார்ந்த தகவல்களை
+(GIS) படம்பிடிக்க, சேமிக்க, ச�ோதிக்க மற்றும்
+காட்சிப்படுத்த உதவும் தகவல்சார் கணினிசார் ஓர்
+அமைப்பாகும். மேலும் புவிசார்ந்த தகவல், புவி மற்றும்
+வான்சார்
+தகவல்கள்
+அளிக்கவும்,
+திறம்படக்
+கையாள்வதற்கும், பகுத்தறிதலுக்கும், நிர்வகிக்கவும்
+உதவுகிறது. பூமிப்பரப்பின் மீதுள்ள ஒரு ப�ொருளின்
+நிலையை நிர்ணயிக்க உதவும் செயற்கைக்கோள்
+வழிகாட்டும் ஓர் அமைப்பாகும்.
 
-Environmental Impact Assessment is an environmental management tool. It helps to regulate and recommend optimal use of natural resources with minimum impact on ecosystem and biotic communities. It is used to predict the environmental consequences of future proposed developmental projects (example: river projects, dams, highway projects) taking into account inter-related socio-economic, cultural and human-health impacts. It reduces environmental stress thus helping to shape the projects that may suit local environment by ensuring optimal utilization of natural resources and disposal of wastes to avoid environmental degradation. 
-
-**The benefits of EIA to society** 
-- A healthier environment 
-- Maintenance of biodiversity 
-- Decreased resource usage 
-- Reduction in gas emission and environment damage
-
-### Biodiversity Impact Assessment (BIA)
-
-Biodiversity Impact Assessment can be defined as a decision supporting tool to help biodiversity inclusive of development, planning and implementation. It aims at ensuring development proposals which integrate bio- diversity considerations. They are legally compliant and include mechanisms for the conservation of bio-diversity resources and provide fair and equitable sharing of the benefits arising from the use of bio-diversity.
-
-**Biomonitoring** The act of observing and assessing the current state and ongoing changes in ecosystem, biodiversity components, landscape including natural habitats, populations and species. An agricultural drone is an unmanned aerial vehicle applied to farming in order to help increased crop production and monitor crop growth. Agricultural drones let farmers see their fields from the sky. This bird’s eye-view can reveal many issues such as irrigation problems, soil variation and pest and fungal infestations. It is also used for cost effective safe method of spraying pesticides and fertilizers, which proves very easy and non-harmful.
+உயிரி கண்காணிப்பு (Biomonitoring)
+சூழல்தொகுப்பு, உயிரி பன்மக்கூறுகள், இயற்கை
+வாழிடங்கள், சிற்றினம் மற்றும் உயிரினத்தொகை
+சார்ந்த நிலப்பரப்பு ஆகியவற்றில் நடைபெற்றுக்
+க�ொண்டிருக்கும் மாற்றங்கள் மற்றும் அவற்றின்
+தற்போதைய நிலை குறித்துக் கண்காணிக்கவும்,
+மதிப்பிடவும் உதவும் ஒரு செயலாகும்.
+ஆளில்லா வேளாண் பறக்கும் இயந்திரம் (drone)
+என்பது பயன்படாடுடைய பயிர் பெருக்கம் மற்றும்
+பயிர்
+வளர்ச்சியைக்
+கண்காணிக்கும்,
+வேளாண்மைக்கு
+உதவும்
+ஒரு
+ஆளில்லா
+வானூர்தியாகும். விவசாயிகளுக்கு இவ்வேளாண்
+இயந்திரம் விவசாயிகள் தங்களது நிலங்களை
+கண்காணிக்கும்
+வாய்ப்பினை
+வானிலிருந்து
+வழங்குகிறது. நீர்பாசன பிரச்சினைகள், மண்ணின்
+மாற்றங்கள், பூச்சி மற்றும் பூஞ்சைத் தாக்கங்கள்
+முதலிய த�ொல்லைகளைக் கூரிய பார்வையால்
+உதவுகிறது.
+(bird’s eye view) தெளிவுபடுத்த
+பாதுகாப்பான, சிக்கனமான, அபாயங்களற்ற பூச்சி
+மருந்து மற்றும் உரங்களைப் பயன்படுத்துவதற்கு
+உதவும் மேலும் ஒரு எளிய முறையாகும்.
 
 ![Figure 8.18: Agricultural drone](8.17.png "")
 
-**Bio-diversity impacts can be assessed by** 
+ புவியின் மீதுள்ள ஓர் அமைவிடத்தை மக்கள்
+துல்லியமாகக்
+கண்டுணரப் பயன்படும் சம
+இடைவெளியில் நிலை நிறுத்தப்பட்டுள்ள பூமியின் மீது
+சுற்றிவரும் நட்சத்திரக் கூட்டம் ப�ோன்ற 30
+செயற்கைக்கோள்கள்
+ஒருங்கமைந்த
+கூட்டமைப்பாகும்.
+•
+•
+வி
+ ரும்பத்தக்க சூழலை நிர்ணயிக்கவும், ந�ோய்
+பரவுதல் மற்றும் கட்டுப்படுத்துதல் முதலியவற்றை
+அறிய உதவுகிறது.
+வ
+ னத்தீ
+மற்றும்
+சிற்றினப்
+பரவலை
+வரைபடமாக்கப் பயன்படுகிறது.
+ந
+ கரப்பகுதி வளர்ச்சி மற்றும் வேளாண் நிலம்
+அல்லது காடுகளில் பல வருடங்களில் நிகழும்
+மாறுபாடுகளையும் கண்காணிக்க உதவுகிறது.
+க
+ டலடிமட்டம் மற்றும் அவற்றின் வளங்களையும்
+படமிடப் பயன்படுகிறது.
+செயற்கைக்கோள்களின் பயன்பாடுகள்
+செயற்கைக்கோளின் ஏவப்பட்ட
+பெயர்
+ஆண்டு
+பயன்பாடு
+SCATSAT - Iசெப்டெம்பர்
+2016
+புவியியல்சார் தகவல் அமைப்புகளின் முக்கியத்துவம்காலநிலை
+முன்னறிவிப்பு, புயல்
+கணிப்பு மற்றும்
+இந்தியாவில் கணிப்பு
+சேவை
+INSAT - 3DR•
+•செப்டெம்பர்
+2016
+இயற்கைச்சீற்ற
+மேலாண்மை
+CARTOSAT - 2சனவரி 2018 புவி உற்றுந�ோக்கல்
+GSAT - 6Aமார்ச் 2018
+CARTOSAT -2
+(நூறாவது
+செயற்கைக்கோள்)சனவரி 2018 எல்லைப்பாதுகாப்பை
+கண்காணிக்க
+சுரங்கம், வான்பயணம், வேளாண் மற்றும்
+கடல்சார் சூழல் த�ொகுப்பு உலகம் முழுவதும்
+அளந்தறியும்
+தற்போதைய
+பயன்பாட்டிலுள்ள
+செயலிகளாகும்.
+•
+•
+•
+•
+•
+•
+சூழல் தாக்க மதிப்பீடு
+இ
+ யற்கை சீற்றம் மேலாண்மை, நிலச்சரிவு
+அபாயங்களை வரையறுக்க
+நிலப்பரப்பு மற்றும் பயன்பாடு தீர்மானிக்க
+வெள்ள அபாயப் பாதிப்புகளை மதிப்பிட
+இயற்கை வளங்களை மேலாண்மை செய்ய
+மண் வரைபடம் உருவாக்க
+ஈரநில வரைபடத் தயாரிப்பு
+நீ
+ ர்பாசன மேலாண்மை மற்றும் எரிமலை
+அபாயங்களை கண்டறியஅ
+ ச்சுறுத்தலுக்குட்பட்ட
+மற்றும்
+இடவரை
+சிற்றினங்கள் மேலும் தாவரக் கூட்டங்களின்
+வரைபடம் தயாரிக்கவும் பயன்படுகிறது
+த�ொலைஉணரி (Remote sensing)
+த�ொலைஉணரி என்பது ஒரு குறிப்பிட்ட இடத்தின்
+இயற்பியப் பண்புளை கண்டுபிடிக்கவும் மற்றும்
+கண்காணிக்கவும் உதவும் ஒரு செயல்முறையாகும்.
+இது ஒரு குறிப்பிட்ட இடத்திலிருந்து கதிரியக்க
+உமிழ்வு மறுப்பிரதிபலித்தலைத் த�ொலைவிலிருந்து
+குறிப்பிட்ட இடத்தை அளவிட உதவுகிறது. ஒரு தனி
+மரம் முதல் பெரிய தாவரத்தொகுப்பு மற்றும் வன
+உயிரிகளைப் பாதுகாக்கின்ற செயல் முறைகளின்
+சரியான படக்குறிப்பு மற்றும் தகவல்கள் மூலம்
+கண்டறிதல்
+கருவியாகும். நிலப்பயன்பாட்டு
+முறைகளின் வகைப்பாட்டிற்கும் மற்றும் அவற்றை
+அறிந்து க�ொள்வதற்கும் உயிரி பன்மம் குறைந்த
+அல்லது
+அதிகப்
+பரப்பிலுள்ள
+தாவரங்கள்
+இனங்காணுதலுக்கும்,
+பணப்பயிர்,
+மருத்துவத்
+தாவரங்கள், அச்சுறுத்தலுக்குட்பட்ட
+தாவரங்களில்
+பல்வேறு
+சிற்றினங்களை
+வருங்காலங்களில்
+பாதுகாக்கவும், பராமரிக்கவும் உதவுகிறது.
+•
+சிறப்புப் பயன்கள்
+•
+•
+படம் 8.18: ஆளில்லா வேளாண் பறக்கும் இயந்திரம்
+புவியின் மீதுள்ள ஓர் அமைவிடத்தை மக்கள்
+துல்லியமாகக்
+கண்டுணரப் பயன்படும் சம
+இடைவெளியில் நிலை நிறுத்தப்பட்டுள்ள பூமியின் மீது
+சுற்றிவரும் நட்சத்திரக் கூட்டம் ப�ோன்ற 30
+செயற்கைக்கோள்கள்
+ஒருங்கமைந்த
+கூட்டமைப்பாகும்.
+•
+•
+வி
+ ரும்பத்தக்க சூழலை நிர்ணயிக்கவும், ந�ோய்
+பரவுதல் மற்றும் கட்டுப்படுத்துதல் முதலியவற்றை
+அறிய உதவுகிறது.
+வ
+ னத்தீ
+மற்றும்
+சிற்றினப்
+பரவலை
+வரைபடமாக்கப் பயன்படுகிறது.
+ந
+ கரப்பகுதி வளர்ச்சி மற்றும் வேளாண் நிலம்
+அல்லது காடுகளில் பல வருடங்களில் நிகழும்
+மாறுபாடுகளையும் கண்காணிக்க உதவுகிறது.
+க
+ டலடிமட்டம் மற்றும் அவற்றின் வளங்களையும்
+படமிடப் பயன்படுகிறது.
+செயற்கைக்கோள்களின
 
-- Change in land use and cover 
-- Fragmentation and isolation - Extraction 
-- External inputs such as emissions, effluents
-and chemicals 
-- Introduction of invasive, alien or genetically
-modified species 
-- Impact on endemic and threatened flora and
-fauna.
 
-**8.12. Geographic Information System** 
+**பாடச்சுருக்கம்**
 
-GIS is a computer system for capturing, storing, checking and displaying data related to positions
-on Earth’s surface. Also to manipulate, analyse, manage and present spacial or geographic data.
-
-GPS is a satellite navigation system used to determine the ground position of an object. It is a **constellation** of approximately 30 well spaced satellites that orbit the earth and make it possible for the people with ground receivers to pinpoint their geographic location. Some applications in which GPS is currently being used for around the world include Mining, Aviation, Surveying Agricultural and Marine ecosystem. 
-
-**Importance of GIS** 
-- Environmental impact assessment 
-- Disaster management 
-- Zoning of landslide hazard 
-- Determination of land cover and land use 
-- Estimation of flood damage 
-- Management of natural resources 
-- Soil mapping 
-- Wetland mapping 
-- Irrigation management and identification of
-
-volcanic hazard - Vegetation studies and mapping of
-threatened and endemic species. 
-
-**Remote Sensing** is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance from the targeted area. It is an tool used in conservation practices by giving exact picture and data on identification of even a single tree to large area of vegetation and wild life for classification of land use patterns and studies, identification of biodiversity rich or less areas for futuristic works on conservation and maintenance of various species including commercial crop, medicinal plants and threatened plants. 
-
-**Specific uses** 
-- Helps predicting favourable climate, for thestudy of spreading of disease and controlling
-it.
-- Mapping of forest fire and species
-distribution.
-
-- Tracking the patterns of urban area
-development and the changes in Farmland
-or forests over several years
-
-- Mapping ocean bottom and its resources
-
-
-**Summary** Green house effect leads to climate change which results in global warming. Deforestation causes soil erosion, whereas Afforestation helps to restore vegetation and increases ground water table. Agrochemicals like fertilizers, pesticides and runoff from fields cause soil infertility and in turn depletes the growth of plants. Help the government to retrieve the vegetation. Regeneration of trees by Agroforestry is possible with the involvement of community and government. Help to conserve the flora and fauna in their natural habitat and man-made environments like zoological parks and national parks. IUCN is the oldest environmental organisation which protects endemic and threatened species. Mitigation of carbon in the atmosphere done in the form of sequestration. Rain water harvesting is done for improving the ground water table. Importance and location of lakes in Tamil Nadu which aids water supply to the city is a measure of conservation of drinking water. Assessment of Environment and Biodiversity helps to study risk analysis and disaster management. Forest cover is monitored through Remote sensing and GIS.
+பசுமை இல்ல விளைவு காலநிலை மாற்றங்களைத்
+த�ோற்றுவித்து உலக வெப்பமாதலை உருவாக்குகிறது.
+காடுகளை அழிப்பதால் மண் அரிப்பு ஏற்படுதலும், புதிய
+காடுகள் உருவாக்குவதினால் தாவரக் கூட்டங்களை
+மீட்டெடுக்கவும்
+நிலத்தடி
+நீர்
+மட்டத்தினை
+உயர்த்திடவும்
+உதவுகிறது.
+உரங்கள்,
+பூச்சிக்கொல்லிகள் ப�ோன்ற
+வேளாண் வேதி
+ப�ொருட்கள் நிலத்தில் வழிந்தோடுவதால் மண்
+மலட்டுத்தன்மை உருவாகித் தாவரங்களின் வளர்ச்சி
+குன்றுகிறது. அரசு தாவரக் கூட்டங்களை மீட்டெடுக்க
+இது உதவுகிறது. சமூகம் மற்றும் அரசின் பங்களிப்பால்
+வேளாண் காடு வளர்ப்பு மூலம் மரங்கள் மீளுறுவாக்கப்
+பயன்படுகிறது. தாவரங்கள் மற்றும் விலங்குகளை
+அவற்றின்
+இயற்கையான
+வளரிடங்களில்
+பாதுகாத்திட உதவுகிறது. மேலும் மனித முயற்சியால்
+உருவாக வன உயிரி பூங்காக்கள் மற்றும் தேசியப்
+பூங்காக்கள் ப�ோன்ற சூழல்களையும் பாதுகாக்க
+இயலுகிறது.
+பன்னாட்டு
+இயற்கை
+பாதுகாப்பு
+கூட்டமைப்பு (IUCN) பழமையான சூழல் அமைப்பாகும்.
+இது
+இடவரை
+மற்றும்
+அச்சுறுத்தலுக்குட்பட்ட
+சிற்றினங்களைப்
+பாதுகாக்க
+உதவுகிறது.
+வளிமண்டலத்தில் கார்பன் அளவினைச் சேகரிப்பு
+மூலம் குறைவுறச் செய்யவும் உதவுகிறது. மழைநீர்
+சேகரிப்பு மூலம் நிலத்தடி நீர் மட்டம் மேம்பாடடைய
+வழிக�ோலும். நகரங்களில் குடிநீர் வழங்கிடவும்,
+தமிழ்நாட்டின் ஏரிகளின் முக்கியத்துவம் பேணவும்
+உதவுகிறது. இயற்கைச்சீற்ற வேளாண்மை, அபாயப்
+பகுத்தாய்வு பயிலவும், சூழல் மற்றும் உயிரிப்பன்மம்
+மதிப்பிட உதவுகிறது. புவியிய தகவலமைப்பு மறும்
+த�ொலையுணரி
+மூலம்
+காடுகளின்
+பரப்பைக்
+கண்காணிக்கப் பயன்படுகிறது.
