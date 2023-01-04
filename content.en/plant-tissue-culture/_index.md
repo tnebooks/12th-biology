@@ -1,5 +1,7 @@
 ---
 title: 'Plant Tissue Culture'
+categories:
+    - biotechnology
 weight: 5
 ---
 
