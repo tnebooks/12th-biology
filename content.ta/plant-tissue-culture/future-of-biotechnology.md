@@ -1,5 +1,5 @@
 ---
-title: 'Future of Biotechnology'
+title: 'உயிரிதொழில்நுட்பவியலின் எதிர்காலம்'
 weight: 7
 ---
 

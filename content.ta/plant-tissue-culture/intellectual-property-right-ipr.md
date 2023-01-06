@@ -1,5 +1,5 @@
 ---
-title: 'Intellectual Property Right (IPR)'
+title: 'அறிவுசார் சொத்துரிமை (IPR)'
 weight: 6
 ---
 
