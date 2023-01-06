@@ -3,19 +3,32 @@ title: 'அறிவுசார் சொத்துரிமை (IPR)'
 weight: 6
 ---
 
- Intellectual property right (IPR) is a category of rights that includes intangible creation of the human intellect, and primarily consists of copyrights, patents, and trademarks. It also includes other types of rights, such as trade secrets, publicity rights, moral rights, and rights against unfair competition.
+அறிவுசார் சொத்துரிமை என்பது ஒரு வகை சொத்து ஆகும். இது பிரித்தறிய முடியாத மனித அறிவின் படைப்புகள், பதிப்புரிமம், காப்புரிமம், மற்றும் வணிக முத்திரை ஆகியவற்றை முதன்மையாக உள்ளடக்கியது. மேலும் இது பிற வகை உரிமைகளான வணிக ரகசியங்கள், விளம்பர உரிமைகள், தார்மீக உரிமைகள் மற்றும் நேர்மையற்ற போட்டிகளுக்கு எதிரான உரிமைகள் ஆகியவற்றை உள்ளடக்கியது.
 
-![IPR in India](5.17.png "")
+- உயிரிதொழில் நுட்பவியலில், வணிக உற்பத்திக்காக மாற்றப்பட்ட நுண்ணுயிர்கள், தாவரங்கள் மற்றும் தொழில்நுட்பங்கள் கண்டுபிடிப்பாளர்களுக்கே உரிய சொத்தாகும்.
 
-- In biotechnology, the transformed microorganisms and plants and technologies for the production of commercial products are exclusively the property of the discoverer.
-- The discoverer has the full rights on his property. It should not be neglected by the others without legal permission.
-- The right of discoverer must be protected and it does by certain laws framed by a country.
-- The IPR is protected by different ways like patents, copyrights, trade secrets and trademarks, designs and geographical indications.
+- கண்டுபிடிப்பாளர்களுக்கு அவருடைய சொத்தில் முழு உரிமை உள்ளது. அதை மற்றவர்கள் சட்ட அனுமதியில்லாமல் புறக்கணிக்க முடியாது.
 
-### Patents
-- It is a special right to the discoverer/inventor that has been granted by the government through legislation for trading new articles.
-- A patent is a personal property which can be licensed or sold by the person or organisation just like any other property.
-- Patent terms give the inventor the rights to exclude others from making, using or selling his invention.
+- கண்டுபிடிப்பாளர்களின் உரிமைகள் ஒரு நாட்டில் உருவாக்கப்பட்ட சட்டங்களினால் பாதுகாக்கப்படுகின்றன.
+
+- அறிவுசார் சொத்துரிமை பல்வேறு வழிகளில் அதாவது காப்புரிமம், வணிக ரகசியம், வணிக முத்திரை, வடிவமைப்பு மற்றும் புவிசார் குறியீடுகள் ஆகியவற்றால் பாதுகாக்கப்படுகிறது.
+
+![இந்தியாவில் அறிவுசார் சொத்துரிமை](5.17.png "")
+
+### காப்புரிமம்
+
+- காப்புரிமம் என்பது கண்டுபிடிப்பவருக்கு / உருவாக்கப்பட்டவருக்கு ஒரு சிறப்பு உரிமை ஆகும். இது புதிய பொருள்களை வணிகம் செய்வதற்காகச் சட்டங்கள் மூலம் அரசால் வழங்கப்படுகிறது.
+
+- ஒரு காப்புரிமம் தனிப்பட்டச�ொத்தாகும் இதனை ஒரு தனி மனிதர் (அல்லது) நிறுவனம் வேறு எந்தச் சொத்து போன்றே வாடகைக்கு விடலாம் அல்லது விற்கலாம்.
+
+- காப்புரிமம் என்ற சொல் மற்றவர்களைத் தவிர்த்துக் கண்டுபிடிப்பவர்களுக்கு அவர்களின் கண்டுபிடிப்புகளைத் தயாரித்தல், பயன்படுத்துதல் மற்றும் விற்பனை செய்தலுக்கு உரிய உரிமையைக் கொடுக்கிறது.
+
+- சில உருவாக்கங்களுக்கு அவற்றின் ரகசியத்தைக் காப்பது கடினம். எனவே தகுதி வாய்ந்த காப்புரிம வழக்கறிஞர் மூலம் வழிக்காட்டுதல் பெறப்படுகிறது. காப்புரிமம் மூன்று பகுதிகளைக் கொண்டுள்ளது. அவை அனுமதி, விவரக் குறிப்பு மற்றும் உரிமை கோருதல் ஆகும்.
+
+- **அனுமதி** (Grant) : காப்புரிம அனுமதி விண்ணப்பம் காப்புரிம அலுவலகத்தில் நிரப்பப்படுகிறது. இவை வெளியிடப்படுவதில்லை. இவை கையொப்பமிடப்பட்ட ஆவணங்களாகும்.உண்மையில் இது உருவாக்குபவருக்கு கொடுக்கப்படும் காப்புரிமை அனுமதி ஒப்பந்தம் ஆகும்.
+- **விவரக் குறிப்பு** (Specification) : விவரக் குறிப்புகள் மற்றும் உரிமை கோருதல் ஒற்றை ஆவணமாக வெளியிடப்படுகிறது. அவை பொது மக்களுக்கும் காப்புரிம அலுவலகத்திற்கும் இடையில் மேற்கொள்ளப்படுகிறது. விவரக் குறிப்பு பகுதியில் உருவாக்கத்தின் விவரிப்பும், எவ்வாறு உருவாக்கம் மேற்கொள்ளப்பட்டது என்பதும் தொகுக்கப்பட்டிருக்கும்.
+
+- **உரிமை கோருதல் பகுதி** (Claim) : இதில் உருவாக்கத்தின் எந்த நோக்கம் பாதுகாக்கப்பட வேண்டுமோ அது காப்புரிமத்தால் குறிப்பாக வரையறுக்கப்படுகிறது. இந்த நோக்கம் மற்றவர்களால் நடைமுறைப்படுத்த முடியாததாகும்.
 
 ### Biosafety and Bioethics
 Advances in biotechnology and their applications deals with genetic manipulation. 
