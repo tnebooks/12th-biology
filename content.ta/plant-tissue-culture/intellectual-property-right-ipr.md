@@ -30,15 +30,69 @@ weight: 6
 
 - **உரிமை கோருதல் பகுதி** (Claim) : இதில் உருவாக்கத்தின் எந்த நோக்கம் பாதுகாக்கப்பட வேண்டுமோ அது காப்புரிமத்தால் குறிப்பாக வரையறுக்கப்படுகிறது. இந்த நோக்கம் மற்றவர்களால் நடைமுறைப்படுத்த முடியாததாகும்.
 
-### Biosafety and Bioethics
-Advances in biotechnology and their applications deals with genetic manipulation. 
+### உயிரி பாதுகாப்பு மற்றும் உயிரி அறநெறி
 
-**Biosafety** Biosafety is the prevention of large-scale loss of biological integrity, focusing both on ecology and human health. These prevention mechanisms include conduction of regular reviews of the biosafety in laboratory settings, as well as strict guidelines to follow. Many laboratories handling biohazards employ an ongoing risk management assessment and enforcement process for biosafety. Failures to follow such protocols can lead to increased risk of exposure to biohazards or pathogens.
+உயிரிதொழில்நுட்பவியலின் மேம்பாடு மட்டுமின்றி அவற்றின் பயன்பாடுகள் பற்றி அதிகக் கருத்து வேறுபாடுகள் உள்ளன. ஏனெனில், நவீன உயிரிதொழில்நுட்பவியலின் பெரும்பாலான பகுதிகள் மரபணு கையாளுதலுடன் தொடர்புடையன. ELSI (Ethical, Legal, Social and Implications) என்பது உயிரிதொழில்நுட்பவியலின் அகன்ற அறநெறி, சட்ட மற்றும் சமுதாயப் பிரச்சினைகளின் விளைவுகள் தொடர்பானதாகும். இது உயிரிதொழில்நுட்ப அறிவியலுக்கும் சமுதாயத்திற்குமிடையே உள்ள அறநெறி மற்றும் சட்டப்பூர்வமான கூறுகள் பற்றிய தொடர்பை உள்ளடக்கியது.
 
-**Bioethics - Ethical, Legal and Social Implications (ELSI)** 
+#### உயிரி பாதுகாப்பு (Biosafety):
 
-Bioethics refers to the study of ethical issues emerging from advances in biology and medicine. It is also a moral discernment as it relates to medical policy and practice. Bioethicists are concerned with the ethical questions that arise in the relationships among life sciences, biotechnology and medicine. It includes the study of values relating to primary care and other branches of medicine. The scope of bioethics is directly related to biotechnology, including cloning, gene therapy, life extension, human genetic engineering, astroethics life in space, and manipulation of basic biology through altered DNA, RNA and proteins. These developments in biotechnology will affect future evolution, and may require new principles, such as biotic ethics, that values life and its basic biological characters and structures. The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 as an integral part of the Human Genome Project. The mission of the ELSI program was to identify and address issues raised by genomic research that would affect individuals, families, and society. A percentage of the Human Genome Project budget at the National Institutes of Health and the U.S. Department of Energy was devoted to ELSI research. 
+உயிரி ஒருங்கிணைந்த தன்மையின் பெரியளவு இழப்பைத் தடுப்பது தான் உயிரி பாதுகாப்பாகும். இதில் சூழ்நிலையியலும், மனித உடல்நலமும் கவனத்தில் எடுத்துக் கொள்ளப்படுகின்றன. இந்தத் தடுப்பு செயல்முறைகள் ஆய்வகச் சூழலில் உயிரி பாதுகாப்பு பற்றிய தொடர் மீளாய்வு செய்தலையும் பின்பற்ற வேண்டிய கடுமையான வழிகாட்டுதல்களையும் உள்ளடக்கியுள்ளன. உயிரி பாதுகாப்பு தீங்கு நிறைந்த நிகழ்வுகளிலிருந்து மக்களைப் பாதுகாப்பதற்குப் பயன்படுகிறது. உயிரி தீங்கு விளைவிக்கும் பொருள்களை (biohazards) கையாளும் பல ஆய்வகங்களில், தொடர்ந்து செயல்படும் தீங்கு மேலாண்மை மதிப்பீடு மற்றும் உயிரி பாதுகாப்பை உறுதி செய்யும் நடைமுறைகளையும் மேற்கொள்கின்றன. இத்தகைய நடைமுறைகளை பின்பற்ற தவறினால் தீங்கு விளைவிக்கும் வேதிப் பொருள்களாலும் நோய் காரணிகளாலும் அதிகளவு பாதிப்பு ஏற்படுகிறது. மனிதத் தவறும் மோசமான தொழில்நுட்ப முறைகளும் தீங்கு விளைவிக்கும்
+தொருள்களால் ஏற்படும் தேவையற்ற பாதிப்பும்
+பாதுகாப்பு செயல்முறைகளை பாதிக்கின்றன.
 
-**Genetic Engineering Appraisal Committee (GEAC)** 
+#### சாத்தியமான ஆபத்துகளும் பாதுகாப்பு அம்சங்களுக்கான கருத்துகளும்
 
-GEAC is an apex body under Ministry of Environment, Forests and Climate change for regulating manufacturing, use, import, export and storage of hazardous microbes or genetically modified organisms (GMOs) and cells in the country. It was established as an apex body to accord approval of activities involving large scale use of hazardous microorganisms and recombinants in research and industrial production. The GEAC is also responsible for approval of proposals relating to release of genetically engineered organisms and products into the environment including experimental field trials.
+- இயல்பான மரபணு மாற்றமடைந்த உயிரினங்கள்,
+வைரஸ்கள் போன்றவைகளின் நோயூட்டும்
+தன்மை –– மனிதர்கள், விலங்குகள், தாவரங்களில்
+நோய் தொற்றினை ஏற்படுத்துதல்.
+
+- நுண்ணுயிரி உற்பத்தி திறன் தொடர்புடைய
+ஒவ்வாமையின் நச்சுத்தன்மை.
+
+- உயிரி எதிர்ப் பொருள் தடுப்பு பெற்ற நோய்
+உண்டாக்கும்நுண்ணுயிரிகளின் எண்ணிக்கை
+அதிகரிப்பு.
+
+- செலவிடப்பட்ட நுண்ணுயிரி சார் உயிரித்திரளின்
+(Biomass) கழிவு நீக்கத்தோடு தொடர்புடைய
+பிரச்சினைகள் மற்றும் உயிரி தொழில்நுட்பச்
+செயல்முறைகளின் காரணமாகச் சுத்தமாக்கப்பட்ட
+கழிவுநீர் தொடர்பான பிரச்சினைகள்.
+
+- கலப்படம், தொற்றுதல் அல்லது சடுதிமாற்ற செயல்முறை நுண்ணுயிரி ரகங்களுடன் தொடர்புடைய பாதுகாப்பு அம்சங்கள்.
+
+- செயற்கையாக நுழைக்கப்பட்ட மறுகூட்டிணைவு
+மரபணுக்களைக் கொண்ட நுண்ணுயிரிகளின்
+தொழில்சார் பயன்பாட்டுடன் தொடர்பு கொண்டுள்ள
+பாதுகாப்பு அம்சங்கள்
+
+**உயிரி பாதுகாப்பு வழிகாட்டு முறைகளை நடைமுறைப்படுத்துதல் பின்வரும் முறைகளில் செய்யப்படுகின்றன**
+
+- நிறுவனங்கள் அளவில் ஆராய்ச்சி செயல்பாடுகளை உயிரி பாதுகாப்புக் குழு கண்காணித்தல் (IBSC – Institutional BioSafety Committee)
+
+- உயிரிதொழில்நுட்பத்துறையில் (DBT – Department of Biotechnology) செயல்பட்டு வரும் மரபணு கையாளுதல் ஆய்வுக் குழு (RCGM – Review Committee on Genetic Manipulation) ஆய்வகங்களில் மேற்கொள்ளப்படும் ஆபத்தான ஆய்வுச் செயல்களைக் கண்காணித்தல்.
+
+- வணிக மட்டத்திலும் வேளாண்மை பயிர்கள், தொழில் சார் உற்பத்தி பொருள்கள், உடல்நலப் பேணல் பொருள்கள் போன்றவற்றை உள்ளடக்கிய மரபணு மாற்றமடைந்த பொருள்களைப் பயிர் நில முன் சோதனைகளிலும், மரபணு சார் மாற்றமடைந்த உயிரியின் பயன்பாட்டையும் அனுமதிக்கும் அதிகாரம் சுற்றுச் சூழல் மற்றும் வன அமைச்சகத்தின் மரபுப் பொறியியல் அங்கீகாரக் குழுவிற்கு (GEAC - Genetic Engineering Approval Committee) உள்ளது.
+
+#### உயிரி அறநெறி – அறம்சார், சட்டப்பூர்வமான மற்றும் சமூக விளைவுகள் (ELSI – Ethical Legal Social Implications )
+
+உயிரி அறநெறி என்பது மேம்பட்ட உயிரியல் மற்றும் மருத்துவத்தில் காணப்படும் அறம் சார்ந்த பிரச்சினைகள் பற்றிய படிப்பாகும். இது உயிரியல் மற்றும் மருத்துவத்தில் ஏற்பட்டுள்ள முன்னேற்றங்களிலிருந்து தோன்றுகிறது. இது மருத்துவ விதிமுறை மற்றும் பயிற்சியோடு தொடர்புடைய அறநெறிசார் பகுத்தறிவை உள்ளடக்கியது. உயிரி அறிவியல், உயிரி தொழில்நுட்பம், மருத்துவம் ஆகியவற்றிற்கு இடையேயுள்ள தொடர்புகளில் எழும் அறநெறிசார் கேள்விகள் உயிரிஅறநெறியாளர்களைச் சார்ந்துள்ளது. முதல்நிலை உடல்பேணல் மற்றும் மருத்துவத்தின் இதர துறைகளின் விழுமியங்கள் பற்றிய ஆய்வை இது உள்ளடக்கியது.
+
+உயிரிஅறத்தின் நோக்கமானது நகலாக்கம், மரபணு சிகிச்சை, உயிர் நீட்டிப்பு, மனித மரபணுசார் பொறியியல், வான்வெளியில் உயிர் தொடர்பான வான் அறநெறி மற்றும் மாற்றப்பட்ட DNA, RNA மற்றும் புரதங்கள் மூலம் அடிப்படை உயிரியலைக் கையாளுதல் போன்றவற்றை உள்ளடக்கிய உயிரிதொழில்நுட்பவியலோடு நேரடியாகத் தொடர்பு கொண்டுள்ளது. உயிரிதொழில்நுட்பவியலில் ஏற்பட்டுள்ள இந்த வளர்ச்சிகள் வருங்காலப் பரிணாமத்தைப் பாதிக்கும் மற்றும் புதிய நெறிமுறைகளின் தேவையை உருவாக்கும். இவற்றில் உயிரையும் அதன் அடிப்படை உயிரி பண்புகளையும் அமைப்புகளையும் மதிக்கும் உயிரி அறநெறிகள் அடங்கும்.
+
+அறநெறிசார், சட்டப்பூர்வ மற்றும் சமூக விளைவுகள் (ELSI) செயல்திட்டம் 1990ல் மனித மரபணு தொகைய திட்டத்தின் ஒருங்கிணைந்த பகுதியாக உருவாக்கப்பட்டது. ELSI செயல்திட்டத்தின் சீரிய நோக்கம் மரபணு தொகைய ஆய்வினால் எழுப்பப்பட்ட பிரச்சினைகளை அடையாளம் கண்டறிவதும் அவற்றிற்குத் தீர்வு காண்பதும் ஆகும். இந்தப் பிரச்சினைகள் தனிப்பட்ட மனிதர்கள், குடும்பங்கள், சமுதாயம் போன்றவற்றைப் பாதிக்கக்கூடும். ”நேஷ்னல் இன்ஸ்டிடியுட் ஆஃப் ஹெல்த்” (National Institutes of Health) மற்றும் USன் ”டிபார்ட்மெண்ட் ஆஃப் எனர்ஜி” (Department of Energy)ல் மனித மரபணு தொகைய செயல்திட்டத்தின் பட்ஜெட்டில் ஒரு குறிப்பிட்ட விழுக்காடு ELSI ஆய்விற்குப் பகிர்ந்தளிக்கப்பட்டுள்ளது.
+
+**மரபணு தொகைய ஆராய்ச்சியில் அறம்சார் பிரச்சினைகள்**
+
+
+
+- தொழிலில் அமர்த்துதல் மற்றும் காப்பீட்டில் (Insurance) மரபணுசார் வேறுபாட்டை உள்ளடக்கிய மரபணுசார் தகவல் பயன்பாட்டில் தனிமனித ரகசியத்தையும், செயல்படுத்துதல். நேர்மையையும்
+
+- மரபணுசார் சோதனை போன்ற புதிய மரபணுசார் தொழில்நுட்பங்களைச் சிகிச்சைச் சார் மருத்துவ நடைமுறையில் ஒன்றிணைத்தல்.
+
+- மக்களின் முன் ஒப்புதலுடன் கூடிய மரபணு ஆராய்ச்சி மற்றும் வடிவமைப்பைச் சார்ந்த அறநெறி சார் பிரச்சனைகள்.
+
+மரபணுப் பொறியியல் மதிப்பீட்டு குழு (GEAC – Genetic Engineering Appraisal Committee )
+
+தீங்கு செய்யும் நுண்ணுயிர்கள் அல்லது மரபணு மாற்றமடைந்த உயிரிகள் (GMOs) மற்றும் செல்கள் போன்றவற்றின் உற்பத்தி, பயன்பாடு, இறக்குமதி, ஏற்றுமதி சேமிப்பு போன்றவற்றை நாட்டில் ஒழுங்குபடுத்தச் சூழலியல், வனங்கள் காலநிலை மாற்ற அமைச்சகத்தின் கீழ் அமைக்கப்பட்டுள்ள ஒரு முதன்மை குழு தான் GEAC ஆகும். ஆய்விலும், தொழிற்துறை உற்பத்தியிலும், தீங்கு செய்யும் நுண்ணுயிர்களையும், மறுகூட்டிணைவு உயிரிகளையும் பெரிய அளவில் பயன்படுத்துவதில் ஈடுபட்டுள்ள செயல்பாடுகளுக்கு அனுமதிகளைக் கொடுப்பதற்கு உருவாக்கப்பட்ட இது ஒரு முக்கியமான அமைப்பாகும். சோதனை அடிப்படையில் கள முயற்சிகளையும் உள்ளடக்கிய சூழலில் மரபணு மாற்றமடைந்த உயிரிகளையும், உயிரிப் பொருள்களையும் வெளியிடுவது தொடர்பான செயல்திட்டங்களுக்கு அனுமதி அளிப்பதற்கும் GEAC காரணமாகிறது. (Biosafety Research level trial – I and II known as BRI – I, BRI – II)
