@@ -1,6 +1,6 @@
 ---
 title: 'Apomixis'
-weight: 2
+weight: 6
 ---
 
 

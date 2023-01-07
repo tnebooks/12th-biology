@@ -1,6 +1,6 @@
 ---
 title: 'Post Fertilization: structures and events'
-weight: 1
+weight: 5
 ---
 
  After fertilization, several changes take place in the floral parts up to the formation of the seed (Figure 1.20).
