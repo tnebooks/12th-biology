@@ -1,5 +1,5 @@
 ---
-title: '2.3.1 Mendel’s analytical and empirical approach'
+title: 'Mendel’s analytical and empirical approach'
 weight: 5
 ---
 
