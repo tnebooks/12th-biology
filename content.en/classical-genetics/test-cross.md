@@ -62,3 +62,14 @@ These four types of gametes of F1 dihybrids unite randomly in the process of fer
 fertilization. In sexually reproducing organism / plants from the garden peas to human beings, Mendel’s findings laid the foundation for understanding inheritance and revolutionized the field of biology. The dihybrid cross and its result led Mendel to propose a second set of generalisations that we called Mendel's Law of independent assortment.
 
 
+![Figure 2.9: Dihybrid cross of gametes](2.30.png "")
+
+```
+How does the wrinkled gene make Mendel’s peas wrinkled? Find out the molecular explanation.
+
+The protein called starch branching enzyme (SBEI) is encoded by the wild-type allele of the gene (RR) which is dominant. When the seed matures, this enzyme SBEI catalyzes the formation of highly branched starch molecules. Normal gene (R) has become interrupted by the insertion of extra piece of DNA (0.8 kb) into the gene, resulting in r allele. In the homozygous mutant form of the gene (rr) which is recessive, the activity of the enzyme SBEI is lost resulting in wrinkled peas. The wrinkled seed accumulates more sucrose and high water content. Hence the osmotic pressure inside the seed rises. As a result, the seed absorbs more water and when it matures it loses water as it dries. So it becomes wrinkled at maturation. When the seed has atleast one copy of normal dominant gene heterozygous, the dominant allele helps to synthesize starch, amylopectin an insoluble carbohydrate, with the osmotic balance which minimises the loss of water resulting in smooth structured round seed.
+
+![Figure 2.9: Dihybrid cross of gametes](2.31.png "")
+
+```
+
