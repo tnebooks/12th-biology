@@ -108,6 +108,7 @@ The following physiological processes are influenced by temperature:
 
 #### c. Water 
 Water is one of the most important climatic factors. It affects the vital processes of all living organisms. It is believed that even life had originated only in water during the evolution of Earth. Water covers more than 70. of the earth’s surface. In nature, water is available to plants in three ways. They are **atmospheric moisture, precipitation and soil water.**
+
 ```hint { role="warm" }
 Do You Know
 
@@ -164,6 +165,8 @@ limits, photosynthesis and respiration. The sulphur compounds are responsible fo
 - Strong wind may cause up-rooting of big trees
 
 - Unidirectional wind stimulates the development of flag Figure 6. 6. Flag forms in trees. form in trees 
+
+![Altitudinal zonation of vegetation](6.6.png "img-class")
 
 #### e. Fire
 
@@ -318,6 +321,8 @@ Rhizobium (Bacterium) forms nodules in the roots of leguminous plants and lives 
 
 Other examples: 
 - Water fern (*Azolla*) and Root hair Nitrogen fixing Cyanobacterium Bacteria (*Anabaena*).
+![Figure 6.10:A nodulated legumeplant root with bacteria](6.10.png "img-class")
+
 - *Anabaena* present in coralloid Figure 6. 10. roots of Cycas. A nodulated legume (Gymnosperm) 
 - Cyanobacterium (Nosto c) found in the thalloid body of Anthoceros.(Bryophytes)
 - Wasps present in fruits of fig.
@@ -330,6 +335,7 @@ Other examples:
 #### Epiphytes 
 
 The plants Leaves which are found growing on Supporting other plants plant without harming Clinging them are called root epiphytes. They Arial absorping root are commonly Figure 6. 11. An epiphytic plant-Vanda found in tropical rain forest.
+
 ![Figure 6.11: An epiphytic plant-Vanda](6.11.png "img-class")
 
 The epiphytic higher plant (Orchi d) gets its nutrients and water from the atmosphere with the help of the hygroscopic roots which contain special type of spongy tissue called Velamen. It prepares its own food and does not depend on the host. Using the host plant only they support and does not harm it in any way.
@@ -361,6 +367,7 @@ When one of the interacting species is benefitted and the other is harmed, it is
 
 ##### Holoparasites 
 The organisms which are dependent upon the host plants for their entire nutrition are called **Holoparasites**. They are also called **total parasites**.
+
 ![a) Holoparasite – Cuscuta  ](6.14.png "img-class")
 
 **Examples:**
@@ -398,6 +405,7 @@ It is an interspecific interaction in which one species is inhibited while the o
 
 #### Interspecific interactions/ Co-evolutionary dynamics 
 i. Mimicry: It is a phenomenon in which living organism modifies its form, appearance, structure or behavior and looks like another living organism as a self defence and increases the chance of its survival. Floral mimicry is for usually inviting pollinators but animal mimicry is often protective. Mimicry is a result of evolutionary significance due to shape and sudden heritable mutation and preservation by natural selection.
+
 ![Mimicry ](6.15.png "img-class")
 
 - The plant, Ophrys an orchid, the flower looks like a female insect to attract the male insect to get pollinated by the male insect and it is otherwise called ‘floral mimicry ‘.
@@ -405,6 +413,7 @@ i. Mimicry: It is a phenomenon in which living organism modifies its form, appea
 - Phyllium frondosum – leaf insect, another example of protective mimicry.
 
 **ii. Myrmecophily:** Sometimes, ants take their shelter on some trees such as Mango, Litchi, Jamun, Acacia etc. These ants act as body guards of the plants against any disturbing agent and the plants in turn provide food and shelter to these ants. This phenomenon is known as Myrmecophily. Example: Acacia and acacia ants.
+
 ![Myrmecophily](6.16.png "img-class")
 
 **iii.Co-evolution:** The interaction between organisms, when continues for generations, involves reciprocal changes in genetic and morphological characters of both organisms. This type of evolution is called Co-evolution. It is a kind of co- adaptation and mutual change among interactive species.

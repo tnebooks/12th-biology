@@ -30,9 +30,11 @@ The interaction of Biosphere organisms with their environment results in Biome t
 
 Ecology is mainly divided into two branches, they are autecology and synecology.
 
-1.  Autecology is the ecology of an individual species and is also called species ecology.
+1.  **Autecology** is the ecology of an individual species and is also called species ecology.
     
-2.  Synecology is the ecology of a population or community with one or more species and also called as community ecology. Many advances and developments in the field ecology resulted in various new dimensions and branches. Some of the advanced fields are Molecular ecology, Eco technology, Statistical ecology and Environmental toxicology.
+2.  **Synecology** is the ecology of a population or community with one or more species and also called as community ecology.
+
+Many advances and developments in the field ecology resulted in various new dimensions and branches. Some of the advanced fields are Molecular ecology, Eco technology, Statistical ecology and Environmental toxicology.
 
 ### Habitat and Niche
 

@@ -5,8 +5,8 @@ weight: 3
 
 
 The modifications in the structure of organisms to survive successfully in an environment are called adaptations of organisms. Adaptations help the organisms to exist under the prevailing ecological habitat. Based on the habitats and the corresponding adaptations of plants, they are classified as hydrophytes, xerophytes, mesophytes, epiphytes and halophytes. 
-### Hydrophytes 
 
+### Hydrophytes 
 The plants which are living in water or wet places are called hydrophytes. According to their relation to water and air, they are sub- divided into following categories: i) Free floating hydrophytes,
 ii. Rooted- floating hydrophytes,
 iii. Submerged floating hydrophytes, iv) Rooted -submerged hydrophytes, v) Amphibious hydrophytes. 
