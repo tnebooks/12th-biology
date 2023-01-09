@@ -1,6 +1,6 @@
 ---
 title: 'Post Fertilization: structures and events'
-weight: 5
+weight: 6
 ---
 
  After fertilization, several changes take place in the floral parts up to the formation of the seed (Figure 1.20).
@@ -13,6 +13,7 @@ weight: 5
 ### Endosperm 
 
 The primary endosperm nucleus (PEN) divides immediately after fertilization but before the zygote starts to divide, to form the endosperm. The primary endosperm nucleus is the result of triple fusion (two polar nuclei and one sperm nucleus) and thus has 3n number of chromosomes. It is a nutritive tissue and regulatory structure that nourishes the developing embryo. Depending upon the mode of development three types of endosperm are recognized in angiosperms. They are nuclear endosperm, cellular endosperm and helobial endosperm (Figure 1.21).
+![Figure 1.21 Types of Endosperm](1.40.png "float-end w-25")
 
 ### Nuclear endosperm: 
 
@@ -62,17 +63,20 @@ the growing embryo
 **Do You Know**
 Coconut milk is a basic nutrient medium which induces the differentiation of embryo (embryoids) and plantlets from various plant tissues. Coconut water from tender coconut is free- nuclear endosperm and white kernel part is cellular.
 ```
+
+**Embryogenesis**
+
 **Development of Dicot embryo**
 
 The development of Dicot embryo (Capsella bursa-pastoris) is of Onagrad or crucifer type. The embryo develops at micropylar end of embryo sac. 
 
 The Zygote divides by a transverse division forming upper or **terminal cell and lower or basal cell.** The basal cell divides transversely and the terminal cell divides vertically to form a four celled proembryo. A second verticaldivision right angle to the first one takes place in terminal cell forming a four celled stage called **quadrant.** A transverse division in the quadrant results in eight cells arranged in two tiers of four each called **octant stage.**
 
- The upper tier of four cells of the octant is called **epibasal** or anterior octant and the lower tier of four cells constitute **hypobasal** or posterior octants. A periclinal division in the octants results in the formation of 16 celled stage with eight cells in the outer and eight in the inner.
+The upper tier of four cells of the octant is called **epibasal** or anterior octant and the lower tier of four cells constitute **hypobasal** or posterior octants. A periclinal division in the octants results in the formation of 16 celled stage with eight cells in the outer and eight in the inner.
  
-  The outer eight cells represent the **dermatogen** and undergoes anticlinal division to produce epidermis. The inner eight cells divide by vertical and transverse division to form outer layer of **periblem**which give rise to cortex and a central region of **pleurome** which forms stele.
+The outer eight cells represent the **dermatogen** and undergoes anticlinal division to produce epidermis. The inner eight cells divide by vertical and transverse division to form outer layer of **periblem**which give rise to cortex and a central region of **pleurome** which forms stele.
   
-  During the development, the two cells of the basal cell undergoes several transverse division to form a six to ten celled **suspensor.** The embryo at this stage become globular and the suspensor helps to push the embryo deep into the endosperm. The uppermost cell of the suspensor enlarge to form a **haustorium.** The lowermost cell of the suspensor is called hypophysis. A transverse division and two vertical division right angle to each other of **hypophysis** results in the formation of eight cells. The eight cells are arranged in two tiers of four cells each The upper tier give rise to root cap and epidermis. At this stage embryo proper appears heart shaped, cell divisions in the hypocotyl and cotyledon regions of the embryo proper results in elongation. Further development results in curved horse shoe shaped embryo in the embryo sac. The mature embryo has a **radicle**, two **cotyledons** and a **plumule**(Figure 1.22).
+During the development, the two cells of the basal cell undergoes several transverse division to form a six to ten celled **suspensor.** The embryo at this stage become globular and the suspensor helps to push the embryo deep into the endosperm. The uppermost cell of the suspensor enlarge to form a **haustorium.** The lowermost cell of the suspensor is called hypophysis. A transverse division and two vertical division right angle to each other of **hypophysis** results in the formation of eight cells. The eight cells are arranged in two tiers of four cells each The upper tier give rise to root cap and epidermis. At this stage embryo proper appears heart shaped, cell divisions in the hypocotyl and cotyledon regions of the embryo proper results in elongation. Further development results in curved horse shoe shaped embryo in the embryo sac. The mature embryo has a **radicle**, two **cotyledons** and a **plumule**(Figure 1.22).
 
 ```hint { role ="warn" }
 Activity
@@ -80,6 +84,8 @@ Collect the fruits of Tridax (Cypsella). Using a needle dissect out the content,
 ```
 
 ![Figure 1.22 Development of Dicot embryo (Capsella bursa-pastoris)](1.27.png "float-end w-25")
+
+
 **Seed**
 The fertilized ovule is called seed and possesses an embryo, endosperm and a protective coat. Seeds may be endospermous (wheat, maize, barley and sunflower) or non endospermous. (Bean, Mango, Orchids and cucurbits).
 

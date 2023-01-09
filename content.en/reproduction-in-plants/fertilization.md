@@ -1,6 +1,6 @@
 ---
 title: 'Fertilization'
-weight: 4
+weight: 5
 ---
 
 
@@ -26,7 +26,7 @@ tube in the style depends on the type of style.
 #### Types of style
 There are three types of style a) Hollow or open style b)solid style or closed style c) semi- solid or half closed style.
 #### Hollow style (Open style)
- It is common among monocots. A hollow canal running from the stigma to the base of the style is present. The canal is lined by a single layer of glandular canal cells (Transmitting tissue).They secrete mucilaginous substances. The pollen tube grows on the surface of the cells lining the stylar canal. The canal is filled with secretions which serve as nutrition for growing pollen tubes and also controlling incompatibility reaction between the style and pollen tube. The secretions contain carbohydrates, lipids and some enzymes like esterases, acid phosphatases as well as compatibility controlling proteins.
+It is common among monocots. A hollow canal running from the stigma to the base of the style is present. The canal is lined by a single layer of glandular canal cells (Transmitting tissue).They secrete mucilaginous substances. The pollen tube grows on the surface of the cells lining the stylar canal. The canal is filled with secretions which serve as nutrition for growing pollen tubes and also controlling incompatibility reaction between the style and pollen tube. The secretions contain carbohydrates, lipids and some enzymes like esterases, acid phosphatases as well as compatibility controlling proteins.
 
 #### Solid style (Closed type): 
 It is common among dicots. It is characterized by the presence of central core of elongated, highly specialised cells called transmitting tissue.This is equivalent to the lining cells of hollow style and does the same function. Its contents are also similar to the content of those cells. The pollen tube grows through the intercellular spaces of the transmitting tissue. 
