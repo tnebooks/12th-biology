@@ -1,6 +1,6 @@
 ---
 title: 'Chromosomal Theory of Inheritance'
-weight: 11
+weight: 1
 ---
 
 

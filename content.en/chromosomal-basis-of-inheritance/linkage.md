@@ -1,6 +1,6 @@
 ---
 title: 'Linkage'
-weight: 12
+weight: 2
 ---
 
 The genes which determine the character of an individual are carried by the chromosomes. The genes for different characters may be present either in the same chromosome or in different chromosomes. When the genes are present in different chromosomes, they assort independently according to Mendel’s Law of Independent Assortment. Biologists came across certain genetic characteristicsthat did not assort out independently in other organisms after Mendel’s work. One such case was reported in Sweet pea **_(Lathyrus odoratus)_** by **William Bateson** and **Reginald C. Punnet** in 1906. They crossed one homozygous strain of sweet peas having **purple flowers** and long **pollen grains** with another homozygous strain having **red flowers** and **round pollen grains**. All the F1 progenies had purple flower and long pollen grains indicating purple flower long pollen **(PL/ PL)** was dominant over red flower round pollen **(pl/pl)**. When they crossed the F1 with double recessive parent (test cross) in results, F2 progenies did not exhibit in 1:1:1:1 ratio as expected with independent assortment. A greater number of F2 plants had purple flowers and long pollen or red flowers and round pollen. So they concluded that genes for purple colour and long pollen grain and the genes for red colour and round pollen grain were found close together in the same homologous pair of chromosomes. These genes do not allow themselves to be separated. So they do not assort independently. This type of tendency of genes to stay together during separation of chromosomes is called **Linkage.**
@@ -36,6 +36,8 @@ If the chances of separation of two linked genes are not possible those genes al
 **Incomplete Linkage** 
 
 If two linked genes are sufficiently apart, the chances of their separation are possible. As a result, parental and non-parental combinations are observed. The linked genes exhibit some crossing over. This phenomenon is called**incomplete linkage**. This was observed in maize. It was reported by Hutchinson.
+
+![Figure 3.4: Alleles in coupling or cis configuration Link](2.34.png "")
 
 ### Linkage Groups
 

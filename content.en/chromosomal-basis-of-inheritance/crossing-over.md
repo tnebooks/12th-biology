@@ -1,6 +1,6 @@
 ---
 title: 'Crossing Over'
-weight: 13
+weight: 3
 ---
 
 Crossing over is a biological process that produces new combination of genes by inter-changing the corresponding segments between non-sister chromatids of homologous pair of chromosomes. The term 'crossing over' was coined by Morgan **(1912).** It takes place during pachytene stage of prophase I of meiosis. Usually crossing over occurs in germinal cells during gametogenesis. It is called meiotic or germinal crossing over. It has universal occurrence and has great significance. Rarely, crossing over occurs in somatic cells during mitosis. It is called somatic or mitotic crossing over. 
@@ -10,7 +10,6 @@ Crossing over is a biological process that produces new combination of genes by 
 Crossing over is a precise process that includes stages like synapsis, tetrad formation, cross over and terminalization.
 
 **(i) Synapsis** Intimate pairing between two homologous
-
 chromosomes is initiated during zygotene stage of prophase I of meiosis I. Homologous chromosomes are aligned side by side resulting in a pair of homologous chromosomes called **bivalents. This pairing phenomenon is called synapsis or syndesis.** It is of three types,
 
 
