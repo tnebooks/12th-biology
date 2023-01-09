@@ -3,7 +3,6 @@ title: 'Dispersal of Fruits and Seeds'
 weight: 4
 ---
 
-
 ## Dispersal of Fruits and Seeds
 
 Both fruits and seeds possess attractive colour, odour, shape and taste needed for the dispersal by birds, mammals, reptiles, fish, ants and insects even earthworms. The seed consists of an embryo, stored food material and a protective covering called **seed coat.** As seeds contain miniature but dormant future plants, their dispersal is an important criterion for distribution and establishment of plants over a wide geographical area. The dissemination of seeds and fruits to various distances from the parent plant is called seed and fruit dispersal. It takes place with the help of ecological factors such as wind, water and animals. 
@@ -18,11 +17,9 @@ Seeds require agents for dispersal which are crucial in plant community dynamics
 
 The individual seeds or the whole fruit may be modified to help for the dispersal by wind. Wind dispersal of fruits and seeds is quite common in tall trees. The adaptation of the wind dispersed plants are 
 
-
 - Minute seeds: Seeds are minute, very
 small, light and with inflated covering.
 Example: Orchids.
-
 
 - Wings: Seeds or whole fruits are flattened to
 form a wing. Examples: Maple, Gyrocarpus,

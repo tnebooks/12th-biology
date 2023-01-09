@@ -19,6 +19,7 @@ In these plants, the roots are fixed in mud, but their leaves and flowers are fl
 
 ##### iii. Submerged floating hydrophytes: 
 These plants are completely submerged in water and not in contact with soil and air. Examples: Ceratophyllum and Utricularia. 
+
 ##### iv. Rooted- submerged hydrophytes: 
 These plants are completely submerged in water and rooted in soil and not in contact with air. Examples: Hydrilla, Vallisneria and Isoetes. 
 
@@ -31,6 +32,7 @@ aquatic and terrestrial modes of life. They grow in shallow water.
 *Examples: Ranunculus, Typha and Sagittaria.*
 
 ##### Hygrophytes: 
+
 The plants which can grow in moist damp and shady places are called hygrophytes. Examples: Habenaria (Orchi d) , Mosses (Bryophytes), etc. 
 
 ##### Morphological adaptations of Hydrophytes: In root
@@ -216,6 +218,7 @@ Halophytes are usually found near the sea- shores and Estuaries. The soils are p
 
 - Presence of thick cuticle on the aerial parts of the plant body
 - Leaves are thick, entire, succulent and glossy. Some species Figure 6.26b: are aphyllous (without Succulent leaves). halophyte - Salicornia
+
 ![T.S. of an aerial root of Orchid ](6.38.png "img-class")
 
 - Viviparous mode of seed germination is found in halophytes Calyx Leaf Fruit Radicle Hypocotyl Water Mud
@@ -223,6 +226,7 @@ Halophytes are usually found near the sea- shores and Estuaries. The soils are p
 ![Viviparous type of seed germination](6.27.png "img-class")
 
 ##### Anatomical adaptations
+
 - Epidermal cells of stem is heavy cutinized, almost squarish and are filled with oil and tannins.
 
 - **‘Star’shaped** sclereids and **‘H’shaped**heavy thickened spicules that provide mechanical
@@ -233,3 +237,7 @@ strength to cortex are present in the stem.
 - High osmotic pressure exists in some plants .
 
 - Seeds germinate in the fruits while on the mother plant (Vivipary).
+
+```
+Out of three districts of Tamil Nadu (Nagapattinam, Thanjavur and Thiruvarur), Muthupet (Thiruvarur district) was less damaged by Gaja cyclone ( November 2018) due to the presence of mangrove forest.
+```
