@@ -3,7 +3,7 @@ title: 'Mendelism'
 weight: 2
 ---
 
- The contribution of Mendel to Genetics is called Mendelism. It includes all concepts brought out by Mendel through his original research on plant hybridization. Mendelian genetic concepts are basic to modern genetics. Therefore, Mendel is called as **Father of Genetics.**
+The contribution of Mendel to Genetics is called Mendelism. It includes all concepts brought out by Mendel through his original research on plant hybridization. Mendelian genetic concepts are basic to modern genetics. Therefore, Mendel is called as **Father of Genetics.**
 
 ### Father of Genetics – Gregor Johann Mendel (1822 – 1884)
 
@@ -49,15 +49,18 @@ derived from the same plant is known as self- fertilization. Self pollination ta
 
 ![figure2.3.seven-characters-of-pisumsativum-studied-by-mendel](2.3.png "")
 
-![seven-characters-of-pisumsativum-with-genes](2.4.png "")
+![Figure 2.4: Mendel’s seven characters in Garden Peas, shown on the plant’s seven chromosomes](2.4.png "")
 
 
 Mendel worked at the rules of inheritance and arrived at the correct mechanism before any knowledge of cellular mechanism, DNA, genes, chromosomes became available. Mendel insights and meticulous work into the mechanism of inheritance played an important role which led to the development of improved crop varieties and a revolution in crop hybridization.
 
 Mendel died in 1884. In 1900 the work of Mendel’s experiments were rediscovered by three biologists, **Hugo de Vries** of Holland, **Carl Correns** of Germany and **Erich von Tschermak** of Austria.
 
+```
 Can you identify Mendel’s gene for **regulating white colour in peas? Let us find** the **molecular answer** to understand the gene function. Now the **genetic mystery of Mendel’s white flowers is solved.** It is quite fascinating to trace the Mendel’s genes. In 2010, the gene responsible for regulating flower colour in peas were identified by an international team of researchers. It was called **Pea Gene A** which encodes a **protein** that functions as a transcription factor which is responsible for the production of **anthocyanin pigment. So the flowers are** purple. Pea plants with white flowers do not have anthocyanin, even though they have the gene that encodes the enzyme involved in anthocyanin synthesis. Researchers delivered normal copies of gene A into the cells of the petals of white flowers by the gene gun method. When Gene A entered in a small percentage of cells of white flowers it is expressed in those particular cells, accumulated anthocyanin pigments and became purple. In white flowers the gene A sequence showed a single-nucleotide change that makes the transcription factor inactive. So the mutant form of gene A do not accumulate anthocyanin and hence they are white.
 ![Purple flower of Pea with Pea Gene A and White flower of Pea](2.5.png "")
+
+```
 
 ### Terminology related to Mendelism
 
