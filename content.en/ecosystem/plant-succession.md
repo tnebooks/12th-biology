@@ -93,18 +93,35 @@ Example: In a forest ecosystem soil erosion and leaching alter the nutrient valu
 If the autotrophic organisms like green plants are dominant during the early stages of succession it is called **autotrophic succession**, this occurs in the habitat which is rich in inorganic substances. Since, green plants dominate in the beginning of this succession, there is a gradual increase in organic matter and subsequently the energy flow in the ecosystem.
 
 
+### Process of succession
+
+There are a number of sequential processes in
+primary autotrophic succession. They are 
+(1)Nudation, 
+(2) Invasion (migration) 
+(3) Ecesis,
+(4) Aggregation, 
+(5) Competition, 
+(6) Reaction
+(7) Stabilization (climax).
 
 
+**1. Nudation**- This is the development of a barren area without any form of life. The barren area may be developed due to topographic (soil erosion, wind action), climatic (hails, storm, fire), and biotic (human activities, epidemics, etc.,) factors.
 
 
+**2. Invasion**- If species invade or reach a barren area from any other area it is called invasion. When the seeds, spores or other propagules of plant species reach the barren area, by air, water and various other agent, it is known as migration.
+
+**3. Ecesis (Establishment)**- After reaching a new area (invasion), the successful establishment of the species, as a result of adjustment with the conditions prevailing in the area, is known as ecesis. If the establishment is complete, the plant will be able to reproduce sexually in that particular area.
+
+**4. Aggregation**- The successful establishment of species, as a result of reproduction and increase in population of the species than the earlier stage is called aggregation.
+
+**5. Competition** - It refers to the aggregation of a particular species in an area which leads to inter specific and intraspecific competition among the individuals for water, nutrient,radiant energy, CO2, O2 and space, etc.
 
 
+**6. Reaction**- The species occupying a habitat gradually modify the environmental condition, where the existing species community is displaced or replaced by another. This is called reaction. The community which is replaced by another community is called seral community.
 
 
-
-
-
-
+**7. Stabilization (Climax stage)** - The final establishment of plant community is called stabilization. This establishment of a plant community which maintains itself in equilibrium with climax of the area and not replaced by others is known as climax community and the stage is climax stage.
 
 ### Classification of plant succession
 
