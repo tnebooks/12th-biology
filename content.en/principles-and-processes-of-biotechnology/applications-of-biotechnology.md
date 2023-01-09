@@ -3,8 +3,6 @@ title: 'Applications of Biotechnology'
 weight: 8
 ---
 
-
-## Applications of Biotechnology 
 -  Biotechnology is one of the most important
 applied interdisciplinary sciences of the **21st century**. It is the trusted area that enables us to find the beneficial way of life.
 - This science has an invaluable outcome like **transgenic varieties** of plants e.g. transgenic

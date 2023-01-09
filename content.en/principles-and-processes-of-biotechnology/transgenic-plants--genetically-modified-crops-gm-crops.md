@@ -58,7 +58,8 @@ Bt cotton has some limitations:
 
 **Disadvantages**
 
-**ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal Fruit and Shoot Borer (_Leucinodes orbonalis_).
+**ii. Bt Brinjal** 
+The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal Fruit and Shoot Borer (_Leucinodes orbonalis_).
 
 ![Figure 4.26: Bt Brinjal](4.25.png  "img-class")
 
@@ -76,6 +77,9 @@ Many plants are affected by virus attack resulting in series loss in yield and e
 _Agrobacterium_ mediated genetic engineering technique was followed to produce Flavr-Savr tomato, i.e., retaining the natural colour and flavor of tomato. 
 
 Through genetic engineering, the ripening process of the tomato is slowed down and thus prevent it from softening and to increase the shelf life. The tomato was made more resistant to rotting by _Agrobacterium_ mediated gene transfer mechanism of introducing an antisense gene which interferes with the production of the enzyme polygalacturonase, which help in delaying the ripening process of tomato during long storage and transportation.
+
+![Figure 4.27: Dhara Mustard](4.27.png  "img-class")
+
 
 ### Golden rice - Biofortification
 Golden rice is a variety of _Oryza sativa_ (rice) produced through genetic engineering of biosynthesized beta-carotene, a precursor of Vitamin-A in the edible parts of rice developed by Ingo Potrykus and his group. The aim is to produce a fortified food to be grown and consumed in areas with a shortage of dietary Vitamin-A, Golden rice differs from its parental strain by the addition of three beta-carotene biosynthesis genes namely ‘psy’ (phytoene synthase) from daffodil plant Narcissus _pseudonarcissus_ and ‘crt-1’ gene from the soil bacterium _Erwinia auredorora_ and ‘lyc’ (lycopene cyclase) gene from wild-type rice endosperm. 
@@ -100,18 +104,19 @@ reaction) and allergies
 - Loss of viability of seeds seen in terminator seed technology of GM crops.
 
 ### Polyhydroxybutyrate (PHB)
+
 Synthetic polymers are non-degradable and pollute the soil and when burnt add dioxin in the environment which cause cancer. So, efforts were taken to provide an alternative eco-friendly biopolymers. Polyhydroxyalkanoates (PHAs) and polyhydroxybutyrate (PHB) are group of degradable biopolymers which have several medical applications such as drug delivery, scaffold and heart valves. PHAs are biological macromolecules and thermoplastics which are biodegradable and biocompatible. Several microorganisms have been utilized to produce different types of PHAs including Gram-positive like _Bacillus megaterium_, _Bacillussubtilis_ and _Corynebacterium glutamicum_, Gram-negative bacteria like group of _Pseudomonas_ sp. and _Alcaligenes eutrophus_.
 
 ### Polylactic acid (PLA)
 Polylactic acid or polylactide (PLA) is a biodegradable and bioactive thermoplastic. It is an aliphatic polyester derived from renewable resources, such as corn starch, cassava root, chips or starch or sugarcane. For the production of PLA, two main monomers are used: lactic acid, and the cyclic diester, lactide. The most common route is the ring-opening polymerization of lactide with metal catalysts like tin octoate in solution. The metal-catalyzed reaction results in equal amount of _d_ and polylactic acid.
 
-![Figure 4.29: Golden rice](4.29.png  "img-class")
-
 ### Green Fluorescent Protein (GFP)
-The green fluorescent protein (GFP) is a protein containing 238 amino acid residues of 26.9 kDa that exhibits bright green fluorescence when exposed to blue to ultraviolet range (395nm). GFP refers to the protein first isolated from the jellyfish Aequorea victoria. GFP is an excellent tool in biology due to its ability to form internal chromophore without requiring any accessory cofactors, gene products, enzymes or substrates other than molecular oxygen. In cell and molecular biology, the GFP gene is frequently used as a reporter of expression. It has been used in
- modified forms to make biosensors.
+The green fluorescent protein (GFP) is a protein containing 238 amino acid residues of 26.9 kDa that exhibits bright green fluorescence when exposed to blue to ultraviolet range (395nm). GFP refers to the protein first isolated from the jellyfish Aequorea victoria. GFP is an excellent tool in biology due to its ability to form internal chromophore without requiring any accessory cofactors, gene products, enzymes or substrates other than molecular oxygen. In cell and molecular biology, the GFP gene is frequently used as a reporter of expression. It has been used in modified forms to make biosensors.
+
+ ![Figure 4.29: Golden rice](4.29.png  "img-class")
 
 ### Biopharming
+
  Biopharming also known as molecular pharming is the production and use of transgenic plants genetically engineered to produce pharmaceutical substances for use of human beings. This is also called “molecular **farming or pharming”. These plants are** different from medicinal plants which are naturally available. The use of plant systems as bioreactors is gaining more significance in modern biotechnology. Many pharmaceutical substances can be produced using transgenic plants. Example: Golden rice
 
 ### Bioremediation
@@ -137,7 +142,7 @@ about remediation of environmental pollutants.
 - The use of genetic engineering technology to create genetically modified microorganism or a consortium of microbes for bioremediation process has great potential.
 
 ### Biofuel: Algal Biofuel
- Algal fuel, also known as algal biofuel, or algal oil is an alternative to liquid fossil fuel, the petroleum products. This is also used as a source of energy-rich oils. Also, algal fuels are an alternative to commonly known biofuel sources obtained from corn and sugarcane. The energy crisis and the world food crisis have initiated interest in algal culture (farming algae) for making biodiesel and other biofuels on lands unsuitable for agriculture. _Botryococcus braunii_ is normally used to produce algal biofuel.
+Algal fuel, also known as algal biofuel, or algal oil is an alternative to liquid fossil fuel, the petroleum products. This is also used as a source of energy-rich oils. Also, algal fuels are an alternative to commonly known biofuel sources obtained from corn and sugarcane. The energy crisis and the world food crisis have initiated interest in algal culture (farming algae) for making biodiesel and other biofuels on lands unsuitable for agriculture. _Botryococcus braunii_ is normally used to produce algal biofuel.
 
 ![Figure 4.31: Algal Biofuel](4.30.png  "img-class")
 
