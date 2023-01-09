@@ -1,5 +1,5 @@
 ---
-title: '7.4 Vegetation'
+title: 'Vegetation'
 weight: 4
 ---
 

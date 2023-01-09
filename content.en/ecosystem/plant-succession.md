@@ -6,8 +6,18 @@ weight: 3
 
 We very often see that forests and lands in our areas are drastically affected by natural calamities (Flood, earthquake) and anthropogenic activities (Fire, over grazing, cutting of trees). Due to these reasons all plants of an area are destroyed and the areas become nude. When we observe this area, over a period of a time we can see that it will be gradually covered by plant community again and become fertile. Such successive replacement of one type of plant community by the other of the same area/ place is known as plant succession. The first invaded plants in a barren area are called **pioneers**. On the other hand, a series of transitional developments of plant communities one after another in a given area are called **seral communities**. At the end a final stage and a final plant community gets established which are called as climax and climax community respectively.
 
+### Causes of Succession
+
+Ever since the onset of origin of life, organic evolution and ecological succession are taking place parallelly. Ecological succession is a complex process. There are three types of causes for any ecological succession. They are
+
+**a. Initiating causes** - Activity of abiotic (light, temperature, water, fire, soil erosion and wind) and biotic factors (competition among organisms) leads to formation of a barren area or destruction of the existing community of an area, initiating primary or secondary succession respectively.
+
+**b. Continuing causes** - The processes of migration, aggregation, competition, reaction etc, are the continuing causes which lead to change the plant communities and nature of the soil in an area.
+
+**c. Stabilizing causes** - The stabilization of the plant community in an area is primarly controlled by climatic factors rather than other factors.
+
 ### Characteristics of ecological succession
- - It is a systematic process which
+- It is a systematic process which
 
 causes changes in specific structure of plant community.
 - It is resultant of changes of abiotic and biotic factors.
@@ -21,7 +31,7 @@ total biomass, niche specialisation, and humus content of soil takes place.
 - It creates inter-dependence of plants and animals.
 
 ### Types of succession
- The various types of succession have been classified in different ways on the basis of different aspects. These are as follows:
+The various types of succession have been classified in different ways on the basis of different aspects. These are as follows:
 
 #### 1. Primary succession - 
 The development of plant community in a barren area where no community existed before is called primary succession. The plants which colonize first in a barren area is called **pioneer species** or **primary community** or **primary colonies**. Generally, Primary succession takes a very long time for the occurrence in any region.
@@ -69,9 +79,32 @@ The development of** a plant community in an area where an already developed com
     community on                      disturbed area
     barren area.
 ```
+
+
+**Allogeneic succession**
+
 Allogeneic succession occurs as a result of abiotic factors. The replacement of existing community is caused by other external factors (soil erosion, leaching, etc.,) and not by existing organisms.
 
 Example: In a forest ecosystem soil erosion and leaching alter the nutrient value of the soil leading to the change of vegetation in that area.
+
+
+**4. Autotrophic succession**
+
+If the autotrophic organisms like green plants are dominant during the early stages of succession it is called **autotrophic succession**, this occurs in the habitat which is rich in inorganic substances. Since, green plants dominate in the beginning of this succession, there is a gradual increase in organic matter and subsequently the energy flow in the ecosystem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Classification of plant succession
 
@@ -116,6 +149,42 @@ Detailed study of Hydrosere and Lithosere are discussed below:
       └──────────────────────────┘           └───────────────────────────┘
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Hydrosere
 
 The succession in a freshwater ecosystem is also referred to as hydrosere. Succession in a pond, begins with colonization of the pioneers like phytoplankton and finally ends with the formation of climax community like forest stage. It includes the following stages Fig 7.21. 

@@ -171,7 +171,6 @@ In a **forest ecosystem** the pyramid of number is somewhat different in shape, 
 
 The pyramid of number in a parasite **ecosystem** is always **inverted**, because it starts with a single tree. Therefore there is gradual increase in the number of organisms in successive tropic levels from producer to tertiary consumers.
 
-
 **2 Pyramid of biomass**
 
 A graphical representation of the amount of organic material (biomass) present at each successive trophic level in an ecosystem is called **pyramid of biomass**.
@@ -194,7 +193,8 @@ A graphical representation of energy flow at each successive trophic level in an
 Decomposition is a process in which the detritus (dead plants, animals and their excreta) are broken down in to simple organic matter by the decomposers. It is an essential process for recycling and balancing the nutrient pool in an ecosystem. 
 
 **Nature of decomposition** 
- The process of decomposition varies based on the nature of the organic compound, some of the copounds like carbohydrate, fat and protein are decomposed rapidly than the cellulose, lignin,chitin, hair and bone.
+
+The process of decomposition varies based on the nature of the organic compound, some of the copounds like carbohydrate, fat and protein are decomposed rapidly than the cellulose, lignin,chitin, hair and bone.
 
 **Mechanism of decomposition**
 
