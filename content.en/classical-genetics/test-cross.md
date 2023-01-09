@@ -73,3 +73,20 @@ The protein called starch branching enzyme (SBEI) is encoded by the wild-type al
 
 ```
 
+### The Dihybrid test cross
+
+![Figure 2.9: Dihybrid cross of gametes](2.32.png "")
+
+### Extensions of Mendelian Genetics
+
+Apart from monohybrid, dihybrid and trihybrid crosses, there are exceptions to Mendelian principles, i.e. the occurrence of different phenotypic ratios. The more complex patterns of inheritance are the extensions of Mendelian Genetics. There are examples where phenotype of the organism is the result of the interactions among genes.
+
+**Gene interaction**– A single phenotype is controlled by more than one set of genes, each of which has two or more alleles. This phenomenon is called Gene Interaction. Many characteristics of the organism including structural and chemical which constitute the phenotype are the result of interaction between two or more genes.
+
+![Figure 2.9: Dihybrid cross of gametes](2.33.png "")
+
+Mendelian experiments prove that a single gene controls one character. But in the post Mendelian findings, various exception have been noticed, in which different types of interactions are possible between the genes. This gene interaction concept was introduced and explained by W. Bateson. This concept is otherwise known as Factor hypothesis or Bateson’s factor hypothesis. According to Bateson’s factor hypothesis, the gene interactions can be classified as
+
+- Intragenic gene interactions or Intra allelic or allelic interactions
+
+- Intergenic gene interactions or inter allelic or non-allelic interactions
