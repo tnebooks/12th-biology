@@ -280,6 +280,8 @@ Zoophily refers to pollination through animals and pollination through insects i
 **Pollination in Maize (Zea mays):** 
 The maize is monoecious and unisexual. The male inflorescence (tassel) is borne terminally and female inflorescence (cob) laterally at lower levels. Maize pollens are large and heavy and cannot be carried by light breeze. However, the mild wind shakes the male inflorescence to release the pollen which falls vertically below. The female inflorescence has long stigma (silk) measuring upto 23 cm in length, which projects beyond leaves. The pollens drop from the tassel is caught by the stigma (Figure 1.15).
 
+![Figure 1.15 Pollination in Zea mays](1.17.png "float-end w-25")
+
 **2. Hydrophily:** Pollination by water is called hydrophily and the flowers pollinated by water are said to be hydrophilous (Example: Vallisneria, Hydrilla). Though there are a number of aquatic plants, only in few plants pollination takes place by water. The floral envelop of hydrophilous plants are reduced or absent. In water plants like Eichhornia and water lilly pollination takes place through wind or by insects. There are two types of hydrophily, Epihydrophily and Hypohydrophily. In most of the hydrophilous flowers, the pollen grains possesses mucilage covering which protects them from wetting.
 
 **a. Epihydrophily:** Pollination occurs at the water level. Examples: _Vallisneria spiralis, Elodea._ 
@@ -289,8 +291,6 @@ The maize is monoecious and unisexual. The male inflorescence (tassel) is borne 
 
 ![Figure 1.16 Pollination in Vallisneria](1.18.png "float-end w-25")
 
-**b. Hypohydrophily:**
-Pollination occurs inside the water. Examples: *Zostera marina and Ceratophyllum*
 
 ```hint { role ="warn" }
 **Activity**
@@ -320,10 +320,13 @@ Pollination occurs inside the water. *Examples: Zostera marina and Ceratophyllum
 
 - The floral parts are tough and leathery to withstand the powerful impact of the visitors.
 
-**B. Cheiropterophily:** Pollination carried out by bats is called cheiropterophily. Some of the common cheiropterophilous plants are Kigelia africana, Adansonia digitata, etc.,
+**B. Cheiropterophily:** 
+
+Pollination carried out  by bats is called cheiropterophily. Some of the common cheiropterophilous plants are Kigelia africana, Adansonia digitata, etc., Bats are nocturnal and are attracted by the odour of the flowers that open at or after dusk. The cheiropterophilous plants have flowers borne ry singly or in clusters quite away from the leaves and branches either on the long peduncle or on the trunk or branches. The flowers produce large quantities of nectar. 
+
+Pollination in Adansonia digitata: In this plant, the ball of stamens and the stigma project beyond the floral envelops. The bat  holds the flower by clasping the stamen ball to its breast. While taking nectar its breast becomes laden with numerous pollen grains, some of which get deposited on the stigma of the flower when it visits next.
 
 **C. Malacophily:** Pollination by slugs and snails is called malacophily. Some plants of Araceae are pollinated by snails. Water snails crawling among Lemna pollinate them.
-
 
 **D. Entomophily:** Pollination by insects is called **Entomophily**. Pollination by ant is called **myrmecophily.** Insects that are well adapted to bring pollination are bees, moths, butterflies, flies, wasps and beetles. Of the insects, bees the insects. are the main flower visitors and dominant Pollination in Salvia (Lever mechanism): pollinators. Insects are chief pollinating agents The flower is protandrous and the corolla is and majority of angiosperms are adapted for RECURRENT bilabiate with 2 stamens. A lever mechanism insect pollination. It is the most common type of pollination.
 
@@ -354,6 +357,7 @@ This mechanism is found in members of Asclepiadaceae( Apocynaceae as per APG sys
 ![Figure 1.17 (b) Pollination in Calotropis -Translator mechanism](1.37.png "float-end w-25")
 
 ### Pollination in Aristolochia (Trap mechanism)
+
 A special mechanism to accomplish pollination called trap mechanism is found in Aristolochia. The flowers are axillary and perianth is tubular with a hood at the top. The basal region is swollen and possesses gynostegium. The gynostegium has six anthers.
 ![Figure 1.17 (c) Pollination in Aristolochia - Trap mechanism](1.38.png "float-end w-25")
 
