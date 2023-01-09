@@ -7,6 +7,10 @@ weight: 3
 
 The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
 
+
+![Figure 1.4 stages in the development of anther](1.3.png "float-end w-25") 
+
+
 ### Male Reproductive part - Androecium
 
 Androecium is made up of stamens. Each stamen possesses an anther and a filament. Anther bears pollen grains which represent the male gametophyte. In this chapter we shall discuss the structure and development of anther in detail.
