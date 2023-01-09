@@ -3,7 +3,6 @@ title: 'Vegetation'
 weight: 4
 ---
 
-
 ## 7.4 Vegetation
 
 Vegetation refers to the plant cover of an area. Geographically, India is a tropical country and also has strong monsoon climate and differs from other tropical regions of the World. India has four major climatic regions such as wet zone, intermediate zone, dry zone and arid zone, These regions are characterized by different types of natural vegetation. Nature of vegetation is also determined by several factors like altitude, types of plants, animals, climate, soil type, etc. Vegetation in Indian sub-continent is influenced by biotic factors and the existing human culture for a long time. The influence of man on plant formation and distribution is called anthropogenic effect on vegetation. Tamil Nadu has a rich biodiversity right from the Gulf of Mannar to Western Ghats. Tamil Nadu shares the Western Ghats with states of Kerala, Karnataka, Goa, Maharashtra, Gujarat while Eastern Ghats is shared with the State of Andhra Pradesh. Of the 10 geographic zones in India, Coramandel (or) East Coast and Western Ghats are from Tamil Nadu.
@@ -95,6 +94,7 @@ Nagapatinum districts.
 
 #### III. Montane Subtropical Forests
 This type of vegetation occurs in the areas with fairly high rainfall but where the climate is cooler than the tropical and warmer than the temperate forests. They are found in the altitude between 1000 m and 2000 m. The common plants are Eugenia, Syzygium and Toona are mostly evergreens. Many epiphytes including orchids and ferns are present. These are found in Nilgiri, Mahabaleswar, Assam and Manipur. In Eastern Ghats,it is found in the upper slopes and plateau of shervaroys, Kollimalai and Pachamalai of Tamil Nadu These are further classified into
+
 **8. Sub-tropical broad leaved hill forests** (Tamil
 Nadu,Kerala,Karnataka and Assam).
 **9. Sub-tropical pine forests** (Punjab, U.P and a
@@ -127,20 +127,30 @@ This type of vegetation is found in the altitude ranging between 2900 m to 3500 
 #### VI Alpine - Scrub
 
 This type of vegetation is found in the Himalayas at an altitude ranging from 3600 m to 4900 m. The height of the trees decreases with increasing altitudes. The common plants are small sized plants such as Sedum, Primula, Saxifraga, Rhododendron , Juniperus and with many types of lichens. These are further classified into
+
 **15. Moist alpine scrubs**
+
 **16. Dry alpine scrubs.**
-```
-Grasslands created and maintained by human are called anthropogenic grasslands.
-```
+
 
 **2. Grass land vegetation**
 Grassland refer to the vegetation community predominated by graminoids (i.e. grass and grass like plants). These are found in the altitude ranging from 150 to 2000 m and above mean sea level. The major plant families of the plants are Poaceae, Cyperaceae, Fabaceae , Gentianaceae and Asteraceae are common in this type of vegetation. The grass land not only comprises plants but also serves as habitats to a variety of micro and macro fauna. Based on the range of altitude, grasslands are categorized into: low altitude grasslands and high altitude grasslands.
 
+```
+Grasslands created and maintained by human are called anthropogenic grasslands.
+```
+
+
 **a. Low altitude grasslands**
 
-This type of grasslands are found at an altitude upto 1000 m. The common plant species are Halopyrum, Wild Saccharum, Arundinella, Heteropogon and Chrysopogon. These types of grasslands are spread over coastal areas, riverline and alluvial areas of Deccan plateau, Chota Nagpur plateau, Gangetic, Brahmaputra valley and Eastern Ghats. In Tamil Nadu, these are found in the Eastern Ghats .These are scattered and intermixed with local forests. They are exposed to considerable biotic interference. Fire is common during dry months.
+This type of grasslands are found at an altitude upto 1000 m. The common plant species are Halopyrum, Wild Saccharum, Arundinella, Heteropogon and Chrysopogon. These types of grasslands are spread over coastal areas, riverline and alluvial areas of Deccan plateau, Chota Nagpur plateau, Gangetic, Brahmaputra valley and Eastern Ghats. 
 
-b. Higher altitude grasslands This type of grasslands are found in altitude above 1000 m.The common plants species are Chrysopogon, altitude grassland Arundinella, Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca, and Agrostis.. It is spread over the southern slopes of Himalayas, subHimalayan ranges, Nagaland, Pradesh and Western ghats. Himachal In Tamil Nadu ,these grasslands are found in higher regions of western ghats and are found between the sholas forest patches that occur in the depressions and furrows created by water courses flowing in these rolling downs are called as rolling grassland and also called shola grassland. It shows different types of vegetation like grasses, herbs, few shrubs and stunted trees.
+In Tamil Nadu, these are found in the Eastern Ghats .These are scattered and intermixed with local forests. They are exposed to considerable biotic interference. Fire is common during dry months.
+
+**b. Higher altitude grasslands** 
+This type of grasslands are found in altitude above 1000 m.The common plants species are Chrysopogon, altitude grassland Arundinella, Andropogon, Heteropogon, Cymbopogon, Imperata, Festuca, and Agrostis.. It is spread over the southern slopes of Himalayas, subHimalayan ranges, Nagaland, Pradesh and Western ghats. Himachal In Tamil Nadu ,these grasslands are found in higher regions of western ghats and are found between the sholas forest patches that occur in the depressions and furrows created by water courses flowing in these rolling downs are called as rolling grassland and also called shola grassland. It shows different types of vegetation like grasses, herbs, few shrubs and stunted trees.
+
+![Figure 7.22: Map showing forest types of India.Champion and Seth (1968)](7.24.png "")
 
 ```
 Existence of two climax communities under the influence of same climatic conditions are found in higher mountain hill tops, above 7000 feet MSL (Mean sea level) of Nilgiris. Example: Sholas and grasslands.
