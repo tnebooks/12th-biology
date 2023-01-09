@@ -1,10 +1,10 @@
 ---
 title: 'DNA Metabolism in Plants'
-weight: 17
+weight: 7
 ---
 
 
- As the repository of genetic information, DNA occupies a unique and central place among biological macromolecules. The structure of DNA is a marvelous device for the storage of genetic information. The term “DNA Metabolism” can be used to describe process by which copies of DNA molecules are made (replication) along with repair and recombination.
+As the repository of genetic information, DNA occupies a unique and central place among biological macromolecules. The structure of DNA is a marvelous device for the storage of genetic information. The term “DNA Metabolism” can be used to describe process by which copies of DNA molecules are made (replication) along with repair and recombination.
 
 In this chapter we briefly discuss about the DNA metabolism in plants
 

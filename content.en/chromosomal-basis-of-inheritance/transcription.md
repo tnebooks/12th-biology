@@ -1,10 +1,10 @@
 ---
 title: 'Transcription'
-weight: 19
+weight: 9
 ---
 
  
- Transcription is the process in which one strand of DNA acts as a template to generate mRNA with the bases complementary to the template strand. It is catalyzed by the enzymes called RNA polymerases.
+Transcription is the process in which one strand of DNA acts as a template to generate mRNA with the bases complementary to the template strand. It is catalyzed by the enzymes called RNA polymerases.
 
 **Transcription** and processing of RNA takes place in the **nucleus**, whereas the **translation** occurs in the ribosomes found in **cytoplasm**. In Eukaryotes, mRNA molecules are **monocistronic** with only one protein being derived from each mRNA.
 
@@ -103,7 +103,7 @@ RNA Splicing is a process which involves the cutting or removing out of introns 
 A spliceosome removes the introns with an enzyme ribozyme. Now the mature mRNA comes away from the spliceosomes through the nuclear pore and is transported out from the nucleus into cytoplasm, and gets attached to ribosome to carry out translation. The RNA and many proteins are transported through a nuclear pore complex by an energy dependent process.
 
 ### Translation
- The genetic information in the DNA code is copied onto mRNA bound in ribosomes for making polypeptides. The mRNA nucleotide sequence is decoded into amino acid sequence of the protein which is catalyzed by the ribosome. This process is called translation.
+The genetic information in the DNA code is copied onto mRNA bound in ribosomes for making polypeptides. The mRNA nucleotide sequence is decoded into amino acid sequence of the protein which is catalyzed by the ribosome. This process is called translation.
 
 **Terminology in Protein synthesis**
 
@@ -199,7 +199,7 @@ acids which include initiation and termination codon.
 
 ![Barbara McClintock](3.27.png "")
 
- **Have you heard of Jumping Genes or Hopping Genes?**
+**Have you heard of Jumping Genes or Hopping Genes?**
 
 This is the nick name of transposable genetic elements. Transposons are the DNA sequences which can move from one position to another position in a genome. This was first reported in 1948 by American Geneticist Barbara McClintock as “mobile controlling element” in Maize. One of the most significant scientists of 20th century was Barbara McClintock because she gave a shift in gene organization. McClintock was awarded Nobel prize in 1983 for her work on transposons. Barbara McClintock when studying aleurone of single maize kernels, noted the unstable inheritance of the mosaic pattern of blue, brown and red spots due to the differential production of vacuolar anthocyanins. 
 
