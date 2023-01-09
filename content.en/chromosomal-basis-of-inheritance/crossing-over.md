@@ -29,19 +29,6 @@ chromosomes is initiated during zygotene stage of prophase I of meiosis I. Homol
 
 After crossing over, chiasma starts to move towards the terminal end of chromatids. This is known as **terminalisation**. As a result, complete separation of homologous chromosomes occurs.
 
-```
-
-**Activity: Solve this**
-
-Consider two hypothetical recessive autosomal genes a and b, where a heterozygote is testcrossed to a double homozygous mutant. Predict the phenotypic ratios under the following conditions: 
-
-(a) a and b are located on separateautosomes. 
-
-(b) a and b are linked on the same autosome but are so far apart that a crossover occurs between them.
-
-(c) a and b are linked on the same autosome but are so close together that a crossover almost never occurs.
-
-```
 
 ### Importance of Crossing Over
 
@@ -68,9 +55,25 @@ Crossing over results in the formation of new combination of characters in an or
 
 The percentage of recombinant progeny in a cross is called recombination frequency. The recombination frequency (cross over frequency) (RF) is calculated by using the following formula. The data is obtained from alleles in coupling configuration.
 
+```
+
+**Activity: Solve this**
+
+Consider two hypothetical recessive autosomal genes a and b, where a heterozygote is testcrossed to a double homozygous mutant. Predict the phenotypic ratios under the following conditions: 
+
+(a) a and b are located on separateautosomes. 
+
+(b) a and b are linked on the same autosome but are so far apart that a crossover occurs between them.
+
+(c) a and b are linked on the same autosome but are so close together that a crossover almost never occurs.
+
+```
+
 ### Genetic Mapping
 
-Genes are present in a linear order along the chromosome. They are present in a specific location called locus (plural: loci). The diagrammatic representation of position of genes and related distances between the adjacent genes is called **genetic mapping**. It is directly proportional to the frequency of recombination between them. It is also called as linkage map. The concept of gene mapping was first developed by Morgan’s student **Alfred H Sturtevant** in 1913. It provides clues about where the genes lies on that chromosome. **Map distance** The unit of distance in a genetic map is called a **map unit** (m.u). One map unit is equivalent to one percent of crossing over (Figure 4. ). One map unit is also called a centimorgan (cM) in honour of **T.H. Morgan**. 100 centimorgan is equal to one Morgan (M). For example: A distance between A and B genes is estimated to be 3.5 map units. It is equal to 3.5 centimorgans or 3.5 % or 0.035 recombination frequency between the genes.
+Genes are present in a linear order along the chromosome. They are present in a specific location called locus (plural: loci). The diagrammatic representation of position of genes and related distances between the adjacent genes is called **genetic mapping**. It is directly proportional to the frequency of recombination between them. It is also called as linkage map. The concept of gene mapping was first developed by Morgan’s student **Alfred H Sturtevant** in 1913. It provides clues about where the genes lies on that chromosome. **Map distance** 
+
+The unit of distance in a genetic map is called a **map unit** (m.u). One map unit is equivalent to one percent of crossing over (Figure 4. ). One map unit is also called a centimorgan (cM) in honour of **T.H. Morgan**. 100 centimorgan is equal to one Morgan (M). For example: A distance between A and B genes is estimated to be 3.5 map units. It is equal to 3.5 centimorgans or 3.5 % or 0.035 recombination frequency between the genes.
 
 **Uses of genetic mapping** 
 

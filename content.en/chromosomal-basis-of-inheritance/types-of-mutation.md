@@ -1,10 +1,10 @@
 ---
 title: 'Types of mutation'
-weight: 16
+weight: 6
 ---
 
  
- Let us see the two general classes of gene mutation: 
+Let us see the two general classes of gene mutation: 
 
 - Mutations affecting single base or base pair of DNA are called point mutation 
 

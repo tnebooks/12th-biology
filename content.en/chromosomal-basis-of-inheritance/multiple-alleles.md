@@ -1,6 +1,6 @@
 ---
 title: 'Multiple alleles'
-weight: 14
+weight: 4
 ---
 
 A given phenotypic trait of an individual depends on a single pair of genes, each of which occupies a specific position called the locus on homologous chromosome. When any of the three or more allelic forms of a gene occupy the same locus in a given pair of homologous chromosomes, they are said to be called **Multiple alleles** 
@@ -24,7 +24,8 @@ There may be multiple alleles within the population, but individuals have only t
 - When any two of the mutant multiple alleles are crossed the phenotype is always mutant type and not the wild type
 
 ### Self-sterility in _Nicotiana_
- In plants, multiple alleles have been reported in association with self-sterility or self- incompatibility. Self-sterility means that the pollen from a plant is unable to germinate on its own stigma and will not be able to bring about fertilization in the ovules of the same plant. **East (1925)** observed multiple alleles in **_Nicotiana_** which are responsible for self-incompatibility or self-sterility. The gene for self-incompatibility can be designated as S, which has allelic series S1, S2, S3, S4 and S5 (Figure 3.8).
+
+In plants, multiple alleles have been reported in association with self-sterility or self- incompatibility. Self-sterility means that the pollen from a plant is unable to germinate on its own stigma and will not be able to bring about fertilization in the ovules of the same plant. **East (1925)** observed multiple alleles in **_Nicotiana_** which are responsible for self-incompatibility or self-sterility. The gene for self-incompatibility can be designated as S, which has allelic series S1, S2, S3, S4 and S5 (Figure 3.8).
 
 ![The self-incompatibility in relation to its genotype in tobacco](3.8.png "")
 
