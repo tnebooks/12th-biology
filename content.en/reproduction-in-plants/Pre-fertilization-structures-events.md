@@ -1,6 +1,6 @@
 ---
 title: 'Pre-fertilization: structures and events'
-weight: 3
+weight: 4
 ---
 
 ## Pre-fertilization: structures and events
@@ -25,7 +25,7 @@ A very young anther develops as a homogenous mass of cells surrounded by an epid
 ![Figure 1.4 stages in the development of anther](1.4.png "float-end w-25") 
 ![Figure 1.4 stages in the development of anther](1.5.png "float-end w-25")
 
-T.S. of Mature anther
+**T.S. of Mature anther**
 
 Transverse section of mature anther reveals the presence of anther cavity surrounded by an anther wall. It is bilobed, each lobe having 2 theca (dithecous). A typical anther is tetrasporangiate. The T.S. of Mature anther is given in Figure 1.5.
 
@@ -41,16 +41,22 @@ It is single layered and protective in function. The cells undergo repeated anti
 
 Collect buds and opened flowers of Datura _metel_. Dissect the stamens, separate the anthers and take thin transverse sections and observe the structure under the microscope. Record the various stages of anther development from your observations.
 ```
-![Figure 1.5 T.S of mature anther](1.6.png "float-end w-25")
+
 
 #### b. Endothecium: 
 It is generally a single layer of radially elongated cells found below the epidermis. The inner tangential wall develops bands (sometimes radial walls also) of α cellulose (sometimes also slightly lignified). The cells are **hygroscopic**. In the anthers of aquatic plants, saprophytes, cleistogamous flowers and extreme parasites endothecial differentiation is absent. The cells along the junction of the two sporangia of an anther lobe lack these thickenings. This region is called stomium. This region along with the hygroscopic nature of endothecium helps in the dehiscence of anther at maturity.
 
+![Figure 1.5 T.S of mature anther](1.6.png "float-end w-25")
+
 #### c. Middle layers: 
+
 Two to three layers of cells next to endothecium constitute middle layers. They are generally ephemeral. They disintegrate or get crushed during maturity. 
 
 #### d. Tapetum: 
-It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. There are two types of tapetum based on its behaviour. They are:
+
+It is the innermost layer of anther wall and attains its maximum development at the tetrad stage of microsporogenesis. It is derived partly from the peripheral wall layer and partly from the connective tissue of the anther lining the anther locule. Thus, the tapetum is dual in origin. It nourishes the developing sporogenous tissue, microspore mother cells and microspores. The cells of the tapetum may remain uninucleate or may contain more than one nucleus or the nucleus may become polyploid. It also contributes to the wall materials, sporopollenin, pollenkitt, tryphine and number of proteins that control incompatibility reaction .Tapetum also controls the fertility or sterility of the microspores or pollen grains. 
+
+There are two types of tapetum based on its behaviour. They are:
 
 #### Secretory tapetum (parietal/glandular/ cellular): 
 The tapetum retains the original position and cellular integrity and nourishes the developing microspores.
@@ -92,17 +98,21 @@ Palynology is the study of pollen grains.It helps to identify the distribution o
 
 Liquid nitrogen (-1960C) is used to preserve pollen in viable condition for prolonged duration. This technique is called **cryopreservation** and is used to store pollen grains (pollen banks) of economically important crops for breeding programmes..
 ```
+The wall material sporopollenin is contributed by both pollen cytoplasm and tapetum. It is derived from carotenoids. It is resistant to physical and biological decomposition. It helps to withstand high temperature and is resistant to strong acid, alkali and enzyme action. Hence, it preserves the pollen for long periods in fossil deposits, and it also protects pollen during its journey from anther to stigma. 
+
+Pollenkitt is contributed by the tapetum and coloured yellow or orange and is chiefly made of carotenoids or flavonoids. It is an oilylayer forming a thick viscous coating over pollen surface. It attracts insects and protects damage from UV radiation.
+
 
 ```hint { role ="warn" }
 **Bee pollen** is a natural substance and contains high protein, carbohydrate, trace amount of minerals and vitamins. Therefore, it is used as dietary supplement and is sold as pollen tablets and syrups. Further , it increases the performance of athletes, race horses and also heals the wounds caused by burns . The study of honey pollen is called Mellitopalynology.
+
 ![honey](1.32.png "float-end w-25")
 
 ```
-Pollenkitt is contributed by the tapetum and coloured yellow or orange and is chiefly made of carotenoids or flavonoids. It is an oily layer forming a thick viscous coating over pollen surface. It attracts insects and protects damage from UV radiation.
 
 **Development of Male gametophyte:**
 
- The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at this 3 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells. The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
+The microspore is the first cell of the male gametophyte and is haploid. The development of male gametophyte takes place while they are still in the microsporangium. The nucleus of the microspore divides mitotically to form a **vegetative** and a **generative** nucleus. A wall is laid around the generative nucleus resulting in the formation of two unequal cells, a large irregular nucleus bearing with abundant food reserve called vegetative cell and a small generative cell. Generally at this 2 celled stage, the pollens are liberated from the anther. In some plants the generative cell again undergoes a division to form two male gametes. The pollen is liberated at this 3 celled stage. In 60% of the angiosperms pollen is liberated in 2 celled stage. Further, the growth of the male gametophyte occurs only if the pollen reaches the right stigma. The pollen on reaching the stigma absorbs moisture and swells. The intine grows as pollen tube through the germ pore. In case the pollen is liberated at 2 celled stage the generative cell divides in the pollen into 2 male cells (sperms) after reaching the stigma or in the pollen tube before reaching the embryo sac. The stages in the development of male gametophyte is given in Figure 1.6.
 
 ![Development of male gametopyte](1.7.png "float-end w-25")
 
