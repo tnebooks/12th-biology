@@ -11,8 +11,6 @@ Let us see the two general classes of gene mutation:
 - Mutations altering the number of copies of a small repeated nucleotide sequence within a gene
 **Types of mutations Point mutation in DNA are categorised
 
-![Types of point mutation](3.9.png "")
-
 ![Table 3.7: Major types of mutations](3.31.png "")
 
 **Point mutation**
@@ -29,13 +27,17 @@ The mutation that changes one codon for an amino acid into another codon for tha
 
 ### Mutagenic agents 
 
-The factors which cause genetic mutation are called **mutagenic agents or mutagens**. Mutagens are of two types, physical mutagen and chemical mutagen. **Muller** (1927) was the first to find out physical mutagen in Drosophila. **Physical mutagens:** Scientists are using temperature and radiations such as X rays, gamma rays, alfa rays, beta rays, neutron, cosmic rays, radioactive isotopes, ultraviolet rays as physical mutagen to produce mutation in various plants and animals. **Temperature:** Increase in temperature increases the rate of mutation. While rise in temperature, breaks the hydrogen bonds between two DNA nucleotides which affects the process of replication and transcription. 
+The factors which cause genetic mutation are called **mutagenic agents or mutagens**. Mutagens are of two types, physical mutagen and chemical mutagen. **Muller** (1927) was the first to find out physical mutagen in Drosophila. 
+
+**Physical mutagens:** Scientists are using temperature and radiations such as X rays, gamma rays, alfa rays, beta rays, neutron, cosmic rays, radioactive isotopes, ultraviolet rays as physical mutagen to produce mutation in various plants and animals. 
+
+**Temperature:** Increase in temperature increases the rate of mutation. While rise in temperature, breaks the hydrogen bonds between two DNA nucleotides which affects the process of replication and transcription. 
 
 **Radiation:**
 
 The electromagnetic spectrum** contains shorter and longer wave length rays than the visible spectrum. These are classified into ionizing and non-ionizing radiation. Ionizing radiation are short wave length and carry enough higher energy to ionize electrons from atom. X rays, gamma rays, alfa rays, beta rays and cosmic rays which breaks the chromosomes (chromosomal mutation) and chromatids in irradiated cells. Non-ionizing radiation, UV rays have longer wavelengths and carry lower energy, so they have lower penetrating power than the ionizing radiations. It is used to treat unicellular microorganisms, spores, pollen grains which possess nuclei located near surface membrane. **Sharbati Sonora** 
 
-Sharbati Sonora is a mutant variety of wheat, which is developed from Mexican variety (Sonora 64) by irradiating of gamma rays. It is the work of Dr. **M.S.Swaminathan** who is known as **‘Father of Indian green revolution’** and his team.
+**Sharbati Sonora** is a mutant variety of wheat, which is developed from Mexican variety (Sonora 64) by irradiating of gamma rays. It is the work of Dr. **M.S.Swaminathan** who is known as **‘Father of Indian green revolution’** and his team.
 
 **Castor Aruna** 
 
@@ -65,6 +67,7 @@ The genome can also be modified on a larger scale by altering the chromosome str
 **I. Changes in chromosome number**
 
 Each cell of living organisms possesses fixed number of chromosomes. It varies in different species. Even though some species of plants and animals are having identical number of chromosomes, they will not be similar in character. Hence the number of chromosomes will not differentiate the character of species from one another but the nature of hereditary material (gene) in chromosome that determines the character of species.
+
 Sometimes the chromosome number of somatic cells are changed due to addition or elimination of individual chromosome or basic set of chromosomes. This condition in known as **numerical chromosomal aberration** or **ploidy. There are two types of ploidy.**
 
 (i). Ploidy involving individual chromosomes within a diploid set (**Aneuploidy**)
@@ -75,7 +78,7 @@ Sometimes the chromosome number of somatic cells are changed due to addition or 
 
 It is a condition in which diploid number is altered either by addition or deletion of one or more chromosomes. Organisms showing aneuploidy are known as **aneuploids** or heteroploids. They are of two types, Hyperploidy and Hypoploidy (Figure 3.11).
 
-![Table 3.7: Major types of mutations](3.31.png "")
+![Table 3.7: Major types of mutations](3.32.png "")
 
 **1. Hyperploidy**
 
