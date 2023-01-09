@@ -26,4 +26,5 @@ The steps involved in recombinant DNA technology are:
 - Selection of the transformed host cells is carrying the rDNA and allowing them to multiply thereby multiplying the rDNA molecule.
 
 - The entire process thus generates either a large amount of rDNA or a large amount of protein expressed by the insert.
+
 - Wherever vectors are not involved the desired gene is multiplied by PCR technique. The multiple copies are injected into the host cell protoplast or it is shot into the host cell protoplast by shot gun method.

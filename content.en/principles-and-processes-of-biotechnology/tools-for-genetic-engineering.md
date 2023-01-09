@@ -15,6 +15,7 @@ b. Endonucleases are enzymes which break the internal phosphodiester bonds withi
 ![Table 4.1: Type II restriction enzyme with source, recognition and cleavage site.](4.5.png  "img-class")
 
 **Restriction endonucleases: Molecular scissors** 
+
 The restriction enzymes are called as molecular scissors. These act as foundation of recombinant DNA technology. These enzymes exist in many bacteria where they function as a part of their defence mechanism called restriction- modification system.
 
 There are three main classes of restriction endonucleases : Type I, Type II and Type III, which differ slightly by their mode of action. Only type II enzyme is preferred for use in recombinant DNA technology as they recognise and cut DNA within a specific sequence typically consisting of 4-8 bp. Examples of certain enzymes are given in table 5.1.
@@ -50,6 +51,7 @@ Two other enzymes that play an important role in recombinant DNA technology are 
 
 
 ### Vectors
+
 Another major component of a gene cloning experiment is a vector such as a plasmid. A Vector is a small DNA molecule capable of self-replication and is used as a carrier and transporter of DNA fragment which is inserted into it for cloning experiments. Vector is also called **cloning vehicle** or **cloning DNA**. Vectors are of two types: i) Cloning Vector, and ii) Expression Vector. Cloning vector is used for the cloning of DNA insert inside the suitable host cell. Expression vector is used to express the DNA insert for producing specific protein inside the host.
  
 #### Properties of Vectors** 
@@ -68,6 +70,7 @@ The following are the features that are required to facilitate cloning into a ve
 ![Figure 4.8: Properties of Vector](4.10.png  "img-class")
 
 #### 2.Selectable marker: 
+
 In addition to **ori** the vector requires a selectable marker, which helps in identifying and eliminating non transformants and selectively permitting the growth of the transformants.
 
 #### 3.Cloning sites: 

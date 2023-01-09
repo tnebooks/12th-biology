@@ -20,16 +20,43 @@ One strategy is to incorporate a soil bacterium gene that produces a glyphosate 
 -  Use of low toxicity compounds which do not remain active in the soil; and 
 -  The ability to conserve soil structure and microbes.
 
-![Figure 4.25: Bt Cotton](4.24.png  "img-class")
+##  Herbicide Tolerant - Basta
+Trade name ‘Basta’ refers to a non-selective herbicide containing the chemical compound phosphinothricin. Basta herbicide tolerant gene PPT (L-phosphinothricin) was isolated from Medicago sativa plant. It inhibits the enzyme glutamine synthase which is involved in ammonia assimilation. The PPT gene was introduced into tobacco and transgenic tobacco produced was resistant to PPT. Similar enzyme was also isolated from Streptomyces hygroscopicus with bar gene encodes for PAT (Phosphinothricin acetyl transferase) and was introduced into crop plants like potato and sugar-beet and transgenic crops have been developed
+
+### Insect resistance - Bt Crops:
+**i. Bt Cotton**
+
+Bt cotton is a genetically modified organism (GMO) or genetically modified pest resistant plant cotton variety, which produces an insecticide activity to bollworm. Strains of the bacterium Bacillus thuringiensis produce over 200 different Bt toxins, each harmful to different insects. Most Bt toxins are insecticidal to the larvae of moths and butterflies, beetles, cotton bollworms and gatflies but are harmless to other forms of life.
+
+The genes are encoded for toxic crystals in the Cry group of endotoxin. When insects attack and eat the cotton plant the Cry toxins are dissolved in the insect’s stomach.
+
+The epithelial membranes of the gut block certain vital nutrients thereby sufficient regulation of potassium ions are lost in the insects and results in the death of epithelial cells in the intestine membrane which leads to the death of the larvae.
+
+**Advantages**
+
+The advantages of
+Bt cotton are:
+
+- Yield of cotton is increased Figure 4.22: Bt Cotton due to effective control of bollworms.
+
+- Reduction in insecticide use in the cultivation of Bt cotton
+
+- Potential reduction in the cost of cultivation.
 
 **Disadvantages**
 
 Bt cotton has some limitations:
+
 - Cost of Bt cotton seed is high.
 - Effectiveness up to 120 days after that efficiency is reduced
-- Ineffective against sucking pests like jassids,
-aphids and whitefly.
+
+- Ineffective against sucking pests like jassids, aphids and whitefly.
+
 - Affects pollinating insects and thus yield.
+
+![Figure 4.25: Bt Cotton](4.24.png  "img-class")
+
+**Disadvantages**
 
 **ii. Bt Brinjal** The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal Fruit and Shoot Borer (_Leucinodes orbonalis_).
 

@@ -6,22 +6,24 @@ weight: 6
 
 After the introduction of r-DNA into a suitable host cell, it is essential to identify those cells which have received the r-DNA molecule. This process is called screening. The vector or foreign DNA present in recombinant cells expresses the characters, while the non-recombinants do not express the characters or traits. For this some of the methods are used and one such method is Blue-White Colony Selection method.
 
+![Figure 4.15: Agrobacterium mediated gene transfer in plants](4.37.png  "img-class")
 
 ### Insertional Inactivation - Blue- White Colony Selection Method
 It is a powerful method used for screening of recombinant plasmid. In this method, a reporter gene **lacZ** is inserted in the vector. The lacZ encodes the enzyme β-galactosidase and contains several recognition sites for restriction enzyme.
 
 β-galactosidase breaks a synthetic substrate called X-gal (5-bromo-4-chloro-indolyl-β- D-galacto-pyranoside) into an insoluble blue coloured product. If a foreign gene is inserted into lacZ, this gene will be inactivated. Therefore, no-blue colour will develop (white) because β-galactosidase is not synthesized due to inactivation of lacZ. Therefore, the host cell containing r-DNA form white coloured colonies on the medium contain X-gal, whereas the other cells containing non-recombinant DNA will develop the blue coloured colonies. On the basis of colony colour, the recombinants can be selected.
 
-![Figure 4.18: a. Plasmid vector designed for blue-white screeningr](4.17.png  "img-class")
-
 ### Antibiotic resistant markers
+
 An antibiotic resistance marker is a gene that produces a protein that provides cells with resistance to an antibiotic. Bacteria with transformed DNA can be identified by growing on a medium containing an antibiotic. Recombinants will grow on these media as they contain genes encoding resistance to antibiotics such as ampicillin, chloro amphenicol, tetracycline or kanamycin, etc., while others may not be able to grow in these media, hence it is considered useful selectable marker.
+
+![Figure 4.18: a. Plasmid vector designed for blue-white screeningr](4.17.png  "img-class")
 
 #### Replica plating technique
 
 A technique in which the pattern of colonies growing on a culture plate is copied. A sterile filter plate is pressed against the culture plate and then lifted. Then the filter is pressed against a second sterile culture plate. This results in the new plate being infected with cell in the same relative positions as the colonies in the original plate. Usually, the medium used in the second plate will differ from that used in the first. It may include an antibiotic or exclude a growth factor. In this way, transformed cells can be selected. 
 
-![Figure 4.19: Replica plating technique](4.19.png  "img-class")
+![Figure 4.19: Replica plating technique](4.18.png  "img-class")
 
 ### Molecular Techniques - Isolation of Genetic Material and Gel Electrophoresis
 
@@ -65,12 +67,6 @@ can be photographed
 ![Figure 4.20: a. Bands of DNA in Agarose gel b. Gel Electrophoresis Instrument](4.19.png  "img-class")
 
 
-##### 2. DNA Probes
-
-DNA Probes, isotopic and non-isotopic (Northern
-and Southern blotting) are popular tools for
-identification of viruses and other pathogens
-
 ### Nucleic Acid Hybridization - Blotting Techniques
 Blotting techniques are widely used analytical tools for the specific identification of desired DNA or RNA fragments from larger number of molecules. Blotting refers to the process of immobilization of sample nucleic acids or solid support (nitrocellulose or nylon membranes.) The blotted nucleic acids are then used as target in the hybridization experiments for their specific detection.
 
@@ -97,6 +93,12 @@ diagnostic agents. Use of ELISA in plant pathology
 especially for weeding out virus infected plants
 from large scale planting is well known.
 
+##### 2. DNA Probes
+
+DNA Probes, isotopic and non-isotopic (Northern
+and Southern blotting) are popular tools for
+identification of viruses and other pathogens
+
 **Southern Blotting Techniques - DNA** The transfer of denatured DNA from Agarose gel to Nitrocellulose Blotting or Filter Paper technique was introduced by Southern in 1975 and this technique is called Southern Blotting Technique. 
 
 **Steps** The transfer of DNA from agarose gel to nitrocellulose filter paper is achieved by Capillary Action.
@@ -120,22 +122,11 @@ Autoradiography - A technique that captures the image formed in a photographic e
 
 Target gene is target DNA, foreign DNA, passenger DNA, exogenous DNA, gene of interest or insert DNA that is to be either cloned or specifically mutated. Gene targeting experiments have been targeting the nuclei and this leads to ‘gene knock-out’. For this purpose, two types of targeting vectors are used. They are insertion vectors and replacement or transplacement vectors. 
  
-1. Insertion vectors are entirely inserted into
-targeted locus as the vectors are linearized
-within the homology region. Initially, these
-vectors are circular but during insertion,
-become linear. It leads to duplication of
-sequences adjacent to selectable markers.
+1. Insertion vectors are entirely inserted into targeted locus as the vectors are linearized within the homology region. Initially, these vectors are circular but during insertion, become linear. It leads to duplication of sequences adjacent to selectable markers.
 
 ![Figure 4.22: Steps involved in southern blotting technique](4.21.png  "img-class")
 
-2. The replacement vector has the homology
-region and it is co-linear with target. This
-vector is linearized prior to transfection
-outside the homology region and then
-consequently a crossing over occurs to
-replace the endogenous DNA with the
-incoming DNA.
+2. The replacement vector has the homology region and it is co-linear with target. This vector is linearized prior to transfection outside the homology region and then consequently a crossing over occurs to replace the endogenous DNA with the incoming DNA.
 
 ![Table 4.2: Difference between Blotting Techniques](4.36.png  "img-class")
 

@@ -12,9 +12,9 @@ For achieving genetic transformation in plants, the basic pre-requisite is the c
 
 ### Direct or Vectorless Gene Transfer
 
- In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. 
+In the direct gene transfer methods, the foreign gene of interest is delivered into the host plant without the help of a vector. The following are some of the common methods of direct gene transfer in plants. a. 
  
- #### Chemical mediated gene transfer:
+#### Chemical mediated gene transfer:
 
 Certain chemicals like polyethylene glycol plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
@@ -38,6 +38,7 @@ e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or 
 ![Figure 4.16: Gene gun method of Gene Transfer](4.15.png  "img-class")
 
 ### Indirect or Vector-Mediated Gene Transfer
+
 Gene transfer is mediated with the help of a plasmid vector is known as indirect or vector mediated gene transfer. Among the various vectors used for plant transformation, the Ti-plasmid from _Agrobacterium tumefaciens_ has been used extensively. This bacterium has a large size plasmid, known as Ti plasmid (Tumor inducing) and a portion of it referred as T-DNA (transfer DNA) is transferred to plant genome in the infected cells and cause plant tumors (crown gall). Since this bacterium has the natural ability to transfer T-DNA region of its plasmid into
 plant genome, upon infection of cells at the wound site, it is also known as the natural genetic engineer of plants.
 
