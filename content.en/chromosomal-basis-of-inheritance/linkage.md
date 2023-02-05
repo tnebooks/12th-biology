@@ -37,7 +37,6 @@ If the chances of separation of two linked genes are not possible those genes al
 
 If two linked genes are sufficiently apart, the chances of their separation are possible. As a result, parental and non-parental combinations are observed. The linked genes exhibit some crossing over. This phenomenon is called**incomplete linkage**. This was observed in maize. It was reported by Hutchinson.
 
-![Figure 3.4: Alleles in coupling or cis configuration Link](2.34.png "")
 
 ### Linkage Groups
 
