@@ -1,7 +1,4 @@
----
-title: 'Ecosystem'
-weight: 1
----
+## Ecosystem
 
 Ecosystem comprises of two major components. They are: 
 
