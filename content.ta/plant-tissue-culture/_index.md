@@ -1,8 +1,7 @@
 ---
 title: 'தாவரத் திசு வளர்ப்பு'
-categories:
-    - biotechnology
 weight: 6
+
 ---
 
 ```hint { role="info" }
