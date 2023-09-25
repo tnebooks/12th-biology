@@ -63,14 +63,14 @@ Visit to a vegetable market and classify the vegetables into root, stem or leaf 
 
 ```
 
-```hint { role ="warn" }
+---
 **DO YOU KNOW**
 
 Scourge of water bodies /Water hyacinth (_Eichhornia crassipes)_ is an invasive weed on water bodies like ponds, lakes and reservoirs. It is popularly called “Terror of Bengal”. It spreads rapidly through offsets all over the water body and depletes the dissolved oxygen and causes death of other aquatic organisms.
 
 ![](1.33.png  "float-end w-25")
 
-```
+---
 
 #### Vegetative reproduction in stem
 
@@ -351,10 +351,11 @@ microspores.
 
 - Exine proteins responsible for ‘**rejection reaction**’ of the stigma are present in the cavities of the exine. These proteins are derived from tapetal cells.
 
-```
+```hint { role ="warn" }
 **DO YOU KNOW**
 
 Many botanists speak of a third type of tapetum called amoeboid, where the cell wall is not lost. The cells protrude into the anther cavity through an amoeboid movement. This type is often associated with male sterility and should not be confused with periplasmodial type.
+
 ```
 
 **2. Anther Cavity :** The anther cavity is filled with microspores in young stages or with pollen grains at maturity. The meiotic division of microspore mother cells gives rise to microspores which are haploid in nature. 
@@ -568,7 +569,7 @@ The maize is monoecious and unisexual. The male inflorescence (tassel) is borne 
 ![Figure 1.16 Pollination in Vallisneria](1.18.png "float-end w-25")
 
 
-```hint { role ="warn" }
+```hint { role ="info" }
 **Activity**
 
 Visit to a nearby park and observe the different flowers. Record the adaptations or modifications found in the flowers for different types of pollination.
@@ -639,8 +640,8 @@ A special mechanism to accomplish pollination called trap mechanism is found in 
 
 The inner wall of tubular middle part of the perianth is slippery and lined with stiff hairs which are pointed downwards. The young flowers are erect. During this stage small flies
 
-```
-Do You Know
+```hint {role = "info"}
+**Do You Know**
 
 Pollination provides information about evolution, ecology, animal learning and foraging behaviour. Flowers not only supply nectar but also provide microclimate, site and shelter for egg laying insects. The association of insects benefits the flower by getting pollinated and ensures the propagation of its own progeny. The floral parts are well modified in shape, size to attract the pollinators to accomplish pollination . 
 
@@ -721,8 +722,9 @@ Irrespective of the place of entry of pollen tube into ovule, it enters the embr
 
 The growth of pollen tube towards the ovary, ovule and embryo sac is due to the presence of chemotropic substances. The pollen tube after travelling the whole length of the style enters into the ovary locule where it is guided towards the micropyle of the ovule by a structure called **obturator** (See Do you know). After reaching the embryo sac, a pore is formed in pollen tube wall at its apex or just behind the apex. The content of the pollen tube (two male gametes, vegetative nucleus and cytoplasm) are discharged into the synergids into which pollen tube enters. The pollen tube does not grow beyond it, in the embryo sac. The tube nucleus disorganizes.
 
-```
-Do You Know??
+```hint { role = "info" }
+**Do You Know??**
+
 Obturator may originate from different regions of the ovule (Placenta – Euphorbiaceae, Funiculus- Anacardiaceae, Style–Thymelaeaceae and Ovary wall – Ottelia alismoides)
 ```
 
@@ -754,8 +756,9 @@ The primary endosperm nucleus (PEN) divides immediately after fertilization but 
 
 Primary Endosperm Nucleus undergoes several mitotic divisions without cell wall formation thus a free nuclear condition exists in the endosperm. *Examples: Coccinia, Capsella and Arachis*
 
-```hint { role ="warn" }
-**Do You Know **
+```hint { role ="info" }
+**Do You Know**
+
 Aleurone tissue consists of highly specialised cells of one or few layers which are found around the endosperm of cereals (barley and maize). Aleurone grain contains sphaerosomes. During seed germination cells secrete certain hydrolytic enzymes like amylases, proteases which digest reserved food material present in the endosperm cells.
 
 ```

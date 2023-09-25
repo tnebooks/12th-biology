@@ -440,8 +440,9 @@ The whole complement of gene that determine all characteristic of an organism is
 ### Evolutionary pattern assessed using DNA.
 In recent years the evolutionary relationship between different plant taxa is assessed using DNA content as well as the similarities and differences in the DNA sequence (sequence homology). Based on such analysis the taxa and their relationship are indicated in a cladogram which will show the genetic distance between two taxa. It also shows antiquity or modernity of any taxon with respect to one another (See also Unit-2, Chapter-5 of XI Std.) 
 
-```
-Do You Know??
+```hint { role ="info" }
+**Do You Know??**
+
 Barcode: You might have seen in all books barcoding and also in items you buy in supermarket. This will reveal the identity of the book or item as well the details like prize. Similarily, Barcode in genetic term refer to the identify of the taxon based on its genetic makeup. In practice, it is an optical, machine- readable representation of data which describes about the characters of any plants or any objects.
 
 ![](4.22.png  "img-class")

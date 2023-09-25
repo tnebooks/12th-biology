@@ -3,7 +3,7 @@ title: 'Classical Genetics'
 weight: 2
 ---
 
-```
+```hint {role = "info"}
 **Learning Objectives**
 
 The Learner will be able to
@@ -32,7 +32,7 @@ Genetics – The Science of heredity (Inheritance) - “Genetics” is the branc
 
 4. **Quantitative Genetics** – Deals with heredity of traits in groups of individuals where the traits are governed by many genes simultaneously.
 
-```
+```hint { role ="info" }
 
 What is the reason for similarities, differences of appearance and skipping of generations?
 
@@ -119,7 +119,7 @@ Mendel worked at the rules of inheritance and arrived at the correct mechanism b
 
 Mendel died in 1884. In 1900 the work of Mendel’s experiments were rediscovered by three biologists, **Hugo de Vries** of Holland, **Carl Correns** of Germany and **Erich von Tschermak** of Austria.
 
-```
+```hint { role ="info" }
 Can you identify Mendel’s gene for **regulating white colour in peas? Let us find** the **molecular answer** to understand the gene function. Now the **genetic mystery of Mendel’s white flowers is solved.** It is quite fascinating to trace the Mendel’s genes. In 2010, the gene responsible for regulating flower colour in peas were identified by an international team of researchers. It was called **Pea Gene A** which encodes a **protein** that functions as a transcription factor which is responsible for the production of **anthocyanin pigment. So the flowers are** purple. Pea plants with white flowers do not have anthocyanin, even though they have the gene that encodes the enzyme involved in anthocyanin synthesis. Researchers delivered normal copies of gene A into the cells of the petals of white flowers by the gene gun method. When Gene A entered in a small percentage of cells of white flowers it is expressed in those particular cells, accumulated anthocyanin pigments and became purple. In white flowers the gene A sequence showed a single-nucleotide change that makes the transcription factor inactive. So the mutant form of gene A do not accumulate anthocyanin and hence they are white.
 ![Purple flower of Pea with Pea Gene A and White flower of Pea](2.5.png "")
 
@@ -318,9 +318,11 @@ Interactions take place between the alleles of the same gene i.e., alleles at th
 
 ![Incomplete dominance in 4 O’ clock plant](2.13.png "")
 
-```
+```hint { role ="info" }
 
-**How are we going to interpret the lack of dominance and give explanation to the intermediate heterozygote phenotype? How will you explain incomplete dominance at the molecular level?** Gene expression is explained in a quantitative way. Wild-type allele which is a functional allele when present in two copies (R1 R1) produces an functional enzyme which synthesizes red pigments. The mutant allele which is a defective allele in two copies (R2 R2) produces an enzyme which cannot synthesize necessary red pigments. The white flower is due to the mutation causing complete loss of function. The F1 intermediate phenotype heterozygote (R1R2) has one copy of the allele R1. R1 produces 50% of the functional protein resulting in half of the pigment of red flowered plant and so it is pink. The intermediate phenotype pink heterogyzote with 50% of functional protein is not enough to create the red phenotype homozygous, which makes 100% of the functional protein.
+**How are we going to interpret the lack of dominance and give explanation to the intermediate heterozygote phenotype? How will you explain incomplete dominance at the molecular level?** 
+
+Gene expression is explained in a quantitative way. Wild-type allele which is a functional allele when present in two copies (R1 R1) produces an functional enzyme which synthesizes red pigments. The mutant allele which is a defective allele in two copies (R2 R2) produces an enzyme which cannot synthesize necessary red pigments. The white flower is due to the mutation causing complete loss of function. The F1 intermediate phenotype heterozygote (R1R2) has one copy of the allele R1. R1 produces 50% of the functional protein resulting in half of the pigment of red flowered plant and so it is pink. The intermediate phenotype pink heterogyzote with 50% of functional protein is not enough to create the red phenotype homozygous, which makes 100% of the functional protein.
 
 ```
 

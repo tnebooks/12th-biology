@@ -49,7 +49,7 @@ Plant tissue culture is used to describe the _in vitro_ and aseptic growth of an
 - The explant must be maintained in controlled physically (environmental) and chemically defined (nutrient medium) conditions.
 - Aseptic condition must be maintained, which requires high degree of cleanliness in the laboratory.
 
-```
+```hint { role ="danger" }
 **Explant:** The tissue taken from a selected** plant transferred to a culture medium often to establish a new plant.
 
 ```

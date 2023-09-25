@@ -20,7 +20,7 @@ weight: 7
 
 Have you seen lakes, ponds and pools in your surroundings? They are all called water bodies with many components in them. Can you list out the things which are found in water bodies? Mud, nutrients, clay, dissolved gases, planktons, microorganisms, plants like algae, _Hydrilla, Nelumbo, Nymphaea_ and animals like snake, small fish, large fish, frog, tortoise and crane are the components of the water bodies which constitutes **ecosystem**. Further, we all know that plants and animals are prominent living components in the environment. They interact with space components such as air, water, soil, sunlight, etc. For example, you have studied in class XI, one of the life processes, photosynthesis which utilizes sunlight , water, carbondioxide, nutrients from the soil and release oxygen to the atmosphere. From this, we understand that the exchange of materials takes place between living and space components. Likewise, you can study the structure, function and types of ecosystem in this chapter. The term ‘ecosystem’ was proposed by A.G. Tansley (1935), who defined it as ‘the system resulting from the **integration of all the living and nonliving factors of the environment’**. Whereas, Odum (1962) defined ecosystem ‘as the structural and **functional unit of ecology’.**
 
-```
+```hint { role ="info" }
 **Parallel terms for ecosystem coined by various ecologists** 
 - Biocoenosis – Karl Mobius 
 - Microcosm – S.A. Forbes 
@@ -64,12 +64,10 @@ PAR is generally expressed in millimoles / square meter / second by using silico
 
 nm wavelength of light. PAR values range from 0 to 3000 millimoles /square meter / second. At night PAR is zero and during midday in the summer, PAR often reaches 2000 – 3000 millimoles /square meter/second.
 
-```
+```hint { role ="info" }
 **Types of Carbon**
 
-**Green carbon** – carbon stored in the biosphere (by the process
-
-of photosynthesis).
+**Green carbon** – carbon stored in the biosphere (by the process of photosynthesis).
 
 **Grey carbon** – carbon stored in fossil fuel (coal, oil and biogas deposits in the lithosphere).
 
@@ -351,8 +349,9 @@ It is a classical example for natural, aquatic, freshwater, lentic type of ecosy
 
 ![Diagram shows structure of pond ecosystem with abiotic and biotic components.](7.13.png "")
 
-```
+```hint { role ="info" }
 **Activity**
+
 Collect few living and nonliving components from any water body found near by.
 
 ```
@@ -488,7 +487,8 @@ when not in use.
 with biodegradable products 
 -  Always use ecofriendly technology
 and products. **“USE ECOSYSTEM BUT DON’T LOSE ECOSYSTEM; MAKE IT SUSTAINABLE”**
-```
+
+```hint { role ="info" }
 
 ### Ecosystem Management
 
@@ -888,10 +888,9 @@ This type of vegetation is found in the Himalayas at an altitude ranging from 36
 **2. Grass land vegetation**
 Grassland refer to the vegetation community predominated by graminoids (i.e. grass and grass like plants). These are found in the altitude ranging from 150 to 2000 m and above mean sea level. The major plant families of the plants are Poaceae, Cyperaceae, Fabaceae , Gentianaceae and Asteraceae are common in this type of vegetation. The grass land not only comprises plants but also serves as habitats to a variety of micro and macro fauna. Based on the range of altitude, grasslands are categorized into: low altitude grasslands and high altitude grasslands.
 
-```
+```hint { role ="warn" }
 Grasslands created and maintained by human are called anthropogenic grasslands.
 ```
-
 
 **a. Low altitude grasslands**
 
@@ -904,7 +903,7 @@ This type of grasslands are found in altitude above 1000 m.The common plants spe
 
 ![Figure 7.22: Map showing forest types of India.Champion and Seth (1968)](7.24.png "")
 
-```
+```hint { role ="info" }
 Existence of two climax communities under the influence of same climatic conditions are found in higher mountain hill tops, above 7000 feet MSL (Mean sea level) of Nilgiris. Example: Sholas and grasslands.
 ```
 
@@ -917,7 +916,7 @@ Krishna, Ganga, Brahmaputria, Narmadha
 Yamuna and riverbeds of Cauvery and
 Thamirabharani in Tamil Nadu.
 
-```
+```hint { role ="info" }
 Visit nearby forest and water bodies,
 observe the species found, describe
 and then identify the various types of
