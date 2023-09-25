@@ -2,7 +2,7 @@
 title: 'Environmental Issues'
 weight: 8
 ---
-  
+
 ```hint { role ="info" }
 
 **Learning Objectives** 
