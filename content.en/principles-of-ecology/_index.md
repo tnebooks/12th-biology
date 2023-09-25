@@ -746,7 +746,7 @@ strength to cortex are present in the stem.
 
 - Seeds germinate in the fruits while on the mother plant (Vivipary).
 
-```
+```hint { role ="info" }
 Out of three districts of Tamil Nadu (Nagapattinam, Thanjavur and Thiruvarur), Muthupet (Thiruvarur district) was less damaged by Gaja cyclone ( November 2018) due to the presence of mangrove forest.
 ```
 

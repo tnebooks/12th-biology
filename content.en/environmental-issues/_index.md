@@ -3,9 +3,10 @@ title: 'Environmental Issues'
 weight: 8
 ---
   
-```
+```hint { role ="info" }
 
 **Learning Objectives** 
+
 The learner will be able to,
 
 - Understand the importance of growing more plants to mitigate the environmental problems.
@@ -34,9 +35,9 @@ Environmental issues are the problems and harmful effects created by human’s u
 Countries of the world agree that something needs to be done about these important environmental issues. Many global summits, conferences and conventions are regularly conducted by the United Nations and many steps are taken to minimise human-induced issues by signing agreements with around 150 countries.
 
 
-```
+```hint { role ="info" }
 
-##Activity 1
+**Activity 1**
 
 Students may form ‘ECOGROUPS’ and discuss eco-issues of their premises and find solutions to the existing problems like, litter disposal, water stagnation, health and hygiene, greening the campus and its maintenance.
 
@@ -64,7 +65,7 @@ in major ecosystems and climate patterns. For example, coral ecosystem is affect
 
 - The emissions from automobiles. The increase in mean global temperature (highest in 4000 years) due to increased concentration of green house gases is called **global warming.** One of the reasons for this is over population which creates growing need for food, fibre and fuel and considered to be the major cause of global warming.
 
-```
+```hint { role ="info" }
 
 Clouds and Dust particles can also produce Green House effect. That is why clouds, dusts and humid nights are warmer than clear dust free dry nights.
 
@@ -99,7 +100,7 @@ Methane is 20 times as effective as CO_2 at trapping heat in the atomosphere. It
 
 It is naturally produced in Oceans from biological sources of soil and water due to microbial actions and rainforests. Man-made sources include nylon and nitric acid production, use of fertilizers in agriculture, manures cars with catalytic converter and burning of organic matter.
 
-```
+```hint { role ="info" }
 
 **Global Warming Effects on Plants** 
 
@@ -144,10 +145,8 @@ Ozone is a colourless gas, reacts readily with air pollutants and cause rubber t
 
 The ozone shield is being damaged by chemicals released on the Earth’s surface notably the chlorofluorocarbons widely used in refrigeration, aerosols, chemicals used as cleaners in many industries. The decline in the thickness of the ozone layer over restricted area is called **Ozone hole.**
 
-```
-
+```hint { role ="danger" }
 September 16 is WORLD OZONE DAY
-
 ```
 
 Ozone depletion in the stratosphere results in more UV radiations especially UV B radiations (shortwaves). UV B radiation destroys biomolecules (skin ageing) and damages living tissues. UV – C is the most damaging type of UV radiation, but it is completely filtered by the atmosphere (ozone layer). UV – a contribute 95% of UV radiation which causes tanning burning of skin and enhancing skin cancer. Hence the uniform ozone layer is critical for the wellbeing of life on earth.
@@ -266,12 +265,11 @@ Deforestation is one of the major contributors to enhance green house effect and
 
 Afforestation is planting of trees where there was no previous tree coverage and the conversion of non-forested lands into forests by planting suitable trees to retrieve the vegetation. Example: Slopes of dams afforested to reduce water run- off, erosion and siltation. It can also provide a range of environmental services including carbon sequestration, water retention.
 
-```
+```hint { role ="info" }
 
 **The Man who Single Handedly Created a Dense Forest Jadav "Molai" Payeng** (born 1963) is an environmental activist has single-handedly planted a forest in the middle of a barren wasteland. This Forest Man of India has transformed the world’s largest river island, Majuli, located on one of India’s major rivers, the Brahmaputra, into a dense forest, home to rhinos, deers, elephants, tigers and birds. And today his forest is larger than Central Park.
 
 Former vice-chancellor of Jawahar Lal Nehru University, Sudhir Kumar Sopory named Jadav Payeng as **Forest Man of India**, in the month of October 2013. He was honoured at the Indian Institute of Forest Management during their annual event ‘Coalescence’. In 2015, he was honoured with Padma Shri, the fourth highest civilian award in India. He received honorary doctorate degree from Assam Agricultural University and Kaziranga University for his contributions.
-
 ```
 
 **Afforestation Objectives** 
@@ -293,8 +291,8 @@ table or ground water and also to reduce nitrogen leaching in soil and nitrogen 
 - Conserved bio-diversity, wildlife and genetic resources.
 - Involvement of community especially women in forest management.
 
-```
-Case study
+```hint { role ="info" }
+**Case study**
 
 **Tamil Nadu Afforestation Project (TAP)** With an aim of ecological restoration and biological up-gradation of degraded forests and other lands, the government of Tamil Nadu launched the project in 2 phases Tap I (1997-2005). It aimed to uplift the quality and life of villagers abutting forest areas and to resolve the degraded forests in Tamil Nadu. This is a massive Joint Forest Management Programme. TAP II (2005- 2013) had 2 main objectives. - To restore the ecological equilibrium of the forests, watersheds and adjacent villages of Tamil Nadu. - To improve the quality of the life of inhabitants through reforestation, water conservation and sustained community action.
 ```

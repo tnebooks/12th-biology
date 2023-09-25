@@ -71,6 +71,7 @@ Botanical name : _Zea mays_
 Maize is the only cereal that has originated and domesticated from the New World. Madhya Pradesh, Himachal Pradesh and Punjab are the major maize producing states of India.Whereas Perambalur, Ariyalur, Cuddalore, Dindigul and Tirupur are the major maize growing belts in Tamil Nadu.
 
 ```hint { role="warn"}
+
 **Why do popcorn pops?** 
 
 ![popcorn](popcorn.png "")
@@ -110,7 +111,7 @@ Botanical name : _Sorghum vulgare_ Sorghum is native to Africa. It is one of the
 
 ### Minor Millets 
 
-![M](10.3.png "")
+![cultivated by ancient](10.3.png "")
 
 **Little Millet** 
 Botanical name- _Panicum sumatrense_ 
@@ -485,21 +486,14 @@ Botanical name : _Piper nigrum_
 Family : Piperaceae 
 
 **Origin and Area of cultivation:** 
+
 It is indigenous to Western Ghats of India. Pepper is one of the most important Indian spices referred to as the “King of Spices” and also termed as “Black Gold of India”. Kerala, Karnataka and Tamil Nadu are the top producers in India.
 
 The characteristic pungency of the pepper is due to the presence of alkaloid Piperine. There are two types of pepper available in the market namely black and white pepper. 
 
-**Uses** It is used for flavouring in the preparation of sauces, soups, curry powder and pickles. It is used in medicine as an aromatic stimulant for enhancing salivary and gastric secretions and also as a stomachic. Pepper also enhances the bio-absorption of medicines.
+**Uses** 
 
-
-| S. No |C ommon Name |Tamil Name |Botanical Name |Family |
-|------|------|------|------|------|
-| 1 |Coriander |க�ொÚ« மà |Coriandrum sativum. L |Apiaceae |
-| 2 |Cumin |ர �Ý |Cuminum cyminum. L |Apiaceae |
-| 3 |Fenugreek |கெநE ்Ý |Trigonella foenum graecum. L |Fabaceae |
-| 4 |Cloves |இல ெங�Ý |Eugenia aromaticum |Myrtaceae |
-| 5 |Asafoetidia |கப ±ங �ொ் Ý |Ferula asafoetida.L |Umbelliferae (Apiaceae) |
-| 6 |Onion |கெங �ொ் Ý |Allium cepa |Amarillidaceae |
+It is used for flavouring in the preparation of sauces, soups, curry powder and pickles. It is used in medicine as an aromatic stimulant for enhancing salivary and gastric secretions and also as a stomachic. Pepper also enhances the bio-absorption of medicines.
 
 **Turmeric** 
 Botanical name : _Curcuma longa_ 
@@ -527,6 +521,16 @@ The fruits of C.annuum are less pungent than thefruits of _C.frutescens_. _C.ann
 ```hint {role="warn"}
 Capsaicin is responsible for the pungency or spicy taste of chillies. Pungency of Chillies is measured in Scoville Heat Units (SHU). World’s hottest chilli, Carolina reaper pepper measures 2,200,000 SHU. Naga viper chilli is the hottest in India that measures 1,349,000 SHU. Commonly used cayenne pepper measures 30,000 to 50,000 SHU.
 ```
+� Ý
+
+| S. No |Common Name |Tamil Name |Botanical Name |Family |
+|------|------|------|------|------|
+| 1 |Coriander | கொத்துமல்லி |Coriandrum sativum. L |Apiaceae |
+| 2 |Cumin |சீரகம் |Cuminum cyminum. L |Apiaceae |
+| 3 |Fenugreek |வெந்தயம் |Trigonella foenum graecum. L |Fabaceae |
+| 4 |Cloves |இலவங்கம் |Eugenia aromaticum |Myrtaceae |
+| 5 |Asafoetidia |பெருங்காயம் |Ferula asafoetida.L |Umbelliferae (Apiaceae) |
+| 6 |Onion |வெங்காயம் |Allium cepa |Amarillidaceae |
 
 **Condiment** 
 **Tamarind** 
@@ -806,11 +810,11 @@ Adhatoda possess **broncho dilating** property. The decoction is used in treatin
 
 | S. No |Common Name |Tamil Name |Botanical Name |Family |Plantpart used |Medicinal Uses |
 |------|------|------|------|------|------|------|
-| 1 |Holy basil |«ைz |Ocimumsanctum |Lamiaceae |Leaves and Roots |e le aves a re s timulant,  a ntiseptic, a nti-hypertensive and anti-bacterial and expectorant used in b ronchitis. D ecoction o f r oots i s g iven as a diaphoretic in malarial fevel. |
-| 2 |Indian gooseberr y |கெà |Phyllanthusemblica |Phyllanthaceae |Fruit |It i s a p otent r ejuvenator a nd imm une modulator. I t h as a a nti-ageing p roperties. It h elps t o p romote lo ngevity, en hance digestion, treat constipation and reduce fever and cough. |
-| 3 |Indian Acalypha |¤ப ளபபம  |Acalyphaindica |Euphorbiaceae |Leaves |Used t o c ure s kin di seases c aused b y ringworms. Powdered leaves are used to cure bedsores and infected wounds. |
-| 4 |Vilvam |àெ Ý |Aegle marmelos |Rutaceae |Fruit |e unr ipe f ruit i s u sed t o t reat p roblems o fstomach indigestion.  It kills intestinal parasites. |
-| 5 |Veldt grape |ரண ளC |Cissusquadrangularis |Vitaceae |Stem and root |Paste o btained f rom t he  powdered s tem a nd r oot of this plant is used in bone fractures. Whole plant is useful to treat asthma and stomach troubles. |
+| 1 |Holy basil |துளசி |Ocimumsanctum |Lamiaceae |Leaves and Roots |The leaves a restimulant,  a ntiseptic, anti-hypertensive and anti-bacterial and expectorant used in bronchitis. Decoction of roots is given as a diaphoretic in malarial fevel. |
+| 2 |Indian gooseberry |நெல்லி |Phyllanthusemblica |Phyllanthaceae |Fruit |It is a potent rejuvenator and imm une modulator. It has a anti-ageing properties. It helps to promote longevity, enhance digestion, treat constipation and reduce fever and cough. |
+| 3 |Indian Acalypha |குப்பைமேனி |Acalyphaindica |Euphorbiaceae |Leaves |Used to cure skin diseases caused by ringworms. Powdered leaves are used to cure bedsores and infected wounds. |
+| 4 |Vilvam |வில்வம் |Aegle marmelos |Rutaceae |Fruit |The unripe fruit is used to treat problems of stomach indigestion.  It kills intestinal parasites. |
+| 5 |Veldt grape |பிரண்டை |Cissusquadrangularis |Vitaceae |Stem and root |Paste obtained from t he  powdered s tem a nd r oot of this plant is used in bone fractures. Whole plant is useful to treat asthma and stomach troubles. |
 
 **Nilavembu** 
 Botanical name : _Andrographis paniculata_ Family : Acanthaceae _Andrographis paniculata,_ known as the **King of Bitters** is traditionally used in Indian systems of medicines. 
