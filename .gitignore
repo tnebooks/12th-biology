@@ -5,3 +5,4 @@ themes/
 
 *.backup
 
+slides/.hugo_build.lock

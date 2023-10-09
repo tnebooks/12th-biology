@@ -1,0 +1,20 @@
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/gurukulams-slide/
+
+baseURL = 'https://techatpark.github.io/gurukulams-slide'
+title = 'Sample Slide'
+theme = 'gurukulams-slide'
+
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+[languages.ta]
+  languageName = 'தமிழ்'
+  contentDir = 'content.ta'
+  weight = 2
