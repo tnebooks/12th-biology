@@ -1,6 +1,8 @@
 ---
 title: 'Classical Genetics'
 weight: 2
+categories:
+        - genetics
 ---
 
 ```hint {role = "info"}
