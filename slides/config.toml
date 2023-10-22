@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://example.com/'
@@ -17,6 +18,14 @@ enableGitInfo = true
   startLevel = 2
   endLevel = 6
 
+=======
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/gurukulams-slide/
+
+baseURL = 'https://techatpark.github.io/gurukulams-slide'
+title = 'Sample Slide'
+theme = 'gurukulams-slide'
+
+>>>>>>> f328139f052e71f51e89f5132b02a0eb300695cf
 # Multi-lingual mode config
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
@@ -30,6 +39,7 @@ enableGitInfo = true
 [languages.ta]
   languageName = 'தமிழ்'
   contentDir = 'content.ta'
+<<<<<<< HEAD
   weight = 3
 
 
@@ -96,3 +106,6 @@ enableGitInfo = true
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
+=======
+  weight = 2
+>>>>>>> f328139f052e71f51e89f5132b02a0eb300695cf
