@@ -38,7 +38,6 @@ From the Unit 3 of class XI (Vegetative morphology) you are familiar with the st
 
 In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
-![Figure 1.1: Natural methods of vegetative reproduction in plants](fig-1-1.png "float-end w-25")
 
 **Advantages of natural vegetative reproduction**
  
@@ -149,7 +148,7 @@ From the Unit 3 of class XI (Vegetative morphology) you are familiar with the st
 
 In some plants adventitious buds are developed on their leaves. When they are detached from the parent plant they grow into new individual plants. Examples: _Bryophyllum, Scilla,_ and _Begonia_. In _Bryophyllum_, the leaf is succulent and notched on its margin. Adventious buds develop at these notches and are called epiphyllous buds. They develop into new plants forming a root system and become independent plants when the leaf gets decayed. _Scilla_ is a bulbous plant and grows in sandy soils. The foliage leaves are long and narrow and epiphyllous buds develop at their tips. These buds develop into new plants when they touch the soil.
 
-![Figure 1.1: Natural methods of vegetative reproduction in plants](fig-1-1.png "float-end w-25")
+
 
 **Advantages of natural vegetative reproduction**
  

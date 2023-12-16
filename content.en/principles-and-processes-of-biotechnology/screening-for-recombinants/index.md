@@ -19,13 +19,11 @@ It is a powerful method used for screening of recombinant plasmid. In this metho
 
 An antibiotic resistance marker is a gene that produces a protein that provides cells with resistance to an antibiotic. Bacteria with transformed DNA can be identified by growing on a medium containing an antibiotic. Recombinants will grow on these media as they contain genes encoding resistance to antibiotics such as ampicillin, chloro amphenicol, tetracycline or kanamycin, etc., while others may not be able to grow in these media, hence it is considered useful selectable marker.
 
-![Figure 4.18: a. Plasmid vector designed for blue-white screeningr](4.17.png  "img-class")
+
 
 #### Replica plating technique
 
 A technique in which the pattern of colonies growing on a culture plate is copied. A sterile filter plate is pressed against the culture plate and then lifted. Then the filter is pressed against a second sterile culture plate. This results in the new plate being infected with cell in the same relative positions as the colonies in the original plate. Usually, the medium used in the second plate will differ from that used in the first. It may include an antibiotic or exclude a growth factor. In this way, transformed cells can be selected. 
-
-![Figure 4.19: Replica plating technique](4.18.png  "img-class")
 
 ### Molecular Techniques - Isolation of Genetic Material and Gel Electrophoresis
 
@@ -66,7 +64,7 @@ detected as visible fluorescence illuminated in
 UV light will give orange fluorescence, which
 can be photographed
 
-![Figure 4.20: a. Bands of DNA in Agarose gel b. Gel Electrophoresis Instrument](4.19.png  "img-class")
+
 
 
 ### Nucleic Acid Hybridization - Blotting Techniques
@@ -113,7 +111,7 @@ This DNA is hybridized with a nucleic acid and can be detected by autoradiograph
 
 Autoradiography - A technique that captures the image formed in a photographic emulsion due to emission of light or radioactivity from a labelled component placed together with unexposed film.
 
-![Figure 4.21: Diagrammatic representation of a typical blotting apparatus](4.20.png  "img-class")
+
 
 **Northern Blot** It was found that RNA is not binding to cellulose nitrate. Therefore, Alwin et al. (1979) devised a procedure in which RNA bands are transferred from the agarose gel into nitrocellulose filter paper. This transfer of RNA from gel to special filter paper is called Northern Blot hybridization. The filter paper used for Northern blot is Amino Benzyloxymethyl Paper which can be prepared from Whatman 540 paper.
 
@@ -125,8 +123,6 @@ Autoradiography - A technique that captures the image formed in a photographic e
 Target gene is target DNA, foreign DNA, passenger DNA, exogenous DNA, gene of interest or insert DNA that is to be either cloned or specifically mutated. Gene targeting experiments have been targeting the nuclei and this leads to ‘gene knock-out’. For this purpose, two types of targeting vectors are used. They are insertion vectors and replacement or transplacement vectors. 
  
 1. Insertion vectors are entirely inserted into targeted locus as the vectors are linearized within the homology region. Initially, these vectors are circular but during insertion, become linear. It leads to duplication of sequences adjacent to selectable markers.
-
-![Figure 4.22: Steps involved in southern blotting technique](4.21.png  "img-class")
 
 2. The replacement vector has the homology region and it is co-linear with target. This vector is linearized prior to transfection outside the homology region and then consequently a crossing over occurs to replace the endogenous DNA with the incoming DNA.
 
@@ -160,4 +156,3 @@ All characters of organism are the result of expression of different genes which
 
 A simplified model for the RNAi pathway is based on two steps, each involving ribonuclease enzyme. In the first step, the trigger RNA (either dsRNA or miRNA primary transcript) is processed into a short interfering RNA (siRNA) by the RNase II enzymes called Dicer and Drosha. In the second step, siRNAs are loaded into the effector complex RNA-induced silencing complex (RISC). The siRNA is unwound during RISC assembly and the single-stranded RNA hybridizes with mRNA target. This RNAi is seen in plant feeding nematodes.
 
-![Figure 4.23: RNA Interference](4.23.png  "img-class")

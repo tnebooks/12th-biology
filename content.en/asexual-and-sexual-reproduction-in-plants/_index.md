@@ -41,7 +41,6 @@ Basically reproduction occurring in organisms fall under two major categories
 
 ```hint { role ="warn" }
 
-![](panchan-macheshwari.png "float-end w-25")
 
 **Panchanan Maheswari (1904-1966)** Professor P. Maheswari was an eminent Botanist who specialised in plant embryology, morphology and anatomy. In 1934, he became the Fellow of Indian Academy of Science. He published the book titled “An introduction to the Embryology of Angiosperms”in 1950. He established the International Society for Plant Morphologists, in 1951.
 

@@ -11,7 +11,7 @@ Pre-fertilization: structures and events
 The hormonal and structural changes in plant lead to the differentiation and development of floral primordium. The structures and events involved in pre- fertilization are given below
 
 
-![Figure 1.4 stages in the development of anther](1.3.png "float-end w-25") 
+
 
 
 ### Male Reproductive part - Androecium
@@ -193,7 +193,7 @@ According to a majority of Botanists, the transfer of pollen on the stigma of th
 
 **3. Incomplete dichogamy:** In dichogamous flowers the stamen and stigma of a flower mature at different time. Sometimes , the time of maturation of these essential organs overlap so that it becomes favourable for self-pollination.
 
-![Figure 1.11 _Commelina_ with Cleistogamous and Chasmogamous flowers](1.13.png "float-end w-25")
+
 
 #### Cross - pollination
 It refers to the transfer of pollens on the stigma of another flower. The cross-pollination is of two types:
@@ -373,7 +373,7 @@ The inner wall of tubular middle part of the perianth is slippery and lined with
 Pollination provides information about evolution, ecology, animal learning and foraging behaviour. Flowers not only supply nectar but also provide microclimate, site and shelter for egg laying insects. The association of insects benefits the flower by getting pollinated and ensures the propagation of its own progeny. The floral parts are well modified in shape, size to attract the pollinators to accomplish pollination . 
 
 The relationship between Yucca and moth (Tegeticula yuccasella) is an example for obligate mutualism. The moth bores a hole in the ovary of the flower and lays eggs in it. Then it collects pollen and pushes it in the form of balls down the hollow end of the stigma. Fertilization takes place and seeds develop. Larvae feed on developing seeds. Some seeds remain unconsumed for the propagation of the plant species. It is interesting that the moth cannot survive without Yucca flowers and the plant fails to reproduce sexually Bee Orchid without the moth. 
-![](1.39.png "float-end w-25")
+
 
 Similarly in Amorphophallus, flowers apart from providing floral rewards, also forms safe site for laying eggs. Many visitors consume pollen and nectar and do not help in pollination. They are called pollen / nectar robbers. 
 

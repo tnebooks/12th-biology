@@ -16,7 +16,7 @@ Post Fertilization: structures and events
 ### Endosperm 
 
 The primary endosperm nucleus (PEN) divides immediately after fertilization but before the zygote starts to divide, to form the endosperm. The primary endosperm nucleus is the result of triple fusion (two polar nuclei and one sperm nucleus) and thus has 3n number of chromosomes. It is a nutritive tissue and regulatory structure that nourishes the developing embryo. Depending upon the mode of development three types of endosperm are recognized in angiosperms. They are nuclear endosperm, cellular endosperm and helobial endosperm (Figure 1.21).
-![Figure 1.21 Types of Endosperm](1.40.png "float-end w-25")
+
 
 ### Nuclear endosperm: 
 

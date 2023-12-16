@@ -38,20 +38,20 @@ Bt cotton has some limitations:
 
 - Affects pollinating insects and thus yield.
 
-![Figure 4.25: Bt Cotton](4.24.png  "img-class")
+
 
 **Disadvantages**
 
 **ii. Bt Brinjal** 
 The Bt brinjal is another transgenic plant created by inserting a crystal protein gene (Cry1Ac) from the soil bacterium _Bacillus thuringiensis_ into the genome of various brinjal cultivars. The insertion of the gene, along with other genetic elements such as promoters, terminators and an antibiotic resistance marker gene into the brinjal plant is accomplished using _Agrobacterium_\- mediated genetic transformation. The Bt brinjal has been developed to give resistance against _Lepidopteran_ insects, in particular the Brinjal Fruit and Shoot Borer (_Leucinodes orbonalis_).
 
-![Figure 4.26: Bt Brinjal](4.25.png  "img-class")
+
 
 **iii. Dhara Mustard Hybrid (DMH)** 
 
 DMH -11 is transgenic mustard developed by a team of scientists at the Centre for Genetic Manipulation of Crop Plants Delhi University under Government sponsored project. It is genetically modified variety of Herbicide Tolerant (HT) mustard. It was created by using “barnase/barstar” technology for genetic modification by adding genes from soil bacterium that makes mustard, a self-pollinating plant. DMH -11 contains three genes viz. Bar gene, Barnase and Barstar sourced from soil bacterium. The bar gene had made plant resistant to herbicide named Basta.
 
-![Figure 4.27: Dhara Mustard](4.26.png  "img-class")
+
 
 ### Virus Resistance
 
@@ -62,7 +62,7 @@ _Agrobacterium_ mediated genetic engineering technique was followed to produce F
 
 Through genetic engineering, the ripening process of the tomato is slowed down and thus prevent it from softening and to increase the shelf life. The tomato was made more resistant to rotting by _Agrobacterium_ mediated gene transfer mechanism of introducing an antisense gene which interferes with the production of the enzyme polygalacturonase, which help in delaying the ripening process of tomato during long storage and transportation.
 
-![Figure 4.27: Dhara Mustard](4.27.png  "img-class")
+
 
 
 ### Golden rice - Biofortification

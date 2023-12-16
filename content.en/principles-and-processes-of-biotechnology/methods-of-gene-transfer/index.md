@@ -27,7 +27,7 @@ The DNA is directly injected into the nucleus using fine tipped glass needle or 
 #### c.Electroporation Methods of Gene Transfer: 
 A pulse of high voltage is applied to protoplasts, cells or tissues which makes transient pores in the plasma membrane through which uptake of foreign DNA occurs.
 
-![](4.14.png  "img-class")
+
 
 #### d.Liposome mediated method of Gene Transfer:
 
@@ -37,7 +37,6 @@ e. **Biolistics:** The foreign DNA is coated onto the surface of minute gold or 
 
 ![Figure 4.13: Liposome mediated method of Gene Transfer](4.34.png  "img-class")
 
-![Figure 4.16: Gene gun method of Gene Transfer](4.15.png  "img-class")
 
 ### Indirect or Vector-Mediated Gene Transfer
 
@@ -46,4 +45,4 @@ plant genome, upon infection of cells at the wound site, it is also known as the
 
 The foreign gene (e.g. Bt gene for insect resistance) and plant selection marker gene, usually an antibiotic gene like npt II which confers resistance to antibiotic kanamycin are cloned in the T DNA region of Ti-plasmid in place of unwanted DNA sequences.(Figure 4.17)
 
-![Figure 4.17: Agrobacterium mediated gene transfer in plants](4.16.png  "img-class")
+

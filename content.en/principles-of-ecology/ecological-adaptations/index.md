@@ -223,7 +223,6 @@ Halophytes are usually found near the sea- shores and Estuaries. The soils are p
 - Presence of thick cuticle on the aerial parts of the plant body
 - Leaves are thick, entire, succulent and glossy. Some species Figure 6.26b: are aphyllous (without Succulent leaves). halophyte - Salicornia
 
-![T.S. of an aerial root of Orchid ](6.38.png "img-class")
 
 - Viviparous mode of seed germination is found in halophytes Calyx Leaf Fruit Radicle Hypocotyl Water Mud
 
